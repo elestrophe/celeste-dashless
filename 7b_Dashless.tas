@@ -1,0 +1,92 @@
+# 7b Dashless
+
+console hard 7 a-00
+
+# 0M
+read, 7b_0M_32x, 3
+
+ 430
+# 500M
+read, 7b_500M_17x, 7
+
+ 338
+
+# 1000M
+read, 7b_1000M_29x, 2
+
+ 407
+# 1500M
+   1,S
+   1,D,J
+   1
+   1,J
+   1
+   1,J
+  67
+
+
+
+read, 7b 1500M, 8
+# 2000M
+   1,R,J
+  15,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+
+read, 7b_2000M_20, 13
+
+ 381
+
+# 2500M
+read, 7b_2500M_18x, 5
+ 406
+
+# 3000M
+# downdraft
+read, 7b g-00, 7
+# updraft
+# otherwise it desyncs on CP12 of all places
+# even when off by 0.1 on x
+   1,S
+   1,D,J
+   1
+   1,J
+   1
+   1,J
+  67
+
+read, 7b g-01_29x, 8
+# CP8-CP1
+read 7b g-02, 8
+# cassette room
+read 7b g-03, 8

@@ -4,29 +4,30 @@ console hard 7 d-03
   37
 
 #d-03
-  11,R
+   9,R
 #runningstart
-  30,R,J
-   3,R
-   2
-  14,U,X
-  12
-   8,L
-  26,R
+   1,R,D,J
+  10,R,J
+   1,L,G
+   1,K,G
+   3,R,K,G
+   1,R
+  15,R,K
+  26,R,J
   14,R,U,X
-  14,R
+  14,R,J
   14,R,U,X
-  20,D
-  24,L
+  24,L,J
   14,L,U,X
-  14,L
+  14,L,J
   14,L,U,X
-   8,L
-  12,D
+   4,L,D
+  14,D
   13,R
   14,L,U,X
   15,L
-  10,U,G
+  30,G
+   4,U,G
    1
   11,J
   12,L,J
@@ -37,15 +38,13 @@ console hard 7 d-03
   12,L,J
   27,R
   14,R,U,X
-  15,R
-  14,R,U,X
-  18,D
+  16,R
+  13,R,U,X
   25,L
   14,L,U,X
   11,L
   14,L,U,X
-   7,L
-  14,D
-  23,R
+  26,D,G
+  22,R,J
   14,U,X
-   9,R
+   7,R,J

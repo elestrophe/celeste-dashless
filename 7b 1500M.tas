@@ -58,7 +58,6 @@ console hard 7 6168 -6624
   45,R,J
    4,D,X
   10,R,U,X
-
   30,R,J
   11,R,D
    1,R,J
@@ -78,11 +77,9 @@ console hard 7 6168 -6624
   40
 
 #d-02
-***
   38
    6,R
 read,7b-d02,runningstart
-***
    7,R
    1,R,J
   15,R
@@ -93,8 +90,11 @@ read,7b-d02,runningstart
    1,R,J
   15,R
    1,R,J
-  15,R
-   1,R,J
-  15,R
+   3,R
+  40
 
-10000
+#d-03
+  12,R
+   4,R
+read,7b d-03,runningstart
+ 372

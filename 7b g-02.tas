@@ -107,4 +107,14 @@ read,7b CP06,runningstart
 
 #CP03
 #by nebs
+***
+   1,L,J
+  20,L
+read,7B_flag-03_dashless,runningstart
+   3,L
+
+#CP02
+***
+  17,L
+read,7b CP02,runningstart
 1000

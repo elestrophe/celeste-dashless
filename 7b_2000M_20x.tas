@@ -1,0 +1,139 @@
+# 7b 2500M 20 dashes
+
+console hard 7 e-00
+   1
+
+  37
+# e-00
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   2,R
+   1
+   1,R,J,G
+   1,R,K,G
+   6,R
+   1
+   1,R,J,G
+   1,R,K,G
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  14,R
+  14,R,J
+   1,K
+  23,R,J,G
+  13,R,K,G
+  10,L,J
+   4,J
+   5,R,K
+  59,R,X
+   6
+   4,C
+   1
+   8,L
+   1,R,J
+   9,L,J
+   2,L
+   4,D,X
+  20,R
+  10,R,D,X
+  20,R,J
+  11,R
+   5,D
+
+   2,L,J
+   8,L
+   5,R,J
+  18,L,J
+  14,U,X
+   1,R,J,G
+   8,R,J
+   3,R,K
+  
+  39
+# e-01
+  31,R
+   3
+  14,R,J
+read, 7b-e01, 11
+  39
+
+   2,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   7,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,K
+  25,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
+   9,R
+   1,R,D
+   1,R
+   4,D,X
+   1,R,J,X
+   9,R,X
+  28,R,J
+
+read, 7b e-02,10
+
+  39
+   1,R
+   1,R,D
+   1,R
+   4,D,X
+  10,R
+  21,R,J
+
+# 10480
+read, 7b e-03,8

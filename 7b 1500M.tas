@@ -78,8 +78,23 @@ console hard 7 6168 -6624
   40
 
 #d-02
-
-1000
-
+***
+  38
+   6,R
+read,7b-d02,runningstart
+***
+   7,R
+   1,R,J
+  15,R
+   1,R,J
+  35,R,D
+   1,R,J
+  15,R
+   1,R,J
+  15,R
+   1,R,J
+  15,R
+   1,R,J
+  15,R
 
 10000

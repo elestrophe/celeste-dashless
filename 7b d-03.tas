@@ -26,6 +26,8 @@ console hard 7 d-03
   13,R
   14,L,U,X
   15,L
+# this is needed for entry cycle,
+# replace this 30,G with 3,G for load cycle
   30,G
    4,U,G
    1

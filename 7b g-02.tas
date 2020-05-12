@@ -19,7 +19,6 @@ console hard 7 12880 -14832
    6,R,J
   15,R
    8,R,J
-***
   20,R
 
 #CP07
@@ -42,7 +41,6 @@ console hard 7 12880 -14832
 read,7b CP06,runningstart
 
 #CP05
-***
    1,R
    1,R,J
   15,R
@@ -63,7 +61,6 @@ read,7b CP06,runningstart
   11,J
   14,U,X
    3,L,J
-***
    3
    8,L,J
   14,U,X
@@ -85,7 +82,6 @@ read,7b CP06,runningstart
    9,L,J
    7,L,K,G
    7,L
-***
    2,L,J,G
   14,L
 
@@ -107,14 +103,20 @@ read,7b CP06,runningstart
 
 #CP03
 #by nebs
-***
    1,L,J
   20,L
 read,7B_flag-03_dashless,runningstart
    3,L
 
 #CP02
-***
   17,L
 read,7b CP02,runningstart
-1000
+   3,R
+
+#CP01
+read,7b CP01,CP01
+
+ 190
+   1,S
+   1,D,O
+ 213

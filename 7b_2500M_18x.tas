@@ -2,8 +2,10 @@
 
 console hard 7 f-00
    1
+  37
 
-read 7b_f-00
+#f-00
+read, 7b_f-00,f-00
    1,R
    1,R,J
   14,R

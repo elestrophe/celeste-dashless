@@ -67,18 +67,12 @@ read, 7b_2500M_18x, 5
 # 3000M
 # downdraft
 read, 7b g-00, 7
-# updraft
-# otherwise it desyncs on CP12 of all places
-# even when off by 0.1 on x
-   1,S
-   1,D,J
-   1
-   1,J
-   1
-   1,J
-  67
 
+# updraft
+   1,L
+  14,R
 read, 7b g-01_29x, 8
+
 # CP8-CP1
 read 7b g-02, 8
 # cassette room

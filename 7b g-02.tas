@@ -106,10 +106,15 @@ read,7b CP06,runningstart
    1,L,J
   20,L
 read,7B_flag-03_dashless,runningstart
-   3,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   4,L
 
 #CP02
-  17,L
+  19,L
 read,7b CP02,runningstart
    3,R
 

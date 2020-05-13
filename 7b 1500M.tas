@@ -1,9 +1,66 @@
 # 7b-1500M
-console hard 7 6168 -6624
+console hard 7 c-03
 
    1
 
   37
+
+# you can't load in to the entry
+# cycle directly, so here is
+# the worst ever tas of c-03
+  14,R,X
+   1
+  14,R,X
+  12
+  17,R,J
+  14,R,U,X
+  10,R,J
+  14,U,X
+  47
+  14,L,X
+  14
+  29,L,J
+  14,U,X
+  35,L,J
+  14,R,X
+   3
+  54,R,J
+  14,R,X
+  60,J
+  14,U,X
+  10,J
+  14,L,X
+  12
+  32,L,J
+  14,U,X
+  10,J
+  14,R,X
+   4
+  30,R,J
+  14,R,U,X
+  10,R,J
+  20,L,J
+  14,L,X
+  22
+  20,L,J
+  14,R,U,X
+   1
+  14,R,X
+  14
+  20,R,J
+  14,L,U,X
+   1
+  14,L,X
+  14
+  21,L,J
+  14,U,X
+  30,R,J
+  14,R,U,X
+  17,R
+  14,U,X
+   1
+   9,U,X
+ 407
 
 #d-00
   18,L,J
@@ -15,7 +72,7 @@ console hard 7 6168 -6624
   70,R,D
   14,R,X
   21,R,J
-  15,G
+   3,G
   11,K,G
   40,R
    6
@@ -28,6 +85,7 @@ console hard 7 6168 -6624
   20,R,K
   20,R,D
   10,D
+  51,D
    6
   30,R
    6,D

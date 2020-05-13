@@ -195,25 +195,42 @@ console hard 7 b-00
   20,L,D
    9,D,G
    2,L,J,G
-  80,L
-  29,L,G
-   1,L,K,G
+  20,L
+  25
+  33,L,J
+  17,L,U,G
+   8,K,G
+   1
+   1,K
+   1,K
+   1,K
+   1,R,K
+   1,R
+   1,R
+   1,R
+   1,R
+   1,R
+   1,R
+   1,R
+
+   1,R,D,J
+  19,R,J
+   9,L,J,G
+   1,G
    1,R,J
-  19,R,K
-  13,U,X,C
-  10,R,J,C
+  15,J
+   2,R,J
+  16,L,K
+  16,R,J
+  16,L,K
+  16,R,J
+  16,L,K
+  18,L,J,G
+  16,R,K
+  16,R,J,G
   14,L,K
-  14,R,J
+  16,R,J
   14,L,K
-  14,R,J
-  14,L,K
-   3,L,J,G
-  14,L,K,G
-  14,R,J
-  14,R,K,G
-  14,L,J
-  14,R,K
-  14,L,J
-  14,R,K
-  14,L,J
-  20,U,X
+  16,R,J
+  16,L,K
+  12,U,X

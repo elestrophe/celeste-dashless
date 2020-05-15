@@ -1,11 +1,10 @@
-# 7b 1000M
-
 console hard 7 f-00
    1
   37
 
-#f-00
-read, 7b_f-00,f-00
+# 2500M
+# f-00
+read, 7b f-00, f-00
    1,R
    1,R,J
   14,R
@@ -16,7 +15,7 @@ read, 7b_f-00,f-00
 
 # f-01
    8
-read, 7b_f-01, f-01
+read, 7b f-01, f-01
    1,R,J
    9,R
    1,R,J
@@ -78,4 +77,4 @@ read, 7b_f-01, f-01
    1,R,J
   17,R
 
-read, 7b_f-03, f-03
+read, 7b f-03, f-03

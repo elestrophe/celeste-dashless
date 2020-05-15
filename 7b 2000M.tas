@@ -1,9 +1,9 @@
-# 7b 2000M 20 dashes
-
 console hard 7 e-00
    1
 
   37
+
+# 2000M
 # e-00
    1,R,J
   14,R
@@ -70,11 +70,12 @@ console hard 7 e-00
    3,R,K
   
   39
+
 # e-01
   31,R
    3
   14,R,J
-read, 7b-e01, jumpstart
+read, 7b e-01, jumpstart
   39
 
 # e-02

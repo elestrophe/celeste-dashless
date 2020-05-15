@@ -3,11 +3,11 @@ console hard 7 g-00 2
 
   37
 
-#CP18
+# CP18
    1,R,D,K
   16,R,K
 
-#jumpstart
+# jumpstart
 
    1,J,G
    6,L,J

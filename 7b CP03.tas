@@ -3,9 +3,9 @@ console hard 7 g-02 5
 
   37
 
-#CP03
+# CP03
   25,L
-#runningstart
+# runningstart
    4,L,J
   16,L
    4,L,J,G

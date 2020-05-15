@@ -1,4 +1,3 @@
-# 7b-1500M
 console hard 7 c-03
 
    1
@@ -62,7 +61,8 @@ console hard 7 c-03
    9,U,X
  407
 
-#d-00
+# 1500M
+# d-00
   18,L,J
    6,K,G
   13,R,J
@@ -111,7 +111,7 @@ console hard 7 c-03
    1,R,J
   40
 
-#d-01
+# d-01
   15,R
   45,R,J
    4,D,X
@@ -134,10 +134,10 @@ console hard 7 c-03
    9,R
   40
 
-#d-02
+# d-02
   38
    6,R
-read,7b-d02,runningstart
+read, 7b d-02, runningstart
    7,R
    1,R,J
   15,R
@@ -151,11 +151,11 @@ read,7b-d02,runningstart
    3,R
   40
 
-#d-03
+# d-03
    4
    1,R
    6
    8,R
-read,7b d-03,runningstart
+read, 7b d-03, runningstart
  372
 

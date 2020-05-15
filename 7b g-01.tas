@@ -1,13 +1,10 @@
-# 7b g-01
-
-
 console hard 7 g-01
    1
 
   39
 
 # g-01
-# CP 14
+# CP14
    4,D,X
   10,L
    4,L,J
@@ -21,7 +18,7 @@ console hard 7 g-01
   33,R,D
    1,R,J
   20,R
-# CP 13
+# CP13
   20,R
   40,R,J
   14,R,D,X
@@ -36,7 +33,7 @@ console hard 7 g-01
    8,R
   20,R,U,C
   30,R,D
-# CP 12
+# CP12
    1,R
    1,R,J
   20,R,D
@@ -64,7 +61,7 @@ console hard 7 g-01
   17,R
   10,R,U,X
   40,R,D
-# CP 11
+# CP11
    4,D,X
    5,R
   34,R,J
@@ -81,7 +78,7 @@ console hard 7 g-01
   20,R,J
   15,R,X
   16,R,D
-# CP 10
+# CP10
    9,R,J
    1,L,J
   20,L,K,G
@@ -140,7 +137,7 @@ console hard 7 g-01
   20,L
    1,L,J
   20,L
-# CP 9
+# CP9
    4,D,X
    6,L
   52,L,J

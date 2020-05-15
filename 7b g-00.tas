@@ -4,7 +4,7 @@ console hard 7 g-00
   37
 
 # g-00
-#CP20
+# CP20
   21,L
   19,L,J
   24,L,K,G
@@ -28,7 +28,7 @@ console hard 7 g-00
    3,L
    7
 
-#CP19
+# CP19
    8,R
   10,R,J
   17,R
@@ -49,7 +49,7 @@ console hard 7 g-00
    8,J,G
    8,R
 
-#CP18
+# CP18
   12,R
    1,R,D,J
    3,R,J
@@ -58,10 +58,10 @@ console hard 7 g-00
    6,R,K
    4
    1,R
-read,7b CP18,jumpstart
+read, 7b CP18, jumpstart
   10,R
 
-#CP17
+# CP17
   17,R,J
    1,K
   20,R,K
@@ -84,7 +84,7 @@ read,7b CP18,jumpstart
   10,K,G
   10,R
 
-#CP16
+# CP16
   13,R,J
    1,K
   20,R,K
@@ -106,7 +106,7 @@ read,7b CP18,jumpstart
   96,U,G
   11
 
-#CP15
+# CP15
    1,R,D,J
   17,R,J
   13,K,G

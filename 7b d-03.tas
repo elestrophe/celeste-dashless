@@ -3,9 +3,9 @@ console hard 7 d-03
 
   37
 
-#d-03
+# d-03
    9,R
-#runningstart
+# runningstart
    1,R,D,J
   10,R,J
    1,L,G

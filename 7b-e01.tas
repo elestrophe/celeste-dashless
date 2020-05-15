@@ -9,6 +9,8 @@ console hard 7 e-01
    1,R,J
   22,R
   14,R,J
+
+# jumpstart
   10,R,K,G
   30,R
   50

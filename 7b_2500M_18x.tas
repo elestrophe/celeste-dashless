@@ -16,7 +16,7 @@ read, 7b_f-00,f-00
 
 # f-01
    8
-read, 7b_f-01, 4
+read, 7b_f-01, f-01
    1,R,J
    9,R
    1,R,J
@@ -78,4 +78,4 @@ read, 7b_f-01, 4
    1,R,J
   17,R
 
-read, 7b_f-03, 4
+read, 7b_f-03, f-03

@@ -102,9 +102,12 @@ read, 7b CP18, jumpstart
   14,R,U,X
   18,R
   14,R,X
-   7,R
-  96,U,G
-  11
+   7,R,J
+  12,K,G
+  12,J,G
+  12,K,G
+   5,J,G
+   8,R
 
 # CP15
    1,R,D,J
@@ -126,7 +129,7 @@ read, 7b CP18, jumpstart
    4,J
   26,L,J
   26,R,J
-  10,L,J
+  12,L,J
   14,U,X
    1,J
   14,R,U,X
@@ -143,6 +146,6 @@ read, 7b CP18, jumpstart
   26,R,J
   26,L,J
   26,R,J
-   6,L,J
+   4,L,J
 
  262

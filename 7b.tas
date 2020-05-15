@@ -7,6 +7,7 @@ console hard 7 a-00
 
 # 7b
 # 0M
+# by RichConnerGMN
 read, 7b 0M, 0M
 
 # 500M
@@ -64,8 +65,6 @@ read, 7b 2500M, 2500M
 read, 7b g-00, g-00
 
 # updraft
-   1,L
-  14,R
 read, 7b g-01, g-01
 
 # CP8-CP1

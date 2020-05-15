@@ -1,25 +1,19 @@
-console hard 7 g-01
+console hard 7 12848 -13624
    1
 
-  39
+  37,J
 
 # g-01
 # CP14
-   4,D,X
-  10,L
-   4,L,J
-  18,L
-  27,U,X
-  20,U,C
-  20,R,U,X
-  20,U,C
-   6,R
-  20,R,U,X
-  33,R,D
+# by RichConnerGMN
+   8,L,J
+read, 7b CP14, runningstart
    1,R,J
   20,R
 # CP13
-  20,R
+  15,R
+   2
+   2,R
   40,R,J
   14,R,D,X
    3,R,J

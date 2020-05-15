@@ -8,33 +8,25 @@ console hard 7 c-03
    4,D,X
   10,R,X
    6
-   1,R,K
-  30,R,J
-  13,R
-  11,K,G
-   2,L,K
-   1,J
-  25,R,J
-  16,U,G
-  27,L,J
-   8,U,X
+   6,R,K
+  21,R,J
+
+  19,U,X
+   4,R,J
   25
   23,L
    4,D,X
   10,L,X
-  12
-   1,K
-  30,L,J
-  15,L
-   8,K,G
-   2,R,K
-   1,J
-  17,L,J
-  13,R,K
+
+  13
+   5,L,K
+  25,L,J
+   1,L
   13,L,J
-  10,K
+  13,R,K,G
+  13,R,J,G
    4,D,X
-  10,R,X
+   8,R,X
    4,R,K
   27,R,J
   11,R

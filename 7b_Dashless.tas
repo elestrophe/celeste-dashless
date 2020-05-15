@@ -1,20 +1,18 @@
 # 7b Dashless
 
 console hard 7 a-00
+   1
+
+  37
 
 # 0M
-read, 7b_0M_32x, 3
+read, 7b_0M_32x, 0M
 
- 430
 # 500M
-read, 7b_500M_17x, 7
-
- 338
+read, 7b_500M_17x, 500M
 
 # 1000M
-read, 7b_1000M_29x, 2
-
- 407
+read, 7b_1000M_29x, 1000M
 
 # 1500M
 read, 7b 1500M,d-00
@@ -55,24 +53,21 @@ read, 7b 1500M,d-00
    1,R,D
    1,R
 
-read, 7b_2000M_20, 13
-
- 381
+read, 7b_2000M_20, runningstart
 
 # 2500M
 read, 7b_2500M_18x,f-00
- 406
 
 # 3000M
 # downdraft
-read, 7b g-00, 7
+read, 7b g-00, g-00
 
 # updraft
    1,L
   14,R
-read, 7b g-01_29x, 8
+read, 7b g-01_29x, g-01
 
 # CP8-CP1
-read 7b g-02, 8
+read 7b g-02, g-02
 # cassette room
-read 7b g-03, 8
+read 7b g-03, g-03

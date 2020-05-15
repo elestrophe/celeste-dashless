@@ -1,7 +1,13 @@
 # 7b-1000M
 console hard 7 c-01
-read, 7b-c01_8x
-  40
+   1
+
+  37
+
+# 1000M
+# c-01
+read, 7b-c01_8x, c-01
+
 # c-00
    2,R,J,G
    2,R,K,G

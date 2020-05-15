@@ -5,6 +5,8 @@ console hard 7 b-00
 
   37
 
+# 500M
+# b-00
   10,R
   20,R,J
   20,R,K,G
@@ -252,3 +254,6 @@ console hard 7 b-00
   16,R,J
   16,L,K
   12,U,X
+
+ 373
+

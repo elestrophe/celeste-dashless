@@ -5,6 +5,7 @@ console hard 7 c-01
 
   37
 
+# c-01
   30,R,J
 
   20,R
@@ -38,3 +39,5 @@ console hard 7 c-01
   12,L,K,G
   13,R,J
    8,R,K,G
+
+  40

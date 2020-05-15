@@ -3,6 +3,9 @@ console hard 7 a-00
    1
 
   37
+
+# 0M
+# a-00
    6,R,J
   12,R
    1,R,J,G
@@ -122,6 +125,8 @@ console hard 7 a-00
   20,R,D
   20,D
   20,R,U,X
-  75,L
-  25,L,X
-  10,U,C
+  70,L,J
+  26,L,J,X
+  11,U,C
+ 427
+

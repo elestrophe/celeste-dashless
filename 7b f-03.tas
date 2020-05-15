@@ -16,7 +16,8 @@ console hard 7 f-03
   26,L
    2,R,J
   15,R
-  43,R
+   1,R,X
+  25,R
   14,R,D,X
    1,R
   11,R,U,X
@@ -39,9 +40,12 @@ console hard 7 f-03
    1,K,G
   15,K
    6,R,J
-  52,R
-  40,L,D
-  55,R
+   1,R,X
+  34,R
+   1,L,D,X
+  22,L,D
+   1,R,X
+  37,R
   25
   22
   11,R

@@ -6,6 +6,7 @@ console hard 7 f-01
 # f-01
   30,R
   21,R,J
+# orbstart
    1,R,X
   35,R
   14,U,X

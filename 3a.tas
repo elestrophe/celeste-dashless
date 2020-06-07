@@ -2067,6 +2067,7 @@ console load 3
   40
 
 #roof02
+
    9,R
    1,R,J
   14,R
@@ -2081,109 +2082,102 @@ console load 3
    8,R,J
    1,R,K,G
   13,R
-   1,R,J
-  21,R
-  13,R,J
-   6,D
-  15,R,D
-   1,R,J
-  29,R,D
-   1,R,J
-  14,R
-  21,R,J
-  16,R,G
-   1,R,J,G
-  12,R
+  48,R,J
+   1,R
+   3,R,J
+   1,R
+   5,R,J
+  11,R
    1,R,J
   21,R
    1,R,J
   14,R
+   6,R,J
+   6,R
+   3,R,J
+  20,R,K,G
+  21,R,D
    1,R,J
-   5,R
+  14,R
+   1,R,J
+   3,R
   40
 
 #roof03
-   9,R
+  11,R
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
   14,R
-  12,R,J
-  13,R
-  80
-  50,R,J
-  42,R,D
+  10,R,J
+  12,R
+  79,J
+  47,R,J
+  43,R,D
    1,R,J
   14,R
    5,R,J
   17,R
    7,R,D,J
-   5,R
-   2,L,G
-   9,L,J,G
-  24,R,K
-   5,R
-   6,R,J,G
-  13,R
-   2,R,J,G
-  13,R
+   5,R,J
+  25,R,K
+  15,R,J,G
+  14,R
+   5,R,J
+  14,R
    1,R,J
-   5,R
-   1,R,J,G
-  16,R
+  14,R
   20,R,J
-  43,R,D
+  37,R,D
    1,R,J
   14,R
    1,R,D,J
   14,R
    1,R,J
   14,R
-   9,R,J
-  17,R
-   1,R,J,G
+  10,R,J
+  18,R
+   1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
   18,R
-   1,R,J
-   5,R
-   1,R,J,G
-  35,R
-  11,L
-  23,R
+   3,R,J
+   7,R
+  30,R
+   5,D
+  19,R,D
    1,R,J
   14,R
-  21,R,J
+  22,R,J
   11,R,K,G
    4,R,J,G
-  10,R
-   1,R,J
-  14,R
-   8,R,D,J
-   1,J
-   1,D,K,G
-  10,L,K
-  14,L
-   1,L,J
-  11,R,J
-  30,D
-  24,R,D
-   1,R,D,J
-   2,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
   11,R
+   1,R,D,J
+   6,R,J
+   8,R
+   1,K,G
+  22,L,K
+   1,L,J
+  10,R,J
+  20,D
+  23,D
+   6,R,D
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  10,R
   40
 
 #roof04
-   3,R
+   4,R
    1,R,J
   14,R
   24,R,J

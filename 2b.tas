@@ -1,8 +1,7 @@
 console hard 2
    1
-
-  37
- 154
+  36
+ 155
 
 #lvl_start
    1,R,J
@@ -478,6 +477,109 @@ console hard 2
   40
 
 #lvl_10
+# copied from the 2b tas
   13,R
    1,R,J
- 100,R
+  14,R
+   1,R,J
+   1,R
+  53,U,X
+   4,L
+   1,J,G
+   9,R,J
+   8,R,D
+   2,R,J
+  10,R,D
+   9,L,D
+   4,D,X
+  14,L,X
+   8,L,J
+   1,R,K
+  11,L,K
+   6,L,J,G
+   1,K,G
+   5,L
+   1
+   1,R
+   6,R,J
+   9,R
+   4,R,D
+   1,R
+   1,R,G
+  35,R,D,X
+   6,L,D
+   4,D,X
+  16,L,X
+   4,L,J
+   1,L,K
+   1,L
+   1,L,K
+   1,L
+   1,R
+   6,R
+  34,R,X
+   4,L,G
+   8,L,J,G
+   2,R,J
+   9,R,K
+  18,R,D
+  12,L,D
+  12,R,J
+   7,R,J
+  18,R,K
+  11,L,J
+  11,K,G
+   1,R,K
+   4,R,J
+  11,R,K
+   6,R,J,G
+  11,L,K
+  11,R,J
+  11,L,K
+   7,J,G
+   9,R,K
+  40
+
+#lvl_11
+# copied from the 2b tas
+   8,R
+   1,R,J,G
+   2,J
+   6,R,J
+   5,R,K,G
+   1,K
+  58,R,U,X
+   4,L,G
+   4,D,X
+  47,L,U,X
+  48,R,U,C
+   4,R,J
+  23,R,K
+  12,L,J
+  11,R,K
+   7,J,G
+   2,L,K
+  40
+
+#lvl_end
+   4,R
+  27,R,J,G
+  16,R,K,G
+   8,R,J,G
+  13,R,K,G
+  15,U,X
+   2,R,J
+  12,R,K
+  11,L,J
+  11,R,K
+  11,L,J
+  11,R,K
+   3,J,G
+  16,U,X
+  22,R,J
+  15,U,X
+   2,R
+  70,L,D
+  42,D
+  81,L,J
+   1,O

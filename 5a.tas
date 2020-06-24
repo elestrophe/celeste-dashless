@@ -1,4 +1,4 @@
-#5A 19X 5:59.584
+#5A 18X 5:57.782
 
 #reset
 console load 5
@@ -140,7 +140,6 @@ console load 5
    1,R
   40
 
-***
 #a-01
   13,R
   20,R,J
@@ -800,7 +799,6 @@ console load 5
    1,R,J,G
   13,R
   40
-
 #c-08b (1X)
    1,R
    1,R,J
@@ -1670,40 +1668,44 @@ console load 5
    1,R,J,G
   16,R,G
   42,R,J,G
-   1,R,K
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   4,R
+   1,R,K,G
+  14,R,G
+   1,R,J,G
+  26,R,G
   40
 
-#e-05 (1X)
-  12,R
-   8,R,J
-  31,R,J,G
-   1,R,K,G
-   7,R,G
-   7,R
-   3,R,J
-  15,R,U,X
-  14,R
+#lvl_e-05
+  13,R,J,G
+  13,L,J,G
+   1,K,G
+   7,L,K,G
+  13,L,G
+   6,R,J,G
+   4,R,G
    1,R,J,G
-  18,D
-  10,J
-  10,R,J
-  38,R,J,G
-   9,R,J
-   6,R,K
-  18,R
+  13,R,K,G
+  14,R,J,G
+   2,R,K,G
+  12,R,G
+   1,D
+   3
+   1,R,G
+  25,R,J,G
+   9,R
+  11,L,D
+   5,R
+  19,R,J
+  13,G
+  29,R,D,G
+  20,R,J,G
+   5,R,G
+   2,R,J,G
+  17,R,D,G
+   7,R
    1,R,J
-  14,R,D
-  13,R,G
   14,R
    1,R,J
   14,R
-   1,R,J
-   8,R
   40
 
 #e-07
@@ -1836,91 +1838,109 @@ console load 5
    1,R,J
   14,R
    1,R,J
-  20,R
-  14,R,D
-  10,D
-  26
-  14,R,G
-   1,R,J,G
-  14,R,G
-   1,R,J,G
-  18,R,G
-   1,R,J,G
-  21,R,G
+  10,R
+  18,L,D
+   1,R,D
+   3,D
+   7,R,D
    1,R,J
-  18,R
+  13,R,G
+   4,R,J,G
+   7,R,G
+   1,R,K,G
+  21,R,D,G
+   1,R,J,G
+  12,R,D,G
+   1,R
+   8,R,D
    1,R,J
   14,R
    1,R,J
-   7,R
+   4,R
   40
 
 #e-10
-   7,R
-   3,R,J
-  11,R
-   3
+  23,R
+   1,R,J
+   1,R,K,G
+   6,R,J,G
+  13,R,J,G
+   2,R,J,G
+   9,R,G
+   1,R,J
+  14,R
+   1,R,J
+  10,R
+   2
+   2,R
+   5,R,J
+   1,R,K,G
    1,R,J,G
-  11,R
-   6,R,J
-   1,R
-  21,R,G
+   9,R
+   2,R,J
+  13,G
+   8,R,J
+  22,R,G
+  36,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   6,R,J
+  20,R,D
+  13,G
+   9,R,G
+   2,R
+   2,R,J
+   5,R
+   1,R,J
+   5,R
+   2
    2,R
    1,R,J,G
-  13,R
-  14,R,G
-   8,R,J,G
-  60,R,G
-   3,R
-   5,R,J
-   9,R
-   1,R,J,G
-  12,R
+   1,R,K,G
+  11,R
    1,R,J
-  26,R,D
-  10,R,J
-  32,R,G
-  12,R,J
-  19,R
-   1,R,J,G
-  14,R
-   8,R,J
-  13,R,G
-  17,R
-  16,R,J
-  31,R,G
-   1,R,J,G
-  13,R,G
-   2,G
-   3,R,J,G
-  18,R,G
-   1,R,J,G
-  14,R,G
-  18,R,J,G
-   1,J,G
-   1,K,G
-  24,R,K,G
-   1,K,G
-   1,J,G
-  10,R,J,G
-  27,R,J
-  12,R,K,G
-   2,R,J,G
-   1,R,K,G
-  13,R
-   6,R,J
-   1,R,K,G
+   1
    9,R
-   6,R,J
+   1,R,K,G
+   5,R,J,G
   13,R,G
+   1,R,J,G
+   8,R,G
+   3
+   7,R
+   2,R,J
+   1,R,K,G
+  11,R
+   4,R,J
+   4,R
+  13,G
+   8,R,G
+   5,R
+   1,R,J
+  24,R
+   6,R,J
+   1,R,K,G
   10,R
+   5,R,J
+  13,J,G
+   8,R,J,G
+   1,D
+  27,R,J,G
+   1,D
+  27,R,K,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   2
+   2,R
+   7,R,J,G
+   1,R,K,G
+   8,R,J,G
+  25,R,G
    1,R,J
-  14,R
+   1
+  13,R
   40
 
 #e-11

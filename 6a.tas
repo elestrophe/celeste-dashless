@@ -1,16 +1,14 @@
-#6A 41X 8:16.706
+#6A 40X 8:15.860
 
 console load 6
    1
- 140
-
-#cutscene skip
-   1,S
-   1,D
-   1,J
 
 #start (2X)
-  35
+#Start
+ 140
+   1,S
+   1,D,J
+  34
    1,R,J
   14,R
    1,R,J
@@ -53,8 +51,7 @@ console load 6
 
 #cutscene skip
    1,S
-   1,D
-   1,J
+   1,D,J
   36
 
 #00 (1X)
@@ -80,7 +77,6 @@ console load 6
   11,L,K,G
    4,L,J,G
   40
-
 #01 (1X)
    3
    5,R,K,G
@@ -96,13 +92,14 @@ console load 6
    1,R,J
   14,R
   19,R,J
+
   27,R,U
   18,F,6
   44,F,357
-  26,F,
-   7,F,298
-  40,F,261
-  20,L,J
+  27,F,
+  10,F,300
+  39,F,262
+  19,L,J
   14,U,X
    4,R,J
   40
@@ -202,7 +199,6 @@ console load 6
   11,L,K,G
   10,L,J,G
   40
-
 #04
    1,L,U,G
   11,L,J,G
@@ -244,182 +240,176 @@ console load 6
   11,L,K,G
   11,L,J,G
    2,L,K,G
-   8,L
-  21,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-  11,K,G
-   1,R,K,G
-   1,J
-  24,L,J
-   1,J
-   1,K
-  19,L,K
+  12,L,G
   11,J,G
+   1,R,J
+  14,L,K,G
+  11,J,G
+   1,R,J
+  14,L,K,G
+  11,J,G
+   1,R,J
+  14,L,K,G
+  11,J,G
+   1,R,J
+  13,L,K,G
+   1,L
+  11,K,G
+   1,R,K,G
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K,G
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K,G
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K,G
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K,G
+   1,J
+  24,L,J
+   2,K,G
+   1,R,K,G
+   1,J
+  20,L,J
+  11,K,G
+   1,R,K,G
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K,G
+   1,J
+  24,L,J
+  11,K,G
+   1,R,K
+   1,R,J
+
+ 325,R,K
+   1,R
+  12,K,G
+   1,L,K,G
+   1,J
+  24,R,J
+  11,K,G
+   1,L,K,G
+   1,J
+  24,R,J
+  11,K,G
+   1,L,K,G
+   1,J
+  24,R,J
+   1,K,G
+   1,L,K
+  12,R,J,G
+  14,R
+   1
+   1,R
+   1
+   1,R,J
+   1,R,K,G
    1,R,J,G
-   1,K
-  24,L,K
-  12,L,J,G
-  12,L,K,G
-  13,L,J,G
-  12,L,K,G
-   4
-   2,L
-   8,R
- 325,R,J
-  11,K,G
-   1,L,K,G
-   1,J
-  24,R,J
-  11,K,G
-   1,L,K,G
-   1,J
-  24,R,J
-  11,K,G
-   1,L,K,G
-   1,J
-  24,R,J
-  12,R,K,G
-   3,R,J,G
-   5,R,K,G
-  13,R
-   1,R,J,G
-  14,R
+  11,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   2,R
+   4,R
   43
 
 #05 (1X)
   12,R
-   1,R,J
-  24,R
-   2,R,J
+   6,R,J
+  25,R
+   6,L,D,X
+   2,L,J,G
+  12,L
   10,R
-  10,L,D,X
-  20,R,D
-  25,L,G
-  20,D
-   7,D,G
-  34,L,G
-   3,L,U,G
-  19,L,G
-   1,J,G
-   7,K,G
+   7,L
+   1
+   1,L
+   1
+   1,L
+   1
+   1,L
+  16,L,G
+   1,L,K,G
    1,L,J,G
-  20,R,J,G
-  20,R,J
-   1,J
-   9,K
-  16,R,K
-   1,R,J,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  21,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  11,R,K
-   7,R
+   1,L,K,G
+   5,R,K
+  32,R,G
+  35,L,J
+  12,K
+   3,J
+   5,L
+   6,R
+   4,L
+   5
+   2,L
+   1,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
    3,R,J
-  12,R
-   4,R,J,G
-   4,R
+  25,R
+   1
+   6,R,J
+  15,R
+   2,R,J
+   4,R,K,G
+   8,R
+   1,R,J
+   3,R
   40
 
 #06 (1X)
-  12,R
-  66,R,J
+   3
+  24,R,D
+   5,R
   27,R,U
-  30,F,70
-   5,F,
-  34,F,270
-  15,L,X
- 150,L,G
-  45,L,G
-  14,L,U,G
-  65,R,J
-   4,K
-   9,R,J,G
-  12,R,K,G
-  11,R,J,G
-   1,R,K,G
-  14,R
-   1,R,J
-  18,R
-   1,R,J
-   1,R
+  24,F,40
+  10,F,340
+  10,F,280
+  10,F,270
+  14,L,X
+  22,L,G
+   2,L
+ 126,L,G
+  44,L,G
+   2,L,U,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  37,R,J
+   7,R,K
   40
 
 #07
-  13,R
-   1,R,J
-  18,R
-   1,R,J
-  39,R
-   1,R,J
-  21,R
-  22,R,J
-   1
-   1,J
-  19,R,J
-   1
-   1,J
-  19,R,J
-   9,R,K,G
-  17,R,J,G
-   6,R
-   1,R,J
-   3,R
-  14,R,J,G
-   1,R,K,G
-  18,R,J,G
-   1,R,K,G
-   9,R
-  11,R,J
-  10,R,K,G
-   1,R,J,G
-   2,R,K,G
-   9,R
-   1,R,J,G
+  15,R,J
+  12,R
+   3
+  10,L,J
    7,R,K,G
+   8,J,G
+   3,R,J
+   1,K,G
    7,R
+  14,R,J
+  12,R,K,G
+   1,R,J,G
+   4,L,J
+   8,R,J
+   1,R,K,G
+  20,R,J,G
+   3,R
    1,R,J
    7,R
   40
+
 
 #08b (1X)
    7,R
@@ -790,8 +780,7 @@ console load 6
 
 #cutscene skip
    1,S
-   1,D
-   1,J
+   1,D,J
   34
 
 #b-00
@@ -859,20 +848,22 @@ console load 6
   32,R
   28,R,D
   40
-
 #b-02 (2X)
   25,R,D
    5,R,J
   10,R
   15,R,U,X
-  20,L,R,D
+  10,R,D
+  10,L,D
+   9,L,J
+   5,L
    1,L,J
-  14,L
-   1,L,J
-  14,L,D
- 100,D
-  75,D
-  31,L,D
+   1,L
+  21,R,D
+
+
+ 156,D
+  35,L,D
    9,L,D,X
    1,L,J
    5,L,D
@@ -891,24 +882,25 @@ console load 6
   20,D
    2,R,D
   26,D
-  29,L,D
-   4,R,D
-  25,L,D
-  15,R,D
-  20,D
+
+  20,R,D
+  31,L,D
+  49,D
   10,R,D
-   8,D
-  28,R,D
+   6,D
+  26,R,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   3,R,J
-  35,R,D
-   8,R
-  14,U
+   1,R,J
+   1,R,K
+   2
+  32,R,D
+   5,R
+  17,U
    1,R,J
    1,R,K
    1,R,J
@@ -928,25 +920,22 @@ console load 6
 
 #b-02b
    1,R,K
-   1,R,J
-  14,R,D
-   1,R,J
-   1,R,K
+   4,R,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   2,R,K
-  15,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-  14,R,D
- 180,L,D
-  50,D
+   6,R
+   1,L,D,J
+   3,L,K
+   8,L,D
+   2,L,J
+   3,L,D
+   2,D
+ 100,L,D
+  80,D
   34,R,D
-  71,D
+  94,D
   72,L
   29,D
   11,R,D
@@ -1017,8 +1006,7 @@ console load 6
 
 #cutscene skip
    1,S
-   1,D
-   1,J
+   1,D,J
   34
 
 #boss-00
@@ -1370,22 +1358,21 @@ console load 6
    7,R,D,J
   55,R,D
   40
-
 #boss-08 (1X)
-  10,R,D
-  50,D
-  11,R
-   7,L
-   1,J,G
-   3,L
-  11
-   1,G
-   1,J,G
-   7
-   2,L
+   8,R,D
+   1,R,G
+   1,R,J
+  14,R,D
+   3,L,D
+   1,L
    1,L,D
+   3,L
+   1,J,G
+   5,L
+   5
+   2,R
    3,R
-  39,R,U,J
+  39,R,J
   16,L,D
   82,R,D
   15,R,X
@@ -1463,12 +1450,11 @@ console load 6
   14,R
    1,R,J
   40
-
 #boss-11 (2X)
-  27,R,D
-  13,R,D,X
-  19,R,J
-  22,R,K,G
+  28,R,D
+  14,R,D,X
+  17,R,J
+  10,R,K,G
   79,R,G
   11,R,J,G
    4,R,K,G
@@ -1597,49 +1583,41 @@ console load 6
    1,R,K
    1,R,J
    2,R
-  72,R,D
+
+  71,L,D
+   4,R,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-  14,R
-   5,R,J
-  14,R
+   1,R,K
    1,R,J
-   8,R
+  17,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   3,R,K
+  12,R
+   1,R,J
+   3,R
+   2
   40
 
 #cutscene skip
    1,S
-   1,D
-   1,J
+   1,D,J
   34
-
 #boss-14
-   6,R
-   1,R,J
-  18,R
+  13,R
    2,R,J
-   8,R
-   1,R,J
-  14,R
-   1,R,J
-  18,R
-   1,R,J
-   1,R
-   1,R,J
-   6,R
-   2,R,K,G
-   1,R,J,G
-  17,R
-   3,R,J
-  11,R
-   2,R,D,J
-   8,R,D
-   1,R,J
-  14,R
-   8,R,J
+   1,R,K,G
+  16,R,D
+   6,R,J
+   7,R
+  14,R,J
   79,R,D
    1,R,J
   18,R
@@ -1765,8 +1743,7 @@ console load 6
   36,L,D
   16,R,D
   40
-
-#boss-18 (3X)
+#boss-18 (2X)
    7,R,D
   12,D
   27,D
@@ -1781,24 +1758,30 @@ console load 6
   25,R,D
   61,D
   22,L
-  72,R,D
-  15,R,D,X
-   3,R,D
+  33
+
+  32,L,D
+   1,L
+   7,L,G
+   2,R
+  35,R,J
+
   70,L
   15,L,X
   25,L,D
-  53,D
-   4,R
+  46,D
+   9,R
    1,R,J
   11,R
-  11,R,J
-  10,R,U,X
+   6,J
+  14,R,U,X
   60,L,D
-  40,D
-  10,L
-  25,D
-   1,R,D
-  39,R
+  33,D
+  10,L,D
+   2,D
+   8,R,D
+  19,D
+  40,R
   13,L,J
   37,L
   14,R,J
@@ -1897,8 +1880,7 @@ console load 6
 
 #cutscene skip
    1,S
-   1,D
-   1,J
+   1,D,J
   34
 
 #boss-20
@@ -2073,5 +2055,5 @@ console load 6
 
 #after-02
    1,S
-   1,D
-   1,J
+   1,D,J
+  18

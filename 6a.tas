@@ -187,18 +187,26 @@ console load 6
   15,L,D,X
   24,D
    5,R
- 102,U
-   1,J,G
+ 100,U
+   2,J
+   3
+  24,K
+   3,L,K
+   4,K
    1,K,G
-   1,J,G
-  21,J
-  15,U,X
-   5
+   7,R,J
+   6,L,K
+   6,R,J
+   6,L,K
+   9,L,J,G
+  11,K,G
+   1,R,K
+   1,J
    1,L,J
-  17,J
-  11,L,K,G
-  10,L,J,G
+  12,L,K,G
+   9,J,G
   40
+
 #04
    1,L,U,G
   11,L,J,G

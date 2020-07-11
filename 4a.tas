@@ -1,4 +1,4 @@
-#4A 28X 4:54.491 (17711f)
+#4A 27X 4:52.689
 
 console load 4
    1
@@ -586,75 +586,21 @@ console load 4
   43
 
 #a-08 (1X)
-   8,R,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   1,D
-   6,R,J
-  15,R,X
+  12,R,D,X
+   1,R,J
    7,R
+   3,R,J
+  11,R
+  16,R
+   7,R,J
+  21,R
    2,D
    1,R
    2,D
    1,R
    2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   1,D
-  51,R,J
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   4,R
-  55,R,J
+   6,R
+  45,R,J
    2,D
    1,R
    2,D
@@ -671,8 +617,9 @@ console load 4
    1,R
    2,D
    4,R
-  11,R,J
-  27,R
+   9,R,J
+   1,R
+  29,R,J
   15,U,X
    6,L,K
   16,R,J
@@ -831,59 +778,23 @@ console load 4
    2,L
    1,R,J,G
    1,R,K,G
-  15,R,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   1,D
-   5,R
-   7,R,J
-   9,R,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
-   1,R
-   2,D
+   7,R,D
   14,R,D,X
-  24,R,J
+   9,R,J
+   1,R,K,G
+   6,R,J,G
+  16,R
+   5
+   1,R,J,G
+   1,R,K,G
+  14,R
+  12,R,J
   12,R,K,G
   12,R,J,G
-   4,R,K,G
-  10,R,D
+   3,R,K,G
    4,D,X
   10,R,X
-  36,R,J
+  37,R,J
   15,R,X
    4,R
   15,R,X
@@ -2312,7 +2223,7 @@ console load 4
    1,R
    2,D
    4,D,X
-   5,R
+   5,R,X
    6,R,J
   19,R,D
    1,R,D,J
@@ -2531,7 +2442,7 @@ console load 4
   10,R
   40
 
-#d-09 (3X)
+#d-09 (2X)
    4,R
    1,R,J
   14,R
@@ -2542,27 +2453,31 @@ console load 4
    7,R,J
   25,R
    1,R,J
-  14,R
-   2,R,J
-  15,R
-  38,R,J
-  15,R,X
+   4,R
+  14,R,D,X
+   1,R,J
    7,R
+   5,R
+   8,R,J
+  19,R
   15,R,U,X
-  15,R
+  43,R,J
+  15,U,X
+   5
+  18,J
+   1,K
+   9,R,K
+   6,R
+  59,R,D,J,G
   15,R,U,X
-  17,R
-   3,L
-   1,J
-   8,R
-   8,R,J,G
-   7,R,D
-   4,D,X
-   7,R,X
-  10,R,D,J
-  36,R,D
+  11,L
+   3,R
+   2
+   3,R,J,G
+  14,R,D
+  10,D
    3,R,J
-   9,R
+  10,R
   15,R,U,X
   25,R
   15,U,X
@@ -2596,4 +2511,4 @@ console load 4
 #cutscene skip
    1,S
    1,D,J
-   18
+  18

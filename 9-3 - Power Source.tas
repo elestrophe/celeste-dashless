@@ -1,9 +1,7 @@
-
 console load 10 9678 -1872
   37
    4,R
    1,R,J
-
    7,R
   40
 
@@ -71,9 +69,9 @@ console load 10 9678 -1872
   14,R
    1,R,J
   13,R
+  40
 
 #c-00b
-  40
   14,R
    1,R,J
    1,R
@@ -99,9 +97,9 @@ console load 10 9678 -1872
   14,R
    1,R,J
    2,R
+  40
   
 #c-01 (1x)
-  40
   12,R
    6,R,J
   18,R
@@ -120,9 +118,9 @@ console load 10 9678 -1872
   24,R
    1,R,J
    6,R
+  40
 
 #c-02 (1x)
-  40
  120
   20,R
   29,R
@@ -155,9 +153,9 @@ console load 10 9678 -1872
   16,L,K,G
   15,R,J,G
    8,L,K,G
+  40
 
 #c-03
-  40
   19,R,D,G
    5,J,G
    8,L,G
@@ -214,79 +212,77 @@ console load 10 9678 -1872
   40,L,U,K,G
   12,R,J,G
    2,L,K,G
+  40
 
 #POWER SOURCE
 #d-00 (3x)
-  40
    1,S
    1,D,O
   33
-  51,L,J,G
-  24,L,K,G
-  17,R,J,G
-  11,L,U,K,G
-  34,R,U,J,G
-  38,L,U,K,G
-   5,D
-   1,J
-  53,L,J,G
-  30,L,K,G
-   5,D
-   1,J
-  41,L,J,G
-  36,R,U,K,G
-   1,D
-   1,J
-   5,R,J
-   1,R
-  31,R,J,G
-   4,D
-   1,J
-  40,R,U,J,G
-  30,R,D,G
-   3,R,J,G
-  30,R,G
-  68,R,J,G
-  20,D,G
-  62,L,U,G
-   4,D
-   1,J
-  50,L,J,G
-   4,G
-  30,R,J,G
+  13,L,J,G
+  25,L,D,G
+  24,L,J,G
+  17,R,K,G
+  11,L,U,J,G
+  34,R,U,K,G
    1,D
    2,R
-   6
-  14,U,X,G
-  22,G
-  15,R,G
-  26,R
-  14,U,X
-  17,R,D
-  14,U,X
-  14
-  20,R,G
-  24,R,D,G
-  44,D,G
- 125,L,U,G
-  50,L,J,G
-   5,L,K,G
-  20,L,G
-   5,R,G
-  39,R,J,G
+   2,R,J,G
+  15,J
+  33,R,U,J,G
+  10,R,G
+  52,R,U,J,G
+   7,R,K,G
+  14,R,G
+  10,R,J,G
    1,D
-   1,J
-   8,R,J
+   1,J,G
+  11,J
+  21,U,J,G
+   6,D
+  10,J,G
+  22,R,U,J,G
+  21,R,D,G
+  38,R,U,G
+  33,L,U,G
+  11,L
+  10,U,X
+  23,L,U,G
+  16,U,G
+   5,R,J,G
+  30,R,D,G
+   2,R,G
    1,R
-  30,R,J,G
-  10,L,K,G
-  10,R,J,G
-  10,L,K,G
-  10,R,J,G
-  10,L,K,G
-
-  # d-05 2x
+   6,R,U,X
+  25,D
+   8,R,U,X
+  14,R,D
+  34,R,D,G
+  55,D,G
+  30,L,U,G
+  56,L,G
+   1,L,J,G
+  28,L,D,G
+  45,L,J,G
+   7,L,D,G
+   3,L,K,G
+  15,L,G
+   5,R,G
+  34,R,J,G
+   1,D
+   7,G
+   6,J
+   6,L,J
+  20,L,U,J,G
+  11,R,K,G
+  10,L,J,G
+  10,R,K,G
+  10,L,J,G
+  10,R,K,G
+   1,L,J,G
   40
+
+#d-05 (2x)
   10,R
    4,L
    3,R
@@ -296,7 +292,7 @@ console load 10 9678 -1872
    1,L,J,G
   10,R,J,G
   11,R,G
-  20,R,U,J,G
+  16,R,U,J,G
    1,R
   10,R
   19,U,X
@@ -306,10 +302,9 @@ console load 10 9678 -1872
   23,R,G
    1,J
   18,J,G
-
-
-  # e-00y 0x
   40
+
+#e-00y
   50,D,G
    4,R,D,G
  160,G
@@ -332,9 +327,9 @@ console load 10 9678 -1872
   10,L
   23,L,U,K,G
   17,R,J,G
-
-  # e-00yb 2x?
   40
+
+#e-00yb (2x)
   37,R,D,G
   38,R,J,G
    7,R,D,G
@@ -355,11 +350,16 @@ console load 10 9678 -1872
   13,U,X
   63,L,U,J,G
    9,R,D,G
-  42,L,J,G
-   1,L
-  63,R,U
-  63,U
- 173,L,U
+  20,L,J,G
+   1,R
+  13,L
+  37,R,U,X
+  45,U,C
+  60,L,U,X
+  40,X
+
+#e-00y
+  58,L,U,X
   12,R,J
   12,L,K
    4,R,J

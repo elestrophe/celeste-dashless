@@ -26,25 +26,24 @@ console load 10 12804 -4229
    1,R,K,G
   11,R
   10,R,J
-  29,J
-  38,K
-  38,J
-  10,K
-   9,R,K
-   2,G
-  12,R,J,G
-   4,K,G
+  30,J
+  15,R,K
+   6,K
+   1,G
+   1
    1,J
-  12,L,K
-  12,J,G
-   3,L,K,G
+   2,L
+   3,R
+  12,R,J,G
+   1,K
+  12,L,J
+  12,L,K,G
+   7,L,J,G
    7,L
-   6,L
-   2,L,D,J
-   1,L,K,G
-  15,L,J,G
-   4,J
-   2,K
+   3
+   1,L,J,G
+  13,L
+  15,L,K,G
    2,J
    2,K
    2,J
@@ -55,7 +54,9 @@ console load 10 12804 -4229
    2,K
    2,J
    2,K
-   4,J
+   2,J
+   2,K
+   2,J
    2,K
   40
 
@@ -359,47 +360,42 @@ console load 10 12804 -4229
   82,R,D
   40
 
-#e-05c (2x)
+#e-05c (1x)
   10,R,D
    1,R,J
   14,R
    1,R,J
   15,R
-  10,R,J
-  57,R
-   3,D
-   9
-  13,L
-  37,R,J
-  15,U,X
-  12,L,J,G
-  11,L,K,G
-   1,K
-   1,J
-  18,L,J
-   2,L,K,G
+  19,R,J
+  31,R
    1,R,J
-  50,R,K
-  15,R,X
-   1,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  12,R
+  13,R
+  15,D,X
+   2,R,D
+   1,J
+   1,L,K,G
+  12,R,K
+   1,L,J,G
+  18,R,J,G
+   6,R,K,G
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+   3,R
   40
 
 #e-06
-   2,R
+  11,R
    1,R,J
-   4,R
-  26,L,D,G
+  32,L,D,G
    1,L,J,G
-  16,L,D,G
-  10,R,D,G
+  12,L,D,G
+   9,R,D,G
   40
 
 #e-05
-   3,R,D,G
+   7,R,D,G
    1,R,J,G
    6,R,D,G
   40
@@ -409,7 +405,7 @@ console load 10 12804 -4229
    8,R
    1,R,J
   14,R
-   2,R,J
+   1,R,J
  160,R,U,J,G
    1,R
   21,L
@@ -424,29 +420,24 @@ console load 10 12804 -4229
   22,R,U,G
    1,R
   25
-  42,R,U,G
-  64,U,G
-  13,R,U,G
-   1,R
-  26,R,U,G
-   1,R
-  85,R,G
-  32,R,U,G
-   1,R
-  12,J
-  29,R,U,J,G
-   4,D,G
-   5,L,U,K,G
-  10,R,U,G
-  10,R,U,J,G
-   3,R,U,G
+  35,R,U,G
+  54,U,G
+  23,R,U,G
+   1,L
+  62,R,U,G
+   5,D
+   1,J,G
+  10,J
+   3,R,J
+  34,R,U,J,G
+   1,R,G
   40
 
 #e-07 (1x)
   13,R,G
-  22,R,D,G
+  21,R,D,G
    1,R
-  17,R,D
+  18,R,D
   29,R,G
    5,U,G
   40,R,J,G

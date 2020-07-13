@@ -1,4 +1,4 @@
-#9A-7 9x & 9A-8 47x
+#9A-7 9x & 9A-8 43x
 
 console load 10 43410 -8750
   37
@@ -420,7 +420,7 @@ console load 10 43410 -8750
   40
 
 #RECONCILIATION
-#j-00 (3x)
+#j-00 (2x)
    8,R,J
   11,L,K,G
    1,J
@@ -449,18 +449,23 @@ console load 10 43410 -8750
   12,R,J
    3,R,K,G
   18,R
-  61,D
-  17,R
+  82,D
+  20,R
+  23,R,J
+   1,L,K,G
+   3,K
+   1,R
+   1,J
+  15,L,J
   10,L
-   1,G
-   3,J,G
-   6
-   2,L
-   6,R
-  18,R,J
-  33,R,K
-  15,R,X
-  16,R
+  10,R,J
+  39,R
+   1,J
+  10,R,J
+  13,R
+   2
+   7,R,J,G
+  27,R
 
 #cs-skip
    1,S
@@ -469,9 +474,9 @@ console load 10 43410 -8750
 
 #j-00
    5,R,J
-  57,R
+  55,R
   13,R,X
-  45,D
+  43,D
    7,R,U,X
   51,L,D
    1,L,J
@@ -579,29 +584,55 @@ console load 10 43410 -8750
   14,R,D,G
   40
 
-#j-02 (6x)
+#j-02 (4x)
   14,R,D,G
-  19,R,G
-  10,R,J,G
-  36,R,U,G
-   1,L
-  60,R
-   5,R,U,X
-  86,R,U,G
-   1,R
-  31,R,D
+  12,R,G
+   7,R
+  19,R,J
+ 163,R,U,J,G
+   1,D,J
+   4,R,J
+   5,J
+   5,U,X
+  28,R,G
+   1,D,J
+  22,R,J,G
+   1,D,J
+  20,J,G
+   4,R,J,G
+   1,D,J
+  21,R,J,G
+   1,R,J
+  34,D,G
+ 101,R,U,G
+   1,R,J
+  49,R,U,J,G
+   1,R,J
+  17,D
   53,R
-  28,L,J
-   5,R,U,X
-  76,R,U,G
-   1,R
-  30,D
-   7,L,D
-  34,R,J
-  14,R,X
- 162,R,G
+  19,R
+  90,R,G
+  15,D
+  37,R,U,G
+   1,U,G
+  23,J,G
+   1,D,J
+  24,R,J,G
+   1,D,J
+  24,R,J,G
+   1,D,J
+  17,R,J,G
+   7,J,G
+   1,D,J
+  24,R,J,G
+   1,R,J
+  66,R,U,G
+   1,R,J
+  33,D,G
+  69,R,U,G
+ 167,R,G
    3,U,G
-  50,R,U,J,G
+  39,R,U,J,G
    1,D,J
    5,R,J
    3,J
@@ -612,20 +643,22 @@ console load 10 43410 -8750
   31,R,U,J,G
    1,R
   25,R,D
-  60,R,D,G
+  58,R,D,G
    2,R,J
   15,R,D,X
-  13,D
+***
+  14,D
   13,R,D
    2,R,J
   15,R,D,X
-  42,R,U,G
+  44,R,U,G
    1,R
-   7,R,J,G
+   5,R,J,G
    1,R,K,G
-  14,R
+  13,R
    1,R,J
    7,R
+***
   20,R,D,G
   40
 
@@ -636,18 +669,19 @@ console load 10 43410 -8750
   16,J
    1,K
   41,R,J
- 112,R,G
+ 110,R,G
   24,R,D,G
-  20,R,G
+  15,R,G
   36,G
- 110,R,D,G
+ 112,R,D,G
    1,R
   30,D
   31,R
   59,U,G
   52,R,G
-  16,R,D,G
- 169,R,U,G
+  15,R,D,G
+  22,R,G
+ 149,R,U,G
    1,R
   15,R,U,X
   48,R,U,G
@@ -844,29 +878,62 @@ console load 10 43410 -8750
   23,R,D,G
   40
 
-#j-09 (5x)
+#j-09 (4x->3x?)
    5,R,D,G
    1,R,J,G
   19,R,D,G
-  25,D,G
+  40,D,G
    1,R,J,G
   19,R,J
-  21,R,U,J,G
-   1,L
- 249,R,G
-  30,U,G
-  30,R,U,G
-   3,R
-  15,R,U,X
- 130,R,U,G
-  80,R,G
+  21,R,G
+   3,R,J
+   4,R
+  61,R,U,G
+   1,R,J
+  23,R,U,G
+   1,R,J
+  24,R,U,G
+   5,U,G
+   1,D,J
+  24,U,J,G
+   1,R,J
+ 114,R,G
+  10,R,U,G
+   1,R,J
+ 135,R,U,G
+  34,D,G
+  45,L,D,G
+  17,R,D,G
+   1,R
+ 120,R,U,G
+   1,D
+  15,L,D
+  16,D
+  25,L,D,G
+  12,R,D,G
+  19,R,U,G
+   5,U,G
+   1,D,J
+  19,U,G
+   5,R,G
+   1,D,J
+  24,J,G
+   1,D,J
+  16,J,G
+   5,R,J,G
+   1,D,J
+  27,R,J,G
+   1,L,J
+ 160,R,U,G
+  36,U,G
+  33,R,U,G
    9,D,J
    5,U,X
   30,U,G
   20,D,J
    5,U,X
-  80,R,G
-  42,R,U,G
+  90,R,G
+  35,R,U,G
    2,D,J
   15,D,X
   27,D
@@ -874,10 +941,10 @@ console load 10 43410 -8750
   15,D,X
   89,R,D,G
    1,R,J,G
-  32,R,G
+  34,R,G
   14,R,D,G
    1,R,J,G
-  19,R,D,G
+  18,R,D,G
   40
 
 #j-10 (4x)

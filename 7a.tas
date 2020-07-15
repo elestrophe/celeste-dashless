@@ -3284,26 +3284,25 @@ console load 7
   56,R,J
    7,R,D
 
-#CP13 (9X)
+#CP13 (8X)
+  15,R
    1,R,J
-  20,R
+   9,R
    1,R,J
-   9
-   1,J
-   1
-   7,R
+   8,R
    4,D,X
   11,R,X
-  37,L
-  41,R
+  36,L
+
+  34,R
    4,D,X
   11,R,X
-   2,R
-  15,R,U,C
-  24,R
-  10,R,D
-   2,D
-   5
+  13,R
+  15,R,X
+  10,R
+   8,L,D
+   3,L
+   1,R
   26,R
   15,R,U,X
   12,R
@@ -3313,7 +3312,8 @@ console load 7
   22,L,D
   12,R
   15,U,X
-  51,R,D
+  49,R,D
+   2,R
   15,R,X
   29,R
    1,J,G
@@ -3325,20 +3325,22 @@ console load 7
    5,L,J
   20,L
    4,L,D
-   4,D
-  38,L,D
-  15,U,X
-  15,U,C
-  23,R,D
-
+   1,D
+   3
+  19,L
+  15,L,U,X
+   5,R
+   9,J,G
+  10,R,J
+   1,R,J,G
+   1,R,K,G
+  18,R
 
 #CP12 (4X)
-   5,R,J
-   5,R
+   6,R,J
+   3
    1,J
-   7,R,J
-   8,R,J
-   3,R,J
+  18,R,J
   15,U,X
    5
   20,L,J

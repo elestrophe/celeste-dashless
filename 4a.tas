@@ -1,4 +1,4 @@
-#4A 27X 4:52.689
+#4A 27X 4:52.332
 
 console load 4
    1
@@ -387,8 +387,8 @@ console load 4
    7,R
   15,R,X
   11,R
-  15,R,X
-  15,R,C
+  11,R,X
+  11,R,C
   15,R,U,X
   20,R
    1,R,J
@@ -1059,7 +1059,9 @@ console load 4
   37,R,D
    2,L,J
    8,R
- 130,U
+  15,U
+  31
+  71,U
   10,R,U
   20,R,J
   11,R,K,G

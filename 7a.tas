@@ -1,4 +1,4 @@
-#7A THE SUMMIT 188X 12:12.445
+#7A THE SUMMIT 184X 11:04.357
 
 console load 7
    1
@@ -1079,7 +1079,7 @@ console load 7
    5,R
   40
 
-#d-02 (1X)
+#d-02
    2,R
    1,R,K
    4,R
@@ -2290,15 +2290,16 @@ console load 7
 
 #f-05
   41,R
- 102,D
-   1,R,J
+  98,D
   14,R
    1,R,J
-  12,R
+   1,R,K,G
+   1,R,J,G
+  15,R
   40
 
 #f-08
-   2,R
+   1,R
    1,R,J
   14,R
    1,R,J

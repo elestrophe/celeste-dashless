@@ -58,7 +58,7 @@ console hard 7 g-00
    6,R,K
    4
    1,R
-read, 7b CP18, jumpstart
+read,7b CP18, jumpstart
   10,R
 
 # CP17

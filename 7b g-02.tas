@@ -38,7 +38,7 @@ console hard 7 12880 -14832
    1,R
    1
   12,R
-read, 7b CP06, runningstart
+read,7b CP06, runningstart
 
 # CP05
    1,R
@@ -105,7 +105,7 @@ read, 7b CP06, runningstart
 # by nebs
    1,L,J
   20,L
-read, 7B CP03, runningstart
+read,7B CP03, runningstart
    1,R
    1,L
    1,R
@@ -115,11 +115,11 @@ read, 7B CP03, runningstart
 
 # CP02
   19,L
-read, 7b CP02, runningstart
+read,7b CP02, runningstart
    3,R
 
 # CP01
-read, 7b CP01, CP01
+read,7b CP01, CP01
 
  190
    1,S

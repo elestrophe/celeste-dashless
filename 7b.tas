@@ -8,16 +8,16 @@ console hard 7 a-00
 # 7b
 # 0M
 # by RichConnerGMN
-read, 7b 0M, 0M
+read,7b 0M, 0M
 
 # 500M
-read, 7b 500M, 500M
+read,7b 500M, 500M
 
 # 1000M
-read, 7b 1000M, 1000M
+read,7b 1000M, 1000M
 
 # 1500M
-read, 7b 1500M, 1500M
+read,7b 1500M, 1500M
 
 # 2000M
    1,R,J
@@ -55,19 +55,19 @@ read, 7b 1500M, 1500M
    1,R,D
    1,R
 
-read, 7b 2000M, runningstart
+read,7b 2000M, runningstart
 
 # 2500M
-read, 7b 2500M, 2500M
+read,7b 2500M, 2500M
 
 # 3000M
 # downdraft
-read, 7b g-00, g-00
+read,7b g-00, g-00
 
 # updraft
-read, 7b g-01, g-01
+read,7b g-01, g-01
 
 # CP8-CP1
-read 7b g-02, g-02
+read,7b g-02, g-02
 # cassette room
-read 7b g-03, g-03
+read,7b g-03, g-03

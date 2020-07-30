@@ -7,7 +7,7 @@ console hard 7 12848 -13624
 # CP14
 # by RichConnerGMN
    8,L,J
-read, 7b CP14, runningstart
+read,7b CP14, runningstart
    1,R,J
   20,R
 # CP13

@@ -4,7 +4,7 @@ console hard 7 f-00
 
 # 2500M
 # f-00
-read, 7b f-00, f-00
+read,7b f-00, f-00
    1,R
    1,R,J
   14,R
@@ -18,7 +18,7 @@ read, 7b f-00, f-00
    1,R,J
   14,R
   29,R,J
-read, 7b f-01, orbstart
+read,7b f-01, orbstart
    1,R,J
    9,R
    1,R,J
@@ -84,4 +84,4 @@ read, 7b f-01, orbstart
    1
    1,R
 
-read, 7b f-03, f-03
+read,7b f-03, f-03

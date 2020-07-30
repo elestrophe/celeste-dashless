@@ -75,7 +75,7 @@ console hard 7 e-00
   31,R
    3
   14,R,J
-read, 7b e-01, jumpstart
+read,7b e-01, jumpstart
   39
 
 # e-02
@@ -128,7 +128,7 @@ read, 7b e-01, jumpstart
    9,R,X
   28,R,J
 
-read, 7b e-02, pillarstart
+read,7b e-02, pillarstart
 
   39
 
@@ -140,4 +140,4 @@ read, 7b e-02, pillarstart
   10,R
   21,R,J
 
-read, 7b e-03, orbstart
+read,7b e-03, orbstart

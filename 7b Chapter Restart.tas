@@ -1,8 +1,0 @@
-# Version of 7b starting
-# from chapter restart,
-# for timing 
-
-   1,Q
-   1,J
- 355
-read,7b.tas, 7b

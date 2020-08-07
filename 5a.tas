@@ -475,6 +475,7 @@ console load 5
    1,R
   40
 
+#b-06
 #b-06 (1X)
   13,R
    1,R,J
@@ -623,6 +624,7 @@ console load 5
  137
   40
 
+#b-14
 #b-14 (1X)
   28
   12,J
@@ -633,6 +635,7 @@ console load 5
   14,U,X
   40
 
+#b-16
 #b-16 (2X)
    6,R
    1,L,J,G
@@ -1742,7 +1745,6 @@ console load 5
    4,R
   40
 
-***
 #e-06
   10,R
    1,R,J
@@ -1784,7 +1786,6 @@ console load 5
   14,R,G
    1,R,J,G
   16,R,G
-***
   42,R,J,G
    1,R,K,G
   14,R,G

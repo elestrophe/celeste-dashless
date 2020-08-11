@@ -149,7 +149,6 @@ console hard 1
    1,L,K,G
    5,R,K
   18,R
-***
    3,R,G
    9,R,K,G
    9,R
@@ -220,7 +219,6 @@ console hard 1
   12,J,G
   40,R
  
-***
 #lvl_05b
    1,L,J,G
    3
@@ -252,7 +250,6 @@ console hard 1
    1,D
    2,R,J
   18,R,K
-***
    2,L,J,G
   16,L,U,G
    1
@@ -362,6 +359,7 @@ console hard 1
    7,R,J
   40
  
+ #lvl_08b
   40,R,U,G
    1,J,G
   10,L,J,G

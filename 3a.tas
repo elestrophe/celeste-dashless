@@ -888,6 +888,7 @@ console load 3
    1,D,J
   34
 
+#H1
 #09-b
    4,R
   14,R,D,J
@@ -1381,6 +1382,7 @@ console load 3
   11,L,J
   40
 
+#H2
 #09-b
    4,L
   11,L,J,G
@@ -1475,6 +1477,7 @@ console load 3
    1,R,J
    3,R
   40
+
 #12-b
   12,R
    1,R,J
@@ -1670,7 +1673,7 @@ console load 3
   12,L
   40
 
-#09b
+#09-b
    1,L
   23,R,D,J
   33,L,K
@@ -1732,6 +1735,7 @@ console load 3
    1,D,J
   34
 
+#H3
 #09-b
   20,L,J
    3,L,K,G

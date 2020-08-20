@@ -1,8 +1,9 @@
-#Restart
-   1,Q
-   1,J
-  31
-#please label rooms by their actual names
+#2A
+
+console load 2
+   1
+
+#Start
 #00
  190
    1,R,J

@@ -3,6 +3,7 @@
 console load 5
    1
 
+#Start
 Read,5a,Start,b-02
 
 #b-02 (1x)
@@ -69,25 +70,27 @@ Read,5a,b-06,b-14
    1,R,J
    4,R
   10,R,D,X
-  25,D
-  34,R,D
+   1,J
+  13,D
+  28,R,D
+   1,R
    1,R,J
   18,R
-  98
-   1,R,J
+ 100
+   1,J
   14,R
    1,R,J
-  14,R
+   1,R,K,G
+  15,R
    1,R,J
   14,R
-   1,R,J
-  14,R
+   8,R,D,J
   40
 
 #b-15 (1x)
-  15,D,J
-   2,R,J
-   2,L,J
+   1,R,J
+  10,D,J
+   1,L,J
    3,K,G
    1,R
    1,L
@@ -125,7 +128,6 @@ Read,5a,b-06,b-14
   14,L
    1,L,J
   14,L
-
    1,L,D,J
    9,J
    4,R,J

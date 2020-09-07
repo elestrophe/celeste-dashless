@@ -1,10 +1,13 @@
-#7A THE SUMMIT 181X 11:15.104
+#7A THE SUMMIT 178X 11:16.719
 
 console load 7
    1
- 324
+#Start
+#246
+ 142
 
-#a-00 (3X)
+#a-00 (2X)
+#78
    7,R,J
   11,R
    1,R,J,G
@@ -13,14 +16,29 @@ console load 7
   18,R
    1,R,J
   14,R
-   4,D,X
-  10,R,X
    1,R,J
-   7,R
-   7,R,J
-   4,D,X
-  15,R,X
-   2,R
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  16,R
+   1
+   1,R
+   3,L
+   1,L
+   1,S
+  10,J
+   1,L,J
+   1,L,K,G
+   1,L
+   1,L
+  14,J
+   2,R,J
+  10,R,K
+  10,K
+  15,R,U,X
+  32,R,D
+   2,D
    4,D,X
    2,L,X
    1,R,J
@@ -3870,3 +3888,18 @@ console load 7
    1,S
    1,D,J
   18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

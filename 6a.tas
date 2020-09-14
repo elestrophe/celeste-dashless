@@ -1,4 +1,4 @@
-##6A 38X 7:53.076
+##6A 38X 7:52.872
 
 console load 6
    1
@@ -2114,6 +2114,7 @@ console load 6
    4,L,K
    4,L
   11,L,J
+***
    1,R,J
    1,K
   25,R,K
@@ -2134,18 +2135,17 @@ console load 6
   12,L
    1,L,J
   14,L
+***
    2,L,J
    8,L
-   9,L,J
-  20,L,K,G
-  11,L,J,G
-   1
-   1,J
-  19,L,J
-  11,L,K,G
-   4,L,J,G
-   1,R,K
-  45,R,J
+  12,L,J
+  12,L,K,G
+  11,J,G
+   5,K
+  12,L,J,G
+  12,K,G
+   1,R,J
+  45,R,K
  442
 
 #after-02

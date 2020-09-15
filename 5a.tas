@@ -1,8 +1,9 @@
-#5A 18X 5:47.684
+#5A 18X 5:46.613
 
 #reset
 console load 5
-   1
+   5
+
 #Start
 #a-00b
  140
@@ -35,28 +36,28 @@ console load 5
   24,R,D
    4,R,J
    6,R
+   1,J
+   3,R,J
+   1,R,K
+  17,R,D
    1,R,J
   14,R
-   1,R,J
-  11,R
-   2
-   1,R
-   5,R,J
-   8,R
+   6,R,J
+   1,R,K,G
+   2,R,J,G
+   5,R
    1,R,J,G
-   2,R,K,G
-   7,R
-   1,R,J
+   1,R,K,G
   23,R,D
    4,R,J
-  11,R
+   9,R
    1,R,D,J
    4,R
    1,R,J
    4,R
   10,R,J
-   1
-   8,R
+   4
+   5,R
    1,R,K,G
    1,R,J,G
   17,R
@@ -140,17 +141,17 @@ console load 5
   15,R,X
   76
   21,R,D
+   5,R,J
+   5,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   1,R
+  19,R,D
   40
 
 #a-01
-  13,R
-  20,R,J
+   1,R
+   1,R,J
+  14,R
+  16,R,J
   15,R,U,X
   48
   15,R,D,X
@@ -202,12 +203,14 @@ console load 5
    1,R,J
    6,R
   15,R,X
-  20
-  15,R,U,X
-  19,R
-  15
-   5,R,D
-  13,D
+  12
+   1,D,X
+  13,R,U,X
+   1,L,J,G
+   3,R,J
+  12,R,D
+  17,L,D
+  17,R,D
   15,L,X
   52
    1,L,J,G
@@ -261,11 +264,98 @@ console load 5
   14,R
    1,R,J
   14,R
-  69,D
-   1,R
+  12,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   2
    2,D
    1,R
-  33,D
+   1
+   1,R
+   2,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
    9,R
    1,R,J
    1,R,K,G
@@ -547,8 +637,8 @@ console load 5
    7,R,J
    7,R,D
    3,L,D
-   8,R,D
-   5,R,J
+   9,R,D
+   4,R,J
    6,R
    4,R,J
    6,R
@@ -568,18 +658,20 @@ console load 5
    4,R
   15,R,X
   44
-  12,R,J,G
+   4,R,J,G
+   4,L,J
+   3,R,J
    1,R,K,G
   28,R,D
    4,D,X
-   8,R,U,X
-   8,R,J
+   9,R,U,X
+   7,R,J
    6,R
    2,L
    2,R
    1,R,J,G
    1,R,K,G
-  19,R,D
+  18,R,D
   15,R,X
   50
    1,R,J,G
@@ -610,7 +702,7 @@ console load 5
    1,R,K,G
   13,R,D
    2,R,J
-  29,R
+  31,R
   15,R,X
   12
    1,R,J,G
@@ -623,25 +715,23 @@ console load 5
   15,R,X
  137
   40
-
 #b-14
 #b-14 (1X)
-  28
-  12,J
-   8,K,G
-   1,R,J,G
+   2
+  23,R,J
+   2,J
    1,R,K,G
-  27,R,J,G
-  14,U,X
-  40
+   2,L,K
+   3,R,K
+   1,R,J,G
+  29,R,K,G
+  15,U,X
+  43
 
 #b-16
 #b-16 (2X)
-   6,R
-   1,L,J,G
-   1,L,K,G
-  20,L,J,G
-  20,R,K
+   4,R
+  26,L,J
   15,U,X
  182
    1,J
@@ -1472,13 +1562,13 @@ console load 5
   12
    8,R
   89,R,J
-  11,K,G
-   1,K
-   1,J
-  24,R,J
+  10,K,G
+   1,L,K
+   1,R,K
+  14,R,J,G
   12,R,K,G
   12,R,J,G
-  12,R,K,G
+  13,R,K,G
   40
 
 #d-20
@@ -1533,15 +1623,14 @@ console load 5
    4,R,J,G
    5,R
    1,R,J,G
-  13,R
-   1,R,J
-   2,R,K,G
+   3,R,K,G
   10,R
+   1,R,J
+   5,R
 
 #cs-skip
    1,S
-   1,D
-   1,J
+   1,D,J
   34
 
 #e-00

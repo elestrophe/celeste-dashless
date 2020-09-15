@@ -1,9 +1,10 @@
-#Restart
-   1,Q
-   1,J
-  92
+console rmx2 4
+   1
 
+#Start
 #lvl_00
+  61
+***
   20,R,D,J,X
   13,R
   13,U,X
@@ -67,14 +68,16 @@
   32,R,J
    3,R,K
    8,R
-   6,R,J
+***
+   4,R,J
   19,R
+   1,R,J,G
+   1,R,K,G
+  11,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-  21,R
+  19,R
    9,R,J
   40
 

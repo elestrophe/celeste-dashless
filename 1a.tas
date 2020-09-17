@@ -37,27 +37,23 @@ console load 1
    8,R,K,G
   40
 
-#Read,1D - Forsaken City,lvl_2,lvl_end
 Read,CelesteTAS/LevelFiles/1D,lvl_2,lvl_end
 
 #lvl_end
-   4,R
+   5,R
    1,R,J,G
-   1,R,K,G
   13,R
-  19,R,J
-   3,R
-   1,R,J
-   1,R
+  22,R,J
+   1,J
    1,R,K,G
    1,R,J,G
-   9,R
+  12,R
    1,R,J
   14,R
    1,R,J
-  21,R
+  18,R
    1,R,J
-   7,R
+  16,R
    1,S
    1,D,J
   18

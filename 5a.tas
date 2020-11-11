@@ -1,4 +1,4 @@
-#5A 18X 5:46.613
+#5A 18X 5:46.596
 
 #reset
 console load 5
@@ -142,16 +142,18 @@ console load 5
   76
   21,R,D
    5,R,J
-   5,R
+   4,R
+   1,L
    1,R,J
-  19,R,D
+   1,R,K
+  17,R,D
   40
 
 #a-01
-   1,R
+   4,R,D
    1,R,J
   14,R
-  16,R,J
+  13,R,J
   15,R,U,X
   48
   15,R,D,X

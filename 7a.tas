@@ -1,4 +1,4 @@
-#7A 172X 10:44.708
+#7A 172X 10:44.725
 
 #console load 7 3088 -1768
 #play,Section 500m,37
@@ -810,6 +810,7 @@ console load 7
    8,R
    4,D,X
    3,R,U,X
+#1:43.649
   40
 
 #b-09 (2X)
@@ -3059,14 +3060,15 @@ console load 7
    1,R,K
    1,J
   24,L,J
-  11,K,G
-   1,R,K
-  12,R,J
+  10,K,G
+   2
+   1,J,G
+  15,R,J
    1,K
   15,R,K
-  14,L,K
-  10,U,G
-   9,J
+  14,L,J
+  13,U,G
+   3,J
   21,K
   40,U,X
  176

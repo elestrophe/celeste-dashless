@@ -7,30 +7,34 @@ console hard 1
 #Start
 #lvl_00
   89
+   5,R
    1,R,J
-  14,R
-  10,R
-  18,R,J
+  16,R
+  20,R,J
   11,K,G
    4,J,G
-   3,L,J
+   2,L,J
    3,R,K
-  14,R
-   9,D
-   6,R,J
-  23,R
+   1,R,J,G
+  30,R
+   1
+   2,R,J,G
+  12,R
   19,R,J
- 
   20,R
    9,R,D
    3,R
-  28,R,J
+  27,R,J
    2,K,G
-   7,L,K
+   5,L,K
+   2,L
    9,J
    3,R,J
-   8,R,K,G
-  12,R,J,G
+   7,R,K,G
+   7,R
+   8,R,J
+   2
+   1,R,K,G
    7,R
   12,R,J
   12,R,K,G
@@ -53,7 +57,7 @@ console hard 1
    6,L,K
    6,R,J
   10,L,K
-   3,J
+   3,R,J
   10,R,K,G
   16,R
   12,D
@@ -220,16 +224,17 @@ console hard 1
   40,R
  
 #lvl_05b
-   1,L,J,G
-   3
+   2,L,J,G
+   6
    1,R
-   8
-   1,D,J
-  13
-   8,L,D,G
-   1,L,G
+   5,L
+   1,R
    1
-  12,D,J
+   3,D,J
+   1,R,D,J
+   1,L,D,J
+   6,D,J
+   1,L,D,J
    9,D,K,G
    1,R,D
    1,L,D
@@ -250,8 +255,8 @@ console hard 1
    1,D
    2,R,J
   18,R,K
-   2,L,J,G
-  16,L,U,G
+   4,L,J,G
+   9,L
    1
    1,J
   20,R,K
@@ -267,7 +272,8 @@ console hard 1
    6,R,K
    1,R,J,G
   11,R
-  16
+  15
+   1,L
   10,L,J,G
    1,K
   14,R,K
@@ -593,9 +599,9 @@ console hard 1
    5,L,J,G
    4,R,J
   45,R,K
-   7,R,J
-  51,R
-   2,R,G
+   1,R,J
+  54,R
+   4,R,G
   10,R
    4,R
   11,L
@@ -627,3 +633,4 @@ console hard 1
  213,L,U,X
    1,L,J
  196
+#105.604(6212)

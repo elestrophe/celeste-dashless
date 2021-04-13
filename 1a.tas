@@ -37,7 +37,11 @@ console load 1
    8,R,K,G
   40
 
-Read,1D,lvl_2,lvl_end
+Read,1D,lvl_2,lvl_9b
+
+#lvl_9b
+
+Read,1D,lvl_9b,lvl_end
 
 #lvl_end
    5,R
@@ -58,4 +62,4 @@ Read,1D,lvl_2,lvl_end
    1,S
    1,D,J
   18
-#1:18.302
+#1:17.996

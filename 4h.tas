@@ -1,4 +1,4 @@
-#4A heart +2x
+#4A heart +2x 4:41.707
 
 console load 4
    1
@@ -10,15 +10,16 @@ Read,4a,Start,b-02
    1,R
    1,R,J
   14,R
-   6,R,J
-  23,R
+   1,R,J
+   2,L
+  19,R
    1,R,J
    1,R,K
    1,R,J
    1,R,K
   25,R,D
-  45,R
-   8,R,U
+  35,F,86.65
+   7,F,58.7
    1,R,J
    1,R,K
    1,R,J
@@ -26,11 +27,12 @@ Read,4a,Start,b-02
    1,R,J
    1,R,K
    1,R,J
-   3,R,K
-  13,R
-   1,R,J,G
-   3,R
-  12,R,D,X
+   1,R,K
+   2,R,J
+   5,R
+   3,R,J
+   2,R
+  14,R,Z
    1,R,J
   18,R,D
    1,R,J
@@ -99,66 +101,45 @@ Read,4a,Start,b-02
   14,L
    1,L,J
    8,L
-  40
+  43
 
 #b-02
-   9,L
+   6,L
    1,L,J
   14,L
    1,L,J
   14,L
-   1,L,J
-  18,L
-   1,L,J
-  16,L
+   8,L,J
+  25,L,D
    1,L,J
    1,L,K
    1,L,J
-  25,L,D
-  42,L
-   8,U
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  11,L,J
-  11,L,K,G
-   9,R,J
-  11,L,K
-   8,L,J
-  40
-
-#b-05
-  35,L,D
-   1,L,J
-   4,L
-   7,L,J,G
-   5,L
-   2,R
    3,L
-  11,L,J,G
-   8,L
-   6,J,G
-   8,L,U,G
-  18,L,J,G
-  60,D
-   9
-   6,D
-   9
-   2,U
-   7
-   1,R,J
-   8,L,U
-   4,U
-   6
-  19,U
-   4,R,U
-  19,R,J
-  12,R,K,G
-  12,R,J,G
-   7,L,K
+   1,R
+   1,L
+   1,R
+  21,L,D
+  40,F,273.55
+   7,U
+   1,J
+   1,K
+   1,J
+   1,K
+   1,J
+   1,L,K
+   1,L,J
+   1,L,K
+   6,R,K
+   2,L,K
+   1,L,J,G
+   4,R,J
+   6,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+  13,L,J
+   8,L,K,G
+   4,R,K
   40
 
-Read,4a,b-08b
+Read,4a,b-05

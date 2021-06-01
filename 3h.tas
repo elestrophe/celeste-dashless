@@ -1,4 +1,4 @@
-#3H +1x (MTB) 6:28.586
+#3H +1x (MTB) 6:26.818
 
 console load 3
    1
@@ -424,27 +424,22 @@ Read,3a,Start,H1-Return
    1,L,K,G
   14,L
   11,L,D
-   4,L,J
-   5,L
-   4,D,X
-  11,L,U,X
-  99,L,D
-   1,L,J
-  91,L
-   1,J
-  39,L
-   1,L,J
-  14,L
+   1,L
    4,L,J
    6,L
-   1,L,J
-   4,L
-   5,J
+  10,L,J
+  26,L,D,X
+
+   6,L,J
+  22,L
+  21,L,D,J
    1,L,K,G
-  14,L
-   5,L,D
+  63,L,D
+  60
+   1,J
+  36,L,D
    1,L,J
-  15,L,D
+  16,L,D
   40
 
 #11-b
@@ -576,18 +571,19 @@ Read,3a,Start,H1-Return
    1,L,J,G
    1,L,K,G
   13,L
-   9,L,J
-  10,L,D,X
+  20,L,J
+  14,L,D,X
  103
-   1,L,J
-  24,L
-   5,L,J
+   9,L
+   2,L,J
+   1,R,J
+   1,L
    1,L,K,G
    1,L,J,G
-  13,L
+   9,L
    1,L,J
   14,L
-   2,L,J
+   4,L,J
   35,L,D
   40
 
@@ -620,9 +616,13 @@ Read,3a,Start,H1-Return
    8,R,J,G
    4,R,K,G
   23,R
-  31,R,D
-   1,R,J
-  24,R,D
+***
+
+  25,R,D
+   3,R
+   1,R,J,G
+   6,R,J
+  17,R,D
   40
 
 #10-x

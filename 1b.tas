@@ -394,8 +394,8 @@ console hard 1
    2,L,D
   12,D
    4,R,D
-  23,R,J
-   3,K,G
+  22,R,J
+   1,K,G
    1,L,K
    1,J
    1,K
@@ -411,7 +411,8 @@ console hard 1
    1,K
    1,J
    1,K
-   7,R,J
+   1,J
+   7,R,K
   33,R,D
    8,R,J
   17,R,K
@@ -621,4 +622,4 @@ console hard 1
  213,L,U,X
    1,L,J
  196
-#104.584(6152)
+#104.550(6150)

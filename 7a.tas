@@ -1,7 +1,7 @@
-#7A 172X 10:44.725
+#7A 171X 10:48.584
 
-#console load 7 3088 -1768
-#play,Section 500m,37
+console load 7 3088 -1768
+play,Section 500m,37
 
 #console load 7 5912 -4328
 #play,Section 1000m,37
@@ -1508,20 +1508,46 @@ console load 7
    1,R,J,G
    1,R,K,G
   11,R
-   4,D,X
-   8,R,X
+   2,R
+   1,R,J
+  12,R
   40
 
-#d-03 (4X)
-   2,R,X
+#d-03 (3X)
+   2,R
    1,R,J
-   7,R
-   7,R,J
-  28,R
-  33,R,J
-  12,K,G
+  14,R
+   1,R,J
+  26,R,D
+   1,R,J
+  14,R
+   4,R
+   1,L
+   1,R
+   1,R,J
+   1,R,K,G
+  10,R,J,G
+  19,R
+   1,R,J
+  12,R
+   6,L
+   1,L,J,G
+   1,K,G
+   6
+   4,L
+   3,R
+   1,S
+  10,J
+   3,R,J
+  54,R,K
   12,J,G
-   2,K,G
+   8,K,G
+   1,L,K
+   7,J
+   5,R,J
+  12,K,G
+  71,R,G
+  11,R,J,G
    4,D,X
   10,R,X
    1,R,J
@@ -1816,11 +1842,12 @@ console load 7
   68
 
 #d-10
-   6,R,Z
+   4,D,X
+   2,R,X
   40
 
 #d-11 (3X)
-   1,R,Z
+   1,R,X
    1,R,J
    7,R
    1,R,J
@@ -1859,7 +1886,8 @@ console load 7
   34,R,J
   37
   20,L
-  15,L,Z
+   4,D,X
+  11,L,X
   21,L,J
  217
 
@@ -2594,7 +2622,8 @@ console load 7
    1,L,J,G
   14,R,K,G
   28,L,J
-  15,L,U,Z
+   4,D,X
+  11,L,U,X
    3,L
   15,L,U,X
   59,L
@@ -2660,7 +2689,8 @@ console load 7
   15,U,X
   52
   18,R
-  15,R,Z
+   4,D,X
+  11,R,X
    6,R
  199
 

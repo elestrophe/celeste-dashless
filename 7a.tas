@@ -48,7 +48,7 @@ console load 7
    2,R
    1,L
    2,L,D
-   4,D,X
+   4,R,Z
    1,R,J
    6,R
   14,R,J
@@ -199,8 +199,7 @@ console load 7
    1,R
    1
    1,R
-   4,D,X
-   5,R,X
+   9,R,Z
    1,R,J
    6,R
    1,R,J
@@ -428,8 +427,7 @@ console load 7
    1,R,K,G
    1,R,J,G
   35,R,D
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
    2,R
   40
@@ -450,14 +448,21 @@ console load 7
   19,R,J
    2,R,K,G
    1,R,J,G
-   1,D,X
-   4,R
+   5,R,Z
   29,L,J
    1,L,G
   30,R,J
+   1,K
+   1,L,K
+   5,R,K
+   3,R,K
+  21,R
    5,G
-   4,R
-  40,G
+   2
+   1,G
+   2
+   7,U,G
+   1,G
 #tax fraud
    1,J,G
    1,L
@@ -808,9 +813,7 @@ console load 7
   10,R
    1,R,J
    8,R
-   4,D,X
-   3,R,U,X
-#1:43.649
+   7,R,U,Z
   40
 
 #b-09 (2X)
@@ -841,20 +844,79 @@ console load 7
    6,R,K
    7,R
    1,G
-   1,J,G
-   1,L,J
-  13,L
-   1,K,G
-  18,R,J
-   8,R,K
-   8,R
-   2
+   1
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+  18,U,G
+   4,R,J,G
+   1,L,K,G
+   1,L,J,G
+  21,L
+   3,L,D,K
+   5,R,J
+  13,R,D
+   1,R
+  10,R,J,G
+  18,R
+   7,R,J,G
+  12,R
+   2,R,J
+   1,L,K
+   2,L,J
+   2,R,K
+   2,L,J
+   2,R,K
+   2,L,J
+   1,R,K
   10,R
+  17,L,J
+   1,L,K
+  34,D
+   6,R
+   1,R,D
+   1,R
+   1,L,D
+   1,R
+   1,R,D
+   1,R
+   1,L,D
+   1,R
+   1,R,D
+   1,R
+   1,L,D
+   1,R
+   1,R,D
+   1,R
+   1,L,D
+   6,L
+   1,R,D
+   1,R
+   1,L,D
+   1,R
+   1,R,D
+   1,R
+   1,L,D
+   1,R
+   1,R,D
+   5,R
+   6
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,R,D
+   1
+   1,L,D
+   1
+   1,L
+   1
 #add some actions if you like
-  90
-   5,L,J
-  18,L
-  81
    1,R,J
    8,J
    3,R,J
@@ -1754,12 +1816,11 @@ console load 7
   68
 
 #d-10
-   4,D,X
-   2,R,X
+   6,R,Z
   40
 
 #d-11 (3X)
-   1,R,X
+   1,R,Z
    1,R,J
    7,R
    1,R,J
@@ -1798,8 +1859,7 @@ console load 7
   34,R,J
   37
   20,L
-   4,D,X
-  11,L,X
+  15,L,Z
   21,L,J
  217
 
@@ -2534,8 +2594,7 @@ console load 7
    1,L,J,G
   14,R,K,G
   28,L,J
-   4,D,X
-  11,L,U,X
+  15,L,U,Z
    3,L
   15,L,U,X
   59,L
@@ -2601,8 +2660,7 @@ console load 7
   15,U,X
   52
   18,R
-   4,D,X
-  11,R,X
+  15,R,Z
    6,R
  199
 

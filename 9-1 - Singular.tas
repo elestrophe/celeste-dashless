@@ -7,58 +7,63 @@ console load 10
 #Start
 #intro-00-past
   98
-   4,R
+   5,R
    1,R,J
-  15,R
+  18,R
    1,R,J
-  20,R
+  18,R
    1,R,J
-  14,R
-   1,R,J
-  15,R
-   1,R,J
-   1,R
-   1,R,K,G
-   1,R,J,G
   12,R
+   1,L
+   1,R
    1,R,J
-  14,R
+  12,R
+   1,L
+   1,R
    1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   8,R
-   2
+   1,R,K,G
    1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+   1,L
+   1,R
+   1,R,J
+  12,R
+   1,L
+   1,R
+   1,R,J
+  12,R
+   1,L
+   1,R
+   9,R
+   1,R,J
    1,R,K,G
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  10,R
    1,R,J,G
-   1,R,K,G
+   3,R
+   1,L
+   7,R
+   1,R,J
   14,R
    1,R,J
-   4,D,X
-  10,R,X
-   7,R,J
+   6,R
+   1,R,J
+   4,R
+  14,R,Z
+   1,R,J
+  10,R,D
+   5,R,J
    1,R,K,G
-
-#intro-01-future (1x)
   13,R
-   1,R,J,X
+   1,X
    1,S
    1,D,J
-  34
-  30,R,J
+  34,O
+  34,R,J
  179
   40
 
@@ -199,8 +204,7 @@ console load 10
   10,R,J
   18,R,U,X
   30,R,U,C
-   4,D,X
-   3,R,X
+   7,R,Z
    1,R,J
    5,R
   40
@@ -589,4 +593,5 @@ console load 10
   11,R
    1,R,J
   14,R
+#108.953(6409)
   40

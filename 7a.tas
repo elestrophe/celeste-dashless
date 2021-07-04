@@ -1,4 +1,4 @@
-#7A 171X 10:48.584
+#7A 171X 10:48.567
 
 #console load 7 3088 -1768
 #play,Section 500m,37
@@ -962,10 +962,10 @@ console load 7
 #Section 1000m
 
 #c-00 (4X)
-   1,R
+   5,R
    1,R,J
   14,R
-   6,R
+   1,D
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -973,6 +973,7 @@ console load 7
   19,R,J
   20,R,X
    1,R,J
+#125.817(7401)
    3
    8,R,J
    5,R

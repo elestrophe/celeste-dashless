@@ -1,4 +1,4 @@
-#6A 38X 7:41.924
+#6A 38X 7:39.170
 
 console load 6
    1
@@ -140,7 +140,7 @@ console load 6
    3,L
   40
 
-#lvl_02
+#lvl_02 (2x)
   21,L
    4,R
   12,R,J
@@ -254,25 +254,17 @@ console load 6
    2,F,321
   40
 
-#lvl_02b
+#lvl_02b (3x)
   11,L,U
   18,L,X
    9,L,C
    1,L,J,G
    1,L,K,G
   16,R
-  14,L,X
    1,R,J
-   1,J
-   7,R,U,X
-   1,L
-   4,J,G
-   4,J
-   1,R,J
-   2
-   3,L
-   1,L,J
-  11,L
+  10,J
+  16,L,G
+  17,D
   15,D,X
    8,L
   15
@@ -764,6 +756,7 @@ console load 6
    2,R,J
   40
 
+***
 #12a (1x)
    4,R,J
   23,R
@@ -2467,6 +2460,7 @@ console load 6
    1,R,J
   45,R,K
  442
+#459.170(27010)
 
 #after-02
    1,S

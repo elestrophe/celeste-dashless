@@ -1,4 +1,4 @@
-#7A 171X 10:48.567
+#7A 171X 10:48.499
 
 #console load 7 3088 -1768
 #play,Section 500m,37
@@ -952,7 +952,7 @@ console load 7
   17,R,K
    1,R,J
   40,R
- 217
+ 216
 
 #cs-skip
    1,S
@@ -1362,7 +1362,7 @@ console load 7
    2,J,G
    1,L,K
   12,L,J
- 195
+ 194
 
 #cs-skip
    1,S
@@ -1890,7 +1890,7 @@ console load 7
    4,D,X
   11,L,X
   21,L,J
- 217
+ 216
 
 #cs-skip
    1,S
@@ -2693,7 +2693,7 @@ console load 7
    4,D,X
   11,R,X
    6,R
- 199
+ 198
 
 #cs-skip
    1,S

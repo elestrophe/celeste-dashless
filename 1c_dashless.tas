@@ -1,6 +1,9 @@
 console rmx2 1
-  62
-lvl_01
+  1
+
+#Start
+#lvl_01
+  61
    1,R,J
   14,R
   17,R,J
@@ -33,7 +36,8 @@ lvl_01
    1,R,K,G
   15,R,D
   40
-lvl_02
+
+#lvl_02
   12,R,D
    1,R
    2,R,D
@@ -75,7 +79,8 @@ lvl_02
    1,R,J
   12,R
   40,R
-lvl_03
+
+#lvl_03
    2,R
    1,R,J
   14,R

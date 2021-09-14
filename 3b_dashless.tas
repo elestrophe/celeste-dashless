@@ -3,9 +3,11 @@
 
 
 console hard 3
-  62
+  1
 
+#Start
 #lvl_00(1x)
+  61
    4,R,D,X
    1,R,J
    7,R

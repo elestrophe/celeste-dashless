@@ -1,9 +1,10 @@
 #6c 15x 0:25.517
 #made by chickenleg
 console rmx2 6
-  70
+  1
 
 #lvl_00(3x,last one count into lvl_01)
+  69
    1,R,J
   14,R
    8,R,J

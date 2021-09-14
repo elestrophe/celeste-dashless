@@ -4,7 +4,6 @@ console rmx2 4
 #Start
 #lvl_00
   61
-***
   20,R,D,J,X
   13,R
   13,U,X
@@ -68,7 +67,6 @@ console rmx2 4
   32,R,J
    3,R,K
    8,R
-***
    4,R,J
   19,R
    1,R,J,G

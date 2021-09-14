@@ -1,8 +1,7 @@
-#Restart
-   1,Q
-   1,J
-  31
+console rmx2 2
+   1
 
+#Start
 #lvl_00
   91
    1,R,J

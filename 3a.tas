@@ -1,4 +1,4 @@
-#3A 18X (TBM) 6:15.139
+#3A 18X (TBM) 6:13.830
 
 #console load 3 4580 -256
 #play,Section Huge Mess,37
@@ -2337,25 +2337,28 @@ console load 3
    1,J,G
    4,R,J
    2,L,J
-  11,L,K
-   5,L
-   1,L,K
+   8,L,K
+   3,L
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L,J
+   1,R,J
+   1,L
    1,L,J,G
-  13,L
-   1,L,J
-   5,L
-  40
+   1,L,K,G
+  10,L
+   5,L,J
+  40,J
 
-#04-d (3X)
-   9,L
-   1,L,J
-  20,L,D
-   9,D
-  10,L,D
+#04-d (3x)
+   4,L,J
+  40,L,D
+   3,L
    1,L,J,G
    5,L,J
-   6,D
-   7,L
+   5,D
+   8,L
   10,U,X
   18,L,J
    1,L,K,G
@@ -2367,8 +2370,8 @@ console load 3
   10,L,J,G
   14,U,X
    9,L,J
-  15,L,D
-  26,D
+  14,L,D
+  27,D
    1,L,J
    4,L
    3,L,J
@@ -2377,11 +2380,14 @@ console load 3
    9,L,J
   14,U,X
    1,L,J
-   1,J
-   7,L,J
+   1,R,J
+   5,L,J
+   1,L
+   1,R
    4,L
    1,L,J,G
-   1,K,G
+   1,L,K,G
+   1,J,G
    5,L
    2,R
 
@@ -2919,36 +2925,49 @@ console load 3
    6,R
    1,R,J
    3,L,J
-  18,L
-  40,G
+  17,L
+  39,G
    1
    1,J
    2,K,G
-  34,R,K
-  41,R
-   2,J
-   3,R,J
+  12,K
+  18,R,K
+  28,R
+  22,R,J
+   5,R,K,G
+   5,R
    1,R,K,G
    1,R,J,G
-  61,R
-   2,L
+  55,R
+   5,R,D
+   1,R,D
+   1,L
    4,D,X
-  10,R,X
+   9,R,X
    2,R,J,G
-  40,R,K,G
+  30,R,K,G
+  14,R,D
+   3,R
+  34,R,G
+  10,L,J
+  14,L
+  39,R,J
+   8,R
+   2
+   2,R
    1,R,J,G
    1,R,K,G
    5,R
-   1,R,J
-   1,R
-   2,L
+   4,R,J
+   5
    4,R
-   1,L
-   7,R
+   1
+   1,R
+   1
   25,R,J
   23,R
   37,D
- 198,R
+  69,R
   12,R,J,G
   12,R,K,G
    5,R,J,G
@@ -3190,7 +3209,7 @@ console load 3
    1,R,J
    3,R
   40
-#374.221(22013)
+#373.830(21990)
 
 #roof07
    1,S

@@ -2,9 +2,11 @@
 #made by chickenleg
 
 console rmx2 5
-  62
+  1
 
+#Start
 #lvl_00(2x)
+  61
    1,R,J
   28,R
   34,R,K

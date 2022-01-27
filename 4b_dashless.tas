@@ -221,13 +221,14 @@ console hard 4
   46,G
   12,R,J,G
   11,R,K,G
-   7,R,J,G
+   6,R,J,G
+   1,J
   15,R,X
   24,L,D
   12,L,J,G
    2,L,K,G
-   7,L,D
-  27,D
+   8,L,D
+  26,D
    4,R
   10,R,X
   15

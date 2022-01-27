@@ -1,9 +1,7 @@
-#3b 30x 2:52.040
-#made by chickenleg
-
+#3B 29x
 
 console hard 3
-  1
+   1
 
 #Start
 #lvl_00(1x)
@@ -920,7 +918,7 @@ console hard 3
    9,R
   40
 
-#lvl_20(1x)
+#lvl_20
    5,R
    1,R,J
   14,R
@@ -932,38 +930,61 @@ console hard 3
   12,R,J,G
   72,R,U,G
   34,R,J,G
-  18,L,J
-  42,D
-   9,R,D
-  36,R,J
-  18,R,U,X
-  11,L,J
-   1,K,G
-   1,R,K
+  16,J
+   3,R,J
+   1,J
    1,R,J
-  11,R,K
+  22,R
+  10,R,D
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R,D
+  13,D
+  12,R,D
+   4,R
+   1,G
+   1,L,J
+  12,L,K
+  10,J,G
+   1,R,J
+   1,L,J
+   1,K,G
+  10,R,K
    1,R,J,G
    7,R,K,G
-  24,R
-  40,R,J,G
-  53,D
-  41,L,G
-   5,L,D,G
-  70,L,G
-   1,R,J
-  37,R,K
-  39,R
-   9,R,G
-   2,R,J,G
+  10,R
+   1
    7,R
-   3,R,J
-   6,R,D
+   3,R,J,G
+   1,J
+   8,R,J
+   9,R
    1,R,J
-  22,R,D
+  11,R
+  12,K,G
+   1
+  26,R
+   1,R,D
+  10,L,D
+   1,R,D
+   7,L,D
+  17,G
+   1,U,G
+   6,R,J
+   5,R
+   2,R,J
+  15,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+  18,R,D
   40
 
 #lvl_end(3x)
-  17,R,D
+  18,R,D
   11,L,D
    2,K,G
    7,L
@@ -972,7 +993,8 @@ console hard 3
   49,R,K
   58,R,U,X
    2,R,J,G
-   5,L,J
+   1,J
+   4,L,J
    7,R,J
    1,R,K,G
    1,R,J,G

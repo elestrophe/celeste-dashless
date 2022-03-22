@@ -1,4 +1,4 @@
-#7B 188x
+#7B 186x
 
 #console hard 7 2080 -1624
 #play,Section 500m,37
@@ -134,19 +134,27 @@ console hard 7
 
 
 #lvl_a-03
-#8x
+#7x
    5,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   9,R
-  15,R,U,Z
-  32,R
-   1,D,X
-  14,R,X
-  13,U,C
+  15,R
+  34,R,J
+   2,J
+  15,U,X
+   1
+   2,L
+  45,R
+  15,R,Z
+  10,J,G
+   2
+   4,K,G
+   1,L,K
+   1,R,K
+   7,J,G
+   1,L,J
+  13,R,J
   65,L
   12
    2,L
@@ -181,7 +189,7 @@ console hard 7
  351
 
 #lvl_b-00
-#1x
+#0x
   76
 #Section 500m
    5,L
@@ -290,32 +298,65 @@ console hard 7
    1,L,J
    4,J
    1
-   1,G
-   1
-  10,J
-   3
-   2,J
+  28,U,G
+ 160,G
    4,J
-   9,G
+  18
+  15,G
    1
    1,J
-   1,K,G
-   1,L,J,G
-  16,R,J
-   5,K,G
-   2,L,K
+   7,L,J
+   7
+   2,L
+   8,G
+   7,U,G
+   1
+   1,K
+  34,R,J
+   1,J
+   1,K
+  24,R,K
+   7,R,J,G
+   4,R
+   1
+   1,R,J
+   1
+   3,R
+   1,R,J
+   4,R
+   1,R,J,G
+   5,R,J,G
+   2,J
+   1,J,G
+   2,L,J
+   4,L
+   1,R,K,G
+   3,L,K
+   3,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
    1,J
    6,L,J
-   1,J
-  15,U,X
-   1,L
-   5,L,J
-   2,L
-   4,R
-   5,R,J,G
-   1,L,J
+  14,J
+  21,U,J,G
+  10,L,J,G
+  10,L,J
   12,K
-  12,J
+   1,R,K
+   1,K
+   1,R,K
+   1,K
+  16,J
+   3,K
+   9,J
   40
 
 #lvl_b-01

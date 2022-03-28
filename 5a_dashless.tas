@@ -153,8 +153,9 @@ console load 5
    9,R,J
   15,R,X
   76
-  10,L,D
-  11,R,D
+   1,G
+   3,L,D
+  12,R,D
    8,R,J
    1,K
    1,R,J
@@ -2495,4 +2496,4 @@ console load 5
    1,D,J
   18
 
-ChapterTime: 5:32.095(19535)
+ChapterTime: 5:32.010(19530)

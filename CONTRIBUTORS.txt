@@ -1,5 +1,6 @@
 The following people contributed inputs to this repository:
 
+aleph_null
 Algorythm
 amber
 cake
@@ -7,6 +8,7 @@ Cr33pyCat
 dahlukeh
 daffodilian
 DDSalvy
+EllaTAS
 euniversecat
 Ianwubby
 JaThePlayer
@@ -18,6 +20,7 @@ med
 Mnstrman06
 nebs
 NitroDash
+pansear
 RareBeeph
 RichConnerGMN
 RisingStar111

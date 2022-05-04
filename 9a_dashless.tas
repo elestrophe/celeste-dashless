@@ -5,8 +5,8 @@ Set,DashMode,Two
 #console load 10 9572.6 -1863.6 0 -25
 #play,Power Source,39
 
-#console load 10 12806.4 -4666
-#play,Remembered,38
+#console load 10 12806 -4659
+#play,Remembered,37
 
 #console load 10 18559 -6217
 #play,Event Horizon,37
@@ -1919,10 +1919,11 @@ console load 10
 #REMEMBERED 13x
 #lvl_e-00z
 #0x
-  13
+   6
+   1,J
+   1,R
    1,R,J
   11,R
-   1,R,D
    8,R,J
    1,L,J
    1,R,J
@@ -1953,100 +1954,75 @@ console load 10
    6
    1,L
   14,L,J
-   3,L,K,G
-   9,K
+   2,L,K,G
+   3,K
+   1,K
+   6,K
    1
    1,J,G
-   3
-   1,L
+   1
+   3,L
    1
    1,L
    1,R
   12,R,J
    7,R
    1,G
-   1,J,G
+   1
    1,K
-   9,R,J,G
+  11,R,J,G
    5,R
-   2,R,J
    1,R,K,G
    1,R,J,G
+   2,R
+   4,R
+   1,R,J
+   4,R
+  19,R,J
    1,R
-   1
-   7,R
-  15,R,J
-   1,J
-   6,R,J
    1,G
-   1
-   1,J
-   2,L
-   3,R
-   1,R,J,G
    2,L,J
-   1,K
-   7,L,K
-   2,K
-   2
-   6,J,G
-   1,R,J
-   1,K
-  16,L,J,G
+   4,L
+  14,J
+   7,K,G
+   1,R
+   1,R
+  15,L,J,G
    1,L,K,G
-   3,L,J,G
-   7,L
-  13,L,J
-   1,R,J
-   1,K
-   1,J,G
+   2,L,J,G
+   5,L
+  17,L,K,G
    1,L,J
-   1,K,G
-   1,R,K
-   1,L,K
-   1,J,G
-   1,R,K
-   1,J,G
-   1,L,J
-   1,R,J
-   1,K,G
-   1,L,K
-   1,J,G
-   1,R,J
-   1,L,J
-   1,K,G
-   1,R,K
-   1,J,G
-   1,L,J
-   1,R,J
-   1,K,G
-   1,L,K
-   1,J,G
-   1,R,J
-   1,L,J
-   1,K,G
-   1,R,K
-   1,J,G
+   3,K
+Repeat,4
+   1,J
+   3,K
+EndRepeat
+   1,J
+   2,R,K
+   2,L,J
 #Remembered
-   1,R,K
+   4,R,K
+   1,J
   40
 
 #lvl_e-00
 #3x
-   2,R
+   1,R
    1,J
-   1,L,J
-   8,L,K,G
-   4,K
-   2,J,G
-   1,K
+   1,K,G
+   1,L,K
+   8,L,J,G
+   4,J
+   2,K,G
    1,J
-   2,R,J
    1,K
-   1,J,G
+   2,R,K
+   1,J
+   1,K,G
    1,L
-   1,L,K,G
    1,L,J,G
+   1,L,K,G
    1,L
    1
    8,L
@@ -4406,66 +4382,52 @@ AnalogMode,Precise
    9,R
    2,R,D
   21,R,U,Z
-   1,L,J,G
-   5
-   1,L
-   1,L
-  13,U,G
-  20,G
-  11,R,J
-   5,R
-   2,R,J
-   7,R
+   2,L,J,G
+   7
+  12,U,G
+  22,G
    2,R,J
    5,R
-   1,R,J
-   4,R
-   1,R,J
-  15,R
-   2,R,K,G
-   9,R
-   2,R,K
-   4,R
-  10,D
-   1
-   1,L,G
-   9,D,G
-  24,U,G
-   6,R,Z
-   1,R,J
+  14,R,X
+   1,R,J,G
+   1,R,K,G
+   3
    3,R
-   4,R,J
-   9,R
-   4,R,D,J
-   5,R
-   4,R,J
-   2,R
    1,R,J
-   2,R
+   1
+   5,R,D
+   1,R,J
+   1,J
+  10,R,J
+   1,J
+   8,R,J
+  14,R
+   2,R,J,G
+   1,J
    6,R,J
+  22,R,D
   40
 
 #lvl_h-04
 #0x
-   2,J
-   5
-   2,J
+   5,R,D
    1,R
-  16,R
+   8,R,D
    1
-  12,R
-  23,L
-   1,R
-  10,L
-  22,R
-  13,L
-   3,L
-   8
-  13,R
+   8,R,J
+  42,R,D
+   9,L,D
+   7,L
+   8,R
+   1,R,D
+   8,R
   16,L
-   1,L
-   9,L
-   1,L
+  18,R
+  16,L
+   1
+   2,L
+   1
+   7,L
    1
    9,D
   29,L,D

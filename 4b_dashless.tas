@@ -1,4 +1,4 @@
-#4B 40x
+#4B 39x
 
 console hard 4
   69
@@ -113,12 +113,12 @@ console hard 4
    1,R,J,G
   14,L,D
   25,D
-  15,L,U,X
-   1,J
-  20,R,K
-   7,R
+  15,R,U,X
+   3,R,K,G
+   4,K
+   4,R,K
    1,R,J,G
-   5,R,K,G
+   7,R,K,G
   38,R,D
    4,D,X
   11,R,U,X
@@ -894,7 +894,7 @@ console hard 4
    4,R
   40
 
-#d-01 (3x)
+#d-01 (2x)
    8,R,D,X
    1,R,J
    7,R
@@ -932,19 +932,28 @@ EndRepeat
   23,R
    4,D,X
   11,R,U,X
-  13,L,J,G
   12,L,K,G
+  12,L,J,G
+   6,L,K,G
    1,J
-  39,R,K
-   5,R,J
-   4,D,X
-   3,R,X
-  10,R,J,G
-  22,R
-   1,R,J
-  18,R,K,G
-  16,R
-  18,D
+  52,R,K
+   2,R,D,K
+   4,R,J,G
+   1,R
+  42,R,J
+   1,K
+   4,R
+   9
+  12,R
+   2,R,D,J
+   5,R,K,G
+   1,R
+  20,R,K
+  20,R,D
+   2,R
+   7,D
+   3
+   6,D
   18,R,J
    1,R,K,G
    2,R,J,G

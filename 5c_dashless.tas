@@ -1,39 +1,39 @@
-#5c 13x 0:24.021
+#5c 12x 0:24.021
 #made by chickenleg
 
 console rmx2 5
-  1
+   1
 
 #Start
-#lvl_00(2x)
   61
+
+#lvl_00(2x)
    1,R,J
   28,R
   34,R,K
-   1,R,D,X
-  13,R,U
+  14,R,U,Z
   24,R,J
    1,R
    4,L
    4,R
    3,R,J,G
   14,R
-  11,R,J
-   6,R
-   2,R,J
-  11,R
-   1,R,J
-   6,R
-  34,R,J
-  14,U,X
-   4,R,J
-  21,R
+   9,R,J
+   5,R
+   3,R,J
+  16,R,D
+  20,R,J
+  13,R
+  15,R,U,X
+  16,R
+  13,D
+   3,R
   43,R,J
    1,R,K,G
    3,L,K
    1,R,J,G
    1,R,K,G
-  11,R
+  15,R
    1,R,J
   10,R
   40
@@ -69,23 +69,31 @@ console rmx2 5
   12,U,C
   23,R,J
   25,R,X
-  41,R,D,C
-  14,U,X
+  32,R,D,C
+  15,R,U,Z
+   1,L,J,G
+   5,L,K,G
+  14,J
+  11,K,G
    1,J
-  23,L,J
-   8,L,K,G
-   8,R,J
-   8,R
-  51,R,J
-  12,U,X
-  12,R,J
-  20,R,D
-  12,D
-   9,L,D
+  10,K,G
+  28,R,K
+   1,R,D
+  53,R
+  11,J,G
+   8,K,G
+   2,R,K
+   2,L,K
+  15,R,Z
+  10,R,J
+   1,R
+   4
+   1,L,J,G
+  18,L
+  37,G
    1,R,J
-  45,R,K
-   1,R,D,X
-  19,R
+  20,R,K
+  35,R,D
   24,R,X
   12,U,C
   19,R,J
@@ -104,8 +112,7 @@ console rmx2 5
    8,U,X
   10,R,J
   12,R
-   1,R,D,X
-  12,R,U
+  13,R,U,Z
   19,D
   18,R,D
   15,R,X
@@ -114,3 +121,5 @@ console rmx2 5
   12,R,K,G
    9,L,J
  100,U,X
+
+ChapterTime:

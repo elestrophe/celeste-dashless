@@ -1,4 +1,4 @@
-#FAREWELL 201x
+#FAREWELL 200x
 
 Set,DashMode,Two
 
@@ -18,7 +18,7 @@ Set,DashMode,Two
 # Possible values: 37-39
 # -------------
 
-#console load 10 31505 -7964
+#console load 10 31524 -7938
 #play,Determination,37
 
 Set,DashMode,Normal
@@ -2729,7 +2729,7 @@ EndRepeat
    2,R
   40
 
-#EVENT HORIZON 47x
+#EVENT HORIZON 48x
 #lvl_f-door
 #2x
   12,R
@@ -3975,7 +3975,7 @@ EndRepeat
   40
 
 #lvl_g-06
-#5x
+#6x
    9,R,D,J
    1,K
    1,J
@@ -4077,38 +4077,39 @@ AnalogMode,Precise
    1,R,K
    1,R,J,G
    1,R,K,G
-   6,R
-   1,R,J
    2,R
-   1
+   5
+   1,R,J
+  15,R,D,X
+   9,R
+   8,R,J,G
    3,R
-   1,R,D
-   8,R
-   9,R,D
-   8,R,J
-   2,R,K,G
-   8,R
+   1,R,J,G
+   9,R
   40
 
 #DETERMINATION 38x
 #lvl_h-00b
 #4x
    2,R
-   1
-  16,R,J
-   9,R,D,X
-  46,R,U
-  44,F,75.5
-  75,F,90.9
-  16,R
-  30,R,X
-  23,R,U,Z
+   1,R,J
+   1,J
+   1,R,J
+  15,R
+  52
+   1,R,U
+  18,F,51.3
+ 101,F,95.1
+   1,R,U
+  12,R
+  15,R,X
+  10,R
 #Determination
   15,R,X
-  15,R
-   7,R,D
-   1,R
-  14,R,D
+  22,R,D
+   6,D
+   1,R,D
+   1,D
   40
 
 #lvl_h-00
@@ -4121,7 +4122,7 @@ AnalogMode,Precise
    1,J
   21,D
    1
-   2,D
+   2,R,D
    1,J
    2,R
    7

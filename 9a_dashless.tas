@@ -8,8 +8,8 @@ Set,DashMode,Two
 #console load 10 12806 -4659
 #play,Remembered,37
 
-#console load 10 18559 -6217
-#play,Event Horizon,38
+console load 10 18559 -6217
+play,Event Horizon,38
 
 # -------------
 # The above checkpoints depend on
@@ -2824,42 +2824,40 @@ EndRepeat
   14,R,Z
    1,R,J
    6,R
-  21,R,D,J
-   2,R
+  21,R,J
+   1,R
+   1
+***s
    1,R,K,G
-   2,K
+   1,K
+   1,R,K
    5,R
    1,R,K
    4,R
-   3,R,K,G
-   5,R
-   2,R,J
-   3,R
-   1,R,J
-   1,R
-   1
-   1,R
-   1,R,J,G
-   1,R
-   1
+   4,R,K,G
    7,R
+   1
+   5,R
+   1,R,K,G
+   1,R
+   1
+   9,R
    1,R,J
    5,R
+   1,R,J,G
+  13,R
    1,R,J
-   3,R
-   1,R,K
-  12,R
   40
 
 #lvl_f-01
 #2x
-   2,R
    2,R,J
    5,R
-   1,R,J
+   3,R,J
   10,R
-   1,R,K
+   1,R,J
   14,R,Z
+#1307
    4,R,J
    5,R
    2,R,J

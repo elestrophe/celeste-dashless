@@ -6534,18 +6534,19 @@ AnalogMode,Precise
    1
    1,R,K,G
    1,R,J,G
-   8,R,K,G
-   7,R
-  19,R,D,J,G
-   1,R,D,G
-   2,R,D,J,G
-  24,R,D,G
-   1,J,G
-   4,R,J,G
-  13,J,G
-   6,J
+   1,R,K,G
+   5,K
+   2,J,G
+   3
+   4,R
+  39,R,D,G
+   4,R,G
+   1,L,J,G
+   5,R,J,G
+  12,J,G
+   5,J
    1,R,J
-   1,J
+   2,J
   13,R,U,X
   52,R,U,J,G
   13,R,D,G
@@ -6561,21 +6562,24 @@ AnalogMode,Precise
   15,R
    5,L,D,X
   12
-  56,R,U,G
-  28,R,D,G
-  12,R,J,G
+  61,R,U,G
+  18,R,D,G
+   1,R,G
    8,R,D,G
+   9,R,J,G
+   7,R,G
   40
 
 #lvl_j-11
 #2x
-  33,R,D,G
    2,R,G
-  39,R,U,J,G
+   1,R,J,G
+  28,R,D,G
+   2,R,G
+  41,R,U,J,G
   35,R,D,G
   26
-  13,G
-   3,R,G
+  16,R,G
    1,G
    9,R,G
    1,L
@@ -6589,14 +6593,18 @@ AnalogMode,Precise
   54,L,U,G
    1,L,D,G
    9,R,D,G
-  30,R,U,J,G
+  29,R,U,J,G
+   1,R,J,G
+   1,R,U,J,G
    1,R,J
    1,J,G
    1,J
   22,D,J,G
-   2,J,G
-   1,U,J,G
-Repeat,54
+   1,J,G
+   1,D,J,G
+   1,J,G
+   1,D,J,G
+Repeat,53
    1,J,G
    1,J
 EndRepeat
@@ -7483,7 +7491,7 @@ AnalogMode,Precise
   10,R
   38
 #End_IGT
-ChapterTime: 18:13.797(64341)
+ChapterTime: 18:13.746(64338)
 
 # optional waiting for
 # visuals to play out

@@ -1,4 +1,4 @@
-#FAREWELL 200x
+#FAREWELL 199x
 
 Set,DashMode,Two
 
@@ -7101,9 +7101,9 @@ AnalogMode,Precise
    1,R,J,G
   40
 
-#FAREWELL 13x
+#FAREWELL 12x
 #lvl_j-16
-#13x
+#12x
    5,R,J,G
    2,R,G
    1,S
@@ -7398,39 +7398,34 @@ AnalogMode,Precise
   11,R,D
   18,L,D
   16,R,D
-  14,L,D
-   1,L
-   4,R
-   3,R,D
+  15,L,D
+  14,R,D
+  12,L,D
+   8,R,D
+Repeat,42
    1,L,D
-   2,R,D
-   1,R
-   6,D
+   1
+   1,R,D
+   1
+EndRepeat
    1,L,D
-   1,L,G
-  17,L,J,G
-   1,R,K,G
-  30,L,D
-  15,R,D
-   1,D
-   4,R,D
+   1
+   5,L
+   7,L,J
+  25,L,D
+  46,L,D
   49,L,D
   26,L
-   1,L,D,J
-   9,L
-   6
-   1,L
-   3,D
    1,L,D
-   2,D
+   1,L,J
+   7,L
+  20,D
+Repeat,6
    1,R,D
-Repeat,7
    1
    1,L,D
    1
-   1,R,D
 EndRepeat
-   1
    1,R,D
    1,J
   73,D
@@ -7445,48 +7440,53 @@ EndRepeat
    1,L
   17,R
   14,R,X
-  19,R,J,G
-   4,J,G
-   1,G
-   1,R,G
-   8,D,G
-   1,G
-  10,D,G
-   2,G
-   1,R,D,G
-  27,R,G
-   1,L
-  14,R
-   1
-  11,R,U,X
+  15,R,U,J,G
+  50,L,U,J,G
+   3,U,G
+   1,L,U,G
+   5,U,G
+   1,R
+  11,L
+  17,R
+   7,R,U,X
   21,R,G
    1,L
-   3,R
-   4
-  14,R,D,X
-  13,G
-   1,R,G
-   1,G
-   6,R,G
+  16,R
+  22,R,G
    1,L
   12,R
-  11,R,U,X
-  55,R,U,G
-   1,R,G
-   1,R,U,G
+   1,R,D
+   1,R
+   3,R,D
+   1,R
+   6,R,U,X
+  21,R,G
+   1,G
    1,L
-  25,R
-   1,R,J
-   2,R
-   6,R,D,X
+  25,R,D
+   3,R
+  20,R,D,G
+  15,R,D,G
+   1,D,G
+   4,R,D,G
+  53,R,U,G
+   1,L
+  14,R
+  21,R,X
    6
-   1,R,J
+  14,R
+   1
+   8,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
   10,R
-   5,L,D,X
+   2,R,J
+   6,R,D,X
   12
    1,R,J
-   8,R
-   4
+  16,R
   57,R
   50
   55,R
@@ -7503,7 +7503,7 @@ AnalogMode,Precise
   10,R
   38
 #End_IGT
-ChapterTime: 18:13.644(64332)
+ChapterTime: 18:19.254(64662)
 
 # optional waiting for
 # visuals to play out

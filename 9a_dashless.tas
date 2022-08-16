@@ -596,37 +596,40 @@ console load 10
    1,R
    1
    9,R
-   1,R,J
+   1,R,K
   14,R
    8,R,J
-   5,R
-   2,R,J
-  14,R,D
-   3,L,D
-   9,L
-  21,G
-  15,L,U,Z
-   6,L
-   8,R
-   2,R,D
-   1,L,D
-   1,R,D
-   2,R
-   1,R,D
-  13,R
-  23,L
-   6
-   1,L
-   2,R
-   1
+   4,R
    1,R
-   5
-   7,L,U,G
-Repeat,11
-  15,R,G
-   5,G
+   1,R,J
+   1
+   1,R,J
+  18,R,D
+   6,L,D
+   1,L
+   9,L,D
+   8,L,J
+  18,L,D
+  27,R,D
+  25,L
+  16,U,X
+   5,R,J
+   4,R,K,G
+   6,R
+  10
+  16,L
+   1,R
+   1,L
+   7,U,G
+   1,G
+   1,U,G
+   1,G
+   1,U,G
+Repeat,25
+   1,L,G
+   6,R,G
 EndRepeat
-   7,R,G
+   6,R,G
    1
    1,J
    2,K,G
@@ -3104,7 +3107,7 @@ EndRepeat
 #Spinner cycle
 #0-2
 
-   2,R
+   1,R
 # ---------
 
  109,R
@@ -7500,7 +7503,7 @@ AnalogMode,Precise
   10,R
   38
 #End_IGT
-ChapterTime: 18:13.746(64338)
+ChapterTime: 18:13.644(64332)
 
 # optional waiting for
 # visuals to play out

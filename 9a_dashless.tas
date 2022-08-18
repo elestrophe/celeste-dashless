@@ -40,9 +40,9 @@ Set,DashMode,Normal
 #console subspawnjelly .55 .25
 #play,Reconciliation 2
 
-#console load 10 76600 -10536
+#console load 10 76598 -10538
 #  37
-#console subspawnjelly .90 .97
+#console subspawnjelly -.10 -.03
 #play,Farewell
 
 console load 10
@@ -7075,49 +7075,57 @@ AnalogMode,Precise
    9,R,G
   24,R,U,K,G
   26
-  73,R,D,G
+  72,R,D,G
 #Farewell
-  28,R,D,G
+  29,R,D,G
    5,R,D,J,G
    2,R,J,G
-  38,R,U,K,G
+  30,R,U,K,G
+   8,R,U,G
    1,R
    1,R,K,G
-   4,R,J,G
-   8,R,D,X
+   1,R,J,G
+   1,R
+   6,R,D,X
    6
    1,R,J
-   5,R
-   1,R,J
-   9,R
-   4,X
-   1,L,D,X
-  12
-   3,R,J
+   2,R
+   1
+   3,R
    7,R
-  29,R,D,G
-   5,R,G
-  22,R,D,G
+   2,R,J
+   6,R,D,X
+  12
+   1,R,J
+   1,J
+   7
+   2,R
+  56,R,D,G
+   2,R
+   1,R,J
+   1,R,K,G
    1,R,J,G
+   1,R
+   1
+  10,R
+   1,R,J
+  14,R,G
   40
 
 #FAREWELL 12x
 #lvl_j-16
 #12x
-   5,R,J,G
-   2,R,G
+   6,R,G
    1,S
    1,D,J
   34
-  30,R,D,G
-   5,R,D,J,G
-   5,R,J,G
-  22,R,K,G
-   4,R,K
-  44,R,U,K,G
-   5,R,D,G
-   1,D,G
-   1,R,D,G
+   8,R,G
+   1,R,J,G
+  17,R,D,G
+  24,R,J,G
+   3,R,J
+  51,R,U,J,G
+   6,R,D,G
    4,R
    1
    1,R
@@ -7125,60 +7133,57 @@ AnalogMode,Precise
    6
   21,R,G
    1,R
-  25,R,G
+  26,R,G
    1,R
   25,R,G
    1,G
    1,D
-  17,G
+  20,G
    1,R,G
-   3,G
    1,D
   21,R,G
    4,R
-  34,R,D,G
-  18,R,U,G
+  35,R,D,G
+  12,R,U,G
+   1,R,D,G
+  25,R,U,G
    1,R,G
-   2,R,U,G
-   1,R,G
-  21,R,U,G
+   1,R,U,G
    6,R
-  48,R,U,G
-   9,U,G
-   2,G
+  46,R,U,G
    1,U,G
-   1,G
+   1,R,U,G
+   6,U,G
+   2,G
+   3,U,G
+   2,G
    2,U,G
-   1,R,G
-   1,G
+   2,G
    1
    6,L
    7
    9,R
-  14,R,G
-   1,G
+  14,G
    6,R,G
+   1,G
    1,R
-  23,R,U,G
-   4,R
-  43,R,D,G
-  18,R,U,G
-   1,R,D,G
-   2,R,U,G
+  25,R,U,G
    3,R
-  38,R,U,G
+  42,R,D,G
+  17,R,U,G
    1,R,G
-  16,R,U,G
-  47,U,G
-   1,G
+   5,R,U,G
+   3,R
+  54,R,U,G
+  48,U,G
+   3,G
    1,U,G
-   1,G
-   1,U,G
-   3
-   3,L
-   1
-  13,L
+   1,L,U,G
+   1,R,U,G
+   4
    1,L
+   1
+  15,L
    7
   18,R
   21,R,G
@@ -7206,9 +7211,12 @@ AnalogMode,Precise
    4,R
    8,L
    1
-  26,L
+   8,L
+  18,L
   11,R
-  67,R,U,G
+  38,R,U,G
+   1,R,D,G
+  28,R,U,G
    1,L
   22,R
   26
@@ -7216,33 +7224,28 @@ AnalogMode,Precise
   20,R
   62,R,U,G
   32,R,D,G
-  27,R,G
-   6,L,G
-  40,L
-   1,G
+  24,R,G
+   9,L,G
    1
-   1,G
-   1
-   1,G
-   2,L
-   1,G
-   1
-   1,G
-   2
-Repeat,4
+   1,R,D
+  35,L,D
+Repeat,11
    1,G
    1
 EndRepeat
-  29,R,J
+   2
+   1,J
+   2,K,G
+  25,R,J
    2,J
   55,R
   14,R,U,X
   66,R,D,G
   28,D,G
-   1,L,G
-   1,D,G
+   1,L,D,G
+   1,G
    1,R,G
-   2,G
+   1,G
   36,R,G
    1,L
   15,R
@@ -7255,104 +7258,95 @@ EndRepeat
    1,R,D,G
   16,R,U,G
    1,U,G
-   1,R,U,G
+   1,R,G
    1,U,G
    1
-   9,U,X
-   8,R,J
-  10,R
-   3,R,J
+   8,U,X
+   9,R,J
+   6,R
+   1
+   3,R
+   2,R,J
   11,R
- 294,R,U,J,G
-  61,L,U,G
+ 295,R,U,J,G
+  62,L,U,G
   56,R,U,G
-  40,L,U,G
-  33,R,U,G
-  37,L,U,G
+  39,L,U,G
   31,R,U,G
+  37,L,U,G
+  30,R,U,G
    1,U,G
-  10,R,U,G
+  11,R,U,G
    1,U,G
-   7,R,U,G
+   8,R,U,G
   24,R,D,G
-   2,R,G
-   1,R,D,G
-  23,R,U,G
    1,R,G
-  13,R,U,G
+   1,R,D,G
+  38,R,U,G
    1,L,U,G
-  24,U,G
-  18,L,U,G
+  25,U,G
+  12,L,U,G
    1,U,G
-  27,L,U,G
-   8,L,D,G
-   2,L,U,G
+   9,L,U,G
+   1,U,G
+  22,L,U,G
+  10,L,D,G
+   8,L,U,G
    1,L,D,G
-  48,L,U,G
-  34,R,U,G
+  40,L,U,G
    1,U,G
-  61,R,U,G
+   1,L,U,G
+  37,R,U,G
+   1,U,G
+  58,R,U,G
   51,R,D,G
   76,R,U,G
   36,L,U,G
   32,R,U,G
   38,L,U,G
-  54,R,U,G
-  35,L,U,G
+  53,R,U,G
+  20,L,U,G
+   1,R,U,G
+  21,L,U,G
    1,U,G
-   6,L,U,G
-   1,U,G
-   6,L,U,G
-   1,L,D,G
+   7,L,U,G
   19,R,D,G
    8,R,J,G
-  21,R,D,G
-   1,R,D,J,G
-   6,R,D,G
-   5,R,U,J,G
-  42,U,J,G
-   1,L,U,G
+  28,R,D,G
+   4,R,U,J,G
+  44,U,J,G
+  18,L,U,G
    1,U,G
-  17,L,U,G
-   1,U,G
-   3,L,U,G
-  12,L,D,G
+   4,L,U,G
+  11,L,D,G
+   1,D,G
    1,L,G
-   2,L,D,G
    3,L,U,J,G
    3,R,U,J,G
-  11,R,U,G
-   1,L,U,G
-  11,R,U,G
-   1,R,G
-   1,R,U,G
-  14,R,D,G
-   1,L,D,G
-   1,L,G
-   1,L,D,G
-  22,L,U,J,G
-   7,R,U,G
+  25,R,U,G
+  15,R,D,G
+  25,L,U,J,G
+   5,R,U,G
    1,L,U,G
   41,R,U,G
   14,R,D,G
-   1,R,G
    1,R,J,G
    6,R,D,G
-  16,R,U,G
-   1,R,G
-   5,R,U,G
-   1,R,G
+  12,R,U,G
+   1,R,D,G
+   6,R,U,G
+   3,R,U,J,G
   46,R,U,G
- 102,U,G
+ 103,U,G
    2,G
    1
-  16,L
-  27,D
+  15,L
+  28,D
    1
   10,D
    1
-  51,D
-  20,L,D
+  52,D
+  19,L,D
   14,R,D
    1,R,D
    5,R,D
@@ -7375,22 +7369,22 @@ EndRepeat
    1,R,J
    5,R
   10,R,J
-  15,R
-  15,R,D
+  16,R
+   9,R,D
+   1,R
+   5,R,D
   37,R,D
-  13,L,D
-   1,D
-   7,L,D
+  21,L,D
    1,D
   18,R
   15,R,U,X
 AnalogMode,Precise
   27,D
-   5,F,189.823
+   5,F,189.869
   72,F,237.786
   12,F,173
   12,F,109
-  18,F,107.376
+  18,F,107.378
   24,R,D
    1,R
   10,R,D
@@ -7398,34 +7392,39 @@ AnalogMode,Precise
   11,R,D
   18,L,D
   16,R,D
-  15,L,D
-  14,R,D
-  12,L,D
-   8,R,D
-Repeat,42
+  14,L,D
+   1,L
+   4,R
+   3,R,D
    1,L,D
-   1
-   1,R,D
-   1
-EndRepeat
+   2,R,D
+   1,R
+   6,D
    1,L,D
-   1
-   5,L
-   7,L,J
-  25,L,D
-  46,L,D
+   1,L,G
+  17,L,J,G
+   1,R,K,G
+  30,L,D
+  15,R,D
+   1,D
+   4,R,D
   49,L,D
   26,L
+   1,L,D,J
+   9,L
+   6
+   1,L
+   3,D
    1,L,D
-   1,L,J
-   7,L
-  20,D
-Repeat,6
+   2,D
    1,R,D
+Repeat,7
    1
    1,L,D
    1
+   1,R,D
 EndRepeat
+   1
    1,R,D
    1,J
   73,D
@@ -7440,13 +7439,16 @@ EndRepeat
    1,L
   17,R
   14,R,X
-  15,R,U,J,G
-  50,L,U,J,G
-   3,U,G
-   1,L,U,G
-   5,U,G
-   1,R
-  11,L
+  18,R,U,J,G
+   1,R,U,G
+   1,U,G
+   1,R,U,J,G
+  11,U,G
+   1,D,G
+   6,U,G
+   1
+  14,L
+   1
   17,R
    7,R,U,X
   21,R,G
@@ -7455,21 +7457,22 @@ EndRepeat
   22,R,G
    1,L
   12,R
-   1,R,D
-   1,R
-   3,R,D
-   1,R
+   2,R
+   4,R,D
    6,R,U,X
-  21,R,G
+  20,R,G
    1,G
+   1,R,G
    1,L
   25,R,D
-   3,R
-  20,R,D,G
-  15,R,D,G
+  31,R,D,G
    1,D,G
-   4,R,D,G
-  53,R,U,G
+   8,R,D,G
+   1,R,G
+  44,R,U,G
+   1,R,G
+   6,R,U,G
+   2,R,G
    1,L
   14,R
   21,R,X
@@ -7478,15 +7481,13 @@ EndRepeat
    1
    8,R
    1,R,J,G
-   1,R,K,G
-   1,R
-   1
-  10,R
-   2,R,J
-   6,R,D,X
+   2,R,K,G
+  16,R
+   5,L,D,X
   12
    1,R,J
-  16,R
+  11,R
+   2
   57,R
   50
   55,R
@@ -7503,7 +7504,7 @@ AnalogMode,Precise
   10,R
   38
 #End_IGT
-ChapterTime: 18:19.254(64662)
+ChapterTime: 18:15.633(64449)
 
 # optional waiting for
 # visuals to play out

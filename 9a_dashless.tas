@@ -3,13 +3,13 @@
 Set,DashMode,Two
 
 #console load 10 9572.6 -1863.6 0 -25
-#play,Power Source,37
+#play,Power Source,39
 
 #console load 10 12806 -4659
-#play,Remembered,37
+#play,Remembered,38
 
 #console load 10 18559 -6217
-#play,Event Horizon,38
+#play,Event Horizon,39
 
 # -------------
 # The above checkpoints depend on

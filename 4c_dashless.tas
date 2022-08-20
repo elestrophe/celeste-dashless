@@ -4,8 +4,10 @@ console rmx2 4
    1
 
 #Start
-#lvl_00
   61
+
+#lvl_00
+#3x
   20,R,D,J,X
   13,R
   13,U,X
@@ -26,6 +28,7 @@ console rmx2 4
   40
 
 #lvl_01
+#0x
    8,R
    1,R,J
   14,R
@@ -82,6 +85,7 @@ console rmx2 4
   40
 
 #lvl_02
+#3x
    4,R,J
    1,K
   13,J
@@ -133,3 +137,4 @@ console rmx2 4
   39,R,J
   35,R,K
  155,R,U,X
+ChapterTime: 0:32.929(1937)

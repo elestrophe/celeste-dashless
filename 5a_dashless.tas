@@ -1,12 +1,13 @@
-#5A 17X
+#5A 17x
 
-#reset
 console load 5
    1
 
 #Start
-#lvl_a-00b
  110
+
+#lvl_a-00b
+#0x
    1,S
    1,D,J
   34
@@ -28,6 +29,7 @@ console load 5
   40
 
 #lvl_a-00d
+#0x
    3
    5,R
   10,R,J
@@ -79,6 +81,7 @@ console load 5
   40
 
 #lvl_a-00c
+#0x
   14,R
    1,R,J
   14,R
@@ -147,6 +150,7 @@ console load 5
   40
 
 #lvl_a-00
+#0x
   10,R
    1,R,J
   14,R
@@ -163,6 +167,7 @@ console load 5
   40
 
 #lvl_a-01
+#0x
    4,R,D
    1,R,J
   14,R
@@ -185,7 +190,8 @@ console load 5
   81
   40
 
-#lvl_a-08 (1X)
+#lvl_a-08
+#1x
   37
    1,R,J
    4,R,K
@@ -208,7 +214,8 @@ console load 5
   10,R
   40
 
-#lvl_lvl_a-12
+#lvl_a-12
+#1x
    8,R
    8,R,J
    1,R,K
@@ -236,6 +243,7 @@ console load 5
   40
 
 #lvl_a-08
+#1x
   17,L
    1,L,J
   15,L
@@ -260,6 +268,7 @@ console load 5
   40
 
 #lvl_a-01
+#0x
    3,L,D
   26,D
   20,R,D
@@ -269,6 +278,7 @@ console load 5
   61
 
 #lvl_a-13
+#0x
   14,R
    1,R,J
   13,R
@@ -392,7 +402,8 @@ console load 5
   11,R
   40
 
-#lvl_b-00 (1X)
+#lvl_b-00
+#1x
    3,R
    1,R,J
   14,R
@@ -403,8 +414,6 @@ console load 5
    1,S
    1,D,J
   34
-
-#lvl_b-00
    1,R,J
   14,R
    1,R,J
@@ -472,6 +481,7 @@ console load 5
   40
 
 #lvl_b-01
+#0x
    8,R
   12,R,D,J
    1,R
@@ -541,7 +551,8 @@ console load 5
    4,R
   40
 
-#lvl_b-01b (1X)
+#lvl_b-01b
+#1x
   10,R
    5,R,J
    7,R
@@ -614,6 +625,7 @@ console load 5
   40
 
 #lvl_b-02
+#0x
   14,R
    4,R,J
    5,R
@@ -640,7 +652,8 @@ console load 5
    8,R
   40
 
-#lvl_b-06 (1X)
+#lvl_b-06
+#1x
    1,S
    1,D,J
   69,O
@@ -655,12 +668,12 @@ console load 5
    1,R,K
    1,R,J,G
    6,R,K,G
-Repeat 13
+Repeat,13
    1,R
    1,R,K
    4,R
    3,R,J
-Endrepeat
+EndRepeat
    1,R
    1,R,K
    4,R
@@ -685,6 +698,7 @@ Endrepeat
   40
 
 #lvl_b-19
+#1x
   10,R
    1,R,J
    6,R,K
@@ -760,7 +774,8 @@ Endrepeat
  137
   40
 
-#lvl_b-14 (1X)
+#lvl_b-14
+#1x
    6
   19,R,J
    1,R,K,G
@@ -774,7 +789,8 @@ Endrepeat
   13,U,X
   43
 
-#lvl_b-16 (2X)
+#lvl_b-16
+#2x
    2,R
    3,L
   23,L,J
@@ -842,6 +858,7 @@ Endrepeat
  543
 
 #lvl_void
+#0x
   19,R,D,X
   19,L,D,C
    6,F,204.6
@@ -872,6 +889,7 @@ Endrepeat
  225
 
 #lvl_c-00
+#0x
    5,R
    3,R,J
   16,R,D
@@ -895,6 +913,7 @@ Endrepeat
   40
 
 #lvl_c-01
+#0x
    8,R
    1,R,J
   18,R
@@ -968,6 +987,7 @@ Endrepeat
   40
 
 #lvl_c-01b
+#1x
   24,R,D
    1,D
    3
@@ -1009,6 +1029,7 @@ Endrepeat
   40
 
 #lvl_c-01c
+#1x
    4,R,J
   18,R,D
   19,D
@@ -1042,6 +1063,7 @@ Endrepeat
   40
 
 #lvl_c-08b
+#1x
    2,R
    1,R,J
    3,R,D
@@ -1091,6 +1113,7 @@ Endrepeat
   40
 
 #lvl_c-08
+#0x
    1,R,J
   14,R
    3,R,J
@@ -1129,6 +1152,7 @@ Endrepeat
   40
 
 #c-10
+#0x
    1,R,J
    1
    1,R,J
@@ -1182,6 +1206,7 @@ Endrepeat
   40
 
 #lvl_c-12
+#0x
    4,R
    1,R,J
   15,R,D
@@ -1245,6 +1270,7 @@ Endrepeat
   40
 
 #lvl_c-07
+#0x
    8,R
    3,R,J
    5,R
@@ -1302,6 +1328,7 @@ Endrepeat
   40
 
 #lvl_c-11
+#0x
    1,R,J
   14,R
    1,R,J
@@ -1332,6 +1359,7 @@ Endrepeat
   40
 
 #lvl_c-09
+#0x
    8,R
    5,R,J,G
    5,R
@@ -1381,6 +1409,7 @@ Endrepeat
   40
 
 #lvl_c-13
+#0x
    5,R
    3,R,J
    5,R
@@ -1506,6 +1535,7 @@ Endrepeat
   40
 
 #lvl_d-00
+#1x
    1
    1,J
    3,L,J
@@ -1557,6 +1587,7 @@ Endrepeat
   40
 
 #lvl_d-01
+#0x
   57
    1,J
   16,L,D
@@ -1600,7 +1631,8 @@ Endrepeat
    7,L
   40
 
-#lvl_d-04 (1X)
+#lvl_d-04
+#1x
    7,L
    1,L,J
   23,L,D
@@ -1647,12 +1679,14 @@ Endrepeat
   40
 
 #lvl_d-19b
+#0x
   19,D
   11,R,D
   12,D
   40
 
 #lvl_d-19
+#0x
   23,D
   10,L,D
    1,L,J
@@ -1708,6 +1742,7 @@ Endrepeat
   40
 
 #lvl_d-19b
+#0x
   12,L
    1,J,G
   10,L,J
@@ -1758,6 +1793,7 @@ Endrepeat
   40
 
 #lvl_d-10
+#0x
   14,R
    1,R,J
   16,R
@@ -1789,6 +1825,7 @@ Endrepeat
   40
 
 #lvl_d-20
+#0x
    1
    1,J
    1,K
@@ -1863,6 +1900,7 @@ Endrepeat
   40
 
 #lvl_e-00
+#0x
    5,R
    1,R,J
   14,R
@@ -1890,8 +1928,6 @@ Endrepeat
    1,S
    1,D,J
   34
-
-#lvl_e-00
    1,R,J
   14,R
    1,R,J
@@ -1918,6 +1954,7 @@ Endrepeat
   40
 
 #lvl_e-01
+#0x
   14,R
    1,R,J
   14,R
@@ -1958,6 +1995,7 @@ Endrepeat
   40
 
 #lvl_e-02
+#0x
    6,R
    1,R,J
   14,R
@@ -1992,6 +2030,7 @@ Endrepeat
   40
 
 #lvl_e-03
+#0x
    3,R
    1,R,J
   14,R
@@ -2044,6 +2083,7 @@ Endrepeat
   40
 
 #lvl_e-04
+#0x
   10,R,D
    1,R,J
   14,R
@@ -2091,6 +2131,7 @@ Endrepeat
   40
 
 #lvl_e-06
+#0x
   10,R
    1,R,J
   14,R
@@ -2137,6 +2178,7 @@ Endrepeat
   40
    
 #lvl_e-05
+#0x
   13,R,J,G
   13,L,J,G
    1,K,G
@@ -2171,6 +2213,7 @@ Endrepeat
   40
 
 #lvl_e-07
+#0x
    6,R
    1,R,J
   14,R
@@ -2214,7 +2257,8 @@ Endrepeat
    4,R
   40
 
-#lvl_e-08 (1X)
+#lvl_e-08
+#1x
   10,R
    1,R,J
   14,R
@@ -2257,7 +2301,8 @@ Endrepeat
    1,R
   40
 
-#lvl_e-09 (1X)
+#lvl_e-09
+#1x
   13,R
    7,R,J
   15,R,J,G
@@ -2294,6 +2339,7 @@ Endrepeat
   40
 
 #lvl_e-10
+#0x
   12,R
    1,L
    3,R
@@ -2361,7 +2407,6 @@ Endrepeat
    1,R
    1,L
    6,R
-
    4,R,J
    1,R,K,G
    3,R,J,G
@@ -2370,6 +2415,7 @@ Endrepeat
   40
 
 #lvl_e-11
+#0x
   18,R,D
    1,R,J
   14,R
@@ -2475,5 +2521,4 @@ Endrepeat
    1,S
    1,D,J
   18
-
 ChapterTime: 5:29.137(19361)

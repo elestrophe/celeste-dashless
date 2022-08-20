@@ -4,14 +4,15 @@ console hard 5
    1
 
 #Start
+ 190
+
 #lvl_start
 #0x
- 190
    5,R
-repeat 9
+Repeat,9
    1,R,J
   14,R
-endrepeat
+EndRepeat
    1,R,J
   13,R
   40
@@ -979,5 +980,5 @@ endrepeat
    9,R,J,G
   36,R
    3,R,D,J
- 170,R,G
-   1,O
+ 111,R,G
+ChapterTime: 2:55.219(10307)

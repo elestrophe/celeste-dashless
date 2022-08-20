@@ -6,7 +6,8 @@ console rmx2 6
 #Start
   69
 
-#lvl_00(3x)
+#lvl_00
+#3x
    1,R,J
   14,R
    8,R,J
@@ -50,7 +51,8 @@ console rmx2 6
    7,R
   40
 
-#lvl_01(3x)
+#lvl_01
+#3x
    9,R,J
    5,R
   38,R,J
@@ -99,7 +101,8 @@ console rmx2 6
    2,L
   40
 
-#lvl_02 (6x)
+#lvl_02
+#6x
    1,R,J
   34,L,D
   13,D
@@ -160,5 +163,4 @@ console rmx2 6
   31,R
   17,R,U,X
  135
-
 ChapterTime: 0:30.447(1791)

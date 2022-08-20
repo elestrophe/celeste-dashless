@@ -1,21 +1,22 @@
-#3A 18X (TBM) 6:13.830
+#3A 18x
 
 #console load 3 4580 -256
-#play,Section Huge Mess,37
+#play,Huge Mess,37
 
 #console load 3 4678 -283
-#play,Section Elevator Shaft,38
+#play,Elevator Shaft,38
 
 #console load 3 2208 -583
-#play,Section Rooftop,37
+#play,Rooftop,37
 
-#reset
 console load 3
    1
 
 #Start
-#lvl_s0
   61
+
+#lvl_s0
+#0x
    1,R,J
   14,R
    1,R,J
@@ -46,6 +47,7 @@ console load 3
   40
 
 #lvl_s1
+#0x
    1,R,J
   14,R
    1,R,J
@@ -84,6 +86,7 @@ console load 3
   40
 
 #lvl_s2
+#0x
   13,R
    1,R,J
   14,R
@@ -136,6 +139,7 @@ console load 3
   40
 
 #lvl_s3
+#0x
   11,R
    1,R,D,J
   14,R
@@ -238,6 +242,7 @@ console load 3
   40
 
 #lvl_0x-a
+#0x
    8,R
    3,R,J
    5,R
@@ -274,6 +279,7 @@ console load 3
   40
 
 #lvl_00-a
+#1x
   12,R
    3,R,J
    5,R
@@ -330,6 +336,7 @@ console load 3
   40
 
 #lvl_02-a
+#0x
    4,R,J
    4,R
    1,J
@@ -362,6 +369,7 @@ console load 3
   40
 
 #lvl_02-b
+#0x
    7,L
    1
    1,L,K,G
@@ -422,6 +430,7 @@ console load 3
   40
 
 #lvl_02-a
+#0x
    8,R
    1,L
    1,R
@@ -470,6 +479,7 @@ console load 3
   40
 
 #lvl_03-a
+#0x
    4,R,J
   12,R
   10,R,J
@@ -556,6 +566,7 @@ console load 3
   40
 
 #lvl_05-a
+#0x
   18,R,D,J
    1,L,J
    1,K
@@ -601,6 +612,7 @@ console load 3
   40
 
 #lvl_06-a
+#0x
   33,R,J
    2,R,K,G
    4,L,K
@@ -633,6 +645,7 @@ console load 3
   40
 
 #lvl_07-a
+#0x
    3,R,J
    1,L,K,G
    1,L,J,G
@@ -645,6 +658,7 @@ console load 3
   40
 
 #lvl_07-b
+#0x
    2,J,G
    1
    1,R
@@ -658,6 +672,7 @@ console load 3
   40
 
 #lvl_06-b
+#0x
   11,L
    1,L,J
   12,L
@@ -708,6 +723,7 @@ console load 3
   40
 
 #lvl_06-c
+#0x
    3,R
    1,R,J,G
    1,R,K,G
@@ -774,6 +790,7 @@ console load 3
   43
 
 #lvl_08-c
+#0x
    2,R,J
    2,L,J
    6,R
@@ -813,10 +830,11 @@ console load 3
   40
 
 #lvl_08-b
+#0x
   12,L,D
   12,L
   15,R,D
-#Section Huge Mess
+#Huge Mess
   22,R,D
    5,R
   27,L,D
@@ -848,6 +866,7 @@ console load 3
   40
 
 #lvl_07-b (2)
+#0x
    3,L
    4,L,J
   25,L,D
@@ -882,6 +901,7 @@ console load 3
   40
 
 #lvl_07-a
+#0x
   14,L,D
    1,R,D
    2,L,D
@@ -1010,7 +1030,8 @@ console load 3
    6,R
   40
 
-#08-a
+#lvl_08-a
+#0x
    8,R
    1,R,J
   14,R
@@ -1050,7 +1071,8 @@ console load 3
    6,R,J
   40
 
-#09-b
+#lvl_09-b
+#0x
   12,R,J
    1,L,J
    1,K,G
@@ -1188,16 +1210,11 @@ console load 3
   10,L
    7,R
    1,L
-
-#cutscene skip
-   1,D,J,X
-#115.957(6821)
+   1,D,X
    1,S
    1,D,J
   34
-
 #H1-Return
-#09-b
 #probably a bad resync
    4,R
    1,R,J
@@ -1236,30 +1253,8 @@ console load 3
   12,R,K
   40
 
-#  13,R,K,G
-#   1,R,J,G
-#   3,R,K,G
-#   7,R,J,G
-#   5,R
-#  20,R,J
-
-
-#   9,R,J,G
-#   4,J
-#   5,R,K
-#   9,R,J
-#   3,L,K
-#   6,R,J
-#  14,R,K,G
-#   3,R,J,G
-#   2,R
-#   1,R,J,G
-#  13,R
-#  13,R,J
-#  12,R,K
-
-#TOP
-#10-c
+#lvl_10-c
+#0x
    1,R,J,G
    2,R
    1,K
@@ -1271,7 +1266,6 @@ console load 3
   10,L
    1,L,J
   24,L
-
   23,L,J
    2,L,K,G
    4,R,K,G
@@ -1313,7 +1307,8 @@ console load 3
    8,R
   40
 
-#11-c
+#lvl_11-c
+#0x
    6,R
    1,R,J
   28,R,D
@@ -1338,12 +1333,14 @@ console load 3
    9,R
   40
 
-#12-c
+#lvl_12-c
+#0x
   13,R,J
    7,L,K
   40
 
-#12-d
+#lvl_12-d
+#0x
    8,L
    1,J
    4,R,J
@@ -1410,7 +1407,8 @@ console load 3
   11,L
   40
 
-#11-d (1X)
+#lvl_11-d
+#1x
    4,L
    1,L,J
    9,L
@@ -1441,7 +1439,8 @@ console load 3
    2,L
   40
 
-#10-d (1X)
+#lvl_10-d
+#1x
   12,L
   11,L,D,J
    1,L,K
@@ -1450,7 +1449,6 @@ console load 3
    1,L,J,G
    1,L,K,G
    9,L
-
   20,L,J
   14,L,D,X
  103
@@ -1458,7 +1456,6 @@ console load 3
    1,L,J
    3,L
    1,R
-
    1,L,K,G
    1,L,J,G
   10,L
@@ -1468,11 +1465,13 @@ console load 3
   35,L,D
   40
 
-#10-c
+#lvl_10-c
+#0x
   43,L,D
   41
 
-#09-b
+#lvl_09-b
+#0x
   11,D
    8,R,D
   11,L,J
@@ -1499,14 +1498,10 @@ console load 3
    2,R,K,G
   25,R,D
    2,R
-
-#cutscene skip
    1,X
    1,S
    1,D,J
   34
-
-#09-b
    1,S
    1,D,J
    1,O
@@ -1548,15 +1543,16 @@ console load 3
   18,R,D
   40
 
-#BOTTOM
-#10-x
+#lvl_10-x
+#0x
    2,L,D
    6,R,D
    1,R,J
    8,R
   40
 
-#11-x
+#lvl_11-x
+#0x
    5,R
    1,J
    2,R,K
@@ -1604,7 +1600,8 @@ console load 3
   11,L,D
   40
 
-#11-y
+#lvl_11-y
+#0x
    4,L,D
    1,L,J
    9,L
@@ -1638,7 +1635,8 @@ console load 3
   40
 
 #H2
-#11-z
+#lvl_11-z
+#0x
    7,R,D
    1,R,J
   14,R,D
@@ -1673,7 +1671,8 @@ console load 3
   11,L,D
   40
 
-#10-z
+#lvl_10-z
+#0x
    3,D
    1,L,D,J
    8,R,J
@@ -1717,7 +1716,8 @@ console load 3
    5,L,K
   40
 
-#10-y
+#lvl_10-y
+#0x
   11,R
    2,L,K
    2,R,J
@@ -1751,7 +1751,8 @@ console load 3
   12,L,J,G
   40
 
-#10-x
+#lvl_10-x
+#1x
   11
    1,R,J
    8,R,K
@@ -1787,7 +1788,8 @@ console load 3
   40
 
 #H2-Return
-#09-b
+#lvl_09-b
+#0x
    4,L
   11,L,J,G
   11,R,K
@@ -1822,14 +1824,10 @@ console load 3
   15,L,J
    2,K,G
    7,L,D
-
-#cutscene skip
    1,R,X
    1,S
    1,D,J
   34
-
-#09-b
    1,R,J
   18,R
    1,R,J,G
@@ -1850,8 +1848,8 @@ console load 3
    9,R
   40
 
-#MIDDLE
-#11-b (1X)
+#lvl_11-b
+#1x
    6,R
    3,R,J
    7,R
@@ -1864,13 +1862,9 @@ console load 3
   15,R
    1,R,J
    2,R
-
-#cutscene skip
    1,S
    1,D,J
   34
-
-#11-b
   12,R
    1,R,J
   14,R
@@ -1886,7 +1880,8 @@ console load 3
    3,R
   40
 
-#12-b
+#lvl_12-b
+#0x
   12,R
    1,R,J
   16,R
@@ -1907,7 +1902,8 @@ console load 3
   16,R
   40
 
-#13-b
+#lvl_13-b
+#0x
   10,R
   10,R,J
    4,R
@@ -1946,7 +1942,8 @@ console load 3
   20,L,D
   40
 
-#13-a
+#lvl_13-a
+#0x
    4,D
    1,L,J
   10,L
@@ -1996,7 +1993,8 @@ console load 3
   19,D
   40
 
-#13-x
+#lvl_13-x
+#0x
    7,L,D
    1,L,J
   33,L,D
@@ -2023,7 +2021,8 @@ console load 3
   15,L
   40
 
-#12-x (1X)
+#lvl_12-x
+#1x
    6,L
    1,R
    1,L
@@ -2063,8 +2062,8 @@ console load 3
    9,R,K,G
   40
 
-#11-a
-
+#lvl_11-a
+#0x
    2,L
   12,L,J
    1,L,K,G
@@ -2093,7 +2092,8 @@ console load 3
   10,L
   40
 
-#09-b
+#lvl_09-b
+#0x
    1,L
   10,L,J
   18,L
@@ -2157,20 +2157,17 @@ console load 3
    4,L
    1,L,J,G
   16,L
-
-#cutscene skip
    1,S
    1,D,J
   34
-
-#09-b
   20,L,J
-#Section Elevator Shaft
+#Elevator Shaft
    3,L,K,G
   11,R,J
   40
 
-#09-d
+#lvl_09-d
+#0x
    4,R
    1,R,J,G
   14,R
@@ -2216,7 +2213,8 @@ console load 3
    2,L,J
   40
 
-#08-d
+#lvl_08-d
+#0x
    7,L
    2,R
    1,K
@@ -2282,7 +2280,8 @@ console load 3
    3,L
   40
 
-#06-d (2X)
+#lvl_06-d
+#2x
   13,L
   19,R,D
    1,L,D
@@ -2351,7 +2350,8 @@ console load 3
    5,L,J
   40,J
 
-#04-d (3x)
+#lvl_04-d
+#3x
    4,L,J
   40,L,D
    3,L
@@ -2390,13 +2390,9 @@ console load 3
    1,J,G
    5,L
    2,R
-
-#cutscene skip
    1,S
    1,D,J
   34
-
-#04-d
    1,R
    4,R,J
    5,R
@@ -2405,7 +2401,8 @@ console load 3
    5,L,D
   40
 
-#04-c
+#lvl_04-c
+#0x
    8,L,D
    1,L,J
   10,L,D
@@ -2432,7 +2429,8 @@ console load 3
    1,L,J
   40
 
-#02-c
+#lvl_02-c
+#0x
   14,L
    1,L,J
   18,L
@@ -2490,7 +2488,8 @@ console load 3
    8,R,D,J
   40
 
-#04-c
+#lvl_04-c
+#0x
   14,R,J
   91,D
    3,L,D,J
@@ -2503,7 +2502,8 @@ console load 3
    9,R,J,G
   40
 
-#04-d
+#lvl_04-d
+#0x
    9,L,J
    4,L
    1,L,J,G
@@ -2512,7 +2512,8 @@ console load 3
    4,L
   40
 
-#02-d (3X)
+#lvl_02-d
+#3x
   10,L
    1,L,J
   14,L
@@ -2586,7 +2587,7 @@ console load 3
   11,L
   15,L,U,X
   25,L
-#Section Rooftop
+#Rooftop
   33,L,X
    3
    4,K,G
@@ -2596,12 +2597,11 @@ console load 3
    2,L
   40
 
-#cutscene skip
+#lvl_00-d
+#0x
    1,S
    1,D,J
   37
-
-#00-d
   12,L
    1,L,J
   14,L
@@ -2636,12 +2636,11 @@ console load 3
    1,J
   40
 
-#cutscene skip
+#lvl_roof00
+#0x
    1,S
    1,D,J
   34
-
-#roof00
    1,R,J
   14,R
    1,R,D,J
@@ -2695,7 +2694,8 @@ console load 3
   11,R
   40
 
-#roof01
+#lvl_roof01
+#0x
    6,R,D
    1,R,J
   14,R
@@ -2729,7 +2729,8 @@ console load 3
    7,R
   40
 
-#roof02
+#lvl_roof02
+#0x
    7,R
    1,R,J
   14,R
@@ -2767,7 +2768,8 @@ console load 3
   10,R
   40
 
-#roof03
+#lvl_roof03
+#0x
   14,R
    1,R,J
   14,R
@@ -2859,7 +2861,8 @@ console load 3
    6,R
   40
 
-#roof04
+#lvl_roof04
+#0x
    8,R
   13,R,J
    8,L,K,G
@@ -2908,7 +2911,8 @@ console load 3
    6,R
   40
 
-#roof05 (1X)
+#lvl_roof05
+#1x
    8,R
    1,R,D,J
   14,R
@@ -2983,8 +2987,8 @@ console load 3
    7,R
   40
 
-
-#roof06b (3X)
+#lvl_roof06b
+#3x
    7,R
    1,R,J
   14,R
@@ -3022,7 +3026,8 @@ console load 3
    7,R
   40
 
-#roof06
+#lvl_roof06
+#0x
    7,R
    1,R,D,J
   14,R
@@ -3209,9 +3214,10 @@ console load 3
    1,R,J
    3,R
   40
-#373.830(21990)
 
-#roof07
+#lvl_roof07
+#0x
    1,S
    1,D,J
   18
+ChapterTime: 6:13.830(21990)

@@ -2,11 +2,12 @@
 
 console rmx2 7
    1
-  61
 
 #Start
+  61
+
 #lvl_01
-#9x
+#8x
    5,R
    1,R,J
   15,R
@@ -239,4 +240,5 @@ console rmx2 7
    1,R,J
    7,R
   32,R,J
- 200,R,X
+ 157,R,X
+ChapterTime: 0:47.515(2795)

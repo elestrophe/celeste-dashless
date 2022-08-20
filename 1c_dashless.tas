@@ -4,9 +4,10 @@ console rmx2 1
    1
 
 #Start
-#lvl_01
-#0x
   61
+
+#lvl_00
+#0x
    5,R
    1,R,J
   14,R
@@ -106,7 +107,7 @@ console rmx2 1
    5,R
   40
 
-#lvl_02
+#lvl_01
 #0x
   13,R,D
    2,R
@@ -170,7 +171,7 @@ console rmx2 1
    9,R
   40
 
-#lvl_03
+#lvl_02
 #1x
    5,R
    1,R,J

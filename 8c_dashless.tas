@@ -4,7 +4,7 @@ console hearts 23
 console rmx2 9
    1
 
-#start
+#Start
   61
 
 #lvl_intro
@@ -178,7 +178,7 @@ console rmx2 9
   38,U,X
    1,L
    1,R
-repeat,7
+Repeat,7
    1,R
    1
    1,L
@@ -187,7 +187,7 @@ EndRepeat
   15
    1,R
    2
-repeat,9
+Repeat,9
    1,R
    1
    1,L

@@ -312,6 +312,7 @@ console load 2
   40
 
 #lvl_d6
+#0x
    5,L
   35,L,J
    6,L
@@ -482,6 +483,7 @@ console load 2
   40
 
 #lvl_0 (1)
+#0x
    3,L
    1,L,J
   14,L

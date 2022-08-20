@@ -1,11 +1,14 @@
-#8a 24x
+#8A 23x
+
+console hearts 4
 console load 9
    1
 
 #Start
   54
 
-#00
+#lvl_00
+#0x
    2,R
    1,R,J
   14,R
@@ -39,7 +42,8 @@ console load 9
    7,R
   40
 
-#01
+#lvl_01
+#0x
    7,R
    1,R,J
   14,R
@@ -135,7 +139,8 @@ console load 9
   13,R
   40
 
-#02
+#lvl_02
+#0x
    1,R
    1,R,J
   14,R
@@ -199,7 +204,8 @@ console load 9
    1,R
   40
 
-#a-00(2x)
+#lvl_a-00
+#2x
   18,R
    5,R
   44,R,J
@@ -223,7 +229,8 @@ console load 9
    7,R
   40
 
-#a-01(1x)
+#lvl_a-01
+#1x
    7,R
    1,R,J
   14,R
@@ -245,7 +252,8 @@ console load 9
    7,R
   40
 
-#a-02(1x)
+#lvl_a-02
+#1x
    2,R,J
    8,R
   37,R,J
@@ -266,7 +274,8 @@ console load 9
   11,R,J,G
   40
 
-#a-03
+#lvl_a-03
+#0x
    1,R,J,G
    5
    2,R
@@ -299,7 +308,8 @@ console load 9
    1,J
   40
 
-#b-00
+#lvl_b-00
+#0x
    1,R,J,G
    1,R,K,G
   10,R
@@ -318,7 +328,8 @@ console load 9
    1,R,J
   40
 
-#b-01
+#lvl_b-01
+#0x
   10,R
    1,L
    1,R
@@ -337,13 +348,9 @@ console load 9
    5,R
   11,R,J
    6,R
-
    1,R,K,G
-
-
    8,R,J,G
   51,R
-
   10,R
   10
    2,L
@@ -362,7 +369,8 @@ console load 9
    2,R,D,J
   40
 
-#b-02
+#lvl_b-02
+#0x
    9,R,J
    1,L,J
    5,L
@@ -370,8 +378,6 @@ console load 9
   11,J,G
    1,R,J,G
    1,K
-
-
    5,L,K
    7,R,J
   18,R
@@ -404,7 +410,8 @@ console load 9
    7,R
   40
 
-#b-03
+#lvl_b-03
+#0x
    7,R
    1,R,J
   14,R
@@ -423,7 +430,8 @@ console load 9
   11,R
   40
 
-#b-04
+#lvl_b-04
+#0x
    6,L
   19,D,J
    1,K,G
@@ -485,8 +493,8 @@ console load 9
   11,L,J
   40
    
-   
-#b-05 (1X)
+#lvl_b-05
+#1x
    4,L
    1,L,J,G
   14,L,K,G
@@ -543,7 +551,8 @@ console load 9
   31,L,D
   40
 
-#b-04
+#lvl_b-04
+#0x
   10,R,D
    8,D
   19,L,D
@@ -551,7 +560,8 @@ console load 9
    4,L
   40
 
-#b-03
+#lvl_b-03
+#0x
   11,L
    1,L,J
   14,L
@@ -581,7 +591,8 @@ console load 9
   12,L
   40
 
-#b-02
+#lvl_b-02
+#0x
    3,L
    1,L,J
   15,L
@@ -625,7 +636,8 @@ console load 9
   14,L
   40
 
-#b-01
+#lvl_b-01
+#0x
    2,R
    2,L
    2,L
@@ -667,7 +679,8 @@ console load 9
   13,L
   40
 
-#b-00
+#lvl_b-00
+#0x
    3,L
    1,L,J
   12,J
@@ -687,7 +700,8 @@ console load 9
    4,L,J,G
   40
 
-#b-07b
+#lvl_b-07b
+#0x
    2,R
    1,R,J,G
    1,R,K,G
@@ -733,7 +747,8 @@ console load 9
   11,L,J
   40
 
-#b-07
+#lvl_b-07
+#0x
    2,L
    1,R,J
   14,R
@@ -761,7 +776,8 @@ console load 9
    6,L,J,G
   40
 
-#c-00 (1x)
+#lvl_c-00
+#1x
    2,R
    1,R,J,G
    1,R,K,G
@@ -836,7 +852,8 @@ console load 9
    1,R
   40
 
-#c-01
+#lvl_c-01
+#0x
    8,R
   21,L
    2,L,G
@@ -859,7 +876,8 @@ console load 9
    8,R
   40
 
-#c-02
+#lvl_c-02
+#0x
    6,R
    1,R,J
   32,R
@@ -902,7 +920,8 @@ console load 9
   10,R
   40
 
-#c-03
+#lvl_c-03
+#0x
    3,R
    1,R,J
   14,R
@@ -939,7 +958,8 @@ console load 9
    4,R
   40
 
-#c-04 (1X)
+#lvl_c-04
+#1x
   10,R
    6,R,J
    1,R,K,G
@@ -972,7 +992,8 @@ console load 9
    6,R
   40
 
-#d-00 (1X)
+#lvl_d-00
+#1x
    8,R
    1,R,J
   14,R
@@ -997,7 +1018,8 @@ console load 9
   12,R,K
   40
 
-#d-01 (1X)
+#lvl_d-01
+#1x
    1,R
    1,L
    1,L
@@ -1096,7 +1118,8 @@ console load 9
    9,R,K,G
   40
 
-#d-02 (1X)
+#lvl_d-02
+#1x
    3,L
    2,R
    1,L
@@ -1180,7 +1203,8 @@ console load 9
    5,L,K,G
   40
 
-#d-03 (1X)
+#lvl_d-03
+#1x
    6,L,K
    1,L,J,G
    1,L,K,G
@@ -1234,7 +1258,8 @@ console load 9
    2,R,J
   40
 
-#d-04 (1X)
+#lvl_d-04
+#1x
    2,R
    1,L
    1,L,J,G
@@ -1316,7 +1341,8 @@ console load 9
    2,R,J,G
   40
 
-#d-05 (1X->0X?)
+#lvl_d-05
+#1x
    2,R
    1,L
    1,L,K,G
@@ -1388,7 +1414,8 @@ console load 9
    8,L,J,G
   40
 
-#d-06
+#lvl_d-06
+#0x
    2,R
    6,L
    1,L,K,G
@@ -1415,7 +1442,8 @@ console load 9
    1,K
   40
 
-#d-07 (2X->1X?)
+#lvl_d-07
+#2x
    1,R
    1,L
    2,R
@@ -1508,7 +1536,8 @@ console load 9
  131
   40
 
-#d-08 (2X)
+#lvl_d-08
+#2x
   71
    6,R
    1,R,J
@@ -1603,7 +1632,8 @@ console load 9
    1,R,J
   40
 
-#d-09 (2X)
+#lvl_d-09
+#2x
    7,R
   69,R,J
   24,R,K
@@ -1629,7 +1659,8 @@ console load 9
    9,R
   40
 
-#d-10
+#lvl_d-10
+#0x
    5,R
    1,R,J
   14,R
@@ -1689,7 +1720,8 @@ console load 9
    5,R
   40
 
-#d-10b (3X)
+#lvl_d-10b
+#3x
   18,R
    1,R,J
   44,R
@@ -1755,7 +1787,8 @@ console load 9
    4,R
   40
 
-#d-10c
+#lvl_d-10c
+#0x
   11,R
    1,R,J
    6,R
@@ -1784,7 +1817,8 @@ console load 9
   84,F,92
   40
 
-#d-11
+#lvl_d-11
+#0x
    1,R,J
   14,R
   25,R,J
@@ -1856,7 +1890,8 @@ console load 9
   14,R
   40
 
-#space (1X)
+#lvl_space
+#1x
    1,R,J
   24,R
    1,R,J
@@ -1950,5 +1985,4 @@ console load 9
   15,R,X
    6,R
  135,R,D
-
 ChapterTime: 5:43.570(20210)

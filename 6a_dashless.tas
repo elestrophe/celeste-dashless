@@ -1,4 +1,4 @@
-#6A 37X
+#6A 37x
 
 #console load 6 11727 144
 #play,Boss,37
@@ -6,12 +6,14 @@
 console load 6
    1
 
-#start (2X)
 #Start
  110
    1,S
    1,D,J
   34
+
+#lvl_start
+#2x
    4,R
    1,R,J
   14,R
@@ -67,19 +69,19 @@ console load 6
    3,F,5.7
    1,F,8.1
   18,F,8.34
-   5,F,351.985
+   5,F,351.986
   69,F,349.07792
    3,F,5
   27,F,17.66518
    3,F,1.66518
   51,F,359.945
  114,F,0
-#cutscene skip
    1,S
    1,D,J
   37
 
-#00 (1X)
+#lvl_00
+#1x
   77,U
    2,L
    1,L,J
@@ -109,6 +111,7 @@ console load 6
   43
 
 #lvl_01
+#1x
    5,R,J
    7,R
    1,R,J
@@ -143,7 +146,8 @@ console load 6
    3,L
   40
 
-#lvl_02 (2x)
+#lvl_02
+#2x
   21,L
    4,R
   12,R,J
@@ -179,6 +183,7 @@ console load 6
   40
 
 #lvl_03
+#0x
    6,L
    1,L,J
   14,L
@@ -218,6 +223,7 @@ console load 6
   40
 
 #lvl_02
+#0x
    4,R,J
   12,R
   16,R,J
@@ -257,7 +263,8 @@ console load 6
    2,F,321
   40
 
-#lvl_02b (3x)
+#lvl_02b
+#3x
   11,L,U
   18,L,X
    9,L,C
@@ -313,6 +320,7 @@ console load 6
   40
 
 #lvl_04
+#0x
    1,R
    1,L,J,G
    6,L,K,G
@@ -556,7 +564,8 @@ console load 6
    4,R
   43
 
-#lvl_05 (1X)
+#lvl_05
+#1x
   12,R
    6,R,J
   25,R
@@ -601,7 +610,8 @@ console load 6
    3,R
   40
 
-#lvl_06 (1X)
+#lvl_06
+#1x
    3
   24,R,D
    5,R
@@ -624,6 +634,7 @@ console load 6
   40
 
 #lvl_07
+#0x
   15,R,J
   12,R
    3
@@ -648,6 +659,7 @@ console load 6
   40
 
 #lvl_08b
+#1x
    3,R
    2,R,J
   19,R
@@ -664,6 +676,7 @@ console load 6
   40
 
 #lvl_09
+#0x
   22,F,90
    5,F,75
    2,R,J
@@ -685,6 +698,7 @@ console load 6
   40
 
 #lvl_10b
+#0x
    8,R
    1,R,J
   14,R
@@ -720,6 +734,7 @@ console load 6
   40
 
 #lvl_11
+#0x
   11,R
    1,R,J
    9,R
@@ -752,7 +767,8 @@ console load 6
    2,R,J
   40
 
-#lvl_12a (1x)
+#lvl_12a
+#1x
    4,R,J
   23,R
    8,D
@@ -790,7 +806,8 @@ console load 6
   10,R,K,G
   40,K
 
-#lvl_13 (4X)
+#lvl_13
+#4x
    3,R,K
   15,R,U,X
   14
@@ -826,6 +843,7 @@ console load 6
   43
 
 #lvl_14b
+#0x
   12,R
    3,R,J
   14,R
@@ -861,6 +879,7 @@ console load 6
   40
 
 #lvl_15
+#0x
    1,R
    1,R,J
   17,R,D
@@ -869,7 +888,8 @@ console load 6
   83,F,88.2
   40
 
-#lvl_16a (1X)
+#lvl_16a
+#1x
    5,F,88.2
   38,F,80
   20,F,110
@@ -900,6 +920,7 @@ console load 6
   40
 
 #lvl_17
+#0x
    4,R
   12,R,J
   12,R,K,G
@@ -936,7 +957,8 @@ console load 6
   11,R
   43
 
-#lvl_18b (1X)
+#lvl_18b
+#1x
    3,R
    1,R,J
   14,R
@@ -965,7 +987,8 @@ console load 6
   10,R
   40
 
-#lvl_19 (1X)
+#lvl_19
+#1x
    4,R
    1,R,J
   14,R
@@ -995,7 +1018,8 @@ console load 6
   12,R
   40
 
-#lvl_20 (1X)
+#lvl_20
+#1x
    2,R
    1,R,J
   14,R
@@ -1026,6 +1050,7 @@ console load 6
   40
 
 #lvl_b-00
+#0x
    9,R
    1,R,J
   21,R,D
@@ -1087,6 +1112,7 @@ console load 6
   40
 
 #lvl_b-01
+#0x
   12,R
    2,R,J
    1,R,K,G
@@ -1116,7 +1142,8 @@ console load 6
   54,R,D
   40
 
-#lvl_b-02 (2X)
+#lvl_b-02
+#2x
   25,R,D
    5,R,J
   10,R
@@ -1184,6 +1211,7 @@ console load 6
   40
 
 #lvl_b-02b
+#0x
    6,R
    1,R,J
   11,R
@@ -1231,7 +1259,8 @@ console load 6
    6,R
   40
 
-#lvl_b-03 (1X)
+#lvl_b-03
+#1x
    8,R
    1,R,J
   14,R
@@ -1264,19 +1293,16 @@ console load 6
   40
 
 #lvl_boss-00
+#0x
    2,R,J
    9,R
    1,R,J
   18,R
    1,R,J
    8,R
-
-#cutscene skip
    1,S
    1,D,J
   34
-
-#lvl_boss-00
    1,R,J
    8,R
   59,R,D
@@ -1308,6 +1334,7 @@ console load 6
   40
 
 #lvl_boss-01
+#0x
   39,R,D
    1,R,J
   14,R
@@ -1407,7 +1434,8 @@ console load 6
   16,R,D,J
   40
 
-#lvl_boss-02 (1X)
+#lvl_boss-02
+#1x
   40,R,D
    1,L,D
    1,R,D
@@ -1485,6 +1513,7 @@ console load 6
   40
 
 #lvl_boss-03
+#0x
   30,R,D,J
   10,R,J
   30,R,K
@@ -1560,6 +1589,7 @@ console load 6
   40
 
 #lvl_boss-04
+#0x
   15,D
   20,R,D
    2,L
@@ -1598,7 +1628,8 @@ console load 6
    5,R
   40
 
-#lvl_boss-05 (1X)
+#lvl_boss-05
+#1x
    9,R
    1,R,J
   18,R,D
@@ -1626,7 +1657,8 @@ console load 6
    2,D
   40
 
-#lvl_boss-06 (1X)
+#lvl_boss-06
+#1x
   21,D
   12,R,D,J
    6,R,J
@@ -1672,6 +1704,7 @@ console load 6
   40
 
 #lvl_boss-07
+#0x
    7,L,D
   26,R,D
    2,R,J
@@ -1705,7 +1738,8 @@ console load 6
   55,R,D
   40
 
-#lvl_boss-08 (1X)
+#lvl_boss-08
+#1x
    8,R,D
    1,R,G
    1,R,J
@@ -1776,6 +1810,7 @@ console load 6
   40
 
 #lvl_boss-09
+#0x
   19,R,D
   27,R,D
   30,F,79
@@ -1815,6 +1850,7 @@ console load 6
   40
 
 #lvl_boss-10
+#0x
    1,R,J
    5,R
    1,L,J
@@ -1861,7 +1897,8 @@ console load 6
    2,R,J
   40
 
-#lvl_boss-11 (1X)
+#lvl_boss-11
+#1x
    6,R,J
    5,R
    1,R,J
@@ -1945,7 +1982,8 @@ console load 6
   31,D
   40
 
-#lvl_boss-12 (1X)
+#lvl_boss-12
+#1x
    5,D
    8,R,D
   11,R,D,X
@@ -1988,6 +2026,7 @@ console load 6
   40
 
 #lvl_boss-13
+#0x
   39,R,D
    5,R
    1,L
@@ -2063,12 +2102,11 @@ console load 6
    2
   40
 
-#cutscene skip
+#lvl_boss-14
+#0x
    1,S
    1,D,J
   34
-
-#lvl_boss-14
   13,R
    2,R,J
    1,R,K,G
@@ -2087,6 +2125,7 @@ console load 6
   40
 
 #lvl_boss-15
+#0x
    1,R
    1,R,J
   12,R
@@ -2108,6 +2147,7 @@ console load 6
   40
 
 #lvl_boss-16
+#0x
    7,D
   19,R,D
    5,R,J
@@ -2185,6 +2225,7 @@ console load 6
   40
 
 #lvl_boss-17
+#0x
    8,R
    1,R,J
   32,R,D
@@ -2241,7 +2282,8 @@ console load 6
   16,R,D
   40
 
-#lvl_boss-18 (2X)
+#lvl_boss-18
+#2x
    7,R,D
   12,D
   27,D
@@ -2292,6 +2334,7 @@ console load 6
   40
 
 #lvl_boss-19
+#2x
    9,R
    1,R,J
   14,R
@@ -2346,7 +2389,8 @@ console load 6
    2,R
   40
 
-#lvl_boss-20 (1X)
+#lvl_boss-20
+#1x
   12,R
    1,R,J
   14,R
@@ -2416,6 +2460,7 @@ console load 6
   40
 
 #lvl_after-00
+#0x
    2,R
    5,L
   17,L,J,G
@@ -2496,7 +2541,8 @@ console load 6
    1,R,K,G
   40
 
-#after-01 (2X)
+#lvl_after-01
+#2x
    6,L,K
    9,L
    1,L,J
@@ -2579,9 +2625,13 @@ console load 6
   12,K,G
    1,R,J
   45,R,K
- 442
+ 359
+  40
 
-#after-02
+#lvl_after-02
+#0x
+  43
    1,S
    1,D,J
   18
+ChapterTime: 7:32.319(26607)

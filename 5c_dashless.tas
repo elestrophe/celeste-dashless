@@ -1,5 +1,4 @@
-#5c 12x 0:24.021
-#made by chickenleg
+#5C 13x
 
 console rmx2 5
    1
@@ -7,7 +6,8 @@ console rmx2 5
 #Start
   61
 
-#lvl_00(2x)
+#lvl_00
+#2x
    1,R,J
   28,R
   34,R,K
@@ -38,7 +38,8 @@ console rmx2 5
   10,R
   40
 
-#lvl_01(1x)
+#lvl_01
+#1x
    4,R
    1,R,J
   14,R
@@ -62,7 +63,8 @@ console rmx2 5
    8,R
   40
 
-#lvl_02(10x)
+#lvl_02
+#10x
    3,R
   14,R,J
   36,R,X
@@ -120,6 +122,5 @@ console rmx2 5
   31,R,J
   12,R,K,G
    9,L,J
- 100,U,X
-
-ChapterTime:
+ 149,U,X
+ChapterTime: 0:25.109(1477)

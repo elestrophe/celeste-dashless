@@ -4,8 +4,10 @@ console hard 3
    1
 
 #Start
-#lvl_00(1x)
   61
+
+#lvl_00
+#1x
    4,R,D,X
    1,R,J
    7,R
@@ -24,7 +26,8 @@ console hard 3
    4,R
   40
 
-#lvl_01(2x)
+#lvl_01
+#2x
   16,R
    6,R,J
    1,R,K,G
@@ -74,7 +77,8 @@ console hard 3
    5,R
   40
 
-#lvl_02(2x)
+#lvl_02
+#2x
    9,R
    1,R,J
   14,R
@@ -122,7 +126,8 @@ console hard 3
    7,R
   40
 
-#lvl_03(1x)
+#lvl_03
+#1x
    7,R
    5,L,K
    5,R,K
@@ -162,7 +167,8 @@ console hard 3
   12,R
   40
 
-#lvl_04(1x)
+#lvl_04
+#1x
    2,R
    7,L,D,J
    7,R,D,J
@@ -200,6 +206,7 @@ console hard 3
   40
 
 #lvl_05
+#0x
    4,R
    4,R,J
    1,R,K
@@ -246,7 +253,8 @@ console hard 3
    9,R
   40
 
-#lvl_06(1x)
+#lvl_06
+#1x
    1,R
    1,R,J
   14,R
@@ -302,7 +310,8 @@ console hard 3
    4,R
   40
 
-#lvl_07(1x)
+#lvl_07
+#1x
    6,R
    1,R,J
    5,R
@@ -335,7 +344,8 @@ console hard 3
    1,R,J
   40
 
-#lvl_08(2x)
+#lvl_08
+#2x
   14,R
   55,R,J
    1,R,K,G
@@ -390,7 +400,8 @@ console hard 3
    1,J
   40
 
-#lvl_09(1x)
+#lvl_09
+#1x
   11,L,K
   11,J,G
    1,R,J
@@ -434,7 +445,8 @@ console hard 3
    3,R
   40
 
-#lvl_10(1x)
+#lvl_10
+#1x
    6,R
    1,R,J
    7,L,J
@@ -474,7 +486,8 @@ console hard 3
    6,R
   40
 
-#lvl_11(1x)
+#lvl_11
+#1x
    3,R
    4,R,J
    1,R,K
@@ -530,7 +543,8 @@ console hard 3
    7,R
   40
 
-#lvl_13(1x)
+#lvl_13
+#1x
    7,R
    4,R,J
    4,L,J
@@ -577,7 +591,8 @@ console hard 3
   11,R
   40
 
-#lvl_14(2x)
+#lvl_14
+#2x
    3,R
    1,R,J
   14,R
@@ -622,6 +637,7 @@ console hard 3
   40
 
 #lvl_15
+#0x
    6,R
    1,R,J
   14,R
@@ -655,6 +671,7 @@ console hard 3
   40
 
 #lvl_12
+#0x
    4,R
    1,R,J
   14,R
@@ -726,7 +743,8 @@ console hard 3
    5,R
   40
 
-#lvl_16(1x)
+#lvl_16
+#1x
    9,R
    8,R,J
    1,R,K
@@ -746,6 +764,7 @@ console hard 3
   40
 
 #lvl_17
+#0x
    1,R,J,G
    3,R
    1,R,J,G
@@ -800,6 +819,7 @@ console hard 3
   40
 
 #lvl_18
+#0x
    4,R
    1,R,J
   14,R
@@ -870,7 +890,8 @@ console hard 3
    7,R
   40
 
-#lvl_19(1x)
+#lvl_19
+#1x
    7,R
    1,R,J
   14,R
@@ -895,7 +916,8 @@ console hard 3
    2,R
   40
 
-#lvl_21(6x)
+#lvl_21
+#6x
   12,R
    1,R,J
   14,R
@@ -939,6 +961,7 @@ console hard 3
   40
 
 #lvl_20
+#0x
    5,R
    1,R,J
   14,R
@@ -1003,7 +1026,8 @@ console hard 3
   18,R,D
   40
 
-#lvl_end(3x)
+#lvl_end
+#3x
   18,R,D
   11,L,D
    2,K,G
@@ -1032,4 +1056,5 @@ console hard 3
    1,R,K,G
   11,R,J,G
    7,R,K,G
- 100,U,X
+ 146,U,X
+ChapterTime: 2:57.497(10441)

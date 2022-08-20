@@ -1,12 +1,14 @@
-#3c 5x 0:38.437
-#by chickenleg
+#3C 5x
 
 console rmx2 3
    1
+
+#Start
   76
 
 #THIS ROOM IS HUGE PAIN IN ASS
-#lvl_00(3x)
+#lvl_00
+#3x
    3,L
    9,L,D,X
    1,R,J
@@ -17,7 +19,8 @@ console rmx2 3
   15,R,J
   40
 
-#lvl_01(0x)
+#lvl_01
+#0x
   12,R,J
   12,R,K
    4,J,G
@@ -63,7 +66,8 @@ console rmx2 3
   12,R
   40
 
-#lvl_02(2x)
+#lvl_02
+#2x
    2,R
    1,R,J
   14,R
@@ -207,4 +211,5 @@ console rmx2 3
    1,J
    1,L,K,G
   36,R,K
- 100,L,X
+ 139,L,X
+ChapterTime: 0:38.437(2261)

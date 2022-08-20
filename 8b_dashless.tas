@@ -1,5 +1,6 @@
-#8B 40X
+#8B 40x
 
+console hearts 15
 console hard 9
    1
 
@@ -1372,3 +1373,4 @@ console hard 9
   94,R,D
   21,R,D,X
  135,R,D
+ChapterTime: 3:54.532(13796)

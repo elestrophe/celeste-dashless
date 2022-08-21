@@ -4,13 +4,13 @@ console hearts 15
 Set,DashMode,Two
 
 #console load 10 9572.6 -1863.6 0 -25
-#play,Power Source,39
+#play,Power Source,37
 
 #console load 10 12806 -4659
-#play,Remembered,38
+#play,Remembered,39
 
 #console load 10 18559 -6217
-#play,Event Horizon,39
+#play,Event Horizon,37
 
 # -------------
 # The above checkpoints depend on
@@ -722,38 +722,35 @@ EndRepeat
    1,R
    1,R,J,G
    1,R,K,G
-   6,R,J,G
-   5,R
-  10,R,J
-   4,R
+   1,R,J,G
+  12,R
+   1,R,J
+   9,R
   40
 
 #lvl_b-07
 #7x
-   3,R
-   2,R,D,J
-   1,J
-   5,R,J
-   3,R
-   1,L
-   1,K,G
-   1,R
-  16,L,J,G
-   1,K,G
-   2,L,K
+   1,R,J
+   4,R
+   2,R,K
    1,K
-   1,L,K
-   1,R,K
-   1,L,K
-  13,L,J,G
-   2,L,K,G
-   1,R,K
-   1,L,K
-   3,K
-   2
+   5,R,K
    1,J
-   2,K,G
-  21,R,K
+  16,L,K,G
+   1,J,G
+   2,L,J
+   6,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   2,L,J,G
+   1,R,J
+   1,L,J
+   3,J
+   1,K
+   2,J,G
+  21,R,J
    1,R
   18,R,X
   10,R
@@ -3102,7 +3099,7 @@ EndRepeat
 #Spinner cycle
 #0-2
 
-   1,R
+   0,R
 # ---------
 
  109,R
@@ -7514,7 +7511,7 @@ AnalogMode,Precise
   10,R
   38
 #End_IGT
-ChapterTime: 18:15.327(64431)
+ChapterTime: 18:15.276(64428)
 
 # optional waiting for
 # visuals to play out

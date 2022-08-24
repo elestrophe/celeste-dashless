@@ -3017,8 +3017,7 @@ EndRepeat
    2,D
    1,R,D
    1,D
-   1,R,D
-   1,R,D
+   2,R,D
    1,R,J,G
    2,R,K,G
    5,R
@@ -3034,12 +3033,11 @@ EndRepeat
    7,R,K
    9,R
    1,R,J
-  19,R,D
-   1,R,D
+  20,R,D
    1,R
   40,R,Z
    6,R,D
-  36,R,U,V
+  36,R,U,X
   23,G
    3
    1,R
@@ -3201,8 +3199,7 @@ EndRepeat
    1,R
    1
    1,R,J
-   1
-   1
+   2
    2,R
    3,L
    1,L,G
@@ -3267,8 +3264,7 @@ EndRepeat
    9,R
   15
   29,L,G
-  16
-   1
+  17
    1,R
    1,R,D
   15,R,U,Z
@@ -3591,8 +3587,7 @@ EndRepeat
    1,L,J
    1,K,G
    1,L,J,G
-  19,R,J
-   5,R,J
+  24,R,J
    1,L,J
   15,L
    3,K,G
@@ -3629,8 +3624,7 @@ EndRepeat
    1,R,D,J
    6,R
    8
-   1,D,J
-   2,J
+   3,D,J
    1,R,J
    5,R
    1,R,J

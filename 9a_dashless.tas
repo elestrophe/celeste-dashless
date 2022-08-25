@@ -306,20 +306,20 @@ console load 10
   15,U,X
   12,R
   14,R,Z
+   2,R,J
+   1,R
    1,R,J
-   6,R
-   1,R,J
+   4,R
   40
 
 #lvl_a-03
 #3x
+   2,R
    1,R,J
    8,R
-   3,R,J
-   9,R
-   1,R,D
-  10,R
-  31,R,U,X
+   2,R,J
+  20,R
+  30,R,U,X
    1,J,G
    2,R,J
    6,J
@@ -329,16 +329,20 @@ console load 10
   13,R,K,G
    4,J,G
    8,R,J
-   8,R,K,G
-   1,K
+   1,R,K,G
+   5,K
+   2,R,K
    1,R,J,G
    6,J
-  13,R,J
-  23,R,X
+   2,R,J
+   1,J
+   8,R,J
+  22,R,X
   15,R,C
-  36,R,D
    4,R
    1
+  31,R,D
+   9,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -516,9 +520,7 @@ console load 10
    6,R
    6,R,J
   25,R
-   2,R,D
-   1,R,D
-   1,R,D
+   4,R,D
   17,L,D
   33
   14,U,X
@@ -561,13 +563,11 @@ console load 10
    8,R
    1,R,J,G
    7,R
-  17,R,Z
-   9,R
+  26,R,Z
    4,R,J
    2,R,K
   34,R
-  14,R,U,Z
-  12
+  26,R,U,Z
    8
    3,L,J
    1,R,J
@@ -596,8 +596,7 @@ console load 10
    1,R,K
   14,R
    8,R,J
-   4,R
-   1,R
+   5,R
    1,R,J
    1
    1,R,J
@@ -696,10 +695,10 @@ EndRepeat
    1,L
   17,L
   10,R,D
-   1,L,D
+   1,D
    5,R,D
    3,R
-   1,L
+   1
    3,R
    1,R,D
    9,R
@@ -716,9 +715,7 @@ EndRepeat
    1
    2,D
   44,R
-  17,U,X
-  46
-   4
+  67,U,X
    1,R
    1,R,J,G
    1,R,K,G

@@ -4450,8 +4450,7 @@ EndRepeat
    1,R
    1,R,K,G
    1,R,J,G
-   1
-   1
+   2
   20,R
    3,R,J
    5,R
@@ -4718,9 +4717,7 @@ EndRepeat
    1,L,K,G
    1,R,K
    1,L,K
-   1,K
-   1,K
-   3,K
+   5,K
    7
    8,U,G
   27,G
@@ -4734,17 +4731,22 @@ EndRepeat
   13,R,D
   20,R,X
    1,R,J
-   8,R
+   7,R
+   1,R,J
   40
 
 #lvl_h-09
 #4x
-   6,R
+   2,R
    1,R,J
-  14,R
+   4,R
    5,R,J
-  19,R
-   5,R,D
+   5,R
+   1,L
+   1,J
+   2,K,G
+  25,R,D
+   2,R
    5,L,D,X
    1,L,J
    7,L
@@ -7416,7 +7418,7 @@ AnalogMode,Precise
   10,R
   38
 #End_IGT
-ChapterTime: 18:13.593(64329)
+ChapterTime: 18:13.559(64327)
 
 # optional waiting for
 # visuals to play out

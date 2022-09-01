@@ -15,40 +15,56 @@ Read,1D,lvl_1,lvl_12a
    1,J
    1,R,K,G
    1,R,J,G
-   7,R
-   8
-   5,L
-   1,L,J,G
-   8,L,G
-   7,G
-   2,D,G
-   3,G
-   1,J
-   1,L,J
-   3,J
-   1,R,J
-   6,L,J
+   4
+   3,R
+   4,L
    6
+   1,R
+   2,L
+   2,R
    1,L
-   2,G
-   1
-   1,J,G
-   1,L,K,G
-  28,R,K
    1,G
-   5,R,J,G
-   6,J
+  10,J,G
    1,R,J
-   4,J
-   8,L,J
-  15,L,K
-   3,R,K
-   3,R,J,G
-   2,J
-   1,R,J
+   1,L,J
+   1,K
+   2,R,K
+   1,K
+   2
+   3,R
+   1,R,K
+   1,R
+   1,K
+   1
+   1,K
+   1
+   1,R
+   1,L
+   1,J,G
+   1,K,G
+   1,L,J,G
+  30,R,J
+   1,G
+   2,R,J,G
+   1,R
+   4
+   1,R
+   1,L,J
+   1,L
+   1,L,J
+   1,L
+   1,R
+   9,R,G
+   1,R,K,G
+   1,L
+   1,R
    1,J
-   1,R,J
-   3,J
+   2,K,G
+  10,L,K
+   8
+   3,R,J,G
+   1,J
+   2
    1,K
    2,J,G
   22,L,J
@@ -101,4 +117,4 @@ Read,1D,lvl_1,lvl_12a
    1,S
    1,D,J
   18
-ChapterTime: 1:16.823(4519)
+ChapterTime: 1:16.670(4510)

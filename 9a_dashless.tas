@@ -1,4 +1,4 @@
-#FAREWELL 194x
+#FAREWELL 193x
 
 console hearts 15
 Set,DashMode,Two
@@ -7061,9 +7061,9 @@ AnalogMode,Precise
    5,D
   40
 
-#FAREWELL 3x
+#FAREWELL 2x
 #lvl_j-16
-#3x
+#2x
   21,D
    9,R
   21,R,U,G
@@ -7088,26 +7088,50 @@ AnalogMode,Precise
   14,R,K,AL
  172,R,U,K,G,AL
   68,R,D,K,G,AL
-   1,R,K,G
-  10,R,K,G
-  21,R,U,G
-   3,R,D,G
-   2,R,U,G
-   7,R
-  24,R,U,Z
-  57,R,D,G
-   1,D,G
-   1,R,D,G
-  14,D,G
-   3,G
-   1,R,D,G
- 140,R,U,G,AL
-  22,R,D,G
-  33,R,G
-   1,L
+   1,R,D,K,G
+   9,R,K,G
+  26,R,U,G
+   4,R,D,G
+   1,R,U,G
+   1,R
+  19,R,U,Z
+   1
    4,R
-  15,L,U,Z
+  40,R,D,G,AL
+  60,R,U,G,AL
+  19,R,D,G,AL
+   2,R,G
+  27
+ 113,R,U,G
+   6,R,D
    1,S,N
+   9,O
+   1,J
+   2,R,J,G
+   3,L,J
+   6,R,J
+   1,R
+  14,R,D,G
+   1,D,G
+  13,R,D,G
+   5,D,G
+   3,D
+   1,S
+   9,O
+   1,J
+   4,L,J,G
+   2,J
+  16
+   1,L
+   1,S
+   9,O
+   1,K
+   1,K
+   5,L,K
+  19,L
+   2,L,D
+   1,L
+   1,S
    9,O
    1,J
    1,R,J
@@ -7115,42 +7139,35 @@ AnalogMode,Precise
   63,R,U,J,G,AL
    1,L,J
   42,R,J
-  98,R,U,J,G,AL
-  20,R,D,G,AL
- 195,R,U,G,AL
-   7,U,G
-   5,R,U,G
-   1,U,G
- 230,R,U,G
-  42,R,D,G
-  46,R,U,G
-   1,U,G
-  16,R,D,G
-   5,R,U,G,AL
-   1,R,D,G,AL
-  16,R,U,G,AL
-   1,R,G,AL
-   1,R,U,G,AL
-   1,R,G,AL
-   1,R,U,G,AL
-   1,R,G,AL
-  33,R,U,G,AL
-  97,R,D,G,AL
-  55,R,U,G,AL
-  50,R,D,G,AL
-  32,R,U,G,AL
-   8,R,D,G,AL
-   1,R,U,G,AL
- 100,R,D,G,AL
-   1,R,G,AL
-   1,R,D,G,AL
-   1,L
-  40,R,D
-  29,R,U,G
+  99,R,U,J,G,AL
+   1,R,G
    1,R,U,G
-  29,R,D,G
-   1,G
-   3,R,G
+  18,R,D,G
+   1,R,G
+   1,R,D,G
+ 432,R,U,G,AL
+  41,R,D,G,AL
+  51,R,U,G,AL
+  18,R,D,G,AL
+  23,R,U,G,AL
+   3,R,D,G,AL
+  32,R,U,G,AL
+  97,R,D,G,AL
+  54,R,U,G,AL
+  48,R,D,G,AL
+  33,R,U,G,AL
+ 112,R,D,G,AL
+   1,L
+  36,R,D
+   1,R
+   1,R,D
+   2,R
+   1,R,D
+  57,R,D,G
+   1,U,G
+   1,R,U,G
+   1,U,G
+   3,R,U,G
   53,R,U,G
    1,L
   48,R
@@ -7160,8 +7177,9 @@ AnalogMode,Precise
    2,R,J,G
    1,L,J
    9,R,J
-  35,R
-  59,R
+  32,R
+   3
+  58,R
   44
   57,R
   44
@@ -7173,7 +7191,7 @@ AnalogMode,Precise
  108,F,0.6
   38
 #End_IGT
-ChapterTime: 17:37.128(62184)
+ChapterTime: 17:38.896(62288)
 
 # optional waiting for
 # visuals to play out

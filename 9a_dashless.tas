@@ -5597,7 +5597,7 @@ EndRepeat
    7,R,D,J
   40
 
-#RECONCILIATION 39x
+#RECONCILIATION 41x
 #lvl_j-00
 #2x
    5,R
@@ -7061,6 +7061,7 @@ AnalogMode,Precise
    5,D
   40
 
+#FAREWELL 3x
 #lvl_j-16
 #3x
   21,D

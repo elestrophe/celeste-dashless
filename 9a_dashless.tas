@@ -2894,7 +2894,7 @@ EndRepeat
   40
 
 #lvl_f-02
-#1x
+#2x
    8,R
    1,R,J
   14,R
@@ -2919,7 +2919,7 @@ EndRepeat
   40
 
 #lvl_f-03
-#2x
+#1x
    3,R
    2,R,J
   10,R

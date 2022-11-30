@@ -4521,15 +4521,17 @@ EndRepeat
    1,R,J,G
    1,R
    1
-   8,R
-   5,R,J
-   6,R
+   7,R
+   1,R,J
+   5,R,K
+   5,R
+   1,R,K
   14,R,D,X
    1,R,J,G
    1,R
    1
    9,R
-  41,R,J
+  40,R,J
   15,R,X
   14,R,U,C
    8,J,G
@@ -7206,7 +7208,7 @@ AnalogMode,Precise
  108,F,0.6
   38
 #End_IGT
-ChapterTime: 17:36.397(62141)
+ChapterTime: 17:36.380(62140)
 
 # optional waiting for
 # visuals to play out

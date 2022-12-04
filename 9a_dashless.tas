@@ -7148,14 +7148,14 @@ AnalogMode,Precise
   13,R,D,G
    5,D,G
    3,D
-   1,S
+   1,S,N
    9,O
    1,J
    4,L,J,G
    2,J
   16
    1,L
-   1,S
+   1,S,N
    9,O
    1,K
    1,K
@@ -7163,7 +7163,7 @@ AnalogMode,Precise
   19,L
    2,L,D
    1,L
-   1,S
+   1,S,N
    9,O
    1,J
    1,R,J

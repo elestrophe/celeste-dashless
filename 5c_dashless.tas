@@ -8,14 +8,17 @@ console rmx2 5
 
 #lvl_00
 #2x
+   5,R
    1,R,J
-  28,R
+  22,R
   34,R,K
   14,R,U,Z
   24,R,J
+   3,L
    1,R
-   4,L
-   4,R
+   1,L
+   3,R
+   1,L
    3,R,J,G
   14,R
    9,R,J
@@ -24,39 +27,33 @@ console rmx2 5
   16,R,D
   20,R,J
   13,R
-  15,R,U,X
-  16,R
-  13,D
-   3,R
-  43,R,J
-   1,R,K,G
+   8,R,U,X
+   1,L,J,G
+   4,R,J
+  25,R,D
+  44,R,J
+   2,R,K,G
    3,L,K
    1,R,J,G
    1,R,K,G
-  15,R
-   1,R,J
-  10,R
+  19,R
+   5,R,J
   40
 
 #lvl_01
 #1x
-   4,R
-   1,R,J
-  14,R
-  10,R,J
-  14,U,X
-  10,R,J
-  14,R,D
+   8,R,J
+  10,R,K
+   9,U,X
+  11,R,J
+  18,R
+   1,R,G
+   7,R,D
    1,L,D
   15,D
-  21,R,D
+  16,R,D
    1,R,J
-  20,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
+  25,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -92,10 +89,10 @@ console rmx2 5
    4
    1,L,J,G
   18,L
-  37,G
+  31,G
    1,R,J
-  20,R,K
-  35,R,D
+  22,R,K
+  31,R,D
   24,R,X
   12,U,C
   19,R,J
@@ -105,7 +102,7 @@ console rmx2 5
   15,L,D
    9,R,J
   14,R
-  69,R,X
+  68,R,X
   18,R,U,C
   32,R,D
    1,R
@@ -118,9 +115,9 @@ console rmx2 5
   19,D
   18,R,D
   15,R,X
-  32,R
-  31,R,J
-  12,R,K,G
-   9,L,J
+  33,R,J
+  30,R,K
+  11,R,J,G
+   9,L,K
  149,U,X
-ChapterTime: 0:25.109(1477)
+ChapterTime: 0:24.633(1449)

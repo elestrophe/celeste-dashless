@@ -7,10 +7,10 @@ Set,DashMode,Two
 #play,Power Source,38
 
 #console load 10 12806 -4659
-#play,Remembered,39
+#play,Remembered,37
 
 #console load 10 18559 -6217
-#play,Event Horizon,38
+#play,Event Horizon,39
 
 # -------------
 # The above checkpoints depend on
@@ -1131,37 +1131,45 @@ EndRepeat
   13,K,G
    3,R,K,G
    8,L,K,G
-  13,L,G
-   1,L,J,G
-  14,L,D,G
-   4,L,G
-   1,L,J,G
-  57,L,U,G
-   4,L,D
+  12,L,G
+   1,G
+   1,J,G
+   7,L,D,G
+   1,D,G
+  25,L,D,G
    2,L,J,G
-   3,R,J
-   9,L,J
-  13,G
-  14,L,G
-  11,L,J,G
-   4,G
-   1
+   5,L,G
+   1,G
+   3,L,G
+  21,L,U,J,G
+   1,R
+  11,L
+   2,L,K,G
+   1,K
+  10,L,K
    1,L,J,G
+   2,R,J
+   5,L,J
+   1,J
+   4,L,J
+  21,L,J,G
+   5,L,J
    1,L,K,G
    1,L,J,G
-   1,L,K,G
    1,L
    1
-   5,L
-  15,L,J
-  13,G
-  21,L,J,G
-   6,L,D,J
-   2,L,K,G
-   2,R,K
-   2,L,K
    6,L
-  10,L,G
+   1,L,J
+   2,L,K
+  35,L,K,G
+   5,L,D,K
+   2,L,J,G
+   2,R,J
+   7,L,J
+   2,L
+   8,L,G
+   1,G
+   1,L,G
   10,G
    1,R,J,G
   14,R,K,G
@@ -1224,9 +1232,9 @@ EndRepeat
   23,L,J,G
    1,L,D,J
   16,L,J,G
-   7,J,G
+   8,J,G
    1,D,J
-  24,J,G
+  23,J,G
    1,D,J
   24,J,G
    3,K,G
@@ -3136,9 +3144,10 @@ EndRepeat
 #Spinner cycle
 #0-2
 
-   0,R
+   2,R
 # ---------
 
+#9FG
  109,R
    1,X
   19
@@ -6898,10 +6907,7 @@ AnalogMode,Precise
    1,L
    1,L
   10,R
-  27,R,G
-   1,R,G
-   1,R,G
-   1,R,G
+  30,R,G
    1,R
    2,L
    3,L,J,G
@@ -6923,8 +6929,7 @@ AnalogMode,Precise
   17,R,G
    4,G
    1,D
-  18,G
-   1,G
+  19,G
    2,R,G
    1,R,D
   21,R,G
@@ -6959,9 +6964,7 @@ AnalogMode,Precise
    4,G
    1,R,D
   15,R,G
-   2,G
-   1,G
-   3,G
+   6,G
    1,R,D
   18,R,G
    3,G
@@ -6999,8 +7002,7 @@ AnalogMode,Precise
    1,R,J
   11,R,D,X
    1,R,J,G
-   1,R,K,G
-   1,R,K
+   2,R,K,G
    1,R,J,G
    1,R,K,G
    6,R
@@ -7223,7 +7225,7 @@ AnalogMode,Precise
  108,F,0.6
   38
 #End_IGT
-ChapterTime: 17:36.176(62128)
+ChapterTime: 17:35.870(62110)
 
 # optional waiting for
 # visuals to play out

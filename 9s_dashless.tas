@@ -18,7 +18,7 @@ console load 10
    1
 
 #Start
-Read,9a_dashless,Start,lvl_j-14
+Read,D9A,Start,lvl_j-14
 
 #lvl_j-14
 #3x
@@ -802,9 +802,9 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-ChapterTime: 18:43.479(66087)
+ChapterTime: 18:42.969(66057)
 
 #Let moon berry sfx play
  100
 
-Read,9a_dashless,end-granny
+Read,D9A,end-granny

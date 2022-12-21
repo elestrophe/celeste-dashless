@@ -6,6 +6,8 @@ console load 3
 #Start
   61
 
+#lvl_s0
+#0x
 Read,D3A,lvl_s0,H1-Return
 
 #lvl_09-b

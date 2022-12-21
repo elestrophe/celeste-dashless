@@ -68,7 +68,7 @@ Add 1
    6,J,G
   40
 
-Read,1D,lvl_10a
+Read,D1A,lvl_10a
 
 Read,LoadANoCollects
 

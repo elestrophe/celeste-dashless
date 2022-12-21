@@ -35,7 +35,7 @@ Vampire Flower
 wafer  
 Wakey  
 WoofWoofDoggo  
-_zball_  
+\_zball_  
 
 Many additional members of the Celeste community contributed in other ways
 including finding strategies, suggesting improvements, and answering questions.

@@ -1,19 +1,18 @@
 console load 8
    1
 
-#Some files have this wait elsewhere already
- 115
-
 #Start
-   1,L,J
-  14,L
-   5,L,J
-  10,L
-   2
-   1,L,J,G
+  69
+
+#lvl_outside
+#0x
+   5,L
+   3,L,J
+  16,L
+   7,L,J
    1,L,K,G
-   7,L
- 155
+   1,L,J,G
+ 160,L
    1,S
    1,D,J
-  96
+  95

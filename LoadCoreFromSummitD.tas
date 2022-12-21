@@ -1,0 +1,27 @@
+Add 197
+ 164
+   1,J
+  32
+Add 1
+   2
+   1,S
+   1,D,J
+  18
+Add 1
+   1
+
+#Epilogue
+Read,0D - Epilogue - Minimum Dashes,Start
+
+#Core
+   1,J
+Add 58
+ 427
+   1,J
+  43
+   1,J
+  45
+   1,S
+   1,D,J
+  32
+Add 1

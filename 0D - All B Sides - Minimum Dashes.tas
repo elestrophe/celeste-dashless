@@ -38,6 +38,7 @@ Read,LoadBCheatMode,0,Core
 Read,LoadBCheatMode,Core
 
 Read,D8B,Start
+
   59
    1,J
  196

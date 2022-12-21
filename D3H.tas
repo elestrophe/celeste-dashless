@@ -1,14 +1,21 @@
-#3H +1x (MTB) 6:26.818
+#3H +1x (MTB)
 
 console load 3
    1
 
 #Start
-Read,3a,Start,H1-Return
+  61
 
-#09-b
+Read,D3A,lvl_s0,H1-Return
+
+#lvl_09-b
+#0x
+   4,R
+   1,R,J
+  14,R
   10,R,D,J
-   7
+   5,R
+   2
    5,R,J
    6,R
    1,R,J,G
@@ -38,25 +45,23 @@ Read,3a,Start,H1-Return
    7,R
   40
 
-#11-b (1x)
+#lvl_11-b
+#1x
    7,R
    3,R,J
    7,R
    4,R,J
    8,R
-   4,D,X
-  11,R,X
+  15,R,Z
   27,R,D
    1,R,J
   14,R
    2,R
    1,R,J
    2,R
-
    1,S
    1,D,J
   34
-
   12,R
    1,R,J
   14,R
@@ -72,7 +77,8 @@ Read,3a,Start,H1-Return
    3,R
   40
 
-#12-b
+#lvl_12-b
+#0x
   11,R
    1,R,J
   12,R
@@ -115,8 +121,8 @@ Read,3a,Start,H1-Return
   14,R
   40
 
-#13-b
-
+#lvl_13-b
+#0x
    1,R,J
   14,R
   11,R,J
@@ -155,7 +161,8 @@ Read,3a,Start,H1-Return
   20,L,D
   40
 
-#13-a
+#lvl_13-a
+#0x
    4,L,D
    3,L
    1,L,J
@@ -199,7 +206,8 @@ Read,3a,Start,H1-Return
    6,L,D
   40
 
-#13-x
+#lvl_13-x
+#0x
    7,L,D
    1,L,J
   29,L,D
@@ -233,7 +241,8 @@ Read,3a,Start,H1-Return
    2,L
   40
 
-#12-x
+#lvl_12-x
+#1x
    8,L
    4
    2,L,J
@@ -256,31 +265,10 @@ Read,3a,Start,H1-Return
   10,R,J
    1,R
    6,R,J
-
+Repeat,12
    1,K
    1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
+EndRepeat
    1,R,K
    9,R
   12,R,J
@@ -289,7 +277,8 @@ Read,3a,Start,H1-Return
    5,L,J,G
   40
 
-#11-a
+#lvl_11-a
+#0x
    2,R
    1,R,J,G
    1,R,K,G
@@ -297,7 +286,8 @@ Read,3a,Start,H1-Return
    1,R,J
   40
 
-#13-a
+#lvl_13-a
+#0x
    7,R,J
   14,L,K,G
   12,J
@@ -317,7 +307,8 @@ Read,3a,Start,H1-Return
    5,L,J
   40
 
-#13-b
+#lvl_13-b
+#0x
    1,R
    1,R,J,G
    1,R,K,G
@@ -361,7 +352,8 @@ Read,3a,Start,H1-Return
   14,L
   40
 
-#12-b
+#lvl_12-b
+#0x
    1,L,J
   14,L
    1,L,J
@@ -389,7 +381,8 @@ Read,3a,Start,H1-Return
   12,L
   40
 
-#11-b
+#lvl_11-b
+#0x
    2,L
    1,L,J
   34,L,D
@@ -415,7 +408,8 @@ Read,3a,Start,H1-Return
    5,R,K,G
   40
 
-#11-c (1x)
+#lvl_11-c
+#1x
    1,L
    1,L,J,G
    1,L,K,G
@@ -429,7 +423,6 @@ Read,3a,Start,H1-Return
    6,L
   10,L,J
   26,L,D,X
-
    6,L,J
   22,L
   21,L,D,J
@@ -442,11 +435,13 @@ Read,3a,Start,H1-Return
   16,L,D
   40
 
-#11-b
+#lvl_11-b
+#0x
    4,J
   40
 
-#11-c
+#lvl_11-c
+#0x
    1,S
    1,D,J
   69,O
@@ -473,12 +468,14 @@ Read,3a,Start,H1-Return
   10,R
   40
 
-#12-c
+#lvl_12-c
+#0x
   13,R,J
    7,L,K
   40
 
-#12-d
+#lvl_12-d
+#0x
    2,R,J
    5,R
   29,R,J,G
@@ -530,7 +527,8 @@ Read,3a,Start,H1-Return
   10,L
   40
 
-#11-d (1X)
+#lvl_11-d
+#1x
    4,L
    1,L,J
    9,L
@@ -561,7 +559,8 @@ Read,3a,Start,H1-Return
   14,L
   40
 
-#10-d (1X)
+#lvl_10-d
+#1x
    1,L,J
   14,L
    7,L,J
@@ -587,12 +586,14 @@ Read,3a,Start,H1-Return
   35,L,D
   40
 
-#10-c
+#lvl_10-c
+#0x
   30,L,D
   13,R,D
   40
 
-#09-b
+#lvl_09-b
+#0x
   19,R,D
    9,R,J
    1,R,K,G
@@ -616,8 +617,6 @@ Read,3a,Start,H1-Return
    8,R,J,G
    4,R,K,G
   23,R
-***
-
   25,R,D
    3,R
    1,R,J,G
@@ -625,14 +624,16 @@ Read,3a,Start,H1-Return
   17,R,D
   40
 
-#10-x
+#lvl_10-x
+#0x
    3,L,D
    5,R,D
    1,R,J
   10,R
   40
 
-#11-x
+#lvl_11-x
+#0x
    4,R
    3,R,J
   34,R
@@ -663,7 +664,8 @@ Read,3a,Start,H1-Return
   41,L,D
   40
 
-#11-y
+#lvl_11-y
+#0x
    5,L,D
    1,L,J
   14,L
@@ -695,9 +697,10 @@ Read,3a,Start,H1-Return
    1,R,D
   40
 
-Read,3a,H2,H2-Return
+Read,D3A,H2,H2-Return
 
-#09-b
+#lvl_09-b
+#0x
    4,L
    1,L,J,G
   14,L
@@ -791,4 +794,6 @@ Read,3a,H2,H2-Return
   11,L
   60
 
-Read,3a,H3
+Read,D3A,H3
+
+ChapterTime: 6:26.257(22721)

@@ -1,0 +1,47 @@
+#Start from Begin
+
+Read,StartFullGameFile
+
+Read,0 - Prologue,Start
+
+Read,LoadANoCollects,Prologue
+
+Read,D1A,Start
+
+Read,LoadANoCollects
+
+Read,D2A,Start
+
+Read,LoadANoCollects
+
+Read,D3A,Start
+
+Read,LoadA
+
+Read,D4A,Start
+
+Read,LoadANoCollects
+
+Read,D5A,Start
+
+Read,LoadA
+
+Read,D6A,Start
+
+Read,LoadANoCollects,0,Summit
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,D7A,Start
+
+Read,LoadCoreFromSummitD,0,Core
+ 300
+   1,J
+Add 58
+ 427
+
+Read,LoadJournalD,0,Any%

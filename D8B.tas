@@ -4,9 +4,11 @@ console hearts 15
 console hard 9
    1
 
+#Start
+  54
+
 #lvl_00
 #0x
-  54
    2,R
    1,R,J
   14,R

@@ -16,7 +16,7 @@ console load 10
    1
 
 #Start
-Read,9a_dashless,Start,Post-Heart
+Read,D9A,Start,Post-Heart
 
 #Post-Heart
    1,R
@@ -160,7 +160,7 @@ Read,9a_dashless,Start,Post-Heart
    1,R,J
   40
 
-Read,9a_dashless,lvl_f-01,Spinner cycle
+Read,D9A,lvl_f-01,Spinner cycle
 
 # ---------
 #Spinner cycle
@@ -169,6 +169,6 @@ Read,9a_dashless,lvl_f-01,Spinner cycle
    0,R
 # ---------
 
-Read,9a_dashless,9FG
+Read,D9A,9T
 
-ChapterTime: 17:28.169(61657)
+ChapterTime: 17:27.659(61627)

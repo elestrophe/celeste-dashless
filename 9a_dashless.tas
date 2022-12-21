@@ -50,10 +50,11 @@ console load 10
    1
 
 #Start
+  98
+
 #START 3x
 #lvl_intro-00-past
 #0x
-  98
    5,R
    1,R,J
   18,R
@@ -3147,7 +3148,7 @@ EndRepeat
    2,R
 # ---------
 
-#9FG
+#9T
  109,R
    1,X
   19
@@ -3203,66 +3204,72 @@ EndRepeat
 #lvl_f-07
 #2x
    3,R
-  14,R,J
+  15,R,J
    1,J
-   4,R,J
-  19,R
+   3,R,J
+   3,R
+   1
+  15,R
    6,L,Z
    1,R,J
    1
    5,R
    5,R,D
-   1,R,J
-   1,L,J
-   7,R,J
+   2,R,J
+   1,J
+   6,R,J
    4,R
   17,L,D
    1,G
+   4,D
    1,R,D
-   6,L,D
-   1,L
-   1,L,D
+   3
+   1,R,D
+   1,R
    1,L,J,G
-   1,L,K,G
-   1,L,J,G
-  10
-   4,G
-   1
-   1,J
-   1,L,K,G
-  45,R
-  18,R,U,X
-   2,R,J,G
-   3,L,J
-   7,R,J
-   3,R,K,G
-   5,R
-   1,R,K
+   2
    1,R
    1
-   1,R,J
-   2
-   2,R
-   3,L
-   1,L,G
-   6,L
-  18,U,G
+   1,L
    1
+   1,L
+   3,G
+   1,J,G
+   1
+   1,K,G
+   1,L,J,G
+  25,R,D
+  13,R
+   1
+   5,R
+  15,R,U,X
+   1
+   1,L,J,G
+   7,L
+   8,G
+   2,L,J,G
+   1,R,J
+   1,J
+   1,R,J
+   2,J
+   7
+   1,L,G
+   2
    1,K,G
    1,L,J,G
    8,R,J
    5,R
-   3,R,J
-   7,L
+   1,R,J
+   5,R
+   5
   40
 
 #lvl_f-08
 #2x
-   5,L
-   5,L,D
-   1,R,G
-   5
-  12,G
+   9,D
+   1
+  17,G
+   1,D,G
    1,R,J,G
    1,R,K,G
    1,R
@@ -7225,7 +7232,7 @@ AnalogMode,Precise
  108,F,0.6
   38
 #End_IGT
-ChapterTime: 17:35.870(62110)
+ChapterTime: 17:35.360(62080)
 
 # optional waiting for
 # visuals to play out

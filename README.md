@@ -2,9 +2,9 @@
 Celeste TAS inputs using as few dashes as possible.
 
 Files are split into three categories:  
-  Unrestricted (U) - Any tech is allowed  
-  Semirestricted (SR) - Spinner freeze is banned  
-  Restricted (R) - Spinner freeze and spinner stun is banned  
+Unrestricted (U) - Any tech is allowed  
+Semirestricted (SR) - Spinner freeze is banned  
+Restricted (R) - Spinner freeze and spinner stun is banned  
 
 Utilizes files from the [maingame Celeste repository.](https://github.com/EuniverseCat/CelesteTAS)
 

@@ -1,6 +1,5 @@
 The following people contributed inputs to this repository:
 
-aleph_null  
 Algorythm  
 amber  
 atpx8  
@@ -15,8 +14,10 @@ exopta
 Flinchless  
 HJM  
 Ianwubby  
+Janosch  
 JaThePlayer  
 lanbing  
+linn  
 lith  
 Marlin  
 masrock9   
@@ -28,6 +29,7 @@ RareBeeph
 RichConnerGMN  
 RisingStar111  
 sashabell  
+Shin  
 TheChickenleg  
 tong815  
 Tyran  

@@ -1,0 +1,409 @@
+#8C 9x
+
+console hearts 23
+console rmx2 9
+   1
+
+#Start
+  61
+
+#lvl_intro
+#1x
+   6,L,Z
+   1,R,J
+   7,R
+  28,R,J
+ 260
+  10,L
+   8,R
+  10
+   9,D,J
+  11,R,D,J
+   1,R,K,G
+   6,R,J,G
+   6,R
+   1,R,J
+  26,R,D
+  14,R
+   4,R,J
+   2,L,J
+   2,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+  10,R
+   3,R,J
+   3,R
+  40
+
+#lvl_00
+#1x
+
+   4,R
+   1,R,J
+   6,R
+  13,R,D,X
+  12,R,J
+   3,R
+read pause
+   2,R,J
+read jpause
+   1,R,J
+   1,R
+repeat 3
+read pause
+   2,R
+endrepeat
+read pause
+   1,R,D
+   1,R
+read pause
+   2,R
+read pause
+repeat 2
+   2,R,J
+read pause
+endrepeat
+repeat 3
+   2,R
+read pause
+endrepeat
+   1,R
+   3
+   1,R
+read pause
+repeat 8
+   2,R
+read pause
+endrepeat
+repeat 3
+   2,R,J
+read pause
+endrepeat
+repeat 5
+   2,R
+read pause
+endrepeat
+   1
+   1,R,K,G
+read pause
+   1,R,J,G
+   1,R,J
+read pause
+repeat 2
+   2,R,J
+read pause
+endrepeat
+repeat 2
+   2,R
+read pause
+endrepeat
+repeat 4
+   2,R,J
+read pause
+endrepeat
+   1,R,J
+   1,R
+read pause
+repeat 8
+   2,R
+read pause
+endrepeat
+repeat 3
+   2,R,J
+read pause
+endrepeat
+repeat 2
+   2,R
+read pause
+endrepeat
+repeat 2
+   2,R,J
+read pause
+endrepeat
+repeat 5
+   2,R
+read pause
+endrepeat
+   2,R
+   1,R,J
+repeat 3
+read pause
+   2,R,J
+endrepeat
+read pause
+repeat 7
+   2,R
+read pause
+endrepeat
+   1,R
+   1,R,J,G
+read pause
+   2,R,K,G
+repeat 6
+read pause
+   2,R,D
+endrepeat
+repeat 2
+read pause
+   2,R
+endrepeat
+repeat 4
+read pause
+   2,R,D,J
+endrepeat
+read pause
+   1,R,J
+   1,R
+repeat 3
+read pause
+   2,R
+endrepeat
+repeat 9
+read jpause
+   2,R,J
+endrepeat
+read pause
+   1,R
+  24,R,J
+   8,R,D
+   2,D
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1,R,J
+  10,R
+  40
+
+#lvl_01
+#2x
+
+   4,R
+   3,R,J
+   4,R
+   3,R,J
+   7,R,D
+   9,L,D
+   2,R,D
+   1,R,J
+repeat 3
+read pause
+   2,R
+endrepeat
+read pause
+   1,R
+   1,R,J
+repeat 4
+read pause
+   2,R,J
+endrepeat
+read pause
+   1,R,J
+   1,R
+repeat 6
+read pause
+   2,R
+endrepeat
+read pause
+   1,R
+   1
+repeat 9
+read pause
+   2
+endrepeat
+read pause
+   1
+   1,J
+repeat 2
+read pause
+   2,J
+endrepeat
+repeat 13
+read pause
+   2,R,J
+endrepeat
+read pause
+   1,R
+   1,R,J
+read pause
+   1,R,J
+   1,R
+repeat 6
+read pause
+   2,R,J
+endrepeat
+read pause   
+   2,G
+read pause
+   1,G
+   1,R,K,G
+read pause
+   2,R,J,G
+read pause
+   1,R,K,G
+   1,R,J,G
+read jpause
+   1,R,J,G
+   1,R
+read jpause
+repeat 12
+   2,R,J
+read jpause
+endrepeat
+   1,R,J
+   1,R,D
+read pause
+repeat 10
+   2,R,D
+read pause
+endrepeat
+repeat 5
+   2,R,J
+read pause
+endrepeat
+   1,R,J
+   1,R,J
+read pause
+   1,R
+   1,R
+read pause
+repeat 1
+   1,R
+   1,R
+read pause
+endrepeat
+   1,R,G
+   1,R,G
+read pause
+   2,G
+read pause
+   1,G
+   4,R,Z
+read pause
+   1,R
+   1,R,J,G
+read pause
+   2,R,K,G
+read pause
+   1,R,J,G
+   1,R,K,G
+repeat 6
+read kpause
+   2,R,K,G
+endrepeat
+read kpause
+   5,R,K,G
+repeat 6
+read kpause
+   2,R,K,G
+endrepeat
+  31,R,K,G
+  16,U,X
+  59,R,J
+   2
+   1,K
+  21,R,K
+   1,K
+   1,K
+   1,K
+   1,K
+   2,K
+  12,J,G
+  11,K,G
+   1,L,K
+  50,R,J,G
+   3,R,D
+   2,D,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+  11,R
+  40
+
+#lvl_02
+#5x
+
+  12,L
+   2,R
+   1
+   3,R
+   2
+   1,L
+   1
+   1,L
+   1
+   1,R
+  74
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   8,R,J
+   7,R
+   1,R,J
+   1,R
+   1,R,J
+  14,R
+  15,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   4,K
+   6
+   1,R
+   2,R,J
+   5,R,D,X
+   1,L,J,G
+  18,R
+   2,R,J
+   8,R
+  19,R,J
+  19,R,D,X
+   1,R
+   7,R,J
+  20,R,D,X
+   1,D
+  12,R,D
+  27,R,J
+   6,R
+  14,R,U,Z
+   1,J,G
+   1
+   1,R,K,G
+   1,K
+  18,R,K
+   4,R,J,G
+   5
+   8,R,J
+   1,R,K,G
+   5,R
+   4,R,J
+  13,R,D
+   3,R,J
+   4,J
+   1,R,J
+   1
+  12,R
+  38,U,X
+   1,L
+   1,R
+Repeat,7
+   1,R
+   1
+   1,L
+   1
+EndRepeat
+  15
+   1,R
+   2
+Repeat,9
+   1,R
+   1
+   1,L
+   1
+EndRepeat
+  17
+ChapterTime: 1:09.326(4078)

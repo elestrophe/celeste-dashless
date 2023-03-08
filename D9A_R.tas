@@ -2824,31 +2824,31 @@ EndRepeat
    1,R,J
    1,R,K
    2,R,J
+   1,R
+   1,R,J
    5,R
-   3,R,D,J
-   6,R
-   1
-   3,R
-   1,R,J,G
+   3,R,J
+   8,R
+   1,R,K,G
    1,R
    1
    7,R
    1,R,J
   18,R
-   1,R,J
   40
 
 #lvl_f-00
 #5x
-  14,R
    1,R,J
+  11,R
+   1
+   2,R
+   1,R,D,J
   15,R
    1,R,J
    7,R
    1,R,D,J
-   5,R
-   1,R,J
-   2,R
+   7,R
    1,R,J
    8,R
   14,R,Z
@@ -3152,7 +3152,7 @@ EndRepeat
 #Spinner cycle
 #0-2
 
-   1,R
+   2,R
 # ---------
 
 #9T
@@ -3382,7 +3382,7 @@ EndRepeat
    1,K,G
    4,R
    1,L
-   3,R
+   3
   12,L
   12,L,D
    1,L
@@ -5451,69 +5451,73 @@ EndRepeat
    1
    1,R,J,G
    5,R
-   2,R,J
-   5,R
+   3,R,J
+   4,R
   10
-   2
-   1,R
-  11,R,J
-   5,R
-   6,R,J
-   5,R
    1
-   1,R
-   1
-   1,J
-  10,R,J
-  14,L,J
-   2,R,K,G
-   1,L,K
-   1,R
+   2,D
+   1,L,D
+  25,R,J
+   6,L,D
    1,L
+   1,J
+   1,K,G
+  10,R,K
+  14,L,K
+   1,R,K
+   1,J,G
+  10,R,J
+   1,L,J
+  14,R,J
+   4,R,J
+   1
    1,R
-   4
-Repeat,21
+   3
+Repeat,7
    1,G
    1
 EndRepeat
-   2,G
-  35,R,J,G
-   2,R,D
-   1,L,D
-   1,L
-   7,L,D
+   1,G
+   1,R,K,G
+   1,K
+  24,R,K
+  11,R,D
    1,D
    1,R,D
+   8,D
   59,R,J
    1,R,K,G
    3,L,K
-   7,R,K
+   5,R,K
    1,R,J,G
-   1,R
-   1
-   9,R
-   1,R,J
-  15,R
+   1,R,K,G
+   5
+   4,R
+   2,R,J
+   8,R
+   2,R,J
+   6,R
+   1,R,K
   40
 
 #lvl_i-04
 #0x
-   3,R
-   6,R,J
-   4,R
-  12,R,K,G
-   6,R
-   1,R,K
-   2,R,J,G
-   3,L,J
-   2,R,J
-   2,R
-   1,R,K,G
-   1,R,J,G
+   5,R,K
+   5,R
+   2,R,K
    1,R
-   1
-  25,R
-   5,R,D
+  12,R,J,G
+   6,R
+   1,R,J
+   2,R,K,G
+   3,L,K
+   2,R,K
+   2,R
+   1,R,J,G
+   1,R,K,G
+   6,R
+  22,R
+   4,R,D
    4,Z
   30,R,J
    3,J
@@ -6796,8 +6800,7 @@ AnalogMode,Precise
    2,R,G
    1,R,J,G
    1,D,G
-   5,R,D,G
-  16,R,D,G
+  21,R,D,G
   20,R,U,G
   13,R,D,G
    1,J,G
@@ -6925,8 +6928,7 @@ AnalogMode,Precise
    1,R
    3,L
    2
-   1,L
-   1,L
+   2,L
   10,R
   30,R,G
    1,R

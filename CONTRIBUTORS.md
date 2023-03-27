@@ -4,6 +4,7 @@ Algorythm
 amber  
 atpx8  
 cake  
+Celerity  
 Cr33pyCat  
 dahlukeh  
 daffodilian  

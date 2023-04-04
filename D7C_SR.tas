@@ -1,6 +1,7 @@
-#7C 35x
+#7C 32x
 
 console rmx2 7
+StunPauseMode 
    1
 
 #Start
@@ -14,14 +15,14 @@ console rmx2 7
    5,R,J
    8,R,J
    1,R,K
-Stunpause input
+StunPause 
   24,R,K
    1,G
    9,J,G
    1,K
    2,J,G
   23,L,J
-skipautoinput,3,1
+SkipInput,3,1
   15,U,X
    3,U
   20,R,J
@@ -32,7 +33,7 @@ skipautoinput,3,1
    6,R
   23,R,K
    1,R,J
-endStunpause
+EndStunPause
   11,R,J
   27,R
   18,U,Z
@@ -47,11 +48,11 @@ endStunpause
    2,J
   14,U,X
    2,R,J
-stunpause input
+StunPause 
   13,R,J
-skipautoinput,3,1
+SkipInput,3,1
   71,R,J
-endstunpause
+EndStunPause
   13,R,J
   15,R,U,Z
   38,R
@@ -90,7 +91,7 @@ endstunpause
   69
 
 #lvl_03
-#25x
+#22x
    4,R
    1,L
    3,R
@@ -115,20 +116,20 @@ endstunpause
    7,R
    1,R,J
    6,R
-stunpause input
+StunPause 
   18,R
    7,R,J
   55,R,D
-skipautoinput,3,1
+SkipInput,3,1
    9,R,U,Z
-endstunpause
+EndStunPause
   16,R,D
-stunpause input
+StunPause 
   23,R,D
   25,R
-skipautoinput,3,1
+SkipInput,3,1
    8,R,Z
-endstunpause
+EndStunPause
    7,R
   21,L,D
   19,R,D
@@ -137,132 +138,169 @@ endstunpause
   15,R,Z
   10,R
    5,R,U,Z
-stunpause input
+StunPause 
   18,R,U
   33,R
-skipautoinput,3,1
+SkipInput,3,1
   15,U,X
    4,R
-endstunpause
+EndStunPause
   38,D
    5,R,D
   21,D
-  15,R,X
-  19
-  15,R,X
-  10,L
-   4
-  14,R,X
-  34,R,J
-   7,R
-  15,R,U,X
-  23,R
-  11,R,Z
-  11,R,J,G
+  13,R,X
+StunPause
+   1,R
+   1
+  17
+EndStunPause
+   1,S,N
+   1,N,O
+   9,N
+   2
+   1,S,N
+   1,N,O
+   9,N
+   5,R,X
+StunPause
   10,R
-  47,R,J
-stunpause input
-   5,R,J
-skipautoinput,3,1
-  14,R,U,X
-  28,R
-  34,R,J
-   7,R
-   2
-   1,R,J,G
-   2,R,K,G
-   1,R
-endstunpause
-   6,R
-   9
-  35,R
-  15,R,X
-  17,R
-   9,R,D
-   1,R
-  28,R,X
-  15,R,U,C
-  18,R,Z
-   1,R
-  15,R,Z
-   5
-  15,R,U,X
-  10
-  23,R
-   4,R,D
-   1,R
-  38,R,U,Z
-  25,R,X
-  15,U,C
-   3,L
-  21,R
-  15,R,Z
-  14,R
-  15,R,Z
-   1,R
-   1
-   1,R
-   1
-   1,R
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1
-   8,R
-   1,R,J
-  26,R,D
-   1,R,J
-  18,R
-   1,R,J
-  18,R
-   1,R,J
-  26,R
-   2
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  13,R
-   1
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-  14,R
-   1,R,J
-   2,L
-   3,R
-   1,L
-   2,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R
-   1,L
-   1,R,K
-   1,R,J,G
-   1,R,K,G
-  11,R
-   6,R,J
+  11
   15,R
+   2
+   2,R
+   5,R,D
+  11,R,J
+EndStunPause
+   3,R,J
+  17,J
+  19,R,J
+StunPause
+  31,R,J
+SkipInput,3,1
+   5,R,X
+  21,R,D
+   1,R,J,G
+   8
+EndStunPause
+   7
+   1,R,K
+  23,R,J
+  28,R,D
+  15,R,X
+   4,R
+   8,R,C
+StunPause
+   7,R
+  37,R
+   8,R,J
+  10,R,D
+   5,R,J
+  12,R,D
+   1,D
+   1,R,J,G
+   2,R
+EndStunPause
+   5,R,J
+  10,R
+StunPause
+  48,R,J
+SkipInput,3,1
+   8,R,U,X
+EndStunPause
+   7,R
+   6
+  16,R,D
+StunPause
+  10,R,D
+SkipInput,3,1
+  12,R,X
+SkipInput,3,0
+  18,R
+SkipInput,3,1
+  15,R,U,Z
+SkipInput,3,14
+  15,R
+EndStunPause
+   9,R
+  10,R,J,X
+StunPause
+  12,R,J
+SkipInput,3,1
+   9,R,U,C
+SkipInput,3,0
+   6,R
+  24,R
+SkipInput,3,1
+  12,R,X
+EndStunPause
+   9,R
+StunPause
+   2,R
+SkipInput,3,1
+   5,R,C
+SkipInput,3,0
+  28,R
+SkipInput,3,1
+  15,R,U,X
+  13,R
+EndStunPause
+   1,S,N
+   1,N,O
+   9,N
+  45,R,K,C
+   2,K
+  11,R,J,G
+  12,R,K,G
+  11,R,J,G
+   3
+   1,R,K,G
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+   1,R,J
+  27,R
+   1,R,J
+  21,R,D
+   1,R,J
+  15,R
+   1,R,J
+  16,R
+   1,R,J
+   2,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+Repeat,4
+   1,R,J
+  16,R
+EndRepeat
+   1,R,J
+  18,R
+   1,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+  14,R
+   1,R,J
+  15,R
+   1,R,J
+  14,R
+   1,R,J
+   9,R,D
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+  19,R
+   7,R,J
   14,R,Z
    1,R,J
    7,R
-  32,R,J
+  27,R,J
  157,R,X
 #0:47.515(2795)
-ChapterTime: 1:35.982(5646)
+ChapterTime: 2:11.869(7757)

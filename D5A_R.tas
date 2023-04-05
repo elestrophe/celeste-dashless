@@ -855,41 +855,39 @@ EndRepeat
    1,L
    1,S
    1,D,J
- 543
+  18
 
 #lvl_void
 #0x
+ 525
   19,R,D,X
   19,L,D,C
+AnalogMode,Square
    6,F,204.6
   19,L,U,X
   17,L,U,C
-   9
-   2
+  11
   19,L,D,X
    6,F,169.7
   19,L,D,C
   11,L,D,X
   19,F,270
+AnalogMode,Ignore
   19,U,X
   18,L,U,C
-   9
-   1
-  19,L,X
-   1,L
-   1,U,C
-   9
-  18
+  10
+  20,L,X
+  28,U,C
   20,L,X
   25,L,C
-  19,L,X
-  15,L,D
-   9,L,D,C
+  34,L,X
+   9
    1,J
- 225
+  34
 
 #lvl_c-00
 #0x
+ 191
    5,R
    3,R,J
   16,R,D

@@ -960,17 +960,19 @@ EndRepeat
    5,R,J
    5,R,J
   27,R,K
-  13,G
-  84,R,U,J,G
+  24,R,U,K,G
+  73,R,U,G
    1,L
   25,R
    4,J,G
    1,L,J
-   7,R,J
+   5,R,J
+   1,R
    6,R,K,G
    5,K
-   1
+   1,R
    7,J,G
+   1
    1,L
    1,K
   16,R,J,G
@@ -1829,7 +1831,8 @@ EndRepeat
   13,G
    1,R,U,J,G
    1,R,U,G
-  56,R,U,J,G
+   8,R,U,J,G
+  48,R,U,G
    1,L,U,G
    1,R,U,G
    5,R

@@ -8,7 +8,7 @@
 #1x
 #lvl_02-d
 #3x
-#lvl_roof06b
+# lvl_roof06b
 #1x
 
 #Buttons: 3x
@@ -2983,6 +2983,7 @@ EndAutoInput
    1,R,J,G
    1,R,K,G
   11,R
+#preroof06b
    1,R,J
    7,R
   40

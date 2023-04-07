@@ -1,7 +1,7 @@
 #D3SH
 
 #Dependencies:
-#D3H_R
+#D3AH_R
 #D3A_R
 
 #Dashes: 31x
@@ -513,7 +513,7 @@ Read D3A_R lvl_0x-a lvl_02-b
    4,L
   40
 
-#lvl_s3
+#lvl_s3v2
 #0x
    9,L
    1,L,J
@@ -537,8 +537,7 @@ Read D3A_R lvl_0x-a lvl_02-b
    4,R,J
   40
 
-
-#lvl_0x-b
+#lvl_0x-b(2)
 #0x
    2,R,J
    9,R,D
@@ -1331,7 +1330,6 @@ Read D3A_R lvl_0x-a lvl_02-b
 #Huge Mess
 Read, D3A_R, Huge Mess, lvl_09-b
 #lvl_09-b
-#0x
   12,R,J
    1,L,J
    1,K,G
@@ -1549,7 +1547,6 @@ Read, D3A_R, Huge Mess, lvl_09-b
   40
 
 #lvl_12-b
-#0x
    7,R
    1,R,J
   19,R

@@ -9,7 +9,8 @@
 #ChStart: |> 11x
 #lvl_00-a 1x
 #lvl_00-b 1x
-#lvl_0x-b 2x
+#lvl_00-b (2) 1x
+#lvl_0x-b 1x
 #lvl_03-a 2x
 #lvl_04-b 2x
 #lvl_05-c 2x
@@ -72,51 +73,42 @@ Read D3A_R Start lvl_s2
    8,R,J
   21,R
    8,R,J
+   6,R
+  13,R,J
+   1,R,K,G
+   9,R,J,G
    5,R
-  14,R,J
-   3,R,K,G
-   9,R
-  16,L,D
-   1,J
-   2,K,G
-   5,R
-  24,R,J
+  29,R,J
+   1
   11,K,G
    1,L,K
+  10,R,J,G
+   2,R,J
    1,J
-  16,R,K,G
-   7,J,G
-   3,L,J
-   5,R,J
-   1,K,G
-  10,R,K,G
-   1,L
-  20,R,J,G
-   3,R,K,G
-   7,R
-   1,J
+   1,R,J
+   1,K
+  18,R,K
+   6,R,J,G
+   8,R
+  12,R,J
+   5,R,K,G
+   7,L,K
+   9,L,J,G
+  12,L,K,G
+   5,L,J,G
    3,R,J
-   8,J
-   2,L,K,G
-   6,K
-  12,L,J,G
-   1,L,K,G
-   4,R,K
-   6,L,K
-   1,L,J,G
-  10,L
-   1,L,J
-   8,L
-   2,L,J
-   9,L
+   3,L,J
+   7,L
    1,L,J
   14,L
-   4,L,J
-   2,J
    1,L,J
-   5,L
-   6,L,J
-   7,L
+  18,L
+   1,L,J
+   8,L
+   1,L,J
+   9,L
+   7,L,J
+   4,L
    1,L,K,G
    1,L,J,G
    9,L
@@ -163,7 +155,7 @@ Read D3A_R Start lvl_s2
    2,L
    3,L,J
    1,L
-  10,L,D
+  10,L
   14,R,D
    1,R,J
   18,R
@@ -175,28 +167,32 @@ Read D3A_R Start lvl_s2
    1,R,K,G
    1,R,J,G
    9,R
-  40,R,J
-   1,K,G
-   1,R,K
-   1,L,K
-   1,R,J,G
+   7,J
+   1,L,J
+   1,K
+   2,J,G
+   1,R,J
+   6,R,J
+   5,R
+  22,R,J
+   2
    1,R,K,G
    1,R,J,G
-   1,R,K,G
-   8,R
-   4,R,J
-   9,R
-   4,R,D
+  23,R
+   5,R
+   1
    1,R,J
-   8,R
+   1,R
    1,R,K,G
-  13,R
-   1,R,J
-   7,R
    1,R,J,G
-  14,R
+  12,R
    1,R,J
-  39,R,D
+   1,R
+   1,R,K,G
+   6,R
+   7,R,J
+  10,R
+  19,R,D
    1,R,J
   14,R
    1,R,J
@@ -334,31 +330,23 @@ Read D3A_R lvl_0x-a lvl_02-b
 
 #lvl_01-b (1)
 #0x
-   8,L,J
-   1,R,J
-   1,K
-   2,J,G
-   1,L,J
-   3
-   1,L
+   9,L,J
+   1,L,K
+   2,L,J
+   4,L
    1,L,J,G
    1,L,K,G
-  11,L
+   9,L
    1,L,J
   18,L
    3,L,D
-   3,L,J
-   7,L
    1,L,J
-  28,L
+   3,L
+   8,L,J
+   6,L
+  23,L
   12,L,J,G
-   9,L,K,G
-   5,L
-   1,K
-   6,L,K
-   1,J,G
-   1,L,J
-   9,L
+  28,L,K,G
    1,L,G
   12,L,J,G
   19,D
@@ -373,64 +361,54 @@ Read D3A_R lvl_0x-a lvl_02-b
    2,L,J
   12,L
   12,L,D
-   1,L,J
-   3,L
+   5,L,D,J
   40
 
 #lvl_00-b (1)
 #1x
-  11,L
-  12,L,J
-  10,L,K,G
-   1,L,J,G
-   3,R,J
-   3,L,J
-   8,L
-   1,L,J
-  14,L
-   1,L,J
-   3
-  15,L
-   5,D
-   1,L,G
-   2,L,J,G
-   7,L
-   1,L,D,J
-   2
-   8,L
-   1
-   1,L
-   1
-   1,L
-   1,L,J
+  13,L,J
+   1,L,K
+   8,L,J
    4,L
    1
-   7,L
+   1,J
+   3,L,J
+   1,L,K,G
+   1,L,J,G
+  10,L
+   1,L,J
+  15,L,D
+   3,D
+   3,L
+   3,L,J,G
+   6,L
+   2
+   2,L
+   2
+   3
+   1,L
+   2,L,J
+   5,L
+   4,L
    1,L,J,G
    1,L,K,G
+   8,L
+   2,L,K
    5,L
-   6,L,K
-   1,L
-   5
-  23,L,J
+   2,L,J
+   5,L
+  16,L,J
    1,R,K
-  10,R
-   5
-   3,R
-   6,R,D
-   1,R,J,G
-   1,R,K,G
-  13,R
-  12,R,J
+   1,R,K
    5,R
+  15,R,K
+   2,R,J,G
+  21,R
   27,R,J
+  25,U,X
+   1,L,J,G
    1
-  11,R,K,G
-   7,R
-  12,J
-  17,U,X
-  12,L,J
-   4,K
+   6,R,J
   40
 
 #lvl_00-c
@@ -482,66 +460,56 @@ Read D3A_R lvl_0x-a lvl_02-b
   40
 
 #lvl_00-b (2)
-#0x
+#1x
    5,R,D
    7,D
    7,L,D
+   7,L,Z
    1,L,J
-   6,L
   40
 
 #lvl_0x-b
-#2x
+#1x
+   7,L
+   4,L,D
+  26,L,J
+  19,L
+  15,L,X
+   3,L
+   6,L,J
    8,L
-   4,L,J
-  10,L
-  11,R
-   1,J,G
-   3,R,J
-   6,R
-   1,L
-  38,L,J
-  18,L,U,Z
-  17,L
-  18,L,U,Z
-  42,L,D
-   1,L,J,G
    1,L,K,G
-  11,L
-   7,L,J
-   4,L,K,G
-   4,L
+   1,L,J,G
+   5,L
   40
 
 #lvl_s3v2
 #0x
-   9,L
+   6,L
    1,L,J
   14,L
-   8,L,J
-   1,K
-   2,L,K
-  18,L
-   3,L,D
-   1,R,J
-   1,L
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   4,R,J
+   1,L,J
+  14,L
+   1,L,J
+   4,L
+  10
    5,R
-   4,R,J
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   1,R
   40
 
-#lvl_0x-b(2)
+#lvl_0x-b (2)
 #0x
-   2,R,J
    9,R,D
-  19,D
+  24,D
    1,J
   18
    8,R,D
@@ -3033,4 +3001,4 @@ Read,D3A_R,lvl_roof04, lvl_roof06
    1,S
    1,D,J
   18
-ChapterTime: 8:42.546(30738)
+ChapterTime: 8:38.449(30497)

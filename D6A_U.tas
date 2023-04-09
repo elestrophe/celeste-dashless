@@ -1,16 +1,13 @@
-#6A 17x
+#6A 16x
 
 #console load 6 11727 144
 #play,Boss,37
-
-# change colors here
 
 console load 6
    1
 
 #Start
  110
-Set, Invincible, False
    1,S
    1,D,J
   34
@@ -3089,7 +3086,7 @@ endrepeat
   40
 
 #lvl_boss-20
-#1x
+#0x
   12,R
    1,R,J
   14,R
@@ -3148,14 +3145,26 @@ endrepeat
    1,D,J
   34
    6,R
-  10,R,J
-   2,R
-   7,L
-  25,L,J
-  15,U,X
-  18,L,J
-   1,L,K,G
-   2,R,K
+  19,R,D,J
+   7,K,G
+   2,L,K
+   1,R,J,G
+   1,L,K
+  11,R,K
+   2,K
+   1,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+   6,L,K
+   5,L
+  12,L,K
+   7,R,J,G
+   5,J
+  22,L,K
+   1,L,J,G
+   1,J
+   2,R,J
   40
 
 #lvl_after-00
@@ -3333,4 +3342,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 9:58.995(35235)
+ChapterTime: 9:59.522(35266)

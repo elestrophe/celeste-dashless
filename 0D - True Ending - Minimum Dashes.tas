@@ -1,38 +1,38 @@
 #Start from Begin
 
-Read,StartFullGameFile
+Read,CelesteTAS/StartFullGameFile
 
-Read,0 - Prologue,Start
+Read,CelesteTAS/0 - Prologue,Start
 
-Read,LoadANoCollects,Prologue
+Read,CelesteTAS/LoadANoCollects,Prologue
 
-Read,D1AC,Start
+Read,Restricted/D1AC,Start
 
-Read,LoadBFromA
+Read,CelesteTAS/LoadBFromA
 
-Read,D1B,Start
+Read,Restricted/D1B,Start
 
-Read,LoadAFromB
+Read,CelesteTAS/LoadAFromB
 
-Read,D2A,Start
+Read,Restricted/D2A,Start
 
-Read,LoadANoCollects
+Read,CelesteTAS/LoadANoCollects
 
-Read,D3H,Start
+Read,Restricted/D3H,Start
 
-Read,LoadA
+Read,CelesteTAS/LoadA
 
-Read,D4H,Start
+Read,Restricted/D4H,Start
 
-Read,LoadA
+Read,CelesteTAS/LoadA
 
-Read,D5H,Start
+Read,Restricted/D5H,Start
 
-Read,LoadA
+Read,CelesteTAS/LoadA
 
-Read,D6A,Start
+Read,Restricted/D6A,Start
 
-Read,LoadANoCollects,0,Summit
+Read,CelesteTAS/LoadANoCollects,0,Summit
 #Summit
   45
 Add 29
@@ -40,17 +40,17 @@ Add 29
   32
 Add 1
 
-Read,D7A,Start
+Read,Restricted/D7A,Start
 
 Read,LoadCoreFromSummitD
 
-Read,D8A,Start
+Read,Restricted/D8A,Start
 
-Read,LoadAFromB,0,Summit
+Read,CelesteTAS/LoadAFromB,0,Summit
   46
 Add 1
 
-Read,D9T,Start
+Read,Restricted/D9T,Start
 
 #Epilogue
 Add 58

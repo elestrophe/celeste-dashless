@@ -1,0 +1,117 @@
+#1A 0x
+
+console load 1
+   1
+
+#Start
+  88
+
+Read, ../CelesteTAS/1D, lvl_1, lvl_12a
+
+#lvl_12a
+   5,R,J
+   5,R
+   3,R,J
+   8,R
+   3,L
+   7
+   1,R
+   2,L
+   2,R
+   1,L
+   1,G
+  10,J,G
+   1,R,J
+   1
+   1,K
+   1,R,K
+   2,K
+   1,R
+   1
+   2,R
+   1
+   1,R
+   1,R,K
+   1
+   1,K
+   1
+   1,R
+   2,L
+   1,J,G
+   1,K,G
+   1,L,J,G
+  30,R,J
+   1,G
+   2,R,J,G
+   1,R
+   4
+   1,R
+   1,L,J
+   1,L
+   1,L,J
+   1,L
+   1,R
+   9,R,G
+   1,R,K,G
+   1,L
+   1,R
+   1,J
+   2,K,G
+  10,L,K
+   8
+   3,R,J,G
+   1,J
+   2
+   1,K
+   2,J,G
+  22,L,J
+   1,L,K,G
+   1,L,J,G
+   5,L
+   2,L,J
+  11,L
+   4,L,J
+   6,L
+   1,L,D
+   4,L,J
+   6,L
+   1,L,J
+   1,K
+   1,J
+   4,L,J
+   1,K
+   1,J
+   3,L
+   1
+   1,K
+   1,J
+   6,L
+   1,J
+   1,K,G
+   1,R,K
+  40
+
+#lvl_end
+   4,R
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,K
+   1
+   6,R
+  14,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  21,R
+   1,R,J
+   5,R
+   1,S
+   1,D,J
+  18
+ChapterTime: 1:16.585(4505)

@@ -1,0 +1,143 @@
+#1AC +1x
+
+console load 1
+   1
+
+#Start
+  88
+
+#lvl_1
+Read,../CelesteTAS/1D,lvl_1,lvl_9b
+
+#lvl_9b
+   5,R
+   5,R,J
+   5,R
+   2,R,J
+  11,R
+  13,R,J
+   4,K
+   3,L,J,G
+   2,L,K,G
+   1,L,J,G
+   1,L,K,G
+  12,L
+   1,L,J
+  16,L,G
+   2,D
+  12,D,K,G
+   4,J,G
+   6,L
+   6,L,J
+  15,L,D
+  12,L,J
+  12,L,K,G
+   6,J
+   1,R,K
+  11,R,J
+  12,L,K
+   1,L,J,G
+   2,K
+  40
+
+#lvl_10
+   5,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   1,L,J
+  18,L,G
+   2,L,J,G
+  11,L
+  17
+   1,J
+   2,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+  10,K
+   4
+   6,L
+   1,R
+   1,L
+   1,L,J,G
+   1,L,K,G
+  11,L
+   1,L,J
+  14,L
+   5,L
+   4,L,J
+   9,L,K,G
+   1,R,J
+  11,L,J
+   2,L,K,G
+   2,J
+  40
+
+#lvl_11
+#1x
+   4,L
+   1,L,J,G
+   4,L
+   2
+  15,U,X
+  11,L,G
+  14,L,D
+  11,L,J,G
+   4,R
+   6,L,J,G
+   1,L,K,G
+  13,L
+  17,R
+   1,R,J
+  61,R,G
+   2,D,G
+   1
+   1,R,J,G
+   1,L,K
+   1,L,J,G
+  10,L
+   1,L,J
+   1,R
+  40
+
+#lvl_11z
+   3,R
+  15,L
+  39,L,K
+   2,L,J,G
+   2,R,J,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+  13,L
+   9,L,J
+  18,L
+   1,L,J,G
+   1,L,K,G
+  13,L
+   4,L,J
+  12,L
+   2,R
+   1,L
+   1,L,J,G
+   1,L,K,G
+  13,L
+  12,L,J
+  12,L,K,G
+   7,G
+   1,R,J
+  12,R,K
+  19,R,U,G
+   1,R,J,G
+  11,R,K,G
+   7,R
+   1,R,J
+   2,R
+   9,R,J,G
+#1:06.504(3912)
+ 257
+   1,J

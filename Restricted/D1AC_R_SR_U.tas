@@ -7,7 +7,7 @@ console load 1
   88
 
 #lvl_1
-Read,1D,lvl_1,lvl_9b
+Read,../CelesteTAS/1D,lvl_1,lvl_9b
 
 #lvl_9b
    5,R

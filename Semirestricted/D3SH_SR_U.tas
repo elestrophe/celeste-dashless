@@ -32,7 +32,7 @@
 StunPauseMode Input
 console load 3
    1
-Read D3SH_R Start lvl_0x-b
+Read,../Restricted/D3SH_R,Start,lvl_0x-b
  746
   10,L
   10,L,Z
@@ -67,7 +67,7 @@ EndStunPause
   16,R
    8,R,J
   40
-Read D3SH_R lvl_0x-b(2) lvl_03-a
+Read,../Restricted/D3SH_R,lvl_0x-b (2),lvl_03-a
 #lvl_03-a
 #1x
    4,R,J
@@ -217,7 +217,7 @@ EndStunPause
   10,R
   40
 #lvl_05-a
-Read D3SH_R lvl_05-a lvl_05-c
+Read,../Restricted/D3SH_R,lvl_05-a,lvl_05-c
 #lvl_05-c
 #0x
    7,L
@@ -456,9 +456,9 @@ EndStunPause
   40
 
 #lvl_08-c
-Read, D3SH_R, lvl_08-c, Huge Mess
+Read,../Restricted/D3SH_R,lvl_08-c,Huge Mess
 #Huge Mess
-Read, D3SH_R, Huge Mess, lvl_13-b
+Read,../Restricted/D3SH_R,Huge Mess,lvl_13-b
   10,R
    2
    2,R
@@ -531,7 +531,7 @@ EndStunPause
   18,L
    2,L,D
   40
-Read D3SH_R lvl_13-a lvl_11-d
+Read,../Restricted/D3SH_R,lvl_13-a,lvl_11-d
 #lvl_11-d
 #0x
    3,L
@@ -596,9 +596,9 @@ EndStunPause
   40
 
 #lvl_10-d
-Read, D3SH_R, lvl_10-d,Elevator Shaft
+Read,../Restricted/D3SH_R,lvl_10-d,Elevator Shaft
 #Elevator Shaft
-Read, D3SH_R, Elevator Shaft, lvl_06-d
+Read,../Restricted/D3SH_R,Elevator Shaft,lvl_06-d
 
 #lvl_06-d
 #2x
@@ -756,7 +756,7 @@ EndStunPause
   40
 
 #lvl_04-c
-Read, D3SH_R, lvl_04-c, lvl_02-d
+Read,../Restricted/D3SH_R,lvl_04-c,lvl_02-d
 
 #lvl_02-d
 #3x
@@ -834,9 +834,9 @@ Read, D3SH_R, lvl_04-c, lvl_02-d
   15,L,U,X
   25,L
 #Rooftop
-Read D3SH_R Rooftop lvl_roof04
+Read,../Restricted/D3SH_R,Rooftop,lvl_roof04
 #lvl_roof04
-Read D3A_SR_U lvl_roof04 preroof06b
+Read,D3A_SR_U,lvl_roof04,preroof06b
 #lvl_roof06b
 #1x
    9,R
@@ -931,5 +931,5 @@ EndStunPause
   40
 
 #lvl_roof06
-Read, D3SH_R, lvl_roof06
+Read,../Restricted/D3SH_R,lvl_roof06
 ChapterTime: 11:47.540(41620)

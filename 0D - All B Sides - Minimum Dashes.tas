@@ -1,48 +1,48 @@
 #Start from Begin
 
-Read,StartFullGameFile
+Read,CelesteTAS/StartFullGameFile
 
-Read,LoadEnableCheatMode,Start
+Read,CelesteTAS/LoadEnableCheatMode,Start
 
-Read,LoadBCheatMode,SelectB
+Read,CelesteTAS/LoadBCheatMode,SelectB
 
-Read,D1B,Start
+Read,Restricted/D1B,Start
 
-Read,LoadBCheatMode
+Read,CelesteTAS/LoadBCheatMode
 
-Read,D2B,Start
+Read,Restricted/D2B,Start
 
-Read,LoadBCheatMode
+Read,CelesteTAS/LoadBCheatMode
 
-Read,D3B,Start
+Read,Restricted/D3B,Start
 
-Read,LoadBCheatMode
+Read,CelesteTAS/LoadBCheatMode
 
-Read,D4B,Start
+Read,Restricted/D4B,Start
 
-Read,LoadBCheatMode
+Read,CelesteTAS/LoadBCheatMode
 
-Read,D5B,Start
+Read,Restricted/D5B,Start
 
-Read,LoadBCheatMode
+Read,CelesteTAS/LoadBCheatMode
 
-Read,D6B,Start
+Read,Restricted/D6B,Start
 
-Read,LoadBCheatMode
+Read,CelesteTAS/LoadBCheatMode
 
-Read,D7B,Start
+Read,Restricted/D7B,Start
 
-Read,LoadBCheatMode,0,Core
+Read,CelesteTAS/LoadBCheatMode,0,Core
    1,R
    9
-Read,LoadBCheatMode,Core
+Read,CelesteTAS/LoadBCheatMode,Core
 
-Read,D8B,Start
+Read,Restricted/D8B,Start
 
   59
    1,J
  196
-Read,LoadANoCollects,0,Prologue
+Read,CelesteTAS/LoadANoCollects,0,Prologue
   48
 Add 7
 

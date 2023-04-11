@@ -6,7 +6,7 @@ console load 1
 #Start
   88
 
-Read,1D,lvl_1,lvl_12a
+Read, D:\GitTest\celeste-dashless\CelesteTAS\1D.tas, lvl_1, lvl_12a
 
 #lvl_12a
    5,R,J

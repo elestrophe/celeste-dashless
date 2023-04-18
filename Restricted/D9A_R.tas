@@ -1111,7 +1111,7 @@ EndRepeat
 
 #lvl_d-00
 #2x
-   1,S
+   1,S,N
    1,D,O
   34
    7,L,J,G
@@ -1325,7 +1325,7 @@ EndRepeat
   30,R,D,G
    1,L
   15,R,D
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,L,J
@@ -1527,7 +1527,7 @@ EndRepeat
    2,L,K,G
    1,K
   50,L,K
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,L
@@ -1677,7 +1677,7 @@ EndRepeat
   18,R,G
    1,L
    2,R
-   1,S
+   1,S,N
    1,D,J
   69,O
    1,R,J
@@ -1848,7 +1848,7 @@ EndRepeat
    7,R,J
    2,R
    5,R,K,G
-   1,S
+   1,S,N
    1,D,J
   69,O
    6,R,J
@@ -2678,7 +2678,7 @@ EndRepeat
   16,R,J
 #Event Horizon
   13,U,X
-   1,S
+   1,S,N
    1,D,J
   34
 
@@ -2956,7 +2956,7 @@ EndRepeat
    1,R
    1,R,J
   27,R,U,X
-   1,S
+   1,S,N
    1,D,J
   34
    7,R,Z
@@ -5008,7 +5008,7 @@ AnalogMode,Ignore
 #STUBBORNNESS 7x
 #lvl_i-00
 #0x
-   1,S
+   1,S,N
    1,D,J
   34
   20,R
@@ -5774,7 +5774,7 @@ EndRepeat
    1,J
    2,K,G
   11,R,K
-   1,S
+   1,S,N
    1,D,J
   34
 #Reconciliation 1
@@ -7276,20 +7276,20 @@ ChapterTime: 17:35.020(62060)
    1,J
  100
 #-----------------
-   1,S
+   1,S,N
    1,D,J
   18
 
 #end-granny
  122
-   1,S
+   1,S,N
    1,D,J
   18
 
 #end-cinematic
 Add 2
   61
-   1,S
+   1,S,N
    1,D,J
  165
    1,J

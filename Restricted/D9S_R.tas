@@ -517,7 +517,7 @@ AnalogMode,Precise
 
 #lvl_j-17
 #0x
-   1,S
+   1,S,N
    1,D,J
   69,D,O
 #Moonberry Room
@@ -799,7 +799,7 @@ AnalogMode,Precise
    1,L,J
   22,J
   38
-   1,S
+   1,S,N
    1,D,J
   18
 ChapterTime: 18:42.629(66037)

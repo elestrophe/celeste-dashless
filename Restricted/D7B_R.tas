@@ -1,4 +1,4 @@
-#7B 183x
+#7B 182x
 
 #console hard 7 2080 -1624
 #play,500M,37
@@ -419,74 +419,83 @@ console hard 7
    7,U,G
    3,J
    8,U,X
-   7,R,K
-  20,K
+   4,R,K
+  10,K
+   1,R,K
+  10,K
   15,U,X
-   5,J,G
+   2,R
+   2,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,K
   40
 
 #lvl_b-02
-#4x
-   6,R,J,G
-  12,R
-  28,R,J
-  10,R,K
-  15,R
+#3x
+   2,R,J,G
+   1,J
+   2,R,J
+   2,R,K,G
+   1,K,G
+   7,R,K
+  10,R
+   1,J,G
+   2,R
+   1
+   1,R
+   1
+   1,R
+   5,L
+   4,Z
    1,R,J
-  14,R
-  14,R,D,X
-  38,R,J
-   4,D,X
-  10,R,U
-   8,L,J,G
-   9,L,K,G
-   7,R
-  23
+   5,R,K,G
+   3,R
+   1,R,J,G
+   1,R
+   1
    9,R
+  35,R,J
+   3,R,D
+   1
+   1,G
+   2
+  12,R
+   1,R,D
+   1,J,G
+   7,R,J
+   2,L,J
+   2,L,K,G
+   2,K
+   1,K
+  31,R
    1,R,J,G
    1,R,K,G
-   2,R,J,G
-  30,R
-   4,D,X
-  15,R,U
-   1,J
-  25,L,J
-  14,R,K
-   6,K
-  10,D
-   1,L
-   1,D
-   1,L
-  10,D
-   1,R,D
-   1,R,D
-   1
-   1,R,D
-   1
-   1,R
-   1
-   1,R
-   1
-   1,R
-   1
-   1,R,J
-  19,R,J
-  10,L
-  31,D
-  16,R,D
+   5,R
+   1,R,K
+  22,R,D
+   4,D
+  15,R,Z
+   5
+   1,L,K,G
+   1,L,J,G
+  20,R,K
+  10
+  29,D
+  17,R,D
    1,R,J
   14,R
    6,R,J
-  11,R
+  10,R
+   1
    1,R,J,G
    5,R,K,G
    5,R
    1,R,J,G
    1,R,K,G
-   6,R
-   1,R,K
-   5,R
-   5,R
+   7,R
+   2,R,K
+   8,R
    2,L
    1,R
    9,L
@@ -2748,4 +2757,4 @@ EndRepeat
   14,U,X
    4,J
  136,L
-ChapterTime: 7:33.169(26657)
+ChapterTime: 7:31.129(26537)

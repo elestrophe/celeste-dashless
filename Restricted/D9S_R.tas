@@ -371,26 +371,20 @@ Read,D9A,Start,lvl_j-14
    3,L,J
    6,R,J
    1,R
-  14,R,D,G
-   1,D,G
-  13,R,D,G
-   5,D,G
-   3,D
+  14,R,G
+   1,G
+  11,R,D,G
+  12,D,G
    1,S,N
    9,O
    1,J
-   4,L,J,G
-   2,J
-  16
-   1,L
-   1,S,N
-   9,O
-   1,K
-   1,K
-   5,L,K
-  19,L
-   2,L,D
-   1,L
+   1,D,J
+  24,L,J
+  12,J
+   2,G
+   1
+   1,G
+   4
    1,S,N
    9,O
    1,J
@@ -398,93 +392,84 @@ Read,D9A,Start,lvl_j-14
    9,R,U,J,Z
   63,R,U,J,G,AL
    1,L,J
-  42,R,J
-  99,R,U,J,G,AL
+  37,R,J
+   5,R,D,J
+ 102,R,U,J,G,AL
+   2,R,D,G
+   1,D,G
+  14,R,D,G
    1,R,G
-   1,R,U,G
-  18,R,D,G
-   1,R,G
-   1,R,D,G
- 409,R,U,G,AL
+   2,R,D,G
+ 407,R,U,G,AL
   17,R,D,G,AL
- 120,R,U,G,AL
+ 121,R,U,G,AL
   10,R,U,G
  135,R,U,G
   66,L,U,G
   37,R,U,G
    1,U,G
-   4,R,U,G
-   1,U,G
- 114,R,U,G
+ 119,R,U,G
 AnalogMode,Precise
   27,R,U,AL
- 119,AL,F,5.016
-   1,F,5.016,0.69
+ 119,AL,F,4.991
+   1,F,4.991,0.69
   10,R,U,G
    5,U,G
    1,R,U,G
    5,U,G
-  32,R,U,J,G
-   7,R,U,G
+  34,R,U,J,G
+   5,R,U,G
    4,R,D,G
- 209,R,U,J,G
-  54,U,G
-   1,G
-   2,G
-   3,U,G
-   4,G
-   1,L,G
-   1,G
+ 208,R,U,J,G
+  16,U,G
+   1,R,U,G
+   5,U,G
+   1,R,U,G
+  38,U,G
+   6,G
    1,L,G
    4,R,J,G
-  45,U,J,G
+  44,U,J,G
   23,R,U,K,G
    2,U,K,G
    1,R,U,G
-   7,U,G
+   8,U,G
    6,G
    1,R,G
   16,L,U,J,G
   17,U,J,G
    1,L,U,G
-  92,U,G
-   1,G
-   1,U,G
+  93,U,G
    6,G
    1,L,G
    3,L,U,J,G
-   3,U,J,G
+   2,U,J,G
    1,L,U,J,G
-  52,U,J,G
-   1,G
-   1,U,G
-   1,G
+  56,U,J,G
    2,R,K,G
-   6,R,G
-   1,R,J,G
    5,R,G
-  11,R,J,G
-   2,R,U,G
+   1,R,J,G
+   6,R,G
+  12,R,J,G
+   1,R,U,G
    7,U,G
   17,U,J,G
-   1,L,U,J,G
-   7,R,U,J,G
+   2,L,U,J,G
+   6,R,U,J,G
    8,R,U,G
-  16,L,J,G
-  17,R,K,G
+  15,L,J,G
+  16,R,K,G
   38,R,U,J,G
   16,R,U,G
   25,R,U,J,G
    8,R,U,G
-  12,U,G
+   8,U,G
    1,R,U,G
-  32,U,G
+  36,U,G
    6,G
    1,R,G
    8,R,J,G
-   5,U,J,G
-   1,R,U,J,G
-   4,U,J,G
+  11,U,J,G
    1,L,U,K,G
   14,L,U,J,G
    1,K,G
@@ -802,7 +787,7 @@ AnalogMode,Precise
    1,S,N
    1,D,J
   18
-ChapterTime: 18:42.629(66037)
+ChapterTime: 18:42.340(66020)
 
 #Let moon berry sfx play
  100

@@ -167,9 +167,9 @@ Read,D9A,lvl_f-01,Spinner cycle
 #Spinner cycle
 #0-2
 
-   2,R
+   0,R
 # ---------
 
 Read,D9A,9T
 
-ChapterTime: 17:26.860(61580)
+ChapterTime: 17:26.707(61571)

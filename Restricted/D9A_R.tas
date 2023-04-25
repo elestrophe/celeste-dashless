@@ -1395,37 +1395,34 @@ EndRepeat
 #lvl_d-03
 #0x
    1,R,G
-   1,R,J,G
-   4,R,D,G
-   1,D,G
-  23,R,D,G
-   1,R,J,G
-  15,R,G
-  15,R,D,G
-   1,R,G
-   1,R,D,G
-   2,R,J,G
-   3,R,J
+  26,R,J,G
+  31,R,D,G
+   3,R
+   2,R,J
   34,R,J,G
+   1,R,G
+   1,R,J,G
    1,J,G
    1,D,J
-  21,G
+  17,G
+   1,R,G
+   3,G
    1,R,D
   16,R,G
    5,G
-   1,R,D
-  15,G
-   6,R,G
-   1,L
-  36,R,U,J,G
- 228,R,U,G
-   1,L
-  27,R
    1,D
+  14,G
+   8,R,G
+   1,L,J
+ 267,R,U,J,G
+   1,L
+  11,R
+   1
+  15,R
   77
-   4,L
-  19,L,D,J,G
-  11,L,D,G
+   8,L
+  15,L,D,J,G
+   9,L,D,G
    1,L,J,G
   40
 
@@ -1510,43 +1507,55 @@ EndRepeat
    3,G
    1,D
   21,L,G
-   1,L,J
-  90,L,U,J,G
+   4,L,J
+  32,L,U,J,G
+  53,L,U,G
   12,L,D,G
-   2,D,G
-   1,L,D,G
-   1,U,G
+   4,D,G
    8,D
+Repeat,3
    1,G
    1
-   1,G
-   1
+EndRepeat
    7,G
    1,J,G
-   3,J
-   1,L,J
-  21,L,J,G
+   1,J
+   3,L,J
+  13,J,G
+   1,L,J,G
+   1,J,G
+   6,L,J,G
+   1,D
+  21,L,G
    1,L,D
-  16,G
-   5,L,G
-   1,L,D
-  28,L,J,G
-   2,G
+  15,L,G
+   1,G
+   8,L,G
+   4,G
    1
-  11,R,D
-   1,D
-   1,R,D
-   1,D
-   1,R,D
-   3,D
-  15,L,J,G
-  13,L,G
-  98,L,U,J,G
+   7,R
+   1
+   4,R
+   3
+  14,R,G
+   2,G
+   1,R,J,G
+   2,L,J,G
+   9,L,G
+   1,R,G
+   3,G
+  36,L,U,K,G
+  44,L,U,G
+   6,U,G
+   6,L,U,G
+   1,U,G
    1,R
-   3,L,J,G
-   2,L,K,G
-   1,K
-  50,L,K
+   1
+   4,L
+   1,L,J,G
+   3,L,K,G
+  35,L,J,G
+  15,L,D
    1,S,N
    1,D,J
   69,O
@@ -1619,9 +1628,11 @@ EndRepeat
    1,L
    1,L,K,G
    1,L,J,G
-   5,L
-   1
    1,L
+   1
+   2,L
+   1
+   2,L
   15,L,J,G
    4,L,G
    2,L,J,G
@@ -1966,8 +1977,7 @@ EndRepeat
    5,R
    1,R,K,G
    1,R,J,G
-   2,R
-   4,R
+   6,R
    1,R,J
    4,R
   19,R,J
@@ -2230,9 +2240,12 @@ EndRepeat
   29,L,J,G
   11,L,K,G
   22,R,D,J
-  46,R,U,G
+
+  15,R,U,J,G
+   1,U,J,G
+  29,R,U,G
    1,L,J,G
-  11,J,G
+   9,J,G
    1,R,K,G
   10,R,J,G
    5,R,G
@@ -3174,7 +3187,7 @@ EndRepeat
 #Spinner cycle
 #0-2
 
-   2,R
+   1,R
 # ---------
 
 #9T
@@ -7308,7 +7321,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:33.796(61988)
+ChapterTime: 17:33.643(61979)
 
 # optional waiting for
 # visuals to play out

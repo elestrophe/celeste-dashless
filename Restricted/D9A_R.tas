@@ -7,10 +7,10 @@ Set,DashMode,Two
 #play,Power Source,38
 
 #console load 10 12806 -4659
-#play,Remembered,37
+#play,Remembered,39
 
 #console load 10 18557 -6217
-#play,Event Horizon,39
+#play,Event Horizon,38
 
 # -------------
 # The above checkpoints depend on
@@ -1564,8 +1564,7 @@ EndRepeat
    9,L
    7,R
    1,R,J
-  13,G
-  24,R,D,G
+  37,R,D,G
    7,R,J,G
   40
 
@@ -1659,8 +1658,8 @@ EndRepeat
    1,J,G
   10,R,J
    4,L,J
-  13,G
-   4,L,J,G
+   2,J
+  15,L,J,G
   20,J,G
    1,R,K,G
    3,K,G
@@ -1672,8 +1671,7 @@ EndRepeat
    1,L
    1,R,J,G
    6,J
-  13,G
-   3,L,J,G
+  16,L,J,G
   12,L,G
    4,R,J,G
    5,R,G
@@ -1793,8 +1791,7 @@ EndRepeat
    7,R,J
   59,R,X
   14,R,U,C
-  13,G
-  28,R,D,G
+  41,R,D,G
   15,R,U,G
    1,R,D,G
   27,R,U,G
@@ -1809,12 +1806,11 @@ EndRepeat
    5,R
    1,R,J,G
    8,R,K,G
-   1,K,G
-   3,R,K,G
-  13,G
-  38,R,U,K,G
+   1,K
+   3,R,K
+  51,R,U,K,G
   35,L,U,G
-   1,R,U,G
+   1,U,G
   37,L,U,G
    1,L,D,G
    1,L,U,G
@@ -1859,8 +1855,7 @@ EndRepeat
    8,L
    1,L,J
   19,R
-  13,G
-   1,R,U,J,G
+  14,R,U,J,G
    1,R,U,G
    8,R,U,J,G
   48,R,U,G
@@ -1898,17 +1893,24 @@ EndRepeat
   13,R,D
    1,D
   13,R,D
-  20,R,J
-   3,R
+  12,R,J
+   7,R
+   3,R,J
+   1,R
    1,R,J
-  11,R,D
+  10,R,D
   12,L,D
-  15,R,D
-  41,L,D
-  36,R,D
+  16,R,D
+  16,L,D
+   1,D
+  24,L,D
+  14,R,D
+   1,D
+   8,R,D
+   1,D
+  11,R,D
   23,R,J
-   5,U,X
- 135
+ 140,U,X
   40
 
 #lvl_d-05
@@ -2286,7 +2288,7 @@ EndRepeat
    7,R
    1,L
    8,R
-  13,G
+  13,R,G
    1,R,J,G
    9,R,G
    3,R,J,G
@@ -3187,7 +3189,7 @@ EndRepeat
 #Spinner cycle
 #0-2
 
-   1,R
+   2,R
 # ---------
 
 #9T
@@ -3239,7 +3241,6 @@ EndRepeat
 
 #lvl_f-07
 #2x
-
    3,R
   15,R,J
    1,J

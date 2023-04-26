@@ -167,7 +167,7 @@ Read,D9A,lvl_f-01,Spinner cycle
 #Spinner cycle
 #0-2
 
-   0,R
+   1,R
 # ---------
 
 Read,D9A,9T

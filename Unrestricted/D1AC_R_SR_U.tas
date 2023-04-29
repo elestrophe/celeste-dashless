@@ -10,21 +10,19 @@ console load 1
 Read,../CelesteTAS/1D,lvl_1,lvl_9b
 
 #lvl_9b
+   8,R,D,J
    5,R
-   5,R,J
-   5,R
-   2,R,J
-  11,R
-  13,R,J
-   4,K
-   3,L,J,G
-   2,L,K,G
+   2,J
+   2,K
+   2,L,J,G
+   3,L,K,G
+   2,L
    1,L,J,G
    1,L,K,G
-  12,L
+  14,L
    1,L,J
-  16,L,G
-   2,D
+  15,L,G
+   3,D
   12,D,K,G
    4,J,G
    6,L
@@ -138,6 +136,6 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
    1,R,J
    2,R
    9,R,J,G
-#1:06.504(3912)
+#1:05.620(3860)
  257
    1,J

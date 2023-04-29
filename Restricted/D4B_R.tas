@@ -267,8 +267,7 @@ console hard 4
   12,L
    1,K,G
    1,J
-   1,L,K,G
-  10,L,K
+  11,L,K,G
    3,J,G
    1,K,G
    7
@@ -280,61 +279,61 @@ console hard 4
    1
   16,R,Z
    9,U,G
-Repeat,7
+Repeat,6
    1,D,G
    1,U,G
 EndRepeat
    2,D,G
-  24,U,G
-   1,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,K
-  14,R,K
+  18,U,G
+   3,R
+   2,R,J,G
+   2,R,K,G
+   2,R,J,G
+  16,R,K,G
    2,R,J,G
    1,J
-   1,R,J
-   9,R
-   1,R,J
-   1,R
+  12,R
   40
 
 #lvl_b-00
 #2x
-   6,R
-   3,R,D,J
-   5,R
-  14,R,U,X
-  25,R,J,G
-   5,R
-   1,R,K,G
-   4
-   5,R
-  11,R,J
-  14,R,Z
+   4,R
    1,R,J
-  10,R
+   6,R
+   2,R,J
+  14,R,U,X
+   2,R,J,G
+   1,K,G
+  28,R,K
+  12,R,J
+  14,R,Z
+   2,R,J
+   6,R
+   1,R,J
+   4,R,D
    1,R,J
    4,R,K,G
    3,R
   40
 
-#lvl_b-00
-#3x
-  13,R
-  21,R,J
-  13,R
+#lvl_b-01
+   2,R
+   1,R,K
+  11,R
+  23,R,J
+   1,R
+   1,R,J
+  11,R
    1,R,D
+   1,R,J,G
    1,R,K,G
    1,R
-   1
-   7,R
-  26,R,J
+   2
+   6,R
+  24,R,D,J
    1,K,G
    1,R,K
-   8,K
+   7,K
    1,R,K
    1,L,K
    1,R,K
@@ -347,32 +346,29 @@ EndRepeat
    1,R,K,G
    1,R,J,G
    1,J
-   2,R,J
-   7,R
-   1,R,J
-   2,R
+   3,R,J
+   8,R
    8,L,D
-Repeat,3
+Repeat,4
    1,R,D
    1,L,D
 EndRepeat
-   2,R,D
-   1,D
    3,R,D
-   3,L,D
-   1,L
-   2,L,D
+   1,D
+   2,R,D
+   6,L,D
+   1,D
+   1,L,D
    2,R,D
    1,D
    1,R,D
-   2,L,D
-   5,D
-   1
+   2,L
+   3
+   1,D
    1,J
    2,K,G
    5,R,K
-   5,R
-   1,R,K
+   6,R
    1,K
    3,L,J,G
    1,R,J
@@ -1210,4 +1206,4 @@ EndRepeat
    5,R
   52,L,J,G
   32,R,K
-ChapterTime: 3:20.702(11806)
+ChapterTime: 3:20.566(11798)

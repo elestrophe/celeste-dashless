@@ -3,7 +3,7 @@
 console hard 5
    1
 
-Read, D5B_R.tas, Start, lvl_d-03
+Read, ../Restricted/D5B, Start, lvl_d-03
 #lvl_d-03
 #2x
    1,R,G

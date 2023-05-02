@@ -1437,7 +1437,6 @@ Stunpause Input
   24,L,D,G
 EndstunPause
   12,L,D,K
-
   12,L,J,G
    1
   11,K,G
@@ -2305,7 +2304,6 @@ EndstunPause
    1,L,J
    3,L
   40
-
 #lvl_06-d
 #0x
   13,L
@@ -2340,8 +2338,14 @@ StunPause
 EndStunPause
   10,L,D
  200,D
-Set Engine.Scene.TimeActive 524288
-Set Session.Time 4247386420000
+#24,971,286 more waiting frames
+#Repeat 2497 9999 times + 3783
+#Repeat 2497
+#9999,
+#EndRepeat
+#3783,
+Set Engine.Scene.TimeActive 524287.875
+Set Session.Time 4247785240000
    1,L,J
   14,L
    1,L,J
@@ -2395,6 +2399,7 @@ Set Session.Time 4247386420000
    6,L,J
   40
 
+
 #lvl_04-d
 #0x
    1,S
@@ -2402,7 +2407,7 @@ Set Session.Time 4247386420000
    1,F,0
    1,U,J
   31
-Read, ../SaveandQuitD, Start
+Read, ../SaveandQuitD.tas, Start
   36
    1,L
    3,L,J
@@ -2579,9 +2584,16 @@ EndStunPause
    1,R
   22,R,J
  200,D
-Set Engine.Scene.TimeActive 524288
-Set Session.Time 8494772840000
-  12,J
+#24984313 more waiting frames 
+#2498 of 9999, 6812 more
+#Repeat 2498
+#9999
+#EndRepeat
+#6812
+#Gets a different dust bunny movement cycle, but both sync
+Set Engine.Scene.TimeActive 524287.1250
+Set Session.Time 8495634230000
+  14,J
   12,K,G
   12,J,G
    4,K,G
@@ -2590,6 +2602,7 @@ Set Session.Time 8494772840000
    9,L,K
    1,L
   34,L,D,J
+   1,L,D
    1,L,K
   26,L
    6,L,J
@@ -2617,7 +2630,7 @@ Set Session.Time 8494772840000
    1,F,0
    1,U,J
   31
-Read, ../SaveandQuitD, Start
+Read, ../SaveandQuitD.tas, Start
   32
    1,S
    1,D,J
@@ -3086,7 +3099,8 @@ EndStunPause
    5,J
  289
   10,J
-Repeat, 3
+Repeat, 5
+#21916 is the accurate repeat count
  164
   10,J
  224
@@ -3098,8 +3112,8 @@ Repeat, 3
  284
   10,J
 EndRepeat
-Set, Engine.Scene.TimeActive, 524288
-Set, Session.Time, 12874890085625
+Set, Engine.Scene.TimeActive, 524286.81250 
+Set, Session.Time, 12800056500000
  120
   41,R
  112,R,J
@@ -3330,4 +3344,4 @@ Set, Session.Time, 12874890085625
    1,S
    1,D,J
   18
-ChapterTime: 357:38:39.421(75736436)
+ChapterTime: 355:33:56.063(75296239)

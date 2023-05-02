@@ -1,4 +1,6 @@
 #7A 114x
+#Uses S&Q, edit SaveandQuitD.tas
+#to work with your game
 
 #console load 7 3088 -1768
 #play,500M,37

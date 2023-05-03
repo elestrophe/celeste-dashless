@@ -3093,31 +3093,50 @@ EndStunPause
    2
    6,L
   10,L,J
- 165
-  10,J
- 237
-   5,J
- 289
-  10,J
-Repeat, 5
-#21916 is the accurate repeat count
- 164
-  10,J
- 224
-  10,J
- 284
-  10,J
- 224
-  10,J
- 284
-  10,J
+  30
+   6,R
+  10
+   2,R
+ 103
+Set, Session.Time, 12742886690000
+Set, Engine.Scene.TimeActive, 524172.71875
+#The real number is Repeat 22494
+Repeat 4
+#21100  13.4
+   5,L
+  24,L,J
+  12
+   8,L
+  35,R
+ 141
+   5,L
+  24,L,J
+  12
+   8,L
+  35,R
+ 201
+   5,L
+  24,L,J
+  12
+   8,L
+  35,R
+  81
+   5,L
+  24,L,J
+  12
+   8,L
+  35,R
+ 141
+   5,L
+  24,L,J
+  12
+   8,L
+  35,R
+ 201
 EndRepeat
-Set, Engine.Scene.TimeActive, 524286.81250 
-Set, Session.Time, 12800056500000
- 120
-  41,R
+  37,R
  112,R,J
-   7,R
+   4,R
    1,R,J
   29,R
    1,R,J
@@ -3127,14 +3146,14 @@ Set, Session.Time, 12800056500000
    1,R,J
   14,R
    1,R,J
-  14,R
+  17,R
    1,R,J
-  26,R
+  28,R
   15,R,J
-   7,R,K,G
+  20,R,K,G
    1,R,J,G
    1,R,K,G
-  14,R
+  12,R
    1,R,J
   20,R
    1,R,J
@@ -3344,4 +3363,4 @@ Set, Session.Time, 12800056500000
    1,S
    1,D,J
   18
-ChapterTime: 355:33:56.063(75296239)
+ChapterTime: 353:59:52.675(74964275)

@@ -2,30 +2,10 @@
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
-#console load 7 3088 -1768
-#play,500M,37
-
-#console load 7 5912 -4328
-#play,1000M,37
-
-#console load 7 9976 -7176
-#play,1500M,74
-
-#console load 7 14640 -8400
-#play,2000M,37
-
-#console load 7 20152 -11416
-#play,2500M,37
-
-#console load 7 25600 -13432
-#play,3000M,37
+StunPauseMode,Simulate
 
 console load 7
    1
-#console evalcs unwatch("drift")
-#console evalcs unwatch("deltaDrift")
-#console evalcs watch("drift", () => { return ((60 * ((((Level)Engine.Scene).TimeActive)%(0.05f)))%1f).ToString("F10"); });
-#console evalcs watch("deltaDrift", () => { return (60*((((Engine.DeltaTime)*1f + ((Level)Engine.Scene).TimeActive))-((((Level)Engine.Scene).TimeActive)))-1f).ToString("F10"); });
 
 #Start
 #lvl_a-00-intro
@@ -55,7 +35,7 @@ console load 7
   20,R,J
   15,R,U,X
   15,R,D
-stunpause input
+stunpause
   19,R,D
   15,R
   45,R,J
@@ -125,7 +105,7 @@ endstunpause
   18,R
   30,L,D
    3,G
-stunpause input
+stunpause
    1,J,G
    3,L,J
    5,J
@@ -199,19 +179,17 @@ Repeat, 6
    2,L,K
 EndRepeat
    3,R,J
-
   40
 
 #lvl_a-02b
+#0x
    1,J
   18
-
   40
 
 #lvl_a-02
 #0x
-
-   1,S
+   1,S,N
    1,D,J
   69,O
    6,R,Z
@@ -278,6 +256,7 @@ EndRepeat
    1,R,J
    2,R
   40
+
 #lvl_a-04
 #1x
    4,R
@@ -294,7 +273,7 @@ EndRepeat
   12,L,K,G
    9,L,J,G
    7,R,K
-stunpause input
+stunpause
   13,R,K
    1,J,G
    3,R,J
@@ -435,14 +414,13 @@ endstunpause
    3,R,K
   43,R,D
  158
-   1,S
+   1,S,N
    1,D,J
  141
 
 #lvl_b-00
 #0x
   76
-#500M
    4,L
    1
    3,L
@@ -1055,14 +1033,13 @@ EndRepeat
    1,R,J
   40,R
  216
-   1,S
+   1,S,N
    1,D,J
  141
 
 #lvl_c-00
 #4x
   76
-#1000M
    5,R
    1,R,J
   14,R
@@ -1464,24 +1441,21 @@ EndRepeat
    1,L,K
   12,L,J
  194
-   1,S
+   1,S,N
    1,D,J
  141
 
 #lvl_d-00
 #1x
   81
-#1500M
-
  444
-
    5,L
    1,L,J
   19,L
    8,L,J
   20,R,J
    7,R,D
-stunpause input
+stunpause
    3,R,D
    1,R,J
   14,R
@@ -1656,7 +1630,6 @@ endstunpause
 
 #lvl_d-03
 #2x
-
    2,R
    1,R,J
   14,R
@@ -1777,8 +1750,6 @@ endrepeat
 
 #lvl_d-04
 #1x
-
-  #1x
    7,R
    1,R,J
   14,R
@@ -1805,7 +1776,6 @@ endrepeat
 
 #lvl_d-05
 #1x
-
    5,R
    8,R,D,J
    1,R
@@ -1887,15 +1857,12 @@ endrepeat
 
 #lvl_d-06
 #0x
-
    2,R
    1,R,J,G
    1,R,K,G
    8,R
   26,R,D
-
   16,R,D
-
    5,R
    7,L
   25,D
@@ -1924,7 +1891,6 @@ StunPause
   11,R,J
    1,R
   32,R,J
-
    5,L
    1,L,J
    5,J
@@ -1933,7 +1899,6 @@ EndStunPause
    4,R,J
    1,R
   10,R,J
-
   43,R
    2,R,J
    1,R,K,G
@@ -1955,7 +1920,6 @@ EndStunPause
 StunPause
   66,R,J
 EndStunPause
-
   12,R,K
   26,R,D
   40
@@ -2023,7 +1987,6 @@ EndRepeat
    1,S
    1,D,J
   69,O
-
    4,D,X
    2,R,X
   40
@@ -2060,7 +2023,6 @@ EndRepeat
   10,L
   37
   54,R
-
   15,R,U,X
   46,R,J
    3,K,G
@@ -2081,18 +2043,14 @@ EndRepeat
   11,L,X
   21,L,J
  216
-   1,S
+   1,S,N
    1,D,J
  141
 
-
-
 #lvl_e-00b
 #0x
-#upleft into cb out of first bubble is 4f slower (I think)
   78
  155
-#2000M
    6,R,J
    1,S,N
   10,O
@@ -2111,7 +2069,6 @@ SkipInput 3 1
    5,R,U,X
   17,R,J
   12,R,K,G
-
    6,L,J
    5,L
    2,L,J
@@ -2261,7 +2218,6 @@ EndRepeat
 
 #lvl_e-05
 #0x
-
 Repeat,13
    1,R
    2,D
@@ -2698,7 +2654,6 @@ EndRepeat
 
 #lvl_e-10
 #3x
-
    8,R
    1,R,J,G
    1,R,K,G
@@ -2748,7 +2703,6 @@ EndRepeat
 
 #lvl_e-10b
 #2x
-
    4,R,Z
    1,R,J
    7,R
@@ -2865,7 +2819,6 @@ EndRepeat
    5,R,D,J
   13,R
   41
-
   16,R
    7,R,J,G
    1,K
@@ -2892,7 +2845,6 @@ EndRepeat
   12,D
    1,L,D
   31,D
-
 StunPause
    3,D
   11,L,D
@@ -2903,7 +2855,6 @@ StunPause
    3,L
   14,L,K
   41
-
   26,L,J
    2,L,K,G
    2,R,J
@@ -2914,14 +2865,13 @@ EndStunPause
   15,R,Z
    6,R
  198
-   1,S
+   1,S,N
    1,D,J
  141
 
 #lvl_f-00
 #0x
   78
-#2500M
    4,R
    1
    3,R
@@ -2958,7 +2908,6 @@ EndStunPause
 #lvl_f-00
 #0x
  353
-
   40
 
 #lvl_f-02
@@ -3030,7 +2979,6 @@ EndStunPause
    1,R,J
   14,R
    4,R,D
-
   40
 
 #lvl_f-05
@@ -3079,7 +3027,7 @@ EndStunPause
   10,R
    1,R,J
   15,R
-   1,S
+   1,S,N
    1,D,J
   69,O
    4,L,J
@@ -3106,7 +3054,6 @@ EndStunPause
   11,R
   40
 
-
 #lvl_f-08
 #0x
    5,R
@@ -3118,18 +3065,15 @@ EndStunPause
 #lvl_f-08b
 #0x
    7
-
   18,L,J
    4,K,G
    3,J
    1,R,K,G
    1,R,J,G
   10,R
-
    1,R,J
    9,R
    6,R,J,G
-
   10,R
   22,L
   12,L,J,G
@@ -3138,7 +3082,6 @@ EndStunPause
   12,R,J,G
    1,K
   21,R,K
-
 Repeat 1047
    1,G
    1
@@ -3158,11 +3101,9 @@ StunPause
   35,R
    2,R,J
 EndStunPause
-
   27,R,J
    1,R,G
   12,R,J,G
-
    1,R,K,G
    1,R,J,G
    1,R,K,G
@@ -3208,7 +3149,6 @@ SkipInput 3 1
    7,R
    6,R,D
 EndStunPause
-
    6,J
    9,R,J
    1,K
@@ -3323,7 +3263,6 @@ EndRepeat
   13,R
    1,R,J
   15,R
-
   40
 
 #lvl_f-11
@@ -3353,7 +3292,6 @@ StunPause
 EndStunPause
   20,R,J
   41
-
    8,R
 StunPause
    8,R
@@ -3407,7 +3345,6 @@ EndStunPause
 #CP-30
 #0x
   76
-#3000M
    6,R
   22,R,J
    8,R,K,G
@@ -4143,8 +4080,6 @@ SkipInput 3 1
    1,L,G
   11,L,J,G
    6,L,K,G
-
-
    1,R,J
   28,R,K
 SkipInput 3 1
@@ -4176,17 +4111,7 @@ EndStunPause
   12,L,K,G
    5,L,J,G
   12,R,K
-
-
-
-
-
-
-
-
-
  211
-
   40
 
 #lvl_g-01
@@ -4218,7 +4143,6 @@ StunPause
 
 #CP-18
 #0x
-
   23,R,J
    1,K
    8,R,K
@@ -4237,6 +4161,7 @@ StunPause
    1
    3
    3,L
+
 #CP-17
 #1x
    1,K
@@ -4299,7 +4224,6 @@ EndStunPause
 
 #CP-16
 #0x
-
 1040
    4,L
   20,R
@@ -4320,7 +4244,6 @@ StunPause
 
 #CP-15
 #1x
-
   20,R,J
 SkipInput 3 1
   15,U,X
@@ -4343,7 +4266,6 @@ EndStunPause
 
 #CP-14
 #0x
-
    1,R,J
   13,R
 StunPause
@@ -4394,7 +4316,6 @@ StunPause
 
 #CP-13
 #3x
-
   15,R
   19,R,K
    3,R
@@ -4418,7 +4339,6 @@ SkipInput 3 1
   36,R,J
    1,R,K
 EndStunPause
-
   12,R,J
 StunPause
   24,R,J
@@ -4445,13 +4365,13 @@ SkipInput 3 1
    3,R,K,G
   17,R,J
 EndStunPause
-
    1,S,N
   10,O
    1,R,J
 StunPause
   17,R,J
    1,J
+
 #CP-12
 #1x
    5,R,K
@@ -4471,7 +4391,6 @@ EndRepeat
    1,K
    4,L,K
 StunPause
-
   23,L,K
 SkipInput 3 1
    7,U,X
@@ -4498,11 +4417,11 @@ EndStunPause
    1,K
   10,R,K
   11,R,K
+
 #CP-11
 #7x
 1206
    7,R
-
   10,L,D,X
   19,L,J
    1,L
@@ -4520,7 +4439,6 @@ SkipInput 3 2
    8,L,J
   22,L,J
 SkipInput 3 1
-
   15,L,U,Z
    5,L
    4,R
@@ -4530,7 +4448,6 @@ SkipInput 3 1
    1,R
    6,L,J
    4,L
-
    2
   66,L,J
   22,L,D
@@ -4543,7 +4460,6 @@ Repeat 50
    1
 EndRepeat
   11
-
   22,L,J
    1,J
   18,U,X
@@ -4571,7 +4487,6 @@ StunPause
 
 #CP-09
 #1x
-
   18,L,J
    1,R
    1,K
@@ -4599,7 +4514,6 @@ EndStunPause
 
 #CP-08
 #2x
-
    6,R,K
    1,L
   17,L
@@ -4629,6 +4543,7 @@ StunPause
    1,R,J,G
    3,R,K,G
   23,R
+
 #CP-07
 #0x
   12,R,J
@@ -4820,8 +4735,6 @@ EndStunPause
   32,F,90
   36,R,J
   20,R,K
-
-
   14,R,J,G
    1
    1,K
@@ -4906,7 +4819,6 @@ StunPause
    1,R,J
    1,K
   25,R,K
-
    9,J,G
    1,R,J
    1,L,J
@@ -4937,15 +4849,12 @@ SkipInput 3 15
   35,R,J
    2,R,G
    3,K,G
-
    7,R
    1,L
 EndStunPause
    1,R,J
   16,R,J
-
   15,R,K,G
-
   15,R,J,G
   12,R,K,G
    1,K
@@ -4972,7 +4881,6 @@ StunPause
 
 #CP-01
 #0x
-
    1,R,J
   14,R
    4,R,J
@@ -4988,8 +4896,6 @@ StunPause
    6,K
   13,R,K
 EndStunPause
-
-
   12,R,J,G
   12,R,K,G
    9,J
@@ -5041,7 +4947,6 @@ EndStunPause
   11,L,K
   11,L,J,G
    2,J
-
    1,L,J
   12,R,K
    1,L,J

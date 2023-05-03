@@ -1,4 +1,4 @@
-#7A 114x
+#7A 113x
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
@@ -167,29 +167,54 @@ endstunpause
   40
 
 #lvl_a-02
-#2x
-  14,R
-   1,R,J
-   8,R
-  16,R,U,X
-  32,R
-  11,R,U,Z
-   1,L,K,G
-  16,L,J,G
-  12,L,K,G
-   1,J
-  42,R,J
-   2,K,G
+#1x
+  25,R
+  27,R,J
+   8,U,J,X
+StunPause
+   7,U,J
+   5,R,J
+  24,L,K
+   1,K
+   9,L,K
+   1,K
    1,L,K
+   1,K
+   1,K,G
+   2,L
+   1,R,J
+   3,R,K
+   1,R,J
    1,R,K
-   1,R,J,G
+   9,R,J
+   1,R
+   3,R,J
+   1,L,G
+EndStunPause
+  12,L,K,G
+   3,R,J
+   2,L,K
+Repeat, 6
+   2,R,J
+   2,L,K
+EndRepeat
+   3,R,J
+
+  40
+
+#lvl_a-02b
    1,J
-  11,R,J
-   1,J
-   1,R,K,G
-   2,R,J,G
-   4,R
-  11,R,Z
+  18
+
+  40
+
+#lvl_a-02
+#0x
+
+   1,S
+   1,D,J
+  69,O
+   6,R,Z
   40
 
 #lvl_a-03
@@ -254,7 +279,7 @@ endstunpause
    2,R
   40
 #lvl_a-04
-#2x
+#1x
    4,R
    1,R,J
    2,R
@@ -268,9 +293,9 @@ endstunpause
    1,L,J
   12,L,K,G
    9,L,J,G
-   6,R,K
+   7,R,K
 stunpause input
-  14,R,K
+  13,R,K
    1,J,G
    3,R,J
    5,J
@@ -385,17 +410,16 @@ endstunpause
    1
    6,R
   34,R,J
-  33
-
-stunpause
-   8
+  32
+   9
   17,R,J
-SkipInput 3 1
   15,R,U,X
   23,R
   41
   18,R
-  21,L
+   9,L
+StunPause
+  12,L
 SkipInput 3 1
   15,L,X
   46,L,J
@@ -1449,8 +1473,7 @@ EndRepeat
   81
 #1500M
 
-
- 336
+ 444
 
    5,L
    1,L,J
@@ -1682,14 +1705,14 @@ stunpause
   26,R
    5,R,J
    1,R
-  12,R,J
+  14,R,J
+   2,R,D
 endstunpause
    1,S,N
   10,J
-   1,R,J
+   1,R,D
 stunpause
-   1,R,J
-   4,R,D
+   1,R,D
 endstunpause
    5,R,D
    4,R
@@ -1883,10 +1906,9 @@ endrepeat
 1040
    2,R,J
    8,R
-  12,R,J
-   1,R,J
+  10,R,J
 StunPause
-  23,R,J
+  26,R,J
   10,R,J
    4,D
    5,R,D
@@ -1923,16 +1945,15 @@ EndStunPause
 
 #lvl_d-09
 #1x
-
   14,R
   10,R,J
    3,R
    1
   12,U,Z
    6,L
-   7,R,J
+   8,R,J
 StunPause
-  67,R,J
+  66,R,J
 EndStunPause
 
   12,R,K
@@ -2070,12 +2091,17 @@ EndRepeat
 #0x
 #upleft into cb out of first bubble is 4f slower (I think)
   78
-
- 150
+ 155
 #2000M
-   4,R,J
+   6,R,J
+   1,S,N
+  10,O
+   1,R,J
+   1,S,N
+  10,O
+   1,R,J
 StunPause
-   8,R,J
+   5,R,J
   11,R
    1,R,J
   20,R
@@ -2094,8 +2120,9 @@ SkipInput 3 1
    1,L,K,G
    1,L,J,G
   33,L,J
+   1,L,D,K
 EndStunPause
-   7,L,D,K
+   6,L,D,K
   10,L,U,X
    1,R
    5,J,G
@@ -2864,9 +2891,10 @@ EndRepeat
   14,L
   12,D
    1,L,D
-  30,D
+  31,D
+
 StunPause
-   4,D
+   3,D
   11,L,D
    4,L
    1,L,J,G
@@ -2893,7 +2921,6 @@ EndStunPause
 #lvl_f-00
 #0x
   78
-
 #2500M
    4,R
    1
@@ -2957,9 +2984,9 @@ Repeat 228
    1,G
    1
 EndRepeat
-   6,R,J
+   7,R,J
 StunPause
-   4,R,J
+   3,R,J
 SkipInput 3 1
   10,R,X
   72
@@ -2968,9 +2995,9 @@ EndStunPause
    5,D,X
    9,R,J
    5,R,X
-   7
+   9
 StunPause
- 148
+ 146
 SkipInput 3 1
   11,L,D,Z
    6,R,J
@@ -3118,9 +3145,15 @@ Repeat 1047
 EndRepeat
    2,G
    1
-   6,D
+   5,D
+   1,S,N
+  10,O
+   1,D
+   1,S,N
+  10,O
+   1,D
 StunPause
-  14,D
+  13,D
    6,R,D
   35,R
    2,R,J
@@ -3160,12 +3193,12 @@ EndRepeat
   14,R,D
    1,R,J
   14,R
-
    1,R,J
   24,R
    2,R,J
+   2,R
 StunPause
-   8,R
+   6,R
    3,R,J
    8,R
 SkipInput 3 1
@@ -4032,7 +4065,7 @@ EndStunPause
    1,F,0
    1,U,J
   31
-Read, ../SaveandQuitD, Start
+Read, ../SaveandQuitD.tas, Start
   36
    3,L,J
    1,L
@@ -5075,4 +5108,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 23:54.766(84398)
+ChapterTime: 23:54.086(84358)

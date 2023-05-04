@@ -1,4 +1,4 @@
-#1AC +1x
+#1AC +1x (R/SR/U)
 
 console load 1
    1
@@ -6,10 +6,11 @@ console load 1
 #Start
   88
 
-#lvl_1
 Read,../CelesteTAS/1D,lvl_1,lvl_9b
+#0x
 
 #lvl_9b
+#0x
    8,R,D,J
    5,R
    2,J
@@ -39,6 +40,7 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 #lvl_10
+#0x
    5,L
    1,L,J,G
    1,L,K,G
@@ -103,6 +105,7 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 #lvl_11z
+#0x
    3,R
   15,L
   39,L,K

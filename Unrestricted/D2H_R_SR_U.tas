@@ -1,4 +1,4 @@
-#2A-heart 7x
+#2H 27x (R/SR/U)
 
 console load 2
    1
@@ -6,7 +6,8 @@ console load 2
 #Start
  190
 
-#lvl_start
+#lvl_start (0)
+#1x
    1,R,J
   14,R
    1,R,J
@@ -17,6 +18,7 @@ console load 2
   40
 
 #lvl_00
+#1x
    5
    2,L
   15,U,X
@@ -24,12 +26,14 @@ console load 2
   40
 
 #lvl_start (1)
+#1x
   10,L
   15,U,X
   18,R,J
   40
 
-#lvl_s0
+#lvl_s0 (0)
+#0x
   18,R,J
   11,K,G
    1,L,K,G
@@ -43,7 +47,8 @@ console load 2
    6,R,K,G
   40
 
-#lvl_s1
+#lvl_s1 (0)
+#1x
    8,R,J,G
    1,K
   46,L,J
@@ -51,14 +56,15 @@ console load 2
   29,L,J
   40
 
-#lvl_s0
+#lvl_s0 (1)
+#1x
    7,L,U,X
   40
 
-#lvl_s1
+#lvl_s1 (1)
+#1x
   35,L,J
-   4,D,X
-  11,L,U,X
+  15,L,U,Z
    5,L
    7,R
    1,J,G
@@ -88,6 +94,7 @@ console load 2
   40
 
 #lvl_s2
+#1x
    5,R,K
    1,R,J,G
    1,R,K,G
@@ -106,8 +113,9 @@ console load 2
 #Restart
    1,Q
    1,J
-  31
+  30
+#0:15.929(937)
+   1
 
-Read,D2A_R_SR_U,Start
-
-ChapterTime: 2:31.691(8923)
+Read,D2A,Start
+#20x

@@ -1,4 +1,6 @@
-#5A 14x
+#5A 14x (U)
+
+#StunPauseMode,Simulate
 
 console load 5
    1
@@ -227,7 +229,7 @@ endstunpause
   14,R
   12,R,J
   14,R,X
-stunpause input
+stunpause
   29
   11,R,J,G
 endstunpause

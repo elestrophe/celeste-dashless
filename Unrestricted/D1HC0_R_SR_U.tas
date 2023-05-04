@@ -1,4 +1,4 @@
-#1HC0 +1x
+#1HC0 +1x (R/SR/U)
 
 console load 1
    1
@@ -6,10 +6,11 @@ console load 1
 #Start
   88
 
-#lvl_1
 Read,../CelesteTAS/1D,lvl_1,lvl_9b
+#0x
 
 #lvl_9b
+#0x
    8,R,D,J
    5,R
    2,J
@@ -39,6 +40,7 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 #lvl_10
+#0x
    5,L
    1,L,J,G
    1,L,K,G
@@ -103,6 +105,7 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 #lvl_11z
+#0x
    3,R
   15,L
   39,L,K
@@ -145,6 +148,7 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 #lvl_11
+#0x
    4,R,G
    8,R,D
    1,R,D,J
@@ -228,6 +232,7 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 #lvl_10 (1)
+#0x
   13,R,D
    1,J
   20,D
@@ -236,6 +241,7 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 #lvl_9b (1)
+#0x
   11,R,D
    3,R
    1,J
@@ -272,8 +278,10 @@ Read,../CelesteTAS/1D,lvl_1,lvl_9b
   40
 
 Read,../CelesteTAS/1D,lvl_10a,lvl_12a
+#0x
 
 #lvl_12a
+#0x
    5,R,J
    5,R
    3,R,J
@@ -357,6 +365,7 @@ Read,../CelesteTAS/1D,lvl_10a,lvl_12a
   40
 
 #lvl_end
+#0x
    4,R
    1,R,J,G
    1,R,K,G
@@ -376,7 +385,7 @@ Read,../CelesteTAS/1D,lvl_10a,lvl_12a
   21,R
    1,R,J
    5,R
-   1,S
+   1,S,N
    1,D,J
   18
 ChapterTime: 1:45.366(6198)

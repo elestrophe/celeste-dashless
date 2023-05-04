@@ -1,4 +1,6 @@
-#5c 5x
+#5C 5x (SR/U)
+
+#StunPauseMode,Simulate
 
 console rmx2 5
    1
@@ -9,7 +11,8 @@ console rmx2 5
 #spinner cycle
    0
 
-#lvl_00(1x)
+#lvl_00
+#1x
    5,R
    1,R,J
   22,R
@@ -31,20 +34,8 @@ StunPause
   12,R,D
    4,R
   24,R,J
-EndStunPause
-   1,S
-  10,J
-   2,R,K,G
-repeat 2
-   1,S
-  10,J
-   2,R,J
-endrepeat
-   1,S
-  10,J
-   2,L,J
-
-StunPause
+   6,R,K,G
+   2,L,K
    1,L
    1,R
    1,R,J,G
@@ -204,22 +195,12 @@ SkipInput,3,1
   19,R,J
 SkipInput,3
   11,R,J
+   2,K,G
+   2
+   2,R,J,G
 EndStunPause
-   1,K,G
-   1,S
-  10,J
-   1,J
-   1
-   1,S
-  10,J
-   1
-   1,R,J,G
-   1,S
-  10,J
-   1,R,J,G
-   6,R,J,G
-   9,R
-  13,R
+   6,R,J
+  22,R
    2,R,D
    1,R,J,G
    1,R,K,G

@@ -71,7 +71,8 @@ EndStunPause
    1,R,K
   40
 
-#lvl_01(2x)
+#lvl_01
+#2x
    9,R,J
    1
    9,K
@@ -117,7 +118,8 @@ EndStunPause
    1,R
   40
 
-#lvl_02(2x)
+#lvl_02
+#2x
    3,R
    4,R,D
   10,R,D,J

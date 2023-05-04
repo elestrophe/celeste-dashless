@@ -2,19 +2,7 @@
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
-#Dashes:
-#lvl_00-a
-#1x
-#lvl_11-b
-#1x
-#lvl_02-d
-#2x
-
-
-#Buttons: 3x
-#lvl_10-d
-#lvl_10-x
-#lvl_12-x
+StunPauseMode,Simulate
 
 console load 3
    1
@@ -1426,7 +1414,7 @@ console load 3
    1,L,J
   14,L,D
    4,D
-Stunpause Input
+Stunpause
    5,D
    5,R,D
    2,D
@@ -1525,10 +1513,10 @@ EndstunPause
   25,R,D
    2,R
    1,X
-   1,S
+   1,S,N
    1,D,J
   34
-   1,S
+   1,S,N
    1,D,J
    1,O
   68
@@ -1851,7 +1839,7 @@ EndstunPause
    2,K,G
    7,L,D
    1,R,X
-   1,S
+   1,S,N
    1,D,J
   34
    1,R,J
@@ -1887,7 +1875,7 @@ EndstunPause
   15,R
    1,R,J
    2,R
-   1,S
+   1,S,N
    1,D,J
   34
   12,R
@@ -2182,7 +2170,7 @@ EndstunPause
    4,L
    1,L,J,G
   16,L
-   1,S
+   1,S,N
    1,D,J
   34
   20,L,J
@@ -2304,6 +2292,7 @@ EndstunPause
    1,L,J
    3,L
   40
+
 #lvl_06-d
 #0x
   13,L
@@ -2398,7 +2387,6 @@ Set Session.Time 4247785240000
   10,L
    6,L,J
   40
-
 
 #lvl_04-d
 #0x
@@ -3360,7 +3348,7 @@ EndRepeat
 
 #lvl_roof07
 #0x
-   1,S
+   1,S,N
    1,D,J
   18
 ChapterTime: 353:59:52.675(74964275)

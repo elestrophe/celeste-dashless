@@ -486,12 +486,12 @@ console load 4
    4,R,J
   12,R
   18,R,D
-#118h wait here
-repeat 10
+repeat 50
    1,G
    1
 endrepeat
-Set Engine.Scene.TimeActive 524288
+Set Engine.Scene.TimeActive 524287.875
+Set Session.Time 4247785240000
   16,R,D
    1,R,J
   14,R
@@ -2730,4 +2730,4 @@ Set Engine.Scene.TimeActive 524288
    1,S
    1,D,J
   18
-ChapterTime: 3:57.184(13952)
+ChapterTime: 118:02:45.949(24997997)

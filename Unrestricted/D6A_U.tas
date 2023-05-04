@@ -1284,8 +1284,9 @@ endrepeat
    8,R,J
    7,R,J
    1,R
-  50
-Set Engine.Scene.TimeActive 524288
+ 100
+Set Engine.Scene.TimeActive 524287.875
+Set Session.Time 4247785240000
    6,R
    2
    2,R
@@ -1621,15 +1622,7 @@ Set Engine.Scene.TimeActive 524288
    1,J,G
    1,R,J
   24,R,J
-repeat 27
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
+  54,R,J
   11,R,D,K
   10,L,K
   42,R,G
@@ -3342,4 +3335,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 9:59.522(35266)
+ChapterTime: 118:05:51.674(25008922)

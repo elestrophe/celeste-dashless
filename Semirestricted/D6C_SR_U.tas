@@ -1,6 +1,7 @@
-#6C_SR 4x
+#6C 4x (SR/U)
 
-RecordCount: 1153
+#StunPauseMode,Simulate
+
 console rmx2 6
    1
 

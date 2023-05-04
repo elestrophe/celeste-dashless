@@ -1,16 +1,12 @@
-#6A 22x
+#6A 21x (SR)
 
-#console load 6 11727 144
-#play,Boss,37
-
-# change colors here
+#StunPauseMode,Simulate
 
 console load 6
    1
 
 #Start
  110
-Set, Invincible, False
    1,S
    1,D,J
   34
@@ -92,97 +88,33 @@ repeat 5
    1,L,K
 endrepeat
   11,L
-   1,S
-   1,O
-   9
+StunPause
    2,L,D,J
-repeat 5
-   1,S
-  12,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,J,G
-   1,L,J
-   1,S
   10,J
-   2,L,J
-repeat 2
-   1,S
-  12,J
-endrepeat
-   1,S
-  10,J
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+   1,L,J,G
+   1,R,J
    1,J
    1,L,J
-   1,S
-  10,J
+   6,J
    1,R,J
    1,L,J
-   1,S
-   1,O
-   9
-   1,L,K,G
-   1,R,K
-   1,S
-   1,O
-   9
+   4,K,G
+   1,J,G
+  26,R,J
    1,K
-   1,L,K
-repeat 3
-   1,S
-   1,O
-  11,K
-endrepeat
-   1,S
-   1,O
-   9,K
-   1,R,K
-   1,L,K
-   1,S
-   1,O
-   9
-   2,J,G
-   1,S
-  12,J
-   1,S
-   1,O
-   9
-   1,K,G
-   1,R,K
-repeat 12
-   1,S
-   1,O
-   9,K
-   2,R,K
-endrepeat
-   1,S
-   1,O
-   9,K
-   1,R,K
-   1,J
-repeat 12
-   1,S
-  10,J
-   2,L,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,L,J
-   1,L,K,G
-   1,S
-   1,O
-   9,K
-   1,L,K
-   1,J
-   1,S
-  10,J
-   2,L,J
-  16,L,J
-  11,K,G
-   2,R,K
+  25,L,K
+   2,L,J,G
+   2,K
+EndStunPause
+  17,L,K
+  11,J,G
+   2,R,J
   43
 
 #lvl_01
@@ -201,66 +133,17 @@ endrepeat
    9,R
   11,R,K
    1,R,J
-repeat 6
-   1,S
-   1,O
-   9,J
-   2,R,J
-endrepeat
-repeat 12
-   1,S
-   1,O
-   9
-   2
-endrepeat
-   1,S
-   1,O
-   9
-   1
+StunPause
+  12,R,J
+  25
    1,R,U
-repeat 9
-   1,S
-   1,O
-   9
-   2,U
-endrepeat
-repeat 21
-   1,S
-   1,O
-   9
-   2,F,335
-endrepeat
-   1,S
-   1,O
-   9
-   1,F,335
-   1,F,320
-   1,S
-   1,O
-   9
-   2,F,320
-   1,S
-   1,O
-   9
-   1,F,320
-   1,F,290
-   1,S
-   1,O
-   9
-   1,F,290
-   1,F,290.9
-repeat 3
-   1,S
-   1,O
-   9
-   2,F,290.9
-endrepeat
-repeat 5
-   1,S
-   1,O
-   9
-   2,F,342
-endrepeat
+  18,U
+  43,F,335
+   4,F,320
+   2,F,290
+   7,F,290.9
+  10,F,342
+EndStunPause
   45,F,342
   12,L,J
   40
@@ -282,79 +165,20 @@ endrepeat
    3,F,11
    3,F,27
    2,F,30
-repeat 12
-   1,S
-   1,O
-   9
-   2,F,30
-endrepeat
-   1,S
-   1,O
-   9
+StunPause
+  24,F,30
    1,F,24
    1,F,20
-repeat 4
-   1,S
-   1,O
-   9
-   2,F,18.4
-endrepeat
-   1,S
-   1,O
-   9
-   2,F,2.3
-   1,S
-   1,O
-   9
-   1,F,2.3
-   1,F,359
-repeat 10
-   1,S
-   1,O
-   9
-   2,F,359
-endrepeat
-   1,S
-   1,O
-   9
-   1,F,359
+   8,F,18.4
+   3,F,2.3
+  22,F,359
    1,F,343
-   1,S
-   1,O
-   9
    2,F,300
-   1,S
-   1,O
-   9
    1,L
-   1,D
-repeat 4
-   1,S
-   1,O
-   9
-   2,D
-endrepeat
-   1,S
-   1,O
-   9
-   1,D
-   1,L,D
-repeat 18
-   1,S
-   1,O
-   9
-   2,L,D
-endrepeat
-repeat 16
-   1,S
-   1,O
-   9
-   2,L,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,L,J
+  10,D
+  37,L,D
+  33,L,J
+EndStunPause
    1,R,J
    9,L,K,G
    1,R,K
@@ -454,494 +278,91 @@ endrepeat
 #0x
    1,R,J,G
   34,R
-2194
-   1
-   1,S
-   1,O
-   9
-   2,R,K
-repeat 5
-   1,S
-   1,O
-   9,K
-   2,R,K
-endrepeat
-   1,S
-   1,O
-   9
+2195
+StunPause
+  11,R,K
    1,J,G
+   3,R,J
+   5,J
    1,R,J
-   1,S
-   1,O
-   9,J
-   2,R,J
-repeat 2
-   1,S
-  12,J
-endrepeat
-   1,S
-  11,J
-   1,R,J
-   1,S
-  10,J
    1,L,J
    1,R,J
-   1,S
-   1,O
-   9
-   2,R,K,G
-repeat 5
-   1,S
-   1,O
-   9,K
-   2,R,K
-endrepeat
-   1,S
-   1,O
-   9,K
-   1,R,K
-   1,L,J
-repeat 7
-   1,S
-  10,J
-   2,L,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,L,J
+  13,R,K,G
+  16,L,J
    1,K
-repeat 12
-   1,S
-   1,O
-   9,K
-   2,L,K
-endrepeat
-   1,S
-   1,O
-   9,K
-   1,L,K
-   1,J,G
-repeat 3
-   1,S
-  12,J
-endrepeat
-   1,S
-  11,J
+  25,L,K
+   9,J,G
    1,R,J
-   1,S
-  10,J
    1,L,J
-   1,L,K,G
-   1,S
-   1,O
-   9,K
-   2,L,K,G
-repeat 8
-   1,S
-   1,O
-   9,K
-   2,L,K
-endrepeat
-   1,S
-   1,O
-   9
-   2,L,K,G
-repeat 3
-   1,S
-   1,O
-  11,K
-endrepeat
-   1,S
-   1,O
-  10,K
-   1,R,K
-   1,S
-   1,O
-   9,K
-   2,R,K
-   1,S
-   1,O
-   9,K
-   1,R,K
-   1,R,J
-repeat 13
-   1,S
-  10,J
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
-   2,R,K,G
-   1,S
-   1,O
-   9,K
-   1,R,K
-   1,R
-repeat 3
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-repeat 3
-   1,S
-   1,O
-  11
-endrepeat
-repeat 3
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-   1,S
-   1,O
-   9
-   2,L,J
-repeat 12
-   1,S
-  10,J
-   2,L,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,K,G
-   1,K
-   1,S
-   1,O
-   9,K
-   2,R,K
-   1,S
-   1,O
-   9,K
-   2,R,J
-repeat 12
-   1,S
-  10,J
-   2,R,J
-endrepeat
-   1,S
-  10,J
-   1,R,J
-   1,R,K,G
-   1,S
-   1,O
-   9,K
-   2,R,K
-   1,S
-   1,O
-   9
-   1,J
-   1,R,J
-repeat 11
-   1,S
-  10,J
-   2,R,J
-endrepeat
-   1,S
-  10,J
-   1,R,J
-   1,R,G
-   1,S
-   1,O
-   9
-   1,G
-   1,R,K,G
-repeat 5
-   1,S
-   1,O
-   9,K
-   2,R,K
-endrepeat
-   1,S
-   1,O
-   9,K
-   1,R,K
-   1,R
-repeat 3
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-repeat 3
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-   1,S
-   1,O
-   9
-   1,L,J
-   1,L
-repeat 17
-   1,S
-   1,O
-   9
-   2,L,D
-endrepeat
-   1,S
-   1,O
-   9
-   1,L,D,J
-   1,K,G
-   1,S
-   1,O
-   9,K
-   2,L,K
-   1,S
-   1,O
-   9,K
-   1,R,K
-   1,L,K
-   1,S
-   1,O
-   9
+  19,L,K,G
    2,L,J,G
-   1,S
-  10,J
-   1,R,J
+   7,J
+   4,R,J
+  27,R,K
+   3,R,J,G
+   7,R
+   6
+   6,L
+  26,L,J
+   2,K,G
+   2,R,K
+  27,R,J
+   3,R,K,G
+   1,J
+  24,R,J
+   2,G
+  12,R,K,G
+   7,R
+   6,L
    1,L,J
-repeat 6
-   1,S
-  10,J
-   2,L,J
-endrepeat
-   1,S
-  10,J
-   1,L,J
+  35,L,D
+   1,L,D,J
    1,K,G
-   1,S
-   1,O
-   9,K
+   2,L,K
    1,R,K
    1,L,K
-   1,S
-   1,O
-   9
-   1,J,G
+   2,L,J,G
    1,R,J
-repeat 15
-   1,S
-  10,J
-   2,R,J
-endrepeat
-   1,S
-  10,J
-   1,R,J
-   1,R,K,G
-   1,S
-   1,O
-   9
-   2,R,K,G
-   1,S
-   1,O
-   9
-   2,R
-   1,S
-   1,O
-   9
-   2,R
-   1,S
-   1,O
-   9
-   1,R
-   1,L
-repeat 3
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-   1,S
-   1,O
-   9
-   2,L,J
-repeat 13
-   1,S
-  10,J
-   2,L,J
-endrepeat
-   1,S
-  10,J
-   1,L,J
-   1,L,K,G
-repeat 6
-   1,S
-   1,O
-   9,K
-   2,L,K
-endrepeat
-   1,S
-   1,O
-   9,K
-   1,J
-   1,L,J
-repeat 11
-   1,S
-  10,J
-   2,L,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,R,J
-   1,L,K,G
-   1,S
-   1,O
-   9
-   2,L,K,G
-repeat 3
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-   1,S
-   1,O
-   9
-   1,L
-   1,R
-repeat 3
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-   1,R
-   1,R,J
-repeat 11
-   1,S
-  10,J
-   2,R,J
-endrepeat
-repeat 2
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-   2,L,K
-   1,S
-   1,O
-   9,K
-   2,L,K
-   1,S
-   1,O
-   9
-   1,L
-   1,L,K
-   1,S
-   1,O
-   9,K
-   2,L,K
-repeat 2
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-   1,S
-   1,O
-   9
-   1,L
-   1,R,J
-   1,S
-  10,J
-   1,R,J
-   1,R
-repeat 2
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-repeat 4
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-   1,S
-   1,O
-   9
-   1,L
-   1,L,D,J
-   1,S
-   1,O
-   9
-   1,R,J
-   1,J
-   1,S
-   1,O
-   9
-   2,J
-repeat 3
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,R
-   1
-   1,S
-   1,O
-   9
-   1
+  14,L,J
    1,K,G
-repeat 12
-   1,S
-   1,O
-   9,K
-   2,L,K
-endrepeat
-repeat 7
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-   2,R,J
-repeat 4
-   1,S
-  10,J
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
-   1,R,J
-   1,R
-repeat 3
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-   1,R
+   1,R,K
    1,L,K
-   1,S
-   1,O
-   9
+   1,J,G
+  32,R,J
+   1,G
+   2,R,K,G
+   5,R
+   7,L
+  29,L,J
+  13,L,K,G
+   1,J
+  23,L,J
+   1,R,J
+   3,L,K,G
+   7,L
+   8,R
+  23,R,J
+   4,R
+   4,L,K
+   1,L
+   3,L,K
+   5,L
+   2,R,J
+   5,R
+   9,L
+   1,L,D,J
+   1,R,J
+   3,J
+   6,R,J
+   1,R
+   2
+   1,K,G
+  24,L,K
+  14,R
+  11,R,J
+   8,R
+   1,L,K
+EndStunPause
    4,L,K
    7,L,J
   10,R,K
@@ -1408,31 +829,15 @@ endrepeat
    4,R,J
   23,R
    8,D
-   3,L,D
-repeat 15
-   1,S
-   1,O
-   9
-   2,L,D
-endrepeat
-   1,S
-   1,O
-   9
+   1,L,D
+StunPause
+  32,L,D
    1,L
    1,R
-repeat 11
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-repeat 6
-   1,S
-   1,O
-   9
-   2,R,D
-endrepeat
-  32,R,D
+  22,R,J
+   9,R,D
+EndStunPause
+  35,R,D
   44,F,69
    7,F,45
    4,F,
@@ -1548,53 +953,17 @@ endrepeat
 
 #lvl_16b
 #0x
-   8,F,56
-repeat 8
-   1,S
-   1,O
-   9
-   2,F,56
-endrepeat
-repeat 26
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-repeat 9
-   1,S
-   1,O
-   9
-   2,D
-endrepeat
-   1,S
-   1,O
-   9
+   9,F,56
+StunPause
+  15,F,56
+  52,R,J
+  18,D
    1,R,D
-   1,R,J
-repeat 8
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-repeat 7
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-   2,R,D,J
-repeat 2
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-   9,R,J
+  17,R,J
+  14,R
+   4,R,D,J
+EndStunPause
+  11,R,J
   27,R,U
   54,F,80
   18,F,51.8
@@ -1651,9 +1020,6 @@ endrepeat
   11,R
   43
 
-
-
-
 #lvl_18b
 #0x
    3,R
@@ -1681,17 +1047,10 @@ endrepeat
    1,R,K
    1,L,K
    1,J,G
-   1,R,J
   24,R,J
-repeat 27
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
+StunPause
+  55,R,J
+EndStunPause
   11,R,D,K
   10,L,K
   42,R,G
@@ -1747,72 +1106,19 @@ endrepeat
   27,R,D
   15,F,100
    5,F,90
-  72,F,87
-   1,S
-   1,O
-   9
-   2,F,87
-   1,S
-   1,O
-   9
-   1,F,87
-   1,F,69
-repeat 9
-   1,S
-   1,O
-   9
-   2,F,69
-endrepeat
-   1,S
-   1,O
-   9
-   1,F,69
-   1,R
-repeat 2
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-repeat 12
-   1,S
-   1,O
-   9
-   2,R,D
-endrepeat
-   1,S
-   1,O
-   9
-   1,R,D
-   1,L,D
-repeat 2
-   1,S
-   1,O
-   9
-   2,L,D
-endrepeat
-repeat 2
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-   1,S
-   1,O
-   9
-   2,K,G
-repeat 3
-   1,S
-   1,O
-   9
-   2,L
-endrepeat
-repeat 2
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
+  71,F,87
+StunPause
+   4,F,87
+  20,F,69
+   5,R
+  25,R,D
+   5,L,D
+   4,L
+   1,G
+   1,K,G
+   6,L
+   4,R
+EndStunPause
    2,R
   54,R,J
   27,R,U
@@ -1942,33 +1248,12 @@ endrepeat
    1,L
   21,R,D
  155,D
-  29,L,D
-repeat 3
-   1,S
-   1,O
-   9
-   2,L,D
-endrepeat
-   1,S
-   1,O
-   9
-   1,L,D
-   1,R,D
-repeat 6
-   1,S
-   1,O
-   9
-   2,R,D
-endrepeat
-   1,S
-   1,O
-   9
-   1,R,D
-   1,D
-   1,S
-   1,O
-   9
-   3,D
+  27,L,D
+StunPause
+   9,L,D
+  14,R,D
+EndStunPause
+   4,D
   21,R,D
    4,R,J
    1,R
@@ -2077,7 +1362,6 @@ endrepeat
   14,R
    1,R,J
   20,R,D
-#Boss
   15,L,D,X
   26,L
   35,D
@@ -2454,22 +1738,13 @@ endrepeat
   12,L,J
    8,L,K,G
   16,R,J
-   5,R,D
-repeat 3
-   1,S
-   1,O
-   9
-   2,L,D
-endrepeat
-repeat 17
-   1,S
-   1,O
-   9
+   3,R,D
+StunPause
    2,R,D
-endrepeat
-   1,S
-   1,O
-   9
+   6,L,D
+  33,R,D
+EndStunPause
+   1,R,D
   23,R,J
   12,R,K,G
    5,J,G
@@ -2587,16 +1862,10 @@ endrepeat
    3,R
   39,R,J
   16,L,D
-  71,R,D
-repeat 11
-   1,S
-   1,O
-   9
-   2,R,D
-endrepeat
-   1,S
-   1,O
-   9
+  72,R,D
+StunPause
+  21,R,D
+EndStunPause
    1,R,D
   29,R,J
   47,L,D
@@ -2718,44 +1987,13 @@ endrepeat
 
 #lvl_boss-11
 #0x
-   2,R,J
-repeat 2
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
    1,R,J
-   1,R,D
-repeat 17
-   1,S
-   1,O
-   9
-   2,R,D
-endrepeat
-   1,S
-   1,O
-   9
-   1,R,D
-   1,R,J
-repeat 4
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat 
-repeat 15
-   1,S
-   1,O
-   9
-   2,R,D
-endrepeat
-   1,S
-   1,O
-   9
+StunPause
+   6,R,J
+  36,R,D
+   9,R,J
+  30,R,D
+EndStunPause
    6,R,J
    8,R
    1,R,K,G
@@ -2805,105 +2043,30 @@ endrepeat
    1,R
    1,R,J
   32,R
-  10,R,J
-repeat 5
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
-   2,R,K,G
-   1,S
-   1,O
-   9,K
-   1,R,K
+   9,R,J
+StunPause
+  11,R,J
+   3,R,K,G
    1,R,J,G
-repeat 2
-   1,S
-  10,J
-   2,L,J,G
-endrepeat
-repeat 3
-   1,S
-  10,J
-   2,R,J,G
-endrepeat
-   1,S
-  10,J
+   4,L,J,G
+   6,R,J,G
    1,R,J
    1,R,K,G
-   1,S
-   1,O
-   9
    1,R,J,G
-   1,R
-repeat 6
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-   1,R
+  14,R
    1,R,J
-   1,S
-   1,O
-   9
    2,L,J
-   1,S
-   1,O
-   9
    2,R,J
-   1,S
-   1,O
-   9
-   2,R
-   1,S
-   1,O
-   9
-   1,R
+   3,R
    1,R,K,G
-   1,S
-   1,O
-   9
-   2,R,J,G
-   1,S
-   1,O
-   9
-   1,R,J
-   1,R
-repeat 10
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-repeat 2
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-repeat 2
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-   1,R
+   3,R,J,G
+  21,R
+   5,R,J
+   4,R
    1,R,J,G
-   1,S
-   1,O
-   9
-  29,R,K,G
+EndStunPause
+  12,R,K,G
+  16,R
   29,R
    1,L,J
   30,L,D
@@ -3239,27 +2402,15 @@ endrepeat
    9,R
    1,R,J
   11,R
-   7,R,J
-repeat 2
-   1,S
-   1,O
-   9
-   2,R,J
-endrepeat
-   1,S
-   1,O
-   9
-   2,R,J
-repeat 6
-   1,S
-   1,O
-   9
-   2,R
-endrepeat
-   1,S
-   1,O
-   9
-  13,L,J
+   1,R,J
+   2,J
+   4,R,J
+StunPause
+  13,R,J
+   4,R
+EndStunPause
+   1,R
+  11,L,K
   60,L,D
   33,D
   10,L,D
@@ -3338,7 +2489,7 @@ endrepeat
   40
 
 #lvl_boss-20
-#1x
+#0x
   12,R
    1,R,J
   14,R
@@ -3392,19 +2543,37 @@ endrepeat
    1,R,K
    2,R
    1,R,J,G
-   7,R
-   1,S
+   2,R
+StunPause
+   5,R
+EndStunPause
+   1,S,N
    1,D,J
   34
-   6,R
-  10,R,J
    2,R
-   7,L
-  25,L,J
-  15,U,X
-  18,L,J
-   1,L,K,G
-   2,R,K
+StunPause
+   4,R
+  19,R,D,J
+   7,K,G
+   2,L,K
+   1,R,J,G
+   1,L,K
+  11,R,K
+   2,K
+   1,J,G
+   1,L,J
+EndStunPause
+   1,R,J
+   1,K,G
+   6,L,K
+   5,L
+  12,L,K
+   7,R,J,G
+   5,J
+  22,L,K
+   1,L,J,G
+   1,J
+   2,R,J
   40
 
 #lvl_after-00
@@ -3582,4 +2751,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 10:46.629(38037)
+ChapterTime: 10:51.780(38340)

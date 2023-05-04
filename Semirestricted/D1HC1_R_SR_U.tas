@@ -7,6 +7,7 @@ console load 1 lvl_6
   36
 
 #lvl_6
+#0x
    1,R,J
   14,R
   12,R,K
@@ -59,6 +60,7 @@ console load 1 lvl_6
   43
 
 #lvl_6a
+#0x
    1
    1,R,J
    5,R
@@ -111,6 +113,7 @@ console load 1 lvl_6
   40
 
 #lvl_6b
+#0x
   11,R
    1,R,J
   14,R
@@ -163,6 +166,7 @@ console load 1 lvl_6
   40
 
 #lvl_s0
+#0x
    1,L,J
   14,L
    1,L,J
@@ -211,6 +215,7 @@ console load 1 lvl_6
   40
 
 #lvl_s1
+#7x
   20,L
   34,L,J
   15,U,X
@@ -276,5 +281,6 @@ console load 1 lvl_6
    1,S
    1,U,J
    1,O
-  31
-#0:29.546(1738)
+  30
+#0:29.529(1737)
+   1

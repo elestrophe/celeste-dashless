@@ -1,20 +1,6 @@
-#3A 10x
-#Dashes:
-#lvl_00-a
-#1x
-#lvl_11-b
-#1x
-#lvl_06-d
-#1x
-#lvl_02-d
-#3x
-# lvl_roof06b
-#1x
+#3A 10x (SR)
 
-#Buttons: 3x
-#lvl_10-d
-#lvl_10-x
-#lvl_12-x
+#StunPauseMode,Simulate
 
 console load 3
    1
@@ -1426,7 +1412,7 @@ console load 3
    1,L,J
   14,L,D
    4,D
-Stunpause Input
+Stunpause
    5,D
    5,R,D
    2,D
@@ -1437,7 +1423,6 @@ Stunpause Input
   24,L,D,G
 EndstunPause
   12,L,D,K
-
   12,L,J,G
    1
   11,K,G
@@ -2320,29 +2305,15 @@ EndstunPause
    3,L,J
   17,L
    4,L,J
-AutoInput, 2
-   1,S,N
-  10,J
-StartAutoInput
+StunPause
   18,L,J
    2,J
    1,L,K,G
-   1,R,K
-EndAutoInput
-AutoInput, 2
-   1,S,N
-  10,K,O
-StartAutoInput
-   5,R,K
+   6,R,K
   10,L,K
    1,L,J,G
-EndAutoInput
-   1,S,N
-  10,O
    1,L,K,G
-   1,L
-StunPause Input
-  13,L
+  14,L
    1,L,J
   14,L
    1,L,J
@@ -2401,7 +2372,7 @@ EndStunPause
 #0x
    4,L,J
   23,L,D
-StunPause Input
+StunPause
   33,L,D
 EndStunPause
   18,L,J
@@ -2424,7 +2395,7 @@ EndStunPause
    1,L
   10,L,J
    2,L,D
-StunPause Input
+StunPause
   27,L,D
    5,D
    7,L,D
@@ -2472,7 +2443,7 @@ EndStunPause
    8,R
   90
    1,L,J
-StunPause Input
+StunPause
   14,L
    1,L,J
   14,L
@@ -2489,7 +2460,6 @@ EndStunPause
   19,L,D
    1,L,J
   14,L
-
    4,L,J
    6,L
   15,L,J
@@ -2928,33 +2898,19 @@ EndStunPause
   18,R,K
   28,R
   22,R,J
-   1,S,N
-  10,J,O
-   2,R,K,G
-AutoInput, 2
-   1,S,N
-  10,K,O
-StartAutoInput
-   3,R,K,G
-   5,R
-EndAutoInput
 StunPause
+   5,R,K,G
+   5,R
    1,R,K,G
    1,R,J,G
   63,R,D
    3,D
    7,R,D
    1,R,J
-   2,J
-EndStunPause
-AutoInput, 2
-   1,S,N
-  10,J
-StartAutoInput
-   1,J
+   3,J
    5,R,J
-EndAutoInput
-   4,R,J,G
+EndStunPause
+   4,R,J
   12,R,K,G
   12,R,J,G
   10,R
@@ -2990,7 +2946,6 @@ EndAutoInput
 
 #lvl_roof06b
 #1x
-
   91
   28,R
  105
@@ -3026,12 +2981,9 @@ StunPause
    1,R,J
 EndStunPause
 StunPause
-  28,R,J
+  27,R,J
+   2,R
 EndStunPause
-   1,S,N
-  10,J,O
-   1,R,J
-   
   20,R,K
    1,R
    1,J,G
@@ -3054,7 +3006,6 @@ EndStunPause
 
 #lvl_roof06
 #0x
-
    3,L
   11,R
    1,R,J

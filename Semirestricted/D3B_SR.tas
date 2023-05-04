@@ -1,4 +1,6 @@
-#3B 19x 
+#3B 19x (SR)
+
+#StunPauseMode,Simulate
 
 console hard 3
    1
@@ -428,7 +430,6 @@ EndStunPause
    1,R
    3,R,D
   21,R,J
-#This stunpause does not work on simulate for some reason
 StunPause
   13,R,J
    8,R
@@ -445,8 +446,8 @@ StunPause
    1,R,D,J
    1,R,D,K
    1,R,D,J
-SkipInput,1
    1,R,K
+SkipInput,1
    1,R,J
    9,R,K
    5,R
@@ -589,7 +590,6 @@ EndStunPause
    1,R,K
 StunPause
 SkipInput,3,5
-
   27,R,D,K
    5
    3,R
@@ -978,6 +978,7 @@ EndStunPause
    1,R,J
    7,R
   40
+
 #lvl_19
 #1x
    7,R

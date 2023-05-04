@@ -1,4 +1,4 @@
-#3H +1x (MTB)
+#3H +1x (R)
 
 console load 3
    1
@@ -6,9 +6,8 @@ console load 3
 #Start
   61
 
-#lvl_s0
-#0x
 Read,D3A,lvl_s0,H1-Return
+#1x
 
 #lvl_09-b
 #0x
@@ -700,6 +699,7 @@ EndRepeat
   40
 
 Read,D3A,H2,H2-Return
+#1x
 
 #lvl_09-b
 #0x
@@ -797,5 +797,6 @@ Read,D3A,H2,H2-Return
   60
 
 Read,D3A,H3
+#12x
 
 ChapterTime: 6:26.257(22721)

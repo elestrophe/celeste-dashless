@@ -1,9 +1,16 @@
-#5B 27x
+#5B 27x (SR)
+
+#StunPauseMode,Simulate
 
 console hard 5
    1
 
-Read, ../Restricted/D5B, Start, lvl_d-03
+#Start
+ 190
+
+Read, ../Restricted/D5B, lvl_start, lvl_d-03
+#23x
+
 #lvl_d-03
 #2x
    1,R,G
@@ -70,8 +77,6 @@ EndStunPause
   11,R
   40
 
-
-
 #lvl_d-04
 #1x
    3,R
@@ -118,7 +123,6 @@ EndStunPause
    1,R,G
   20,R
    1
-
    1,R,J
   11,R
   40

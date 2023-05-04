@@ -203,7 +203,7 @@ console load 5
   14,R
    1,R,J
   13,R
-stunpause input
+stunpause
 skipautoinput,3,1
   15,U,X
   33
@@ -1510,8 +1510,9 @@ AnalogMode,Ignore
   34
    1,L,J
   14,L
-  50
-Set Engine.Scene.TimeActive 524288
+ 100
+Set Engine.Scene.TimeActive 524287.875
+Set Session.Time 4247785240000
    5,L
   20,L,D,J
   12,K,G
@@ -2488,4 +2489,4 @@ Set Engine.Scene.TimeActive 524288
    1,S
    1,D,J
   18
-ChapterTime: 5:41.836(20108)
+ChapterTime: 118:01:55.629(24995037)

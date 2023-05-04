@@ -1,7 +1,8 @@
-#7C 32x
+#7C 32x (SR)
+
+#StunPauseMode,Simulate
 
 console rmx2 7
-StunPauseMode 
    1
 
 #Start
@@ -302,5 +303,4 @@ EndRepeat
    7,R
   27,R,J
  157,R,X
-#0:47.515(2795)
 ChapterTime: 2:11.869(7757)

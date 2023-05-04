@@ -1,9 +1,15 @@
-#4A 23x
+#4A 23x (SR)
+
+#StunPauseMode,Simulate
 
 console load 4
    1
 
-Read, ../Restricted/D4A, Start, lvl_c-06
+#Start
+  69
+
+Read, ../Restricted/D4A, lvl_a-00, lvl_c-06
+#12x
 
 #lvl_c-06
 #0x
@@ -110,4 +116,6 @@ EndStunPause
   40
 
 Read, ../Restricted/D4A, lvl_c-09
+#11x
+
 ChapterTime: 4:08.047(14591)

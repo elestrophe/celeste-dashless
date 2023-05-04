@@ -1,4 +1,6 @@
-#4C 5x
+#4C 5x (SR)
+
+#StunPauseMode,Simulate
 
 console rmx2 4
    1
@@ -13,46 +15,18 @@ console rmx2 4
    4,R,Z
    6,R,J
    4,R
-repeat 5
-read pause
-   2,R
-endrepeat
-read pause
-   5,U,X
-repeat 4
-read pause
-   2,U
-endrepeat
-read pause
-   2,R,J
-repeat 6
-read jpause
-   2,R,J
-endrepeat
-read jpause
-   1,R,J
-   1,R
-repeat 4
-read pause
-   2,R
-endrepeat
-read pause
-   1,R
-   1,R,J
-read pause
-   2,R,J
-read pause
-repeat 4
-   2,R,D
-read pause
-endrepeat
-   1,R,D
+StunPause
+  10,R
+SkipInput,3,1
+  13,U,X
+  15,R,J
+  10,R
+   3,R,J
+   9,R,D
    1,D
-read pause
-repeat 4
-   2,L,D
-read pause
-endrepeat
+   7,L,D
+EndStunPause
+   1,L,D
   13,R,J
   39,R
   13,U,C
@@ -193,4 +167,4 @@ endrepeat
   39,R,K
   35,R,J
  155,R,U,X
-ChapterTime: 0:39.848(2344)
+ChapterTime: 0:39.661(2333)

@@ -1,4 +1,4 @@
-#7A 168x (R)
+#7A 168x
 
 #console load 7 3088 -1768
 #play,500M,37
@@ -2577,19 +2577,64 @@ EndRepeat
    1
    5,R
    1,R,J
-  20,L,J
-Repeat,98
+   3,L,J
+  17,L
+   1,R,J
+   5,L
+Repeat,4
+   1,R
+   1,L
+EndRepeat
+   1,R
+   1,R,J
+   6,L
+Repeat,4
+   1,R
+   1,L
+EndRepeat
+   1,R,J
+   5,L
+Repeat,5
+   1,R
+   1,L
+EndRepeat
+   1,R,J
+   5,L
+Repeat,5
+   1,R
+   1,L
+EndRepeat
+   1,R,J
+   5,L
+Repeat,4
+   1,R
+   1,L
+EndRepeat
+   1,R
+   1,D
+   1,L
+   1,R,K
+   5,L
+   1,R
+   1,L
+   1,R
+   1,L
+Repeat,3
    1,R,J
    1,L,J
 EndRepeat
-  14,R,J
+Repeat,5
+   2,D,J
+   1,L,J
+EndRepeat
+  13,R,J
    9,R,K
    1,K
   42,R,K
-   2,K
-   2,R,K
+Repeat,3
    1,K
    1,R,K
+EndRepeat
    4,R,D
   13,R,U,Z
    1,L
@@ -4775,4 +4820,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 10:56.948(38644)
+ChapterTime: 10:55.469(38557)

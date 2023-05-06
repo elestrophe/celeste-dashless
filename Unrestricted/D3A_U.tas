@@ -2,7 +2,7 @@
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
-StunPauseMode,Simulate
+#StunPauseMode,Simulate
 
 console load 3
    1

@@ -699,7 +699,7 @@ AnalogMode,Precise
   36,R,U,Z
   15,U,X
    8,R
- 171,U,J,G
+ 171,U,G
   29,L,U,G
    9,L,G
   11,L,J,G
@@ -707,8 +707,8 @@ AnalogMode,Precise
   12,R,J,G
   14,R,D,J
   16,U,X
-  15,G
-  58,L,U,J,G
+  15,U,G
+  58,L,U,G
   90,U,G
  153,R,U,G
  144,L,U,G

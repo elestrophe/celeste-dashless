@@ -1570,17 +1570,25 @@ EndRepeat
 
 #lvl_d-00
 #0x
-   5,R,J,G
-   1,G
-   2,R,K,G
-   4,R,G
-   4,R,G
-  18,R
-  22,R,G
+   3,R,J,G
+   3,R,G
+   1,R
+   5
+   1,R
+   2
+   1,R
+   2,R,J
+   4,R
+   2,R
+  30,R,G
    1,L
-  10,R
-   3,J
-   3
+   5,R
+   1,R,J,G
+   1
+   1,J
+   2,L,J
+   1,J
+   1
   27,L
    1,J,G
    1,K
@@ -7318,7 +7326,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:33.371(61963)
+ChapterTime: 17:33.269(61957)
 
 # optional waiting for
 # visuals to play out

@@ -18,7 +18,9 @@ console load 10
    1
 
 #Start
+
 Read,D9A,Start,lvl_j-14
+#177x
 
 #lvl_j-14
 #3x
@@ -783,4 +785,17 @@ ChapterTime: 18:48.647(66391)
 #Let moon berry sfx play
  100
 
-Read,D9A,end-granny
+#end-granny
+ 122
+   1,S,N
+   1,D,J
+  18
+
+#end-cinematic
+Add 2
+  61
+   1,S,N
+   1,D,J
+ 165
+   1,J
+ 483

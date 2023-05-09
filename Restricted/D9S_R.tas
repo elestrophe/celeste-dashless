@@ -232,7 +232,7 @@ Read,D9A,Start,lvl_j-14
   40
 
 #lvl_j-15
-#6x
+#5x
    3,R,D,G
    1,R,D,J,G
    8,R,D,G
@@ -275,61 +275,68 @@ Read,D9A,Start,lvl_j-14
   16,L,D,G
   34,L,U,K,G
   41,L,U,G
-  46,L,U,J,G
+  42,L,U,J,G
    1,L,G
    1,L,U,G
-  19,L,D,G
+  11,L,D,G
+   1,L,G
+  11,L,D,G
    1,R
-  10,L
-   3,L,D
-   1,L
-   1,L,D
+  15,L,D
   21,L,X
    1,L,K,G
-  10,L
-   5
+   1,L,J,G
    1,L,K,G
-   3
+   1,L,J,G
    2,L
-   4
-   2,K
-   1,L,K
-   6,L
-   2,L,K
+   1
+   4,L
+   1,L,J
   10,L
-   7,R,Z
+   2
+   1,L
+   2
+  16,G
+   8,R
+   1,R,J
+  14,R
    1,R,J
    1,R
-   1,R,J
-   2,R
-   3,R,D,K
-   6,R,D,X
+   5,R,D,X
    1,L,J,G
   10,R,J
-   6,R
-   1
-  21,R,K
+   4,R
+   2
+   1,S,N
+  10,J
+   1,J
+   1,R
+   1,R,D
+   1,R
+  22,R,J
   14,R,U,X
-   1,R,K,G
-  18,R
-   5,D
+   1,R,J,G
+   1,R
+   1
+  22,R,D
   40
 
 #FAREWELL 2x
 #lvl_j-16
 #2x
-  21,D
+  20,R,D
    9,R
   21,R,G
-  36,R,D
+  29,R,D
    1,D
-   1,D,N
-   2
+   7,R,D
+   3,R
+   1,R,N
+   2,R
    1,S,N
    1,D,J
   34
    1,R
-   3
    1,L
    9,L,J
    3,L
@@ -355,29 +362,37 @@ Read,D9A,Start,lvl_j-14
   19,R,D,G,AL
    2,R,G
   27
- 113,R,U,G
+ 109,R,U,G
+   1,R,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
    6,R,D
    1,S,N
    9,O
    1,J
    2,R,J,G
    3,L,J
-   6,R,J
-   1,R
+   7,R,J
   15,R,G
    1,G
   10,R,D,G
-  12,D,G
+   4,D,G
+   8,G
    1,S,N
    9,O
    1,J
    1,D,J
   24,L,J
-  12,J
+  10,J
+   1,D
+   1
    2,G
    1
    1,G
-   4
+   1
+   1,L
+   1
    1,S,N
    9,O
    1,J
@@ -387,25 +402,25 @@ Read,D9A,Start,lvl_j-14
    1,L,J
   37,R,J
    5,R,D,J
- 102,R,U,J,G,AL
-   2,R,D,G
-   1,D,G
-  14,R,D,G
+ 101,R,U,J,G,AL
+  18,R,D,G
    1,R,G
-   2,R,D,G
- 407,R,U,G,AL
+   1,R,D,G
+ 409,R,U,G,AL
   17,R,D,G,AL
- 121,R,U,G,AL
+ 120,R,U,G,AL
   10,R,U,G
  135,R,U,G
   66,L,U,G
   37,R,U,G
    1,U,G
- 119,R,U,G
+   4,R,U,G
+   1,U,G
+ 114,R,U,G
 AnalogMode,Precise
   27,R,U,AL
- 119,AL,F,4.991
-   1,F,4.991,0.69
+ 119,AL,F,4.992
+   1,F,4.992,0.69
   10,R,U,G
    5,U,G
    1,R,U,G
@@ -421,27 +436,40 @@ AnalogMode,Precise
   38,U,G
    6,G
    1,L,G
-   4,R,J,G
-  44,U,J,G
-  23,R,U,K,G
+   2,R,J,G
+  10,U,J,G
+   1,R,U,J,G
+  28,U,J,G
+   7,R,U,J,G
+  22,R,U,K,G
+   3,U,K,G
+   1,R,U,K,G
    2,U,K,G
-   1,R,U,G
-   8,U,G
+   3,U,G
+   1,G
+   2,U,G
    6,G
    1,R,G
   16,L,U,J,G
-  17,U,J,G
+  12,U,J,G
    1,L,U,G
-  93,U,G
+   9,U,G
+   1,L,U,G
+  86,U,G
+   1,G
+   1,U,G
    6,G
    1,L,G
    3,L,U,J,G
    2,U,J,G
    1,L,U,J,G
-  56,U,J,G
+  53,U,J,G
+   1,G
+   1,U,G
+   1,G
    2,R,K,G
    5,R,G
-   1,R,J,G
+   1,R,K,G
    6,R,G
   12,R,J,G
    1,R,U,G
@@ -780,7 +808,7 @@ AnalogMode,Precise
    1,S,N
    1,D,J
   18
-ChapterTime: 18:48.647(66391)
+ChapterTime: 18:49.021(66413)
 
 #Let moon berry sfx play
  100

@@ -201,9 +201,9 @@ Read,D9A,lvl_f-01,Spinner cycle
 # ---------
 
 Read,D9A,9T,End_IGT
-#118x
+#117x
 
-ChapterTime: 17:33.286(61958)
+ChapterTime: 17:33.660(61980)
 
 # optional waiting for
 # visuals to play out

@@ -5497,14 +5497,21 @@ EndRepeat
    5,R,K
    1,R,J,G
    6,R,K,G
-   1,K
-  39,R,K
-  11,J
-   1
+   1,R,K
+  32,R,K
+   2,K
+   2,R,K
+   1,R,J,G
    1,L
-   8
-  18,L
-   1,L,D
+   1,R
+  12
+   1,J
+   1,K,G
+   9
+   8,L
+   1
+   6,L
+   2,L,D
    1,K
    2,J,G
   32,R,J
@@ -5521,9 +5528,9 @@ EndRepeat
    2
    1,R
    1,R,J,G
-   5,R
+   6,R
    1,R,J
-   8,R
+   7,R
   13,R,J
    1,K,G
    1,L,K

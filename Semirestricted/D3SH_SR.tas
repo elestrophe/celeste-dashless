@@ -128,7 +128,7 @@ Read,../Restricted/D3SH,lvl_0x-b (2),lvl_03-a
   40
 
 #lvl_04-b
-#1x
+#0x
    1,R,K
   26,R
    1,L
@@ -843,7 +843,7 @@ Read,D3A_SR,lvl_roof04,preroof06b
   40
 
 #lvl_roof06b
-#1x
+#0x
   48,R
  100
   13,L,J
@@ -872,7 +872,6 @@ EndStunPause
 StunPause
   12,R,J
 EndStunPause
-
    1,S,N
   10,O
    2,R,J

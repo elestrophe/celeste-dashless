@@ -1,4 +1,4 @@
-#3A 10x (SR)
+#3A 9x (SR)
 
 #StunPauseMode,Simulate
 
@@ -2940,73 +2940,105 @@ EndStunPause
    1,R,K,G
   11,R
 #preroof06b
-   1,R,J
-   7,R
+   9,R
+   2,L
+ 163
+  30,J
+   3
+   2,R
+  95
+   2,R
   40
 
 #lvl_roof06b
-#1x
-  91
-  28,R
- 105
-  20,L,J
-  25,R
-StunPause
-  25,R
-   1,R,J
-  14,R
-  10,R,J
-  32,R
-   8,R,J
-  19,R
-   1,R,J
-  16,R
-  14,R,J
+#0x
+  48,R
+ 100
+  13,L,J
+   5
+  40,L
   13,R
-  24,D
+StunPause
+  44,R
+  11,R,J
+  31,R,D
+   5,R,J
+  10,R
+  13,R
+   3,R,J
+   5,R
+  12,R
+  10,R,J
+   8,R
+   8,R
+   1
 SkipInput,3
-  14,D
+   3,L
+  12
    4,R
 EndStunPause
-  20,R,J
-   1,R
-  28,R,J
 StunPause
-  31,R
-SkipInput,3,1
-  15,R,U,X
+  12,R,J
+EndStunPause
+   1,S,N
+  10,O
    2,R,J
-EndStunPause
-StunPause
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   3,R,J
+   1,S,N
+  10,O
    1,R,J
-EndStunPause
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   4,R,J
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+  13,R,J
+   1,S,N
+  10,O
+   2,R,J
 StunPause
-  27,R,J
-   2,R
+  50,R,J
+   3,R,K
+  15,R
+   2,R,K
 EndStunPause
-  20,R,K
-   1,R
-   1,J,G
-   1,L
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   7,R
-   1,R,J
-   3,L
-  11,R
-   1,R,D,J
+  31,R,K
+  10,R,J,G
+  16,R,J
+   1,R,K
   18,R
-   1,R,D,J
-  14,R
    1,R,J
   14,R
    1,R,J
+  14,R
+  10,R
+   1,R,J
+   1,L
   40
 
 #lvl_roof06
 #0x
-   3,L
+   2,L
   11,R
    1,R,J
   14,R
@@ -3201,4 +3233,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 7:18.906(25818)
+ChapterTime: 7:24.159(26127)

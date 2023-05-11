@@ -1849,6 +1849,7 @@ Read,D3H,lvl_11-a,lvl_12-c
   14,L
   40
 
+#lvl_10-d
 Read,D3H,lvl_10-d,lvl_11-y
 #1x
 
@@ -2762,6 +2763,7 @@ Read,D3A,Rooftop,lvl_roof03
    6,R
   40
 
+#lvl_roof04
 Read,D3A,lvl_roof04,lvl_roof06
 #4x
 

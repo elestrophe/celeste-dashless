@@ -258,7 +258,7 @@ EndRepeat
   40
 
 #lvl_a-04
-#1x
+#2x
    4,R
    1,R,J
    2,R
@@ -4070,7 +4070,7 @@ EndStunPause
    8
 
 #CP-20
-#6x
+#5x
    1,S
    1,U
    1,F,0

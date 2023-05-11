@@ -1,4 +1,4 @@
-#4A 23x (SR)
+#4A 22x (SR)
 
 #StunPauseMode,Simulate
 
@@ -8,8 +8,71 @@ console load 4
 #Start
   69
 
-Read, ../Restricted/D4A, lvl_a-00, lvl_c-06
-#12x
+Read, ../Restricted/D4A, lvl_a-00, lvl_a-07
+#1x
+
+#lvl_a-07
+#2x
+   7,R
+   4,R,J
+  17,R
+  18,R,J
+  15,U,X
+   9,L
+  22,L,U,Z
+   2,L,J,G
+  10,J
+   5,K,G
+   1,R,K
+   1,L,K
+   1,J,G
+  11,R,J
+   7,R,D
+StunPause
+  41,R,D
+EndStunPause
+#optimal inputs
+#just resyncing to restricted
+#   9,L,J
+#   6,L
+#   1,L,J
+#  15,L,D
+  22,L,J
+  16,L
+  21
+  15,R,D,X
+   4,R,D,J
+   1,R
+   2,R,K,G
+   1,K
+   4,R,K
+   5,R
+   2,R,K
+   1,L,K
+   4,J,G
+   3
+   2,R
+   2,R,K
+   1,R
+   2,R,K
+   4,R
+   2
+   1,R,J,G
+   1,R,K,G
+   3
+   6,R
+   1,R,J
+   2,J
+   1,R,K,G
+   1,R,J,G
+  18,R
+   1,R,J
+   2,R
+   6,R,D,X
+  43
+
+Read, ../Restricted/D4A, lvl_a-08, lvl_c-06
+#8x
 
 #lvl_c-06
 #0x
@@ -118,4 +181,4 @@ EndStunPause
 Read, ../Restricted/D4A, lvl_c-09
 #11x
 
-ChapterTime: 4:08.047(14591)
+ChapterTime: 4:12.484(14852)

@@ -2386,7 +2386,7 @@ Set Session.Time 4247785240000
   40
 
 #lvl_boss-18
-#1x
+#0x
    7,R,D
   12,D
   27,D
@@ -2439,7 +2439,7 @@ Set Session.Time 4247785240000
   40
 
 #lvl_boss-19
-#2x
+#0x
    9,R
    1,R,J
   14,R

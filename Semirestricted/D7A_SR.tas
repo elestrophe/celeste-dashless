@@ -1,4 +1,4 @@
-#7A 106x (SR)
+#7A 105x (SR)
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
@@ -4524,7 +4524,7 @@ StunPause
   11,R,D
 
 #CP-12
-#1x
+#0x
    3,R,J
    1,J
    1,R,J
@@ -4532,46 +4532,48 @@ StunPause
    1,K
    1,R,J,G
    1,L,J
-  15,R,J
-   1,J
+  17,R,J
+   1
+   1,K,G
+   1,L,K
+   7,R,K
+   6,R,J,G
    1,R,J
-   1,R,J
+   2,J
+   1,R
+   1
+   1,K,G
+   5
 EndStunPause
-   1,K
-  19,R,K
-   1,K
-  15,L,J
+   1,R
+   3,L
+   8,L,J
 StunPause
-  10,L,J
-SkipInput,3,1
-  15,U,Z
-   1,R,J,G
-   4,L,J
-   6,R,J
-   1,J
+   6,L,J
+   1,R,J
+   9,J
+   1,G
+   1,J,G
+   1,L,J
+   3,R,J
+   7,R,K,G
+   1,K
+   1,R,K
+   4,K
+   5,J,G
+   9,R,J
+   1,R,K,G
+  11,R,J,G
+SkipInput,3
+  12,R,J,G
    1,K,G
    2,R,K
-   1,K
-   8,R,K
-   8,R,J,G
-   5,R
-   2,R
-SkipInput,3
-   3,R
-   2,R,J
-   1,R
-   2,R,J
-   1
-   1,R
-   3,K
+   6,K
+   1,L,K
    1,R,K
-   5,K
-   1,R,K
-   2,K
-   2,J,G
+   3,R,J,G
    1,L,J
-   1,K
-  16,R,J,G
+  13,R,J
    1,K
 EndStunPause
   25,R,K
@@ -4826,38 +4828,40 @@ EndStunPause
    1,L,K
    1,R,K
   13,R,J,G
-   1,K,G
+   2,R,K,G
+  10,K
+   3,J,G
    1,K
-   1,K
-   1,J
-  11,K,G
-   1,L,K
   40
 
 #lvl_g-03
 #CP-05
 #1x
-  10,R
-   1,L
+   5,L,J
+  11,L
+   1,L,K
+   5,R,K
+   8,R
+StunPause
+  11,R
+   1,R,J
+  16,R
+   1,R,J
+   3,R
+   1
+   3,R
+   2,R
+   1,R
    1,R
    3,R
-StunPause
-  17,R
-   1,R,J
-  17,R
-   1
-   2,R,J
+   3,R,J
    1,R,K,G
-   3,R,J,G
+   2,R,J,G
    4,R
-   1,R,K,G
-   6,K
-   3,R,K
-   1,R
-  12,R
-   1
-   4,J
-  10,R,J
+   7,R,K,G
+   7,R
+   1,J
+  12,R,J
    1,K
 EndStunPause
    3,R,K
@@ -4969,10 +4973,12 @@ EndRepeat
   11,F,269.9
   26,L,U
    2
-Repeat,1869
+Repeat,1812
    1,G
    1
 EndRepeat
+   2,G
+   1
    1,K
    9,L,J,G
    5,L
@@ -5220,4 +5226,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 24:07.516(85148)
+ChapterTime: 24:07.686(85158)

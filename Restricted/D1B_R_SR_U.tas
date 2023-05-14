@@ -1,4 +1,4 @@
-#1B 5x (R/SR/U)
+#1B 4x (R/SR/U)
 
 console hard 1
    1
@@ -580,50 +580,157 @@ endrepeat
    8,R
    4,R,K
    1,R,J,G
-  51,R,K,G
-  16,R,D
-   1,D,X
-  14,R,X
-  22,R,D
-  20
+   7,R,K,G
+   5,R
+   8,R
+   1,R,K
   10,R
-   3,R,J
+   1,R,G
+   1,R,J,G
+   2,R,K,G
+   8,R
+   1,R,K
+   1,R
+   1,R,K
+  15,R,D
+   1,D
+   1,R,D
+  16,L,D
+  14,L
+   1,J
+  20,L,J
+   1,J
+   3,L,J
+   1,L
+   1,J
+  19,G
+#Set,Player.Y,-2334.3
+   1,R,J
+  33,R,K
+  15,R,D,X
+  10,R
+   1,G
+   1,R,J,G
+   2,R
+   4
+   1,L
+   2,R,K,G
+   1,K
+   1,R,K
+   8,K
+   8,R
+   8,R,J
    1,R,K,G
-  27,R
-  20,L
-  30,R,K
-  17,R,D
-  30
-   4,L
-   8,J
-  10,R,K,G
-  22,R
+   2,R,J,G
+   1,J
+  22,R,D
+  15,L,D
+   1,D
+   1,L,D
+  36,R,J
+   9,R,D
+   4,R,J
+   1
+   2,R
+   6,K
+   9
+   1,K
+   3
+   1,L,J
+   7,R,J
    1,R,K,G
    1,R,J,G
+   3,J
+   3,R,J
+   1,J
+   4,R,J
   14,R
+   6,R,J
+   1,R
    1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   7,R
+   1,R,J
+   6,R
   40
 
 #lvl_11
-#1x
-  16,R
+#0x
+   1,R
+   1
+   6,R
+   1,R,D,J
+   4,L,J
+   7,L
+   1,K,G
+   1,R
    1,J
-  57,L,U,J,G
-  12,L,K
+  10,L,J
+   7,L
+   2
+   1,K
+  10,J,G
+   1,R
+  14,L,K,G
+   1,L,J,G
+   4,L,K,G
+   5,L
+   1,L,K
+   2,K
+   1,J,G
+   5
+   1,L
+   4
+   7,R
+  33,R,J
+   1,G
+   1
+   1,G
+  11,K,G
+   1,R
+   1
+   1,R
    1,J
-  25,L,J
-  18,L,K,G
-  20,R,J
-  24,R,K
-  15,U,X
-   5,R,J
-  24,L,J
-   8,L,K,G
-   8,L
-  17,R
-  32,R,K
-   2,L,K
+   7,K,G
+   1,L,K
+   1,K
+  25,R,J
+   3,R
+  17,G
+   1
+   1,J
+   6,K,G
+   4
+   1,L
+   1
+   1,L
+   1,R
+   1
+   1,K
+   1
+   4,R,J,G
+Repeat,3
+   1,L,J
+   1,R,J
+EndRepeat
+   2,R,J
+   1,L,J
+   2,K,G
    1,R,K
+  32,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   7,R
+#lazy resync
+  14,R,J
+   1,J
+   5,R,J
+  13,R
    8,R,J,G
   20,R
   35,R,J
@@ -724,4 +831,4 @@ endrepeat
    1,K
   20,L,J
  150,L,U,X
-ChapterTime: 1:40.640(5920)
+ChapterTime: 1:42.612(6036)

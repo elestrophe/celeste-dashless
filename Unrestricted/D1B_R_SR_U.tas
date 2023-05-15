@@ -151,212 +151,280 @@ Repeat,3
   11,R,K
 EndRepeat
    1,R,K
-   3,R,J,G
+   1,R,J,G
+   2,J
    1,K
   40
 
 #lvl_02b
 #0x
    1,R
+   1,R,J,G
+   1,R
+   1
+   6,R
+   1,R,J
+   8,R,K
+   4,R
+   2
+   1,L
+   1,R,J,G
+   3,L,J
+   2,J
+   1,L,J
+   1
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+   1,K
+   3,R,K
+   7,R
+   6,R,J
+   4,R
+   1,R,K,G
+   6,R
+   1,R,K
+   1,R
+   1,R,K
+  24,R,D
+   1,G
+   1,R,J,G
+   1,R,K,G
+  10,R
+   2
+   1,R,D,K
+   1,K
+  10
+   2,L,G
+   1,L,J,G
+   3,R,J
+   2,L,J
+   1,L
+   1,K
+   1,J,G
+   1
    1,R,K,G
    9,R
-  12,R,J
-   7
-   1,R,G
-   3,R,J,G
-   2,L,J
-   1,R,J
-   1,R,K,G
-   1,J,G
-   2,R,J
-   3,R
-   2,R
-   4,R,J
-  12,R,K
-   3,R,J,G
-   1
-  32,R,D
-   1,R,G
-   3,R,G
-   1,K,G
-   1,J,G
-  20,R,J
-   2,R
-   1,L,D
-   1,J,G
-   9,L,K,G
-   1,J
-   2,K,G
-   1,R,J,G
-   5,R
-  24,R
-   6,L,D
-   1,L,U,G
-   1,K,G
-   5,L,K
-   4,K
-   5
-   1
-   1,R,J
-   1,R
-   1,R,J
-   1,R,J
-   1,R
-   1,R
-   1,R
-   3,R,D
-   7,R,J,G
-   1,R
-  13,R,K
-  11,R,J
    1,R,K
-  12,L,J
-   6,K,G
-   2,R,K
-  12,R,J
-   1,R,K,G
+  17,R,D
+   1,D
+   4,R,D
+   1,D
+   1,L,J,G
+   5,L
+   1
+   2,J
+   1,L
+   2,J
+   1,R
+   1,D
+   1,L
+   4,G
+   1,R,J
+  23,R,K
+   1,R,J
+  11,R,K
    1,J
+   6,L,J
+   5,J
+   4,K,G
+   1,L,K
+   4,K
+   1,J
+   7,K,G
+   5,R,K
+   2,R,J,G
+   1,K
   40
 
 #lvl_03
 #0x
-   4,R
-   1,J,G
-   7,R,J,G
-   1,L,J
-  12,L,K,G
-   7,J,G
-   2,R,J
-  20,R,K
-   1,L,J,G
-  20,L,G
-   1,R,K
-   6,R
    3,R
    1
-   3,K
-   4
-   1,J
-   1,L,K,G
-   5,R,K
+   1,J,G
+   7,R,J
+   3,L,J
+   3,K,G
+   1,L,K
    1,R
+   1,L
+  13,L,J,G
   19,R,K
-   1,R,G
-   6,R,K,G
-   9,R
+   1,L,K
+   1,L,J,G
+   5
+   2,L
+  25,G
+   1
+   1,J
+   4,K,G
+   1,L,J,G
+   8,R
+   1,R,J
+   1,R
+   1,R,J
+   6,R
+   1
+   1,J
+   1,L,J
+   2,J
+   1,L,J
+   1,J
    1,R,K
+   7,R
+   1,R,J
   14,R
-   1,R,K
-  14,R
+   2,R,J
+  15,R
   40
 
 #lvl_04
 #0x
-   1,R,K
-  14,R
-   1,R,K
-  14,R
-   5,R,J
-   1,R
-   6,R,J
-   3,R
-   1,R,J,G
-   1,R,K,G
-  14,R
-  12,R,J
-  10,K,G
-   2,L,K
-   3,J,G
    1,R,J
-   1,R
-  10,R,K
-   1,R
+  14,R
+   1,R,J
+  14,R
+   6,R,J
+   5,R
+   2,R,J
+   4,R
+   1,L
    1,R,J,G
    5,R,K,G
-   1,R
-  27,R,K
-   1,R,J
+  16,R
    7,R
-   9,R
-   2,K,G
-   1,L,K
-   5,R,K
-   3,R,J,G
-repeat 3 
-   1,L,J
-   1,J
-endrepeat
-   1,K
-  23,R,K
-   2,R
-   1,R,J,G
-   9,R,D
-   1,R,J
-   5,R,D
+   9,L
+  11,R,J
+  10,R,K,G
+   5,R
    1,R,K
-  23,R,D
-   2,R
-  21,R,J
-  10,L,K
-   4,J
-   3,R,J
+  21,R,D
+   1,D
+   1,J
+   2,R,J
+   4,R
+   1
+   8,R
+   1,K,G
+   1,L
+   1,R
+   7,R,J,G
+   2,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+  16,R,J,G
    1,R,K,G
-   1,R,J,G
+  15,R
+   1,R,J
+   5,R
+   3,R,J
+   1,R
+   3,R,J
+  12,R,D
+   1,R
+  20,R,K
+   1,J
+   4,L,J
+   1,L,J
+   1,L,K,G
+   1,K
+   1,J
+   8,K,G
+   1,R,K
   40
  
 #lvl_05
 #1x
-  57,R,U,G
-   6,R,J,G
-  15,R,D
-  18,L,D
-   3,D
-   7,R,D
-   4,D,X
-  35,R,X
-   7,R,J,G
-  31,R,U,G
-  12,J,G
-  40,R
+   1,R
+  12,R,J,G
+   6,R
+   1,L
+   2,R,J,G
+   3,J
+   5
+   2,R
+   1,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   4,R
+   1
+   1,R,D,J
+   3,J
+   7,R,J
+   1,R
+   1,K,G
+   4,R
+   1
+   1,R
+  11,L,D
+   9,R,D
+   1,L,D
+   1,D
+   5,R,D
+  38,R,Z
+   1,G
+   4,J,G
+   7
+  26,U,G
+  10,J,G
+   1,L,J
+  40
  
 #lvl_05b
 #1x
-   2,L,J,G
-   6
-   1,R
-   5,L
-   1,R
+   1,K,G
+   8
+   1,L
    1
-   3,D,J
-   1,R,D,J
-   1,L,D,J
-   6,D,J
-   1,L,D,J
-   9,D,K,G
-   1,R,D
-   1,L,D
-   1,D,J,G
-  28,R,D,J,G
+   1,L
+   1,D,K
    2,R,K
-   5,R
-  30,R,J
-  21,L,D
-  30,R,J
-   1,D,X
-  13,R,U,X
-  30,R,J
-  21,L,D
-   3,R,D
-   1,D
-   1,R,D
-   1,D
-   2,R,J
-  18,R,K
-   4,L,J,G
-   9,L
+   2,L,K
+   1,R,K
+   1,L,K
+   4,K
    1
+   9,J,G
+   1,R
+   1,L
+   1,K,G
+  28,R,K
+   2,J
+   2,R
+   2,L
    1,J
-  20,R,K
+   5,K,G
+   6,R
+   2,R,J,G
+   6,R
+   1,R,J
+   1
+  14,R,D
+   1,G
+  39,R,J,G
+  18,R,Z
+   3,L
+  11,L,J,G
+   2,J
+   1,K,G
+   1
+   1,R
+  20,R,J
+   1,L,J
+   1,L
+   3,L,K,G
+   1,L
+   4
+   1,L,J,G
+   1,L
+   1,J
+   2,K,G
+  18,R,K
   12,R,J
   12,L,K
   12,R,J
@@ -830,4 +898,4 @@ EndRepeat
    1,K
   20,L,J
  150,L,U,X
-ChapterTime: 1:42.612(6036)
+ChapterTime: 1:40.929(5937)

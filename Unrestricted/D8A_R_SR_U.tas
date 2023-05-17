@@ -1,4 +1,4 @@
-#8A 23x (R/SR/U)
+#8A 22x (R/SR/U)
 
 console hearts 4
 console load 9
@@ -1707,71 +1707,67 @@ console load 9
   12,R
    1,R,J
   17,R
-  32,L
-  20,R
-  12,R,J
-  12,R,K,G
+  25,L
+  15,R
+  11,R,D,J
+   1,R
+  11,R,K,G
+   1,R
   10,R,J,G
    6,R
    1,R,K,G
    1,R,J,G
-  10,R
-   1,R,J
-   5,R
+   1,R
+   1
+   3,R
+   3,R,J
+   3,R
+   1,R,D,J
+   4,R
   40
 
 #lvl_d-10b
-#3x
-  18,R
+#2x
+  11,R
    1,R,J
-  44,R
-   5
-  10,R
-  16,R,J
-  47,R
-  15,R,U,Z
+  25,R,D
    4,R
-   2,L
-  12,L,J,G
-   9,R,K
-  28,R
-   3,R,D
+   1,R,D
    2,G
-  18,R,D
-  13,R,U,X
-  10,R,J
-   2,R
-   1,R,K,G
+   5,R,X
    1,R,J,G
-  12,R
-   1,R,J
-  10,R
-  67
-  12,R
-   1,R,J
-  25,R
-  13,R,D,G
-   1,R,D,J,G
-  24,R,J
-  14,U,X
-   1,J
-  35,R,J
-   8,J
-  12,R,J
+   2,R,K,G
+   1,R,J,G
    1,R,K,G
-  10,R,J,G
-   4,R
-  29,L,G
-   4,J,G
-  11,K,G
+  12,R,D
+  20,R,K
+   1,R
    1,R,K
-   1,R,J
-  80,R,K
+   1,R
+   2,R,K
+   8,R
    4
-  11,R,J
-   9,L,D
-  32,R
-  10,K
+   1,R
+  14,R,U,X
+   1,L,J,G
+  15,R
+   1,R,K,G
+   2
+   4,R
+  11,R,K
+   8,R,D
+   1,D
+   1,R,D
+   7,D
+  22,L,D
+   2,D
+   1,L,D
+  14
+   9,D
+   1
+   1,D
+  34,R
+   8,K
   14,J
    6,R,K,G
    1,R,J,G
@@ -1985,4 +1981,4 @@ console load 9
   15,R,X
    6,R
  135,R,D
-ChapterTime: 5:43.570(20210)
+ChapterTime: 5:36.090(19770)

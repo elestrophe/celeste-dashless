@@ -1,4 +1,4 @@
-#8C 12x (R)
+#8C 11x (R)
 
 console hearts 23
 console rmx2 9
@@ -8,80 +8,92 @@ console rmx2 9
   61
 
 #lvl_intro
-#1x
+#3x
    6,L,Z
    1,R,J
    7,R
   28,R,J
- 260
-  10,L
-   8,R
-  10
-   9,D,J
-  11,R,D,J
-   1,R,K,G
-   6,R,J,G
-   6,R
+ 287
+  12,J
+   3,K,G
+   2,J
+   5,R,Z
+   2,R,K,G
+   1,K
+   2,R,K
    1,R,J
-  26,R,D
-  14,R
-   4,R,J
-   2,L,J
-   2,R,J
-   2,R
-   1,R,K,G
-   1,R,J,G
-  10,R
+   1,R,K
+   1,R,J
+   7,R
    3,R,J
-   3,R
+   9,R,D,X
+   4,R,K,G
+   2,R
   40
 
 #lvl_00
-#3x
+#0x
    4,R
-   1,R,J
-   6,R
-  13,R,D,X
-  12,R,J
-   4,R
+   2,R,J
+  16,R
+   5,R,K
+   5,R
+   6,R,K
+   1,R
+   2,R,K
+   8,R
+   7,R,J
+   5,R
    3,R,J
-   7,R
-   1,R,D
-   3,R
-  12,R,J
-   4,R
-  21,R,J
-  14,R,Z
-  24,R,J
-  14,R,D,X
-  14,R,J
+   1,R
+   4,R,J
   12,R
+  12,R,K
+   6,R
+  18,R,K
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   7,R
    1,R,J
    9,R
   40
 
 #lvl_01
 #3x
+   6,R
+   8,R,J
    5,R
    1,R,J
-  20,R,D
-  39,L,D
-   3,J
-  28,R,J
-  15,R,Z
-  32,L,U,G
-  21,L,G
+  22,R,D
+   8,R
+  14
+   8,R
+   3,R,J
+   1,J
+   8,R,J
+  13,R
+  16,R,Z
+   1,L
+  14,D,J
+   2,J,G
+   3,L,D,J
+   7,L,D
+  20,G
    6,R,J
   15,R,D
-  15,D
-  17,R,D
+  14,D
+   3,R,D
+   1,D
+  13,R,D
   26
   15,R,J
   24,R,D
   14,L
    2
-  18,L,G
-  14,L,U,G
+  18,G
+  14,U,G
   40,R,J
   15,R,U,Z
    1
@@ -122,7 +134,10 @@ console rmx2 9
 
 #lvl_02
 #5x
-  99
+  98
+#Spinner cycle 0-1
+   0
+#-----------------
    5,R
    1,R,J
   14,R
@@ -194,4 +209,4 @@ Repeat,9
    1
 EndRepeat
   17
-ChapterTime: 0:31.960(1880)
+ChapterTime: 0:30.447(1791)

@@ -116,69 +116,36 @@ console load 10
    2,R,J
    5,R
    1,R,J
-  10,R
-   1,R,N
-   2,J
- 279
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-  12
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-  80
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-  84
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-   2
-   1,O
-   5
-   1,O
-  50
-   1,O
-   5
-   1,O
-  50
-   1,O
-   5
-   1,O
-   2
-   1,O
+   5,R
+   5,L
+   1,L,N
+   2,L,J
+ 273
+Repeat,4
+   6,J
+   3,O
+EndRepeat
+  10,O
+   6,J
+   3,O
+   6,J
+  81,O
+Repeat,3
+   6,J
+   3,O
+EndRepeat
+  82,O
+Repeat,3
+   6,J
+   3,O
+EndRepeat
+  48,O
+   6,J
+  51,O
+   6,J
+   3,O
    1,J
- 292
+ 299,O
    1,S,N
    1,D,J
   34
@@ -227,8 +194,7 @@ console load 10
   24,R,J
   15,U,X
   15,R
-  15,R,X
-   6,R
+  21,R,C
   19,L,D
   19,D
    1,L
@@ -343,8 +309,7 @@ console load 10
    1,J
    8,R,J
   22,R,X
-  15,R,C
-   4,R
+  19,R,C
    1
   31,R,D
    9,R
@@ -439,8 +404,7 @@ console load 10
   11,L,D
   39,R,D
   11,L,D
-  15,R,X
-  10,R
+  25,R,X
    8,D,G
    1,G
    1,D,G
@@ -497,8 +461,7 @@ console load 10
    1,R,D
   27,R,J
   12,R,D
-  15,R,Z
-  15,R
+  30,R,Z
   10,R,D
    1,R
    3,R,D
@@ -669,7 +632,7 @@ EndRepeat
 
 #lvl_b-05
 #2x
-   2,R,J
+   2,R,K
    6,R
   11,R,J
   25,R
@@ -704,8 +667,7 @@ EndRepeat
    1,R,J
   16,R,D
    4,L,D
-  15,L,D,X
-   1,L,D
+  16,L,D,X
    1,L
    7,L
   28,D
@@ -727,8 +689,7 @@ EndRepeat
   13,R
    2
   27,R,J,G
-  15,R,U,X
-  24,R
+  39,R,U,X
   12,R,D
    2,D
    1
@@ -768,12 +729,9 @@ EndRepeat
    2,J,G
   21,R,J
    1,R
-  18,R,X
-  10,R
-  15,R,U,X
-  17,R
-  15,R,X
-  17,R
+  28,R,X
+  32,R,U,C
+  32,R,X
    7,R,D
    1,R
    6,R,D
@@ -784,10 +742,8 @@ EndRepeat
    5,L
    2,L,J
    8,L
-  18,L,U,Z
-  14,L
-  15,L,X
-  14,L
+  32,L,U,Z
+  29,L,X
    5,L,D
    8,R,D
   37,R,Z
@@ -971,8 +927,7 @@ EndRepeat
    5,R
    9,R,J
    6,R
-   5,R,J
-   5,R,J
+  10,R,J
   27,R,K
   24,R,U,K,G
   73,R,U,G
@@ -1261,7 +1216,7 @@ EndRepeat
    1,R,D
   17,R,G
    4,L,G
-   1,D
+   1,L,D
   23,L,J,G
    1,L,D,J
   16,L,J,G
@@ -1277,7 +1232,7 @@ EndRepeat
    7,R,C
   12
   19,R
-  33,R,G
+  33,R,U,G
    6,R,D,G
    1,R,G
    9,R,D,G
@@ -1865,7 +1820,7 @@ EndRepeat
    1,R,U,G
    8,R,U,J,G
   48,R,U,G
-   1,L,U,G
+   1,U,G
    1,R,U,G
    5,R
    1,R,J,G
@@ -1884,8 +1839,7 @@ EndRepeat
    1,D,J
   69,O
    6,R,J
-   5,L,D,X
-  11
+  16,L,D,X
    6,J
    2,J,G
    2,R,J
@@ -2060,8 +2014,7 @@ EndRepeat
    1
   16,L
   41,L,J
-  15,L,U,X
-  28,L
+  43,L,U,X
    3,L,D
    7
   45,R,D
@@ -2113,8 +2066,7 @@ EndRepeat
    4,K
    1
   15,U,X
-  13,G
-  43,R,G
+  56,R,G
   16,R,D,G
    1,R,G
    2,R,D,G
@@ -2128,8 +2080,7 @@ EndRepeat
    1,J
    2
   11,U,X
-  13,G
-  30,L,J,G
+  43,L,J,G
 Repeat,6
    1,K,G
    3,J,G
@@ -2158,8 +2109,7 @@ EndRepeat
    2,L
    1,R
    3,J,G
-  13,G
-   8,J,G
+  21,J,G
    1,R,J,G
   38,L,G
    2,L,D
@@ -2248,7 +2198,6 @@ EndRepeat
   29,L,J,G
   11,L,K,G
   22,R,D,J
-
   15,R,U,J,G
    1,U,J,G
   29,R,U,G
@@ -2583,8 +2532,7 @@ EndRepeat
    1
    1,R,J
    1,R
-  13,G
-  25,R,D,G
+  38,R,D,G
   41,R,U,G
   18,R,D,G
    1,R,G
@@ -2600,7 +2548,6 @@ EndRepeat
    5,R,D,G
    7,R
   14,R,U,Z
-
   46,R,D,G
    1,L,D,G
   19,D,G
@@ -2685,8 +2632,7 @@ EndRepeat
    2,D
   10,R,D,J
   12,J
-  13,G
-  12,R,D,G
+  25,R,D,G
   10,D,G
   36,G
    6,R,G
@@ -2911,12 +2857,10 @@ EndRepeat
   14,R
    1,R,J
   13,R
-   5,R,J
-   4,R,J
+   9,R,J
   47,R,K
   36,U,X
-  24,R,C
-   9,R
+  33,R,C
   21,D,X
    9,R,D
    2,R
@@ -3350,7 +3294,7 @@ EndRepeat
    5,R,J
    1,J
    1,R
-   1,R,J
+   1,R,K
   15,R
   40
 
@@ -3760,12 +3704,10 @@ EndRepeat
    1,G
    3,L
    1
+Repeat,3
    1,L
    1
-   1,L
-   1
-   1,L
-   1
+EndRepeat
    1,K
   31,R,D
    1,R,J
@@ -3783,8 +3725,7 @@ EndRepeat
    1,R,J
   10,L,J
    3,L,K,G
-   2,K
-   1,K
+   3,K
    1
    7,R
    1
@@ -3803,13 +3744,11 @@ EndRepeat
    3
    2,L
    2,R
-   1
-   1
+   2
    1,L,D,J
    3,R
   11
-   1,D,J
-   2,J
+   3,D,J
    1,R,J
    5,R
    1,R,J
@@ -3892,7 +3831,7 @@ EndRepeat
    1,J
   12,R,K
    5,R
-   1,R,J
+   1,R,K
    1,R
   15,L
   10,L,D
@@ -3911,8 +3850,8 @@ EndRepeat
    1
    1,R,J
    5,R
-   1,R,J,G
    1,R,K,G
+   1,R,J,G
    1,R
    1
    7,R
@@ -4005,12 +3944,9 @@ EndRepeat
    1,K
    1,R,J,G
   17,R,D
-  54
-   3,L
-   2
-   1,L
-   2
-   1,L
+  58
+   4,L
+   1
    5,L,J
    5,L
   23,L,J
@@ -4042,7 +3978,7 @@ EndRepeat
 AnalogMode,Precise
   27,R,U
  154,F,61.017
- 112,F,17.23
+ 112,F,17.230
   18,F,342.222
   39,F,355.579
   24,F,18.355
@@ -4228,8 +4164,7 @@ EndRepeat
    1
    2,L
   28,R
-  15,U,X
-   4
+  19,U,X
    7,L
    1
    1,L
@@ -4274,7 +4209,8 @@ EndRepeat
    3,L,K
    4,R,K
    1,R,J,G
-   3,R,K,G
+   1,R,K,G
+   2,K
    1,J
   40
 
@@ -4443,11 +4379,10 @@ EndRepeat
    8,R
    1,R,J
    6,R
-  15,R,Z
-  17,R
+  32,R,Z
    3,R,D
    1,R
-  15,R,Z
+  15,R,V
    9
   15,R,Z
   17,L
@@ -4576,10 +4511,8 @@ EndRepeat
    1,R,J
    3,L,J
    1,R,J
-   1,L,J
-   5,L,J
-   1,J
-   5,J
+   6,L,J
+   6,J
    2,K,G
    2
    2,J
@@ -4640,16 +4573,16 @@ EndRepeat
    6,L,D
    1,L
   14,L,D
-   1,R,D
+   1,D
    1,L,D
    5,R,D
    7,R,K
    1,K
   10,R,K
-   8,L,K
+   8,K
    3,R,K
    4,R,J
-   1,L,J
+   1,J
    1,R,J
   46,L,J
   14,L,K
@@ -4798,8 +4731,7 @@ EndRepeat
    2
    1,J
    9,L,J
-   1,K,G
-   1,K
+   2,K,G
    5,R,K
    1,L,J,G
    3,J
@@ -4817,7 +4749,7 @@ EndRepeat
    1,K,G
    4,R
    2
-   1,J
+   1,K
    5
    1,R
    1
@@ -4841,7 +4773,7 @@ EndRepeat
    5,R,J
    1,K
    1,L,K
-  11,K
+  11,R,K
    1,R,J,G
    3,R,K,G
    6,R
@@ -5103,9 +5035,9 @@ EndRepeat
    9,R
    1,R,J
   16,R,D
-   1,R,J
+   1,R,K
    9,R
-   1,R,J
+   1,R,K
    8,R
    5,R,J
    1,R,K,G
@@ -5178,13 +5110,13 @@ AnalogMode,Precise
    2,R
    1,R,J
    2,R
-   1,R,J,G
    1,R,K,G
+   1,R,J,G
    1,R
    4
    3,R
-   1,R,J,G
    1,R,K,G
+   1,R,J,G
    1,R
    1
    8,R
@@ -5193,13 +5125,13 @@ AnalogMode,Precise
    4,R,J
    1,J
    4,R,J
-  12,R
-   3,R
+  15,R
    1,R,K,G
-   6,R,J,G
-   5,R
+   7,R,J,G
+   4,R
    1
-   7,R
+   1,R,J
+   6,R
   10,R,J
    5,R,K
    1,R,J,G
@@ -5219,8 +5151,7 @@ AnalogMode,Precise
   23,R,D
   44,R,J
    1,R,K,G
-  12,R,J,G
-   4,R,J
+  16,R,J,G
    1,J
    1,R,J
    2,R
@@ -5239,7 +5170,9 @@ AnalogMode,Precise
    6,R,D
    1,R,K,G
    1,R,J,G
-   9,R
+   1,R
+   1
+   7,R
    6,R,J
   15,R
    1,R,D,J
@@ -5253,8 +5186,7 @@ AnalogMode,Precise
    2,R
   13,L,D
    1,D
-  19,L,D
-   1,D
+  20,L,D
    1,K
    2,J,G
   27,R,J
@@ -5414,7 +5346,6 @@ Repeat,16
    1,L,D
    1,R,D
 EndRepeat
-   1,L,D
    2,R,J
    1,J
    2,R,J
@@ -5425,14 +5356,11 @@ EndRepeat
    2,R,K,G
    1,K
    1,R,K
-   6,K
-   1
+   7,K
    1,R
-   3
-   2,J
-   1
-   1,J
-   3
+   8
+   1,K
+   2
    3,L
    8,R
    1
@@ -5450,12 +5378,16 @@ EndRepeat
    3,D
    1
    1,D
-  54,R,J
-   1,G
-   1
+   2,J
+  51,R,J
    1,J
-   7,R,K,G
-   9,R
+   1,K,G
+   1,L
+   1,J
+   5,R,K,G
+   5,R
+   3,R,K
+   3,R
    1,R,J,G
    1,R,K,G
    1,R
@@ -5465,9 +5397,10 @@ EndRepeat
    8,R
   13,R,J
   24,R,K
-   2,R,J,G
-   1,L,J
+   1,J,G
+   1,R,J
    4,J
+   1,L,J
    1,K
   16,R,J,G
    1,R,K,G
@@ -5557,8 +5490,7 @@ EndRepeat
    1,J
    2,K,G
   28,R,K
-   1,R
-  20,R
+  21,R
    2,R,D
    1,K,G
    2,R
@@ -5623,8 +5555,7 @@ EndRepeat
    5,R
    3,R,J
    4,R
-  10
-   1
+  11
    2,D
    1,L,D
   25,R,J
@@ -5752,16 +5683,16 @@ EndRepeat
   13,R,D
    1,J
   24,L
-   1,J
-  25,L,J
-  29,R,K
-   4,R,D,J
-   5,L,J
+   1,K
+  25,L,K
+  29,R,J
+   4,R,D,K
+   5,L,K
    8,L
-   4,L,J
-   4,R,J
-   1,L,J
-   2,R,J
+   4,L,K
+   4,R,K
+   1,L,K
+   2,R,K
    3,R
 Repeat,3
    1,L
@@ -5773,8 +5704,7 @@ Repeat,17
    1,L,D
 EndRepeat
    1,J
-  16,L,J
-   3,L,J
+  19,L,J
    4,J
   19,D
    1,K
@@ -5816,10 +5746,9 @@ EndRepeat
   14,R,X
   15,R,J
    2,J
-   1,R,K,G
-   1,L,K
-   2,K
-   2
+   4,K,G
+   1
+   1,L
    1,J
   16,R,K,G
    1,R,J,G
@@ -5863,7 +5792,7 @@ EndRepeat
   13
    1,J,G
    7
-   6,J,G
+   6,K,G
    2
    1,R
    1
@@ -6029,7 +5958,8 @@ EndRepeat
   18,R,D,G
    1,R,G
   33,R,D,G
-  25,R,G
+   1,R,G
+  24,R,G
   18,R
    1
    1,R
@@ -6106,8 +6036,7 @@ EndRepeat
    1,L,D,X
   12
    9,R,J
-  13,G
-  26,R,D,J,G
+  39,R,D,J,G
   45,R,D,G
    4,R,J,G
    6,R,D,G
@@ -7018,8 +6947,7 @@ AnalogMode,Precise
    5,D,G
    1,G
    1,D,G
-   6
-  12,G
+  18,G
   44,R
    7,R,D,G
   29,R,D,G
@@ -7037,7 +6965,7 @@ AnalogMode,Precise
   42,R,D,G
   10,L,D,G
    5,L,D
-   1,L,G
+   1,G
    6,L,K,G
    1,J,G
    1,L,K,G

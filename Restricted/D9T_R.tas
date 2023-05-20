@@ -62,8 +62,7 @@ Read,D9A,Start,Post-Heart
   14,R,U,X
    1,R,J,G
    5
-   2,R
-   2,R
+   4,R
    1
    5,R,J
    5,R
@@ -126,8 +125,7 @@ Read,D9A,Start,Post-Heart
    3,R,J
   11,R
   30,U,X
-  24,R,C
-   9,R
+  33,R,C
   21,D,X
    9,R,D
    2,R

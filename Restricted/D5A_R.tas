@@ -1,4 +1,4 @@
-#5A 17x (R)
+#5A 16x (R)
 
 console load 5
    1
@@ -1540,17 +1540,228 @@ AnalogMode,Ignore
   54
   40
 
-#lvl_d-01
+#lvl_d-01 (0)
 #0x
   57
    1,J
-  16,L,D
+  16,R,D
+   1,R,J
+  18,R
+   1,R,J
+  15,R
+   2,R,J
+   5,R
+   2,R,J
+  15,R,D
+   1,R
+   1,R,D
+  20,R,J
+   2,K
+   1,R,J,G
+  11,J
+   1,L,K
+  11,L,J
+  11,R,K
+  12,J
+   6,K,G
+   1,L,K
+   1,J
+  16,R,K,G
+   1,R,J,G
+   2,R,K,G
+   1,K
+   1,R
+   4,R
+   2,R,K
+   4,R
+   1
+  13,R
+   1,R,J,G
+   2,R,K,G
+   1
+  10,R
+   2,R,J
+  34,R,D
+  19,L,D
+   8,L,J
+   8,L
+   1,L,J
+   1,L
+   1,L,J
+   7,L,D
+  28,R,D
+   1,R,J
+  14,R
+   1,R,J
+  11,R,D
+  26,L,D
+   1,L,J
+   7,L
+   1,L,J
+  12,L,D
+   7,R,D
+  58
+
+#lvl_d-07
+#0x
+   9,R,D
+  13,L,D
+   1,D
+   1,L,D
+#desperately needs optimization
+   2,L,J,G
+   3,J
+   5,K,G
+   8,L,K
+   1,J,G
+   1,R,J
+   1,R,K
+  11,R,J
+   3,K,G
+   1,J
+   5,K,G
+   6
+   2,L
+   4,L,D
+  25,G
+   1,U,G
+  14,R,D
+   9,D
+   6,R
+   1,J
+   1,L
+  12,R,D
+  22,D
+  54,L,G
+   4,R,J
+   6,R
+   2,R,J
+   8,R
+  26,L,D
+   1,L,D
+  21,L
+   1,L,J,G
+  10,L,K,G
+   5,J
+   7,L,K,G
+  12,R,J
+  15,K,G
+   1,L,K
+   1,R,J,G
+   6,L,J
+   2,J
+  58
+
+#lvl_d-01 (1)
+#0x
+   9,R
+   1,R,J,G
+   2,R,K,G
+   1,K
+   1,J,G
+  10,R,J
+   4,R
+   1,R
+   1,R
+   1,R
+   1,R,K
+   9,K
+   1
+   1,J,G
+   1,R,J
+   6,J
+   2
+   1,K
+   1,J,G
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,L
+   1
+   7,L
+   1,L,J
+  14,L
+   4,L,K
+   1,J,G
+  10,L,J
+   1,R,J
+   6,K
+   7,L,J,G
+   4,J
+   1,L
+   7,K,G
+   1
+   1,J
+   6,K,G
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  18,R
+  13,R,J
+   3,K,G
+   1,L,K
+   5,J
+   5,R,K,G
+   1,J
+   4,L,J
+   4,J
+   7,L,K
+   5,L
+   2,L,K
+   2,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   7,L
+   1,L,J
+   1,J
+   7,L,J
+   1,J
+   1,K
+   9,L,J,G
+   7,L
+   1,L,K,G
+   1,L,J,G
+   1,L
+   1
+   8,L
+   1,L,J
+  31,L,D
+  12,R,D
+  20,L,D
+  11,L
+   3,J
+   6,L,J
+   1,J
+   1,L,K,G
+   1,L,J,G
+   1,L,J
+   1,J
+   1,L,J
+   5,L
+   2,L,J
+   3,L
+   1
+   5,L
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L
+   1
+   9,L
+   1,L,J
+  14,L
    1,L,J
   18,L
+   5,L,J
+   9,L
    1,L,J
-  23,L,D
-   4,L
-  10,L,J
+   9,L
+   1
    1,L,K,G
    1,L,J,G
   11,L
@@ -1586,7 +1797,7 @@ AnalogMode,Ignore
   40
 
 #lvl_d-04
-#1x
+#0x
    7,L
    1,L,J
   23,L,D
@@ -2475,4 +2686,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 5:29.137(19361)
+ChapterTime: 5:49.945(20585)

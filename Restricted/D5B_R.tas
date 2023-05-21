@@ -1,4 +1,4 @@
-#5B 28x (R)
+#5B 27x (R)
 
 console hard 5
    1
@@ -871,8 +871,7 @@ EndRepeat
   21,R,D,G
    1,D,G
    1,R,G
-   1,G
-   3,G
+   4,G
    1
    6,L
   12,J,G
@@ -908,7 +907,7 @@ EndRepeat
   40
 
 #lvl_d-04
-#2x
+#1x
    3,R
    1,R,J
   14,R
@@ -917,43 +916,73 @@ EndRepeat
   20,R,G
    1,R,J,G
   14,R,G
-  20,R,J,G
-  36,R,J
-  18,R,U,X
-   2,R,J,G
-  13,R,G
-  12,R,J,G
-   9,R,G
-   2,L,G
-   1,R
-  23,R,X
-   8,R,J,G
-  27,D,G
-  15,L,D,G
    1,R,J,G
-  25,R,K,G
-  15,R,J
-   5,K,G
-   1,L
-  14,R,J,G
+   7,R,G
+   1
+   7,L
+  27
+   5,R
+   5,R,J
+   1
+   5,R
+   1,R,J
+   1,R
+   2,R,J
+  19,R
+  14,R,X
+   1,R,K,G
+   2
+   1,R
+  16,R,G
+   2,R,K,G
+   1,R,G
+  20,R,K,G
+   1,D
+   3
+   1,R,J,G
+   4,L,J
+  21,R,J,G
+   1,R,J
    1,R,K,G
    1,R,J,G
-  10,R
-   1,R,J
+   2,R,K,G
   11,R
+  10
+   1,R
+   1
+   2,D
+  32,R,J
+   2,R,K,G
+   2,L,K
+   1,K
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   2,R
+  13,R,G
+   1,R,J,G
+  15,R,G
+   1,R,J,G
+   3,R,G
   40
 
 #lvl_d-05
 #1x
-   3,R
-   1,R,J
-  14,R,D
-   1,R,J
-  21,R,D
-   6,R
-   1,R,J
-  35,R,G
-  25,G
+  11,R,G
+   1,R,J,G
+  21,R,D,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+   8,R,G
+   1,G
+  10,R,G
+  24,G
    1,R,J,G
   20,R,G
   11,R
@@ -985,4 +1014,4 @@ EndRepeat
   36,R
    3,R,D,J
  111,R,G
-ChapterTime: 2:55.627(10331)
+ChapterTime: 2:55.780(10340)

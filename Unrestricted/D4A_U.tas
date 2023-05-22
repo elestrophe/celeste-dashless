@@ -1,4 +1,4 @@
-#4A 21x (U)
+#4A 20x (U)
 
 console load 4
    1
@@ -887,7 +887,7 @@ Set Session.Time 4247785240000
   40
 
 #lvl_c-00
-#4x
+#3x
    1,R
    1,R,K,G
    3
@@ -947,13 +947,24 @@ Set Session.Time 4247785240000
    1,R
    2,D
    1,R
-   1,D
-  17,R,J
-  12,R,K,G
+  19,R,J
+   2,R,K,G
+   9,K
   12,J,G
-  14,R,Z
-  39,R,J
-  17,R,X
+   1
+   1,K,G
+  10,R
+   1,L
+   5
+   4,Z
+   1,R,J
+   1,R,K,G
+   1,R
+   1
+   6,R
+   1,R,K
+   4,R
+  47,R,J
   15,R,C
   16,R,D
    5,D
@@ -2730,4 +2741,4 @@ Set Session.Time 4247785240000
    1,S
    1,D,J
   18
-ChapterTime: 118:02:45.949(24997997)
+ChapterTime: 118:02:46.238(24998014)

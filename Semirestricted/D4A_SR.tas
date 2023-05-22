@@ -1,6 +1,6 @@
-#4A 22x (SR)
+#4A 21x (SR)
 
-#StunPauseMode,Simulate
+StunPauseMode,Simulate
 
 console load 4
    1
@@ -72,7 +72,7 @@ EndStunPause
   43
 
 Read, ../Restricted/D4A, lvl_a-08, lvl_c-06
-#8x
+#7x
 
 #lvl_c-06
 #0x
@@ -86,9 +86,8 @@ Read, ../Restricted/D4A, lvl_a-08, lvl_c-06
   80
   10,L,J
    4
-   1,R,J
+   2,R,J
 StunPause
-   1,R,J
    1,R,K
   13,R
   19,R,J
@@ -102,9 +101,9 @@ StunPause
    1,R,J
    1,R
   23,R
-  10,R,J
+   9,R,J
 EndStunPause
-  33,R,J
+  34,R,J
    1,R,G
    7,R,J,G
    9,R,K,G
@@ -181,4 +180,4 @@ EndStunPause
 Read, ../Restricted/D4A, lvl_c-09
 #11x
 
-ChapterTime: 4:12.484(14852)
+ChapterTime: 4:12.586(14858)

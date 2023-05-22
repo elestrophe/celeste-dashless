@@ -1,4 +1,4 @@
-#4A 24x (R)
+#4A 23x (R)
 
 console load 4
    1
@@ -874,7 +874,7 @@ console load 4
   40
 
 #lvl_c-00
-#4x
+#3x
    1,R
    1,R,K,G
    3
@@ -934,13 +934,24 @@ console load 4
    1,R
    2,D
    1,R
-   1,D
-  17,R,J
-  12,R,K,G
+  19,R,J
+   2,R,K,G
+   9,K
   12,J,G
-  14,R,Z
-  39,R,J
-  17,R,X
+   1
+   1,K,G
+  10,R
+   1,L
+   5
+   4,Z
+   1,R,J
+   1,R,K,G
+   1,R
+   1
+   6,R
+   1,R,K
+   4,R
+  47,R,J
   15,R,C
   16,R,D
    5,D
@@ -2749,4 +2760,4 @@ console load 4
    1,S
    1,D,J
   18
-ChapterTime: 3:55.280(13840)
+ChapterTime: 3:55.569(13857)

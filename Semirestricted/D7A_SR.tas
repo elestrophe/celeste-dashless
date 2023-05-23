@@ -1,4 +1,4 @@
-#7A 105x (SR)
+#7A 104x (SR)
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
@@ -1987,18 +1987,27 @@ EndRepeat
    1,S
    1,D,J
   69,O
-   4,D,X
-   2,R,X
+ 277
+   1,R,J
+   3,R
   40
 
 #lvl_d-11
-#3x
-   1,R,X
-   1,R,J
+#2x
+   4,R
+StunPause
    7,R
-   1,R,J
-  13,R
-  16,L,D
+   8,R,D,J
+   3,R
+   1,L
+   2,L,K,G
+   1,J
+   2,K,G
+  53,R,K
+   2,R
+EndStunPause
+   1,R
+   6,R,D
   37
   30,R
   12,J,G
@@ -2009,7 +2018,7 @@ EndRepeat
   41,L,J
    2,J
   12,K,G
-  13,G
+  34,G
   11,J,G
    1,R,J
    1,K
@@ -2050,16 +2059,9 @@ EndRepeat
 #lvl_e-00b
 #0x
   78
- 155
    6,R,J
-   1,S,N
-  10,O
-   1,R,J
-   1,S,N
-  10,O
-   1,R,J
 StunPause
-   5,R,J
+   6,R,J
   11,R
    1,R,J
   20,R
@@ -2702,19 +2704,64 @@ EndRepeat
    1
    5,R
    1,R,J
-  20,L,J
-Repeat,98
+   3,L,J
+  17,L
+   1,R,J
+   5,L
+Repeat,4
+   1,R
+   1,L
+EndRepeat
+   1,R
+   1,R,J
+   6,L
+Repeat,4
+   1,R
+   1,L
+EndRepeat
+   1,R,J
+   5,L
+Repeat,5
+   1,R
+   1,L
+EndRepeat
+   1,R,J
+   5,L
+Repeat,5
+   1,R
+   1,L
+EndRepeat
+   1,R,J
+   5,L
+Repeat,4
+   1,R
+   1,L
+EndRepeat
+   1,R
+   1,D
+   1,L
+   1,R,K
+   5,L
+   1,R
+   1,L
+   1,R
+   1,L
+Repeat,3
    1,R,J
    1,L,J
 EndRepeat
-  14,R,J
+Repeat,5
+   2,D,J
+   1,L,J
+EndRepeat
+  13,R,J
    9,R,K
    1,K
   42,R,K
-   2,K
-   2,R,K
+Repeat,3
    1,K
    1,R,K
+EndRepeat
    4,R,D
   13,R,U,Z
    1,L
@@ -2895,9 +2942,9 @@ EndRepeat
   14,L
   12,D
    1,L,D
-  32,D
+  31,D
 StunPause
-   2,D
+   3,D
   11,L,D
    4,L
    1,L,J,G
@@ -2980,13 +3027,10 @@ EndStunPause
 #2x
    7,L,J
   12,L,K,G
-Repeat 110
-   1,G
-   1
-EndRepeat
-   8,R,J
+   1,R,J
+   6,R,J
 StunPause
-   2,R,J
+   4,R,J
 SkipInput 3 1
   10,R,X
   72
@@ -2997,20 +3041,18 @@ EndStunPause
    5,R,X
    7
 StunPause
- 148
-SkipInput 3 1
-  11,L,D,Z
-   6,R,J
-   1,R
-   9,R,J
-   1,K
+ 115
 EndStunPause
-   2,L,K
-   6,R,K
-  13,R,J,G
-  13,R,K,G
-  13,R,J,G
-   1,R,K,G
+   8
+StunPause
+  24
+SkipInput,3,1
+  12,R,U,Z
+EndStunPause
+   6,R
+  12,R,J,G
+  12,R,K,G
+  11,R,J,G
   14,R
   10,R,J
    7,R
@@ -3133,7 +3175,7 @@ EndStunPause
   12,R,J,G
    1,K
   21,R,K
-Repeat 1038
+Repeat 966
    1,G
    1
 EndRepeat
@@ -5226,4 +5268,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 24:07.686(85158)
+ChapterTime: 24:08.162(85186)

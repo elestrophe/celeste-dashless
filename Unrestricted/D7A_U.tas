@@ -1,4 +1,4 @@
-#7A 96x (U)
+#7A 95x (U)
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
@@ -2063,24 +2063,31 @@ EndRepeat
    1,K
   17
   40
-
 #lvl_d-10
 #0x
    1,S
    1,D,J
   69,O
-   4,D,X
-   2,R,X
+   1,R,J
+   3,R
   40
 
 #lvl_d-11
-#3x
-   1,R,X
-   1,R,J
+#2x
+   4,R
+StunPause
    7,R
-   1,R,J
-  13,R
-  16,L,D
+   8,R,D,J
+   3,R
+   1,L
+   2,L,K,G
+   1,J
+   2,K,G
+  53,R,K
+   2,R
+EndStunPause
+   1,R
+   6,R,D
   37
   30,R
   12,J,G
@@ -2091,7 +2098,7 @@ EndRepeat
   41,L,J
    2,J
   12,K,G
-  13,G
+  34,G
   11,J,G
    1,R,J
    1,K
@@ -2124,10 +2131,7 @@ EndRepeat
    4,D,X
   11,L,X
   21,L,J
-  12
-   1,S,N
-  10,O
- 204
+ 216
    1,S,N
    1,D,J
  141
@@ -2143,7 +2147,10 @@ StunPause
    1,R,J
   20,R
   51,R,J
-  18,R,K
+   1,R,K
+EndStunPause
+StunPause
+  17,R,K
 SkipInput 3 1
    5,R,U,X
   17,R,J
@@ -2155,7 +2162,6 @@ SkipInput 3 1
    1,L,J,G
    1,L,K,G
    1,L,J,G
-SkipInput 2 5
   33,L,J
    1,L,D,K
 EndStunPause
@@ -2989,12 +2995,13 @@ EndRepeat
    5
    6,L,D
   17,L,J
-   2,L,K,G
+   1,L,K,G
 StunPause
-   6,L,K,G
+   7,L,K,G
    5,J,G
    2,R,J
   41
+SkipInput 1 6
   26,L,J
    2,L,K,G
    2,R,J
@@ -3012,6 +3019,7 @@ EndStunPause
 #lvl_f-00
 #0x
   78
+   2
    4,R
    1
    3,R
@@ -3127,10 +3135,10 @@ EndStunPause
  200
 
 Set Engine.Scene.TimeActive 524284.75
-Set Session.Time 8495791140000
+Set Session.Time 8495797090000
 
 
-#24,969,947 more frames of waiting
+#24,969,467 more frames of waiting
   11,R
   11,R,D,J
    5,R,U,X
@@ -5113,4 +5121,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 236:03:50.272(49990016)
+ChapterTime: 236:03:50.867(49990051)

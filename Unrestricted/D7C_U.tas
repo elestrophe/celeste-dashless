@@ -1,0 +1,244 @@
+#7C 31x (U)
+
+#StunPauseMode,Simulate
+
+console rmx2 7
+   1
+
+#Start
+  78
+
+#lvl_01
+#6x
+   5,R
+   1,R,J
+  15,R
+   5,R,J
+   8,R,J
+   1,R,K
+StunPause 
+  24,R,K
+   1,G
+   9,J,G
+   1,K
+   2,J,G
+  23,L,J
+SkipInput,3,1
+  15,U,X
+   3,U
+  20,R,J
+   6,R
+   1,G
+   7,K,G
+   1,R,K
+   6,R
+  23,R,K
+   1,R,J
+EndStunPause
+  11,R,J
+  27,R
+  18,U,Z
+   8,R
+   4,L,J,G
+   4,J
+  36,R,K
+  18,U,X
+  37,R,J
+  12,U,X
+  35,R,J
+   2,J
+  14,U,X
+   2,R,J
+StunPause 
+  13,R,J
+SkipInput,3,1
+  71,R,J
+EndStunPause
+  13,R,J
+  15,R,U,Z
+  38,R
+  95
+  40
+
+#lvl_02
+#4x
+  69
+  13,L,J
+  11,K,G
+  11,J,G
+  11,K,G
+   2,J,G
+   2,R,J
+  12,R,K
+  26,R
+  15,R,X
+  14,R
+   1,L
+   1,R,K,G
+   4,R,J,G
+   8,R
+  30,R
+  24,R,U,Z
+  29,R
+  15,R,Z
+   5,R
+  10,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  26,R,D
+  71
+  40
+  69
+
+#lvl_03
+#20x
+ 200
+#200 + 2498*9999 + 6834 = 24,984,536
+Set Session.Time 4247779630000
+Set Engine.Scene.TimeActive 524285.09375
+   4,R
+   1,L
+   3,R
+   5,R,J
+   1,R,K,G
+   1,R,J,G
+  10,R
+   7,R,J
+   1,R,K,G
+   3,L,K
+   1,R,K
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1,R,J
+  14,R
+   1,R,J
+  13,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   6,R
+  18,R
+   7,R,J
+  30,R,D
+  29,R,J
+  15,R,Z
+  19,R
+  16,L,D
+  42,R,J
+   1,K
+  22,R,K
+   2
+   1,R,K
+   1,R,J,G
+   8,R
+  43,R,J
+  15,R,U,Z
+  15,R,X
+  28,R,J
+   3,R
+  15,R,U,Z
+  25,R,D
+  12,D
+  11,R,D
+  35,R
+  15,R,Z
+  11,R
+  11
+   6,R
+   5,R,D
+  12,R,D,K
+  10,R
+  15,U,X
+   9,R,J
+  10,L,D,C
+  67,R,J
+  15,U,X
+   5,R
+  90,R,K
+  15,R,U,X
+  43,R,J
+  35,R,K
+  16,R
+  62,R,J
+  15,R,U,X
+  25,R,K
+  15,R,U,Z
+  25,R,J
+  15,R,U,X
+  32,R,J
+  15,R,U,X
+  13,R,J
+  18,R,U,X
+   8,R,J
+  15,R,U,Z
+  20,R,J
+  15,R,U,X
+  58,R,J
+   1
+   1,R
+   1
+   1,R
+   1
+  15,R,U,X
+  18,R,J
+  15,R,X
+   2,R,J
+   2
+   1,R,K,G
+   1,R,J,G
+  13,R
+   1,R,J
+  26,R,D
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,J
+  11,R
+   1
+   2,R
+   9,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+Repeat 2
+   1,R,J
+  14,R
+EndRepeat
+Repeat 3
+   1,R,J
+  13,R
+   1
+EndRepeat
+   9,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1
+   1,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+  14,R
+   4,R,J
+  14,R,Z
+   1,R,J
+   7,R
+  31,R,J
+  54,R,X
+  84,R,D
+   6
+  16,D
+ChapterTime: 118:00:06.931(24988643)

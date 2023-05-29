@@ -1,4 +1,4 @@
-#7C 32x (SR)
+#7C 31x (SR)
 
 #StunPauseMode,Simulate
 
@@ -10,32 +10,92 @@ console rmx2 7
 
 #lvl_01
 #6x
+#Spinner cycle
+   2
+#-------------
+   5,R
+   3,R,J
    5,R
    1,R,J
-  15,R
-   5,R,J
-   8,R,J
-   1,R,K
-StunPause 
-  24,R,K
-   1,G
-   9,J,G
-   1,K
-   2,J,G
-  23,L,J
-SkipInput,3,1
-  15,U,X
-   3,U
-  20,R,J
+  13,R,D
+   7,L,D
+   1,L
+   1,J,G
+   3,L
+   1
+   1,L
+   1
    6,R
-   1,G
-   7,K,G
-   1,R,K
-   6,R
-  23,R,K
-   1,R,J
+  69,R,J
+   4,R,D
+   1,R
+   1,R,K,G
+   1,J
+   8,K,G
+   2
+  10,L
+StunPause
+  61,L,J
+   2,L,K,G
+   5,K
+   1
+   3,L
+   1
+   1,L
+   2,R
 EndStunPause
-  11,R,J
+   1,S,N
+  10,J
+   2,R,J
+StunPause
+   2,R,J
+   1,K
+  11,L,K
+   1,K
+   9,L,K
+   1,L,K
+   1,L,K
+   1,L,K
+   1,L,K
+   1,G
+   1,J,G
+   1,R,J
+   1,L,J
+   2,L,K,G
+   1,R,K
+   6,L,K
+   8,L
+   1,J,G
+   1,R,J
+   1,R,J
+   1,L,K,G
+   2,R,K
+  14,L,K
+   1,K
+   4,L
+   3,R,J
+   5,R
+   4,R,J
+   1,L,K,G
+   8,K
+   1,K
+   1,J,G
+  11,L,J
+   1,R,K
+  13,R,J
+SkipInput,3
+  28,R,J
+   1,G
+   2,R,K,G
+   1,L,K
+   2,R,K
+   2,K
+   1,R,K
+   5,R
+   9,R,K
+  15,R,D
+EndStunPause
+  12,R,J
   27,R
   18,U,Z
    8,R
@@ -52,9 +112,10 @@ EndStunPause
 StunPause 
   13,R,J
 SkipInput,3,1
-  71,R,J
+  21,R,J
+  48,R
 EndStunPause
-  13,R,J
+  15,R
   15,R,U,Z
   38,R
   95
@@ -93,6 +154,9 @@ EndStunPause
 
 #lvl_03
 #22x
+#Spinner cycle
+   0
+#-------------
    4,R
    1,L
    3,R
@@ -116,67 +180,65 @@ EndStunPause
    1,R,J
    7,R
    1,R,J
-   6,R
+   7,R
 StunPause 
-  18,R
+  17,R
    7,R,J
   55,R,D
 SkipInput,3,1
-   9,R,U,Z
+   7,R,U,Z
 EndStunPause
-  16,R,D
+  17,R,D
 StunPause 
-  23,R,D
+  24,R,D
   25,R
 SkipInput,3,1
    8,R,Z
 EndStunPause
    7,R
   21,L,D
-  19,R,D
-  20,D
+  20,R,D
+  13,D
+   1,R,D
+   5,D
    3
   15,R,Z
-  10,R
-   5,R,U,Z
+  11,R
+   6,R,U,Z
 StunPause 
-  18,R,U
-  33,R
+  10,R
+   1
+   1,R
+  36,R
 SkipInput,3,1
-  15,U,X
-   4,R
+  15,U,Z
+   3,R
+   1,L
+   1
 EndStunPause
-  38,D
+   5
+   1,G
+  37,D
    5,R,D
   21,D
   13,R,X
 StunPause
    1,R
-   1
-  17
-EndStunPause
-   1,S,N
-   1,N,O
-   9,N
-   2
-   1,S,N
-   1,N,O
-   9,N
-   5,R,X
-StunPause
-  10,R
+  20
+SkipInput,3,1
+  15,R,X
   11
   15,R
    2
    2,R
    5,R,D
-  11,R,J
+   9,R,J
 EndStunPause
-   3,R,J
+   5,R,J
   17,J
-  19,R,J
+  21,R,J
 StunPause
-  31,R,J
+  29,R,J
 SkipInput,3,1
    5,R,X
   21,R,D
@@ -303,4 +365,4 @@ EndRepeat
    7,R
   27,R,J
  157,R,X
-ChapterTime: 2:11.869(7757)
+ChapterTime: 2:26.608(8624)

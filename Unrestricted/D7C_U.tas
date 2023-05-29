@@ -1,4 +1,4 @@
-#7C 31x (U)
+#7C 30x (U)
 
 #StunPauseMode,Simulate
 
@@ -9,33 +9,93 @@ console rmx2 7
   78
 
 #lvl_01
-#6x
+#5x
+#Spinner cycle
+   2
+#-------------
+   5,R
+   3,R,J
    5,R
    1,R,J
-  15,R
-   5,R,J
-   8,R,J
-   1,R,K
-StunPause 
-  24,R,K
-   1,G
-   9,J,G
-   1,K
-   2,J,G
-  23,L,J
-SkipInput,3,1
-  15,U,X
-   3,U
-  20,R,J
+  13,R,D
+   7,L,D
+   1,L
+   1,J,G
+   3,L
+   1
+   1,L
+   1
    6,R
-   1,G
-   7,K,G
-   1,R,K
-   6,R
-  23,R,K
-   1,R,J
+  69,R,J
+   4,R,D
+   1,R
+   1,R,K,G
+   1,J
+   8,K,G
+   2
+  10,L
+StunPause
+  61,L,J
+   2,L,K,G
+   5,K
+   1
+   3,L
+   1
+   1,L
+   2,R
 EndStunPause
-  11,R,J
+   1,S,N
+  10,J
+   2,R,J
+StunPause
+   2,R,J
+   1,K
+  11,L,K
+   1,K
+   9,L,K
+   1,L,K
+   1,L,K
+   1,L,K
+   1,L,K
+   1,G
+   1,J,G
+   1,R,J
+   1,L,J
+   2,L,K,G
+   1,R,K
+   6,L,K
+   8,L
+   1,J,G
+   1,R,J
+   1,R,J
+   1,L,K,G
+   2,R,K
+  14,L,K
+   1,K
+   4,L
+   3,R,J
+   5,R
+   4,R,J
+   1,L,K,G
+   8,K
+   1,K
+   1,J,G
+  11,L,J
+   1,R,K
+  13,R,J
+SkipInput,3
+  28,R,J
+   1,G
+   2,R,K,G
+   1,L,K
+   2,R,K
+   2,K
+   1,R,K
+   5,R
+   9,R,K
+  15,R,D
+EndStunPause
+  12,R,J
   27,R
   18,U,Z
    8,R
@@ -52,9 +112,10 @@ EndStunPause
 StunPause 
   13,R,J
 SkipInput,3,1
-  71,R,J
+  21,R,J
+  48,R
 EndStunPause
-  13,R,J
+  15,R
   15,R,U,Z
   38,R
   95
@@ -92,10 +153,10 @@ EndStunPause
   69
 
 #lvl_03
-#20x
+#21x
  200
-#200 + 2498*9999 + 6834 = 24,984,536
-Set Session.Time 4247779630000
+#200 + 2498*9999 + 6896 = 24,984,597
+Set Session.Time 4247790000000
 Set Engine.Scene.TimeActive 524285.09375
    4,R
    1,L
@@ -241,4 +302,4 @@ EndRepeat
   84,R,D
    6
   16,D
-ChapterTime: 118:00:06.931(24988643)
+ChapterTime: 118:00:07.968(24988704)

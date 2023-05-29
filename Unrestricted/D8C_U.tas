@@ -37,8 +37,6 @@ console rmx2 9
 #2498 * 9999 + 200 + 8763 = 24,986,465
 Set Engine.Scene.TimeActive 524287.5
 Set Session.Time 4247769260000
-
-
    5,R
    3,R,J
    3,R

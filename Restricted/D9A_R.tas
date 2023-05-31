@@ -12,15 +12,15 @@ Set,DashMode,Two
 #console load 10 18557 -6217
 #play,Event Horizon,39
 
+#console load 10 28110.3 -8086
+#play,Determination,37
+
 # -------------
 # The above checkpoints depend on
 # spinner cycles. Adjust the number
 # in the play command to fix desyncs.
 # Possible values: 37-39
 # -------------
-
-#console load 10 31520 -7933
-#play,Determination,37
 
 Set,DashMode,Normal
 
@@ -2713,7 +2713,7 @@ EndRepeat
    1,R
   40
 
-#EVENT HORIZON 46x
+#EVENT HORIZON 47x
 #lvl_f-door
 #3x
   14,R
@@ -3885,6 +3885,7 @@ EndRepeat
   25,R,D
    1,R,J
   15,R
+#Determination
    1,J
    1
   29,R
@@ -3900,7 +3901,7 @@ EndRepeat
   40
 
 #lvl_g-06
-#6x
+#7x
    9,R,D,J
    1,K
    1,J
@@ -3912,141 +3913,136 @@ EndRepeat
   21,R,D
    2,R,J
   21,R
-   1,R,J
-  19,R
-   8,L
-   1,R
-   4,L
-   4,L,D
-  16,L
-   1,L,D
-   1,L
-   1,L,D
-   6,L
-  27
-   4,D
-  15,R,D
-  19,R
-  14,R,Z
-  25,R,J
-  25,R
-  15,R,Z
-   1,L
-   4,J,G
-  14,R,J
-   2,R
-   1,R,J
-   1,R
    2,R,J
-   8,R
-   1,G
-   1
-   1,K
-   1,R,J,G
-  17,R,D
-  58
-   4,L
-   1
-   5,L,J
-   5,L
-  23,L,J
-   1,G
-   1
    1,J
-   7,L,K,G
-  11,L,D
-  17,D
+   3,R,J
    1
-  10,D
-   1
-   1,D
-  39,R,D
-  36,L,D
-  34,R,D
-  38,L,D
-  21,R,D
-   1,D
-   1,R,D
-   9,L,D
-   2,D
-   2,L,D
-   1,L
-   1,L,D
-   2,L
-  34,R,J
-  31,R,U,X
-AnalogMode,Precise
-  27,R,U
- 154,F,61.017
- 112,F,17.230
-  18,F,342.222
-  39,F,355.579
-  24,F,18.355
-  18,F,352.427
-   3,F,0.001
-  39,F,13.605
-  24,F,42.673
-  12,F,107
-  13,F,143.615
-  12,F,77
-  22,F,73.377
- 104,F,90.006
-  10,F,138.4803
-   9,R,Z
-   1,R,J
+   1,R
    8,R
-   2,R,D,J
-   2,R
-   6,R,D,X
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   1,R,K,G
-   5,R
-   2
-   2,R
-  15,R,D,X
+   6,D
+   1,R,D
+   3,D
    1
+   7,D
+   1,D
+  14,R,Z
+   5,R,J
+  11,R,D
+   4,D
+   9,R,D
+   5,L,U,X
+  27,L,U
+AnalogMode,Precise
+  28,F,262.35
+   1,F,263.001
+   9,F,315
+  10,F,5
+  30,F,12.4
+   1,F,14
+   5,F,45
+  27,F,93.868
+   5,F,96
+   4,F,70
+  55,R
+  36,R,U,X
+ 174,R,C
+  10,L
+  12,L,D
+   5,D
+  51
+
+# ---------
+#Spinner cycle
+#0-1
+
+   0
+# ---------
+
+   5,D,X
+   1,J
+   1,R
+  33
+   8,R
+   3
+   4,R
+   3
+   8,R
+   5
+   1,R
+  68
+   1,R
+   5,L,X
+  42,L
+   4
+   1,L
+  47
+   5,R
+   7,R,J
    7,R
-   8,R,J,G
-   2,R
-   1,R,J,G
-   9,R
+  12
+  13,D
+   7,L
+   4,R
+   1,R,J
+  12
+   1,R
+   1,L
+   2,D
+   1,J
+   3,K,G
+   5
+   1,R,J
+  15,L,J
+   1,J
+   1,G
+   2
+   1,L,K,G
+   1,L,J,G
+   5,R,J
+   5,R
+   3,R,J
+   1,R
+   4,R,J
+  23,R,D
+   6,R,J
+   7,R
+   4,R,J
+   7,R
+  34,U,G
+  18,G
+   1,D,G
+   1,L,J
+  10,L
+   1,K
+   1,J,G
+   2,R,K,G
+   1,L,J,G
+  19,R,D,X
+   1,D
+   3,R,D
   40
 
-#DETERMINATION 36x
+#DETERMINATION 35x
 #lvl_h-00b
-#4x
-   2,R
-   1,R,J
-   6,R
+#1x
+   2,R,D
+   1,D,J
+   7,R,J
+   3,R
+  24,R,D,X
    2,R,J
-   1,R
-   2,R,J
-   1,J
-   1,R,J
-   4,R
-  53,R,U
-  15,F,53.625
-  68,F,90.506
-  35,F,90
-   2,F,96.967
-   7,R
-  26,R,X
-#Determination
-  15,R,C
-  29,R,D
+   8,R
+  13,L,D
+   1,L
+   6,L,D
   40
 
 #lvl_h-00
 #3x
-   3,R,D
-   1,R
-   1,J
-   9
+   3,L,D
    1,J
    6
-   1,J
+   1,K
   24,D
    1,J
    3
@@ -4056,10 +4052,17 @@ AnalogMode,Precise
    6,L
   10,R,D
    1,G
-   2,R,J,G
-  18,R,D
-   1,L,D,J
-  14,L
+   1,R,J,G
+   5,R,D
+  13,L,D
+   1,L,J
+   6,K
+   5
+   1,K
+   1
+   2,K
+   6,D
+   5,L,D
   14,R,Z
    1,R,J
    3
@@ -7374,7 +7377,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:41.293(62429)
+ChapterTime: 17:32.759(61927)
 
 # optional waiting for
 # visuals to play out

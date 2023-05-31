@@ -3917,22 +3917,20 @@ EndRepeat
    1,J
    3,R,J
    1
-   1,R
-   8,R
+   9,R
    6,D
    1,R,D
    3,D
    1
-   7,D
-   1,D
+   8,D
   14,R,Z
    5,R,J
   11,R,D
    4,D
    9,R,D
    5,L,U,X
-  27,L,U
 AnalogMode,Precise
+  27,L,U
   28,F,262.35
    1,F,263.001
    9,F,315

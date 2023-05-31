@@ -49,7 +49,7 @@ Read,D9A,Start,Post-Heart
    2,R,J
   40
 
-#EVENT HORIZON 49x
+#EVENT HORIZON 48x
 #lvl_f-door
 #3x
   21,R,J
@@ -201,7 +201,7 @@ Read,D9A,lvl_f-01,Spinner cycle
 Read,D9A,9T,End_IGT
 #117x
 
-ChapterTime: 17:33.592(61976)
+ChapterTime: 17:25.058(61474)
 
 # optional waiting for
 # visuals to play out

@@ -20,7 +20,7 @@ console load 10
 #Start
 
 Read,D9A,Start,lvl_j-14
-#177x
+#176x
 
 #lvl_j-14
 #3x
@@ -804,7 +804,7 @@ AnalogMode,Precise
    1,S,N
    1,D,J
   18
-ChapterTime: 18:40.470(65910)
+ChapterTime: 18:40.606(65918)
 
 #Let moon berry sfx play
  100

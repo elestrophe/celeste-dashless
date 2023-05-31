@@ -3,7 +3,7 @@
 console hearts 15
 Set,DashMode,Two
 
-#console load 10 9572.6 -1863.6 0 -25
+#console load 10 9572.6 -1863.6
 #  37
 #Set,Level.TimeActive,99.79
 #play,Power Source

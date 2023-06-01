@@ -81,7 +81,7 @@ Read, ../Restricted/D5B, lvl_start, lvl_b-00
    5,L
   40
 
-#lvl_b-02
+#lvl_b-05
 #1x
    9,L
    1,L,J
@@ -144,7 +144,7 @@ Read, ../Restricted/D5B, lvl_start, lvl_b-00
    8,L,D
   40
 
-#lvl_b-02
+#lvl_b-00
 #0x
   13,L,D,J
    1,L,J

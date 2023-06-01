@@ -1,0 +1,458 @@
+#5B 24x (U)
+
+#StunPauseMode,Simulate
+
+console hard 5
+   1
+
+#Start
+ 190
+
+#d-03 spinner cycle
+   2
+
+Read, ../Restricted/D5B, lvl_start, lvl_b-00
+#6x
+
+#lvl_b-00
+#0x
+   5,R
+   1,R,J,G
+   3,R,K,G
+   8,R
+   1,R,J
+  14,R
+   1,R,J
+  21,R
+   2,R,J
+   8,R
+  13,R,K
+  14,R,J,G
+  14,K,G
+  12,J,G
+   4,K,G
+   5
+   1,R
+   6,L
+  28,L,K,G
+   1,G
+   2
+   1,G
+   3,L
+   1
+   1,G
+  18,L,J,G
+   1,L,J,G
+   2,L,J
+   3
+   1,G
+  23,L,J,G
+   6,L,K,G
+   8,L
+  12,J
+  12,R,K,G
+  10,R,J,G
+  40,J
+
+#lvl_b-02
+#0x
+   2,L,J
+   1,R,K,G
+  10,R,J,G
+   4,J,G
+   6,G
+   8,L,K
+  48,U,X
+  36,L,D
+   1,L,J
+  21,L,D
+   1,L,J
+  14,L
+   7,J
+   1,L,J
+   4,J
+   8,K,G
+   7,L
+  12,L,J
+  12,L,K,G
+   9,L,J,G
+  12,L
+   1,L,J
+   5,L
+  40
+
+#lvl_b-05
+#1x
+   9,L
+   1,L,J
+  14,L
+   1,L,J
+  18,L
+   1,L,J
+  33,L,D
+  36,D
+  15,U,X
+   4
+  17,J
+  37,K
+  11,L,K
+  11,J
+  12,L,J
+   5,L,K
+  37,L
+   5,R
+   5,R,J,G
+   5,R
+   1,R,J
+  11,R
+  57,R,J,G
+   1,R,G
+   2,G
+   7,J,G
+   1
+   1,L
+   1,R
+  14,R,K,G
+   1,R,J,G
+  54,R,K,G
+   8,R,J,G
+  19,R
+   1,R,J
+  11,R
+  40
+
+#lvl_b-02
+#0x
+   3,R
+   1,R,J
+  14,R
+   1,R,J
+  15,R
+   1,R,J
+  18,R
+  12,R,J
+   3,K,G
+  12,L,J
+   7,R,K,G
+   1,R,J,G
+  10,R,K,G
+   9,R
+   3,R,J
+  15,R,D
+  27,D
+   8,R,D
+   8,L,D
+  40
+
+#lvl_b-00
+#0x
+  13,L,D,J
+   1,L,J
+   6,L,D,J
+  12,L,D,K
+  51,L,J
+   1,K
+  25,L,K
+  13
+  43,G
+   3,R
+   1,K
+  24,L,K
+   1,L,J,G
+   1,L,K,G
+  11,L
+  40
+
+#lvl_b-06
+#0x
+3356
+   5,L
+   5,L,J
+  21,L
+StunPause
+SkipInput 3 1
+   5,L,X
+  26
+   3,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   4,L,J,G
+EndStunPause
+   7,L,J
+  21,L
+   5,L,U,X
+   2
+StunPause
+  14,L,J
+SkipInput 3 1
+   5,L,X
+  19
+EndStunPause
+  16
+   5,L,D,X
+  13
+   5,L,X
+   8
+StunPause
+  30
+   6,J,G
+EndStunPause
+  10,L,K,G
+  14,L
+   5,R,X
+ 171
+  40
+
+#lvl_b-00
+#0x
+  79
+  40
+
+#lvl_b-01
+#0x
+ 200
+   1,R,J
+  40
+
+#lvl_b-07
+#1x
+   3,R
+   1,L,J
+   3,J
+   6,R,K,G
+  15,U,Z
+   2,R
+  15,L,J
+   3,R,J
+   3,L,J
+  20,L,K,G
+  47,L,G
+   9,L,J,G
+  21,R,K
+   1,L,K
+   8,L,J,G
+  40
+
+Read, ../Restricted/D5B, lvl_b-03, lvl_b-08
+#3x
+
+#lvl_b-08
+#1x
+#2498*9999+960 frames
+ 200
+Set Session.Time 4247753280000
+Set Engine.Scene.TimeActive 524286.84375
+   1,S
+   1,D,J
+  69,O
+   5,L
+   6,L,J
+  28,L,D
+   4,J
+  17,L,J
+  19,L
+   1,L,J
+  29,L
+   1,L,J
+  14,L
+  12,L,J
+   4,L,K,G
+   4,L
+   6,R
+  22,L,J
+   4,K,G
+   1,R,K
+   1,L,J,G
+   1,L,K,G
+   6,L
+   1,L,J,G
+   1,L,K,G
+  13,L
+   1,L,J
+  14,L
+   3,L,J
+  13,L,X
+   1,R,J
+   4,L
+   9,R
+   6,L
+  16,L,D
+   1,J
+  15
+  13,L,D
+   1,L,J
+  14,L
+   8,L,J
+   7,R,K,G
+  11,L,J
+  11,K
+   2
+  15,U,X
+   9,L
+   1,L,J,G
+   1,L,K,G
+  14,L
+   1,L,J
+  16,L
+  13,L,J
+  12,L,K
+  40
+
+Read, ../Restricted/D5B, lvl_b-09, lvl_d-03
+#9x
+
+#lvl_d-03
+#1x
+#dashes twice but one is a smuggled bubble dash from c-03
+   1,R,G
+   1,R,J,G
+   2,R,G
+  12,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  15,R,G
+   3,R,J,G
+  10,R,J,G
+   3,R,G
+  11,R
+   3,L
+   1,R
+   1,R,K
+  25,R
+  15,R,J
+  12,R,J,G
+  57,R,J,G
+  49,R,X
+  38,R,G
+  11,L,K,G
+  11,R,J,G
+  14,R,G
+   4,R,J
+  42,R
+   5,R,D
+   9,R,U,X
+  31,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,D,G
+   1,R,J,G
+  23,R,D,G
+   1,R,J,G
+  21,R,D,G
+   1,R,J
+  16,R
+  40
+
+#lvl_d-04
+#1x
+   3,R
+   1,R,J
+  14,R
+   1,R,J
+   8,R
+  20,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+   7,R,G
+   1
+   7,L
+  27
+   5,R
+   5,R,J
+   1
+   5,R
+   1,R,J
+   1,R
+   2,R,J
+  19,R
+  14,R,X
+   1,R,K,G
+   2
+   1,R
+  16,R,G
+   2,R,K,G
+   1,R,G
+  20,R,K,G
+   1,D
+   3
+   1,R,J,G
+   4,L,J
+  21,R,J,G
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   2,R,K,G
+  11,R
+  10
+   1,R
+   1
+   2,D
+  32,R,J
+   2,R,K,G
+   2,L,K
+   1,K
+   1
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1
+   2,R
+  13,R,G
+   1,R,J,G
+  15,R,G
+   1,R,J,G
+   3,R,G
+  40
+
+#lvl_d-05
+#1x
+  11,R,G
+   1,R,J,G
+  21,R,D,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+   8,R,G
+   1,G
+  10,R,G
+  24,G
+   1,R,J,G
+  20,R,G
+  11,R
+  20,R,J
+   2,L,J
+  13,R,J
+  20,R,K,G
+  30
+  31,R,G
+  20,G
+  29,R,G
+  44,R,J,G
+  35,R
+  15,R,U,X
+  20,L
+  23,R,J,G
+  21,R,G
+   8,L,G
+   3,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   3,R,J,G
+  11,R,G
+   1,R,J,G
+  17,R,G
+   9,R,J,G
+  36,R
+   3,R,D,J
+ 111,R,G
+ChapterTime: 118:01:46.313(24994489)

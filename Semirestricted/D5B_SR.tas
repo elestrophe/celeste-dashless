@@ -55,6 +55,7 @@ Read, ../Restricted/D5B, lvl_start, lvl_b-00
   40,J
 
 #lvl_b-02
+#0x
    2,L,J
    1,R,K,G
   10,R,J,G

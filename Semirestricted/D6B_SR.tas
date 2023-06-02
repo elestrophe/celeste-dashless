@@ -1,4 +1,4 @@
-#6B 38x (SR)
+#6B 37x (SR)
 
 #StunPauseMode,Simulate
 
@@ -1572,15 +1572,22 @@ EndStunPause
   40
 
 #lvl_d-03
-#3x
+#2x
    1,R
    1,R,J
-  17,R,D
-  14,L,D,X
-   1,R,J
-  26,R,D
-  10,R,J
-  28,R,U,X
+   2,L
+  13,R,D
+   7,L,D
+   4,R,D
+   7,R,J
+  15,R
+StunPause
+   3,R
+SkipInput 3 1
+  14,R,Z
+  17,R,J
+EndStunPause
+  16,R,J
   77,R,D
   50,L,J
    2,R,D
@@ -1612,8 +1619,12 @@ EndStunPause
    1,L
   30,L,J
    6,L,D
- 151,L,J
-  81,D
+  30,L
+  13
+  12,L
+  15,R
+  25,L
+  82,D
    1,R,J
    7,R,K
    1,R
@@ -1671,8 +1682,9 @@ EndStunPause
    9,R
   63,R,U
   54,R
+   1,F,92
 StunPause
-  34,F,92
+  33,F,92
    3,F,80
    3,F,70
    3,F,60
@@ -1772,4 +1784,4 @@ EndStunPause
   32,R,J
   18,R,U,X
  135,D
-ChapterTime: 12:14.230(43190)
+ChapterTime: 12:16.372(43316)

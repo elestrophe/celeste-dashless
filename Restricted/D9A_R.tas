@@ -4022,22 +4022,25 @@ AnalogMode,Precise
    1,R
    3,R,D
    1,D
-   1
-   2,R
+   2
+   1,R
   40
 
 #DETERMINATION 34x
 #lvl_h-00b
 #0x
-   1,R,D
-   1,R
-   6,R,D
-   1,J
-   5,R
-   3,R,J
-  12,R,D
    1,D
+   1
+   2,D
    4,R,D
+   1,R,J
+   5,R
+   2,R,J
+   1,J
+   1
+   1,R
+   1
+  14,R,D
    6,R,J
    5,R
    1,R,J

@@ -6125,20 +6125,24 @@ EndRepeat
    1,L
   15,R
   31
-  75,R,D,G
-  18,R,U,G
-   1,R,G
-  83,R,U,G
+  32,R,D,G
+   1,D,G
+  41,R,D,G
+  12,R,U,G
+   1,R,D,G
+  90,R,U,G
    6,R,D
    2
    1,R
   12,U,X
   16,G
    6,L,G
-   8,R,G
+   9,R,G
    1,G
-  25,R,U,G
-  62,R,D,G
+  23,R,U,G
+  17,R,D,G
+   1,R,G
+  45,R,D,G
    2,R,J,G
    3,R,J
    8,R,D,X

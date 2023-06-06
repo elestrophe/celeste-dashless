@@ -3032,124 +3032,54 @@ StunPause
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   5
-SkipInput 3 3
-  10,R
-   2
-   5,R
-  12,R,J
-   5,L,J
-   4,L,J
-EndStunPause
-   1,L,J
-   1,S,N
-  10,O
-   2,L,J
-   1,S,N
-  10,O
-   1,L,J
-   1,S,N
-  10,O
-   1,L,J
-   1,S,N
-  10,O
-   3,L,J
-   1,S,N
-  10,O
-   1,L,J
-   1,S,N
-  10,O
-   2,L,J
-   1,S,N
-  10,O
-   1,L
-  12
-   1,S,N
-  10,O
-   2,L
-StunPause
-  10,L
- 157
-SkipInput 3 11
-  18,L
-EndStunPause
-  93,L,J
-  10,L,K,G
-  10,L
-   2
-   6,L
-  10,L,J
-  30
-   6,R
-  10
-   2,R
- 103
-Set, Session.Time, 12742886690000
-Set, Engine.Scene.TimeActive, 524172.71875
-#The real number is Repeat 22494
-Repeat 4
-#21100  13.4
-   5,L
-  24,L,J
-  12
-   8,L
-  35,R
- 141
-   5,L
-  24,L,J
-  12
-   8,L
-  35,R
- 201
-   5,L
-  24,L,J
-  12
-   8,L
-  35,R
-  81
-   5,L
-  24,L,J
-  12
-   8,L
-  35,R
- 141
-   5,L
-  24,L,J
-  12
-   8,L
-  35,R
- 201
-EndRepeat
-  37,R
- 112,R,J
-   4,R
-   1,R,J
-  29,R
-   1,R,J
-  29,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  17,R
-   1,R,J
-  28,R
-  15,R,J
-  20,R,K,G
-   1,R,J,G
-   1,R,K,G
   12,R
+   8,D
+SkipInput 3 3
+  14,D
+   7,R
+EndStunPause
+   2,R,J
+StunPause
+  21,R,J
+EndStunPause
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   4,R,J
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
+   2,R,J
+   1,S,N
+  10,O
    1,R,J
-  20,R
+  12
+   1,S,N
+  10,O
+   2,R,J
+StunPause
+  49,R,J
+   4,R
+   7,R,K
+  26,R
+SkipInput 3 91
+ 105,D
+   5,R
+EndStunPause
+  86,R,J
+   1,R,K
+  18,R
    1,R,J
   14,R
    1,R,J
-  10,R
-   8,R
-   1
+  15,R
    1,R,J
    1
   40
@@ -3351,4 +3281,4 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 353:59:52.675(74964275)
+ChapterTime: 236:01:37.383(49982199)

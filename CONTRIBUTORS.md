@@ -3,6 +3,7 @@ The following people contributed inputs to this repository:
 Alexa  
 Algorythm  
 amber  
+Anhedonia  
 atpx8  
 cake  
 Celerity  
@@ -19,7 +20,6 @@ Ianwubby
 Janosch  
 JaThePlayer  
 lanbing  
-linn  
 lith  
 Marlin  
 masrock9   

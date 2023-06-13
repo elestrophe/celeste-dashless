@@ -38,7 +38,7 @@ Set,DashMode,Normal
 
 #console load 10 74243 -10525 40
 #  37
-#console subspawnjelly .10 .48
+#console subspawnjelly .10 .04
 #play,Farewell
 
 console load 10
@@ -6952,8 +6952,8 @@ AnalogMode,Precise
   14,L,D
    9,D
    1,L
-   9,R
- 110,R,U,G
+   8,R
+ 111,R,U,G
   18,R,D,G
    2,R,G
    2,R,J,G
@@ -7021,11 +7021,8 @@ AnalogMode,Precise
    3,R
    1
    3,R
-  22,R,U,J,G
-  33,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R,G
+  24,R,U,J,G
+  34,R,U,G
   20,L
   11,L,U,X
    6
@@ -7039,8 +7036,8 @@ AnalogMode,Precise
    2,R,D
    1,R,J,G
    3,L,J
-   3,R,J
-   2,R
+   2,R,J
+   3,R
    1,R,K,G
    1,R,J,G
    1,R

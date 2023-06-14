@@ -3679,12 +3679,11 @@ EndRepeat
    1,R,K
    1,R
    2,R,K
-   6,R
-   1,L
-   2,K,G
-   2,R,K
+   7,R
+   2,K
+   1,R,K
    1,K
-  46,R,K
+  47,R,K
   30,R,X
    7,R,J
   12,R,K

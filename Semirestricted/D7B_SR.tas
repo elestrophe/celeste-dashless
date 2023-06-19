@@ -1916,7 +1916,7 @@ EndRepeat
   40
 
 #lvl_e-03
-#7x
+#5x
    2,R,D
    1,R
    2,R,D
@@ -3236,7 +3236,7 @@ StunPause
    1,R,J
 
 #CP-05
-#3x
+#2x
   41,R,D
    1,R,J
    5,R

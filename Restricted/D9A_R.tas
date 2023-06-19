@@ -3467,35 +3467,36 @@ EndRepeat
    1,J
    2,K,G
   19,R,K
-   6,R,J,G
-   1,J
-  15,U,Z
-  13,R,J
+   7,R,J,G
+  15,U,X
+   1,R
+  11,R,J
+   1,R
    1,K,G
    4,R
+   6,L
+   1
    1,L
-   3
-  12,L
-  12,L,D
-   1,L
-   7,L,D
-   1,R,D
-   1,J
-   2,K,G
-  15,L,K
-   1,L
-   3,L,K
-   1,J,G
-   1,R,J
-   7,L,J
-   1,L,K,G
-   3,R,K
-   4,K
-   2,L,K
+   1
+  10,L,D
    2,L
+   5,L,D
+   1,L
+  10,L,D
+  19,L,J
+   1,L
+   2,L,J
+   1,K,G
+   1,R,K
+   7,L,K
    1,L,J,G
-  14,L,K,G
-   2,J
+   3,R,J
+   4,J
+   2,L,J
+   2,L
+   1,L,K,G
+  14,L,J,G
+   2,K
   12,U,X
   40
 
@@ -3511,7 +3512,8 @@ EndRepeat
    1,J,G
    1,K,G
    2,J,G
-  10,G
+   7
+   3,G
    1,J,G
    1,R,K
   11,R,J
@@ -5948,8 +5950,7 @@ EndRepeat
    5,R
    2,R,J
    7,R
-   5,R,J
-   5,R,J
+  10,R,J
   31,R,K
    1,R,J,G
    2,R,K,G

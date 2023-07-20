@@ -21,7 +21,8 @@
 console load 7
    1
 
-Read D7A_R Start lvl_a-06
+#Start
+Read D7A Start lvl_a-06
 #12x
 
 #lvl_a-06
@@ -89,7 +90,7 @@ Read D7A_R Start lvl_a-06
    1,D,J
  141
 
-Read D7A_R lvl_b-00 lvl_b-02c
+Read D7A lvl_b-00 lvl_b-02c
 #2x
 
 #lvl_b-02c
@@ -243,7 +244,7 @@ Read D7A_R lvl_b-00 lvl_b-02c
    9,R
   40
 
-Read D7A_R lvl_b-06 lvl_c-06
+Read D7A lvl_b-06 lvl_c-06
 #17x
 
 #lvl_c-06
@@ -457,7 +458,7 @@ Read D7A_R lvl_b-06 lvl_c-06
    7,R
   40
 
-Read D7A_R lvl_c-08 lvl_d-03
+Read D7A lvl_c-08 lvl_d-03
 #10x
 
 #lvl_d-03
@@ -682,7 +683,7 @@ EndRepeat
    7,R
   40
 
-Read D7A_R lvl_d-04 lvl_d-05
+Read D7A lvl_d-04 lvl_d-05
 #1x
 
 #lvl_d-05
@@ -830,7 +831,7 @@ Read D7A_R lvl_d-04 lvl_d-05
    1,J
   40
 
-Read D7A_R lvl_d-06 lvl_e-00b
+Read D7A lvl_d-06 lvl_e-00b
 #7x
 
 #lvl_e-00b
@@ -995,7 +996,7 @@ EndRepeat
    6,R,K
   40
 
-Read D7A_R lvl_e-02 lvl_f-02
+Read D7A lvl_e-02 lvl_f-02
 #13x
 
 #lvl_f-02
@@ -1108,7 +1109,7 @@ Read D7A_R lvl_e-02 lvl_f-02
   43
   40
 
-Read D7A_R lvl_f-07 lvl_g-00b
+Read D7A lvl_f-07 lvl_g-00b
 #16x
 
 #lvl_g-00b
@@ -1196,6 +1197,7 @@ Read D7A_R lvl_f-07 lvl_g-00b
    9,R,K
    7,R
 
-Read D7A_R CP-27
+Read D7A CP-27
 #70x
+
 ChapterTime: 12:41.566(44798)

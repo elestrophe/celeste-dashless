@@ -4498,6 +4498,7 @@ EndRepeat
    1,K
    3,J,G
   88,L,J
+AnalogMode,Ignore
   27,R,U
  120,F,16
   13,R

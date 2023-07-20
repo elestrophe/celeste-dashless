@@ -335,7 +335,7 @@ console load 3
    4,R,D,J
   40
 
-#lvl_02-a
+#lvl_02-a (0)
 #0x
    4,R,J
    4,R
@@ -429,7 +429,7 @@ console load 3
    7,R
   40
 
-#lvl_02-a
+#lvl_02-a (1)
 #0x
    8,R
    1,L
@@ -644,7 +644,7 @@ console load 3
    6,R,K,G
   40
 
-#lvl_07-a
+#lvl_07-a (0)
 #0x
    3,R,J
    1,L,K,G
@@ -657,7 +657,7 @@ console load 3
    1,L,K,G
   40
 
-#lvl_07-b
+#lvl_07-b (0)
 #0x
    2,J,G
    1
@@ -865,7 +865,7 @@ console load 3
   11,L
   40
 
-#lvl_07-b (2)
+#lvl_07-b (1)
 #0x
    3,L
    4,L,J
@@ -900,7 +900,7 @@ console load 3
   13,L,D
   40
 
-#lvl_07-a
+#lvl_07-a (1)
 #0x
   14,L,D
    1,R,D
@@ -1071,7 +1071,7 @@ console load 3
    6,R,J
   40
 
-#lvl_09-b
+#lvl_09-b (0)
 #0x
   12,R,J
    1,L,J
@@ -1253,7 +1253,7 @@ console load 3
   12,R,K
   40
 
-#lvl_10-c
+#lvl_10-c (0)
 #0x
    1,R,J,G
    2,R
@@ -1465,12 +1465,12 @@ console load 3
   35,L,D
   40
 
-#lvl_10-c
+#lvl_10-c (1)
 #0x
   43,L,D
   41
 
-#lvl_09-b
+#lvl_09-b (1)
 #0x
   11,D
    8,R,D
@@ -1543,7 +1543,7 @@ console load 3
   18,R,D
   40
 
-#lvl_10-x
+#lvl_10-x (0)
 #0x
    2,L,D
    6,R,D
@@ -1751,7 +1751,7 @@ console load 3
   12,L,J,G
   40
 
-#lvl_10-x
+#lvl_10-x (1)
 #1x
   11
    1,R,J
@@ -1788,7 +1788,7 @@ console load 3
   40
 
 #H2-Return
-#lvl_09-b
+#lvl_09-b (2)
 #0x
    4,L
   11,L,J,G
@@ -2092,7 +2092,7 @@ console load 3
   10,L
   40
 
-#lvl_09-b
+#lvl_09-b (3)
 #0x
    1,L
   10,L,J
@@ -2350,7 +2350,7 @@ console load 3
    5,L,J
   40,J
 
-#lvl_04-d
+#lvl_04-d (0)
 #3x
    4,L,J
   40,L,D
@@ -2401,7 +2401,7 @@ console load 3
    5,L,D
   40
 
-#lvl_04-c
+#lvl_04-c (0)
 #0x
    8,L,D
    1,L,J
@@ -2488,7 +2488,7 @@ console load 3
    8,R,D,J
   40
 
-#lvl_04-c
+#lvl_04-c (1)
 #0x
   14,R,J
   91,D
@@ -2502,7 +2502,7 @@ console load 3
    9,R,J,G
   40
 
-#lvl_04-d
+#lvl_04-d (1)
 #0x
    9,L,J
    4,L

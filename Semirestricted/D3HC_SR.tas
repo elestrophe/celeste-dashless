@@ -1729,7 +1729,6 @@ EndRepeat
 
 #lvl_11-d
 #1x
-
    4,L
    1,L,J
    9,L
@@ -1771,7 +1770,6 @@ EndStunPause
   13,L
    1,L,J
   14,L
-
   40
 
 #lvl_10-d
@@ -1911,8 +1909,6 @@ EndStunPause
   10,D
    1,R,D
   40
-
-
 
 #H2
 #lvl_11-z
@@ -2490,7 +2486,6 @@ EndStunPause
   13,L
   45,L,J
   17,D
-
    5,J
    1
   23,L
@@ -2567,6 +2562,9 @@ EndRepeat
    8,R
    4,R,D,J
   40
+
+#lvl_02-c (1)
+#0x
    3,R,J
    1,R
   13,R,J
@@ -2641,7 +2639,6 @@ EndRepeat
    1,L,J
    4,L
   40
-
 
 #lvl_02-d
 #3x

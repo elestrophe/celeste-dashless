@@ -108,7 +108,7 @@ console load 2
   10,R
    8,R,J
   15,R,X
- 115,D
+ 135,D
 
 #Restart
    1,Q
@@ -216,4 +216,4 @@ EndRepeat
 Read,D2A,lvl_d6
 #20x
 
-ChapterTime: 2:47.722(9866)
+FileTime: 3:10.808(11224)

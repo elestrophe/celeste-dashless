@@ -799,7 +799,7 @@ Read,D3A,H2,H2-Return
 Read,D3A,H3,lvl_02-c
 #5x
 
-#lvl_02-c
+#lvl_02-c (0)
 #0x
   14,L
    1,L,J
@@ -894,6 +894,9 @@ EndRepeat
    8,R
    4,R,D,J
   40
+
+#lvl_02-c (1)
+#0x
    3,R,J
    1,R
   13,R,J
@@ -959,7 +962,7 @@ EndRepeat
    9,R,J,G
   40
 
-Read, D3A_R, lvl_04-d (1)
+Read,D3A,lvl_04-d (1)
 #7x
 
 ChapterTime: 6:44.719(23807)

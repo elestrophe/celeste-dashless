@@ -1209,7 +1209,6 @@ console load 3
    1,D,J
   34
 #H1-Return
-
    4,R
    1,R,J
   14,R
@@ -1729,7 +1728,6 @@ EndRepeat
 
 #lvl_11-d
 #1x
-
    4,L
    1,L,J
    9,L
@@ -1771,7 +1769,6 @@ EndStunPause
   13,L
    1,L,J
   14,L
-
   40
 
 #lvl_10-d
@@ -2488,7 +2485,7 @@ EndStunPause
    1,L,J
   40
 
-#lvl_02-c
+#lvl_02-c (0)
 #0x
   14,L
    1,L,J
@@ -2507,7 +2504,6 @@ EndStunPause
   13,L
   45,L,J
   17,D
-
    5,J
    1
   23,L
@@ -2584,6 +2580,9 @@ EndRepeat
    8,R
    4,R,D,J
   40
+
+#lvl_02-c (1)
+#0x
    3,R,J
    1,R
   13,R,J

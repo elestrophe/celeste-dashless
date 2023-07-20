@@ -108,14 +108,14 @@ console load 2
   10,R
    8,R,J
   15,R,X
- 115,D
+ 135,D
 
 #Restart
    1,Q
    1,J
-  30
-#0:15.929(937)
-   1
+  31
 
 Read,D2A,Start
 #20x
+
+FileTime: 2:54.794(10282)

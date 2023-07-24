@@ -1,4 +1,4 @@
-#2H 27x (R/SR/U)
+#2H 25x (R/SR/U)
 
 console load 2
    1
@@ -19,18 +19,24 @@ console load 2
 
 #lvl_00
 #1x
-   5
-   2,L
-  15,U,X
-   1,L
+  10,R
+   2
+  15,U,Z
+   9,R
+   1,J,G
+   1,K,G
+   1,J,G
+  16,L,J
   40
 
 #lvl_start (1)
-#1x
-  10,L
-  15,U,X
-  18,R,J
-  40
+#0x
+  10,L,J
+   1,R,J
+  12,R,K,G
+  12,R,J,G
+  11,R,K,G
+  40,J
 
 #lvl_s0 (0)
 #0x
@@ -41,56 +47,50 @@ console load 2
   11,K,G
    1,L,K,G
   14,R,J,G
-  11,K,G
-   1,L,K,G
-  14,R,J,G
-   6,R,K,G
+  17,K,G
+   1,R,K
+   1,L,K
+   1,L,J
+  20,L,K
   40
 
 #lvl_s1 (0)
-#1x
-   8,R,J,G
-   1,K
-  46,L,J
-  15,L,U,X
-  29,L,J
+#0x
+  39,L,J
   40
 
 #lvl_s0 (1)
 #1x
-   7,L,U,X
+   6,L,J
+   4,L
+  15,L,U,Z
+   9,L
   40
 
 #lvl_s1 (1)
 #1x
-  35,L,J
+  34,L,J
   15,L,U,Z
-   5,L
-   7,R
-   1,J,G
-   4,R,J
-   4,J
-   1,R,J
-   1,L,J
-   1,R,J
+  15,L,J
+   1,R
+  13,R,J,G
   13,R,K,G
    1,J,G
    1,R,J
    1,R
    1,L
    1,R
-  11,R,K,G
-   3,R
+  15,R,K,G
    1,R,J,G
-   1,R,K,G
-   9,R
-   6,R,J
-  10,R,K,G
+  10,R
+   7,R,J
+   2,R
+   8,R,K,G
    1,J,G
-   1,R,J
+   6,R,J
    1,L,J
    1,R,J
-   9,R,K,G
+   4,R,K,G
   40
 
 #lvl_s2
@@ -118,4 +118,4 @@ console load 2
 Read,D2A,Start
 #20x
 
-FileTime: 2:54.794(10282)
+FileTime: 2:55.151(10303)

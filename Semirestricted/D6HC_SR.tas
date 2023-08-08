@@ -514,7 +514,7 @@ Read, D6A, Start, lvl_04
    7,R,K
   40
 
-Read, D6A_SR.tas, lvl_07 (0)
+Read, D6A, lvl_07 (0)
 #14x
 
 ChapterTime: 13:52.031(48943)

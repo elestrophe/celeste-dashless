@@ -1,4 +1,4 @@
-#6A 19x (SR)
+#6A 17x (SR)
 
 #StunPauseMode,Simulate
 
@@ -690,7 +690,7 @@ EndStunPause
    7,R,K
   40
 
-#lvl_07 (0)
+#lvl_07
 #0x
   15,R,J
   12,R
@@ -715,7 +715,7 @@ EndStunPause
    7,R
   40
 
-#lvl_08b (0)
+#lvl_08b
 #0x
 #so much free timesaver if you adjust this s&q timing.
    1,S
@@ -743,7 +743,7 @@ Read, ../SaveandQuitD.tas, Start
    7,R
   40
 
-#lvl_08b (1)
+#lvl_07 
    3,R
    2,R,J
    5,R
@@ -1895,10 +1895,18 @@ EndStunPause
   40
 
 #lvl_boss-06
-#1x
-  21,D
-  12,R,D,J
-   6,R,J
+#0x
+   1,S
+   1,D,J
+  72,O
+9999
+9999
+9999
+9999
+ 106
+   1,R,J
+   2
+  22,R,J
   30,R,K
   10,R,J,G
   11,K,G
@@ -1922,19 +1930,62 @@ EndStunPause
    1,R,J,G
   11,R
    1,R,J
-  42,R,D
-  42,L
-  20,U,X
-  14,R,J
-   6,R
-  15,R,J
-   2,R,K,G
-  14,R
-   3,R,D,J
-   6,R
-   4,R,J
-   5,R,K
-  21,R
+  22,R
+  21,R,D
+  11,L
+   6
+   1,L
+Repeat 4
+   1,S,N
+  10,O
+   2,L
+EndRepeat
+   1,S,N
+  10,O
+   1,L
+   1,S,N
+  10,O
+   2,L
+Repeat 10
+   1,S,N
+  10,O
+   1,L
+EndRepeat
+   1,L
+Repeat 7
+   1,S,N
+  10,O
+   1,L
+EndRepeat
+   1,L
+StunPause
+  15,L
+   4
+   1,L
+   1,R,J
+EndStunPause
+   1,J
+   8,L,J
+   1,K,G
+   2,R,K
+  22,R,J
+  18,R
+  12,R,J
+   1,R,K,G
+   3,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,R,J,G
+   2,R,J
+  12,R,K,G
+   9,R
+   1,R,J
+  15,R
+   1,R,J
+  57,R,D
+   3,J,G
+  14,K
   43,L,D
    1,R,J
   60,R,D
@@ -1992,9 +2043,9 @@ EndStunPause
    3,R
   39,R,J
   16,L,D
-  72,R,D
+  70,R,D
 StunPause
-  21,R,D
+  23,R,D
 EndStunPause
    1,R,D
   29,R,J
@@ -2117,12 +2168,18 @@ EndStunPause
 
 #lvl_boss-11
 #0x
-   1,R,J
+   3,R,J
 StunPause
-   6,R,J
-  36,R,D
+   4,R,J
+   3,R,D
+EndStunPause
+StunPause
+  33,R,D
    9,R,J
-  30,R,D
+   5,R,D
+EndStunPause
+StunPause
+  25,R,D
 EndStunPause
    6,R,J
    8,R
@@ -2173,34 +2230,41 @@ EndStunPause
    1,R
    1,R,J
   32,R
-   9,R,J
-StunPause
-  11,R,J
-   3,R,K,G
-   1,R,J,G
-   4,L,J,G
-   6,R,J,G
-   1,R,J
+  15,R,J
+   5,R
    1,R,K,G
    1,R,J,G
-  14,R
+   5,L,J,G
+   9,R,J,G
+StunPause
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   2,R
+  12,R
    1,R,J
    2,L,J
    2,R,J
-   3,R
+   2,R
    1,R,K,G
    3,R,J,G
-  21,R
-   5,R,J
-   4,R
-   1,R,J,G
+   1,R
+   8
+   2,R
 EndStunPause
-  12,R,K,G
-  16,R
-  29,R
-   1,L,J
-  30,L,D
-  31,D
+StunPause
+  10,R
+   1,R,J
+  10,R,J
+  15,R
+EndStunPause
+   2,R,J
+   6,R
+  13,R,J
+  32,R
+   1,J
+  16,L,D
+  43,D
   40
 
 #lvl_boss-12
@@ -2504,89 +2568,99 @@ EndStunPause
   40
 
 #lvl_boss-18
-#1x
-   6,R,D
-   9,D
-   3,L,D
-AnalogMode,Square
-  27,F,141.606
-AnalogMode,Precise
-   6,F,171.313
-   1,F,166.006
-  11,F,106
-  29,F,101.717
+#0x
+   1,S
+   1,D,J
+  72,O
+9999
+7209
+  20,R,J
+   9,R,D
+  14,L,D
+  38,F,160
+   7,F,140
+   5,F,120
+  30,F,99.5
   12,F,37
   14,F,346.515
   12,F,51
   12,F,115
-   8,F,180
+  10,F,180
   28,R,D
   56,D
    1
   22,L
   52,L,D
   11,D
-   1
-   1,L,D
-   1
-   2,D,G
-   5,G
-   2,R
-   3,R,J
-  32,R
-  51,L
-  15,L,D,X
-  15,L
-   1,J,G
-   7,L,D
-   7,R,D
-  47,G
-   3,D,G
-   6,G
-   1,J,G
-   1,L,J
-   8,R,J
-  14,R
-   3,L
-  11,L,J,G
-   1,L
-   9
-   1,L
-   8,D
-   4,R,D
-   7,D,G
-   1,G
-   1,D,G
-   6,G
-  11,R,D
    1,D
-   1,R,D
-   1,L,D,J,G
-   1,L,K,G
+   1,L,D
+   1,D
+   4,D,G
+   3,G
+  34,R
+  11,L
+   6
+   1,L
+Repeat 4
+   1,S,N
+  10,O
+   2,L
+EndRepeat
+   1,S,N
+  10,O
+   1,L
+   1,S,N
+  10,O
+   2,L
+Repeat 10
+   1,S,N
+  10,O
+   1,L
+EndRepeat
+   1,L
+Repeat 7
+   1,S,N
+  10,O
+   1,L
+EndRepeat
+   1,L
+StunPause
+  17,L
+  14
+EndStunPause
+  14,L
+   5,R,J
   19,R
   68,L,D
   56,D
-   1,L
-   1,L,D
-   6,L
-   1,L,D
-  42,R
-  11,L,J
+   4,D
+   4,L
+   2,R
+  41,R
+  12,L,J
   37,L
   10,R,J
-   5,R
-   2,R,J
-  29,R
+  10,R
+   1,R,J
+  25,R
    1,R,J,G
    1,R,K,G
   10,R
-#can land ultra here
    1,R,J
    5,R
   40
 
 #lvl_boss-19
 #2x
+   1,S
+   1,U
+   1,F,0
+   1,U,J
+  31
+Read, ../SaveandQuitD.tas, Start
+  36
+   4,R
+   1
    9,R
    1,R,J
   14,R
@@ -2595,29 +2669,31 @@ AnalogMode,Precise
   38,R
   27,R,U
   13,F,70
-   5,F,90
+   5,F,89.8
   39,F,99
    4,F,90
   31,F,78
-  30,F,90
-  30,F,84
-  83,F,97
-   5,F,90
-  26,F,35
-  10,F,90
-  32,F,124
+  20,F,90
+  35,F,82
+  92,F,97.4
+   3,F,90
+  22,F,35
+   4
+  12,F,63
+  34,F,139
    7,F,116
-  21,F,104
-  10,F,90
-  20,F,33
-   8,F,90
-  19,F,122.5
-   1,R,J
-   2,R
+  21,F,107
+  19,F,90
+  21,F,33
+   3,F,90
+   8,F,122.5
   14,R,D,X
-  23,R,J
-  12,R,K,G
-   5,J,G
+   1,R,J
+  15,R
+  17,R,K
+   5,K
+   1,R,K
+   8,J,G
    1,L,J
   14,R,K,G
    1,R,J,G
@@ -2629,7 +2705,7 @@ AnalogMode,Precise
   57,R
    1,R,J,G
    1,R,K,G
-  23,R
+  22,R
   46,L
   15,R,J
   37,R
@@ -2697,8 +2773,6 @@ AnalogMode,Precise
    2,R
    1,R,J,G
    4,R
-   1,S,N
-  10,O
    2,R
    1,S,N
    1,D,J
@@ -2904,4 +2978,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 13:16.314(46842)
+ChapterTime: 29:46.326(105078)

@@ -690,7 +690,7 @@ EndStunPause
    7,R,K
   40
 
-#lvl_07
+#lvl_07 (0)
 #0x
   15,R,J
   12,R
@@ -715,7 +715,7 @@ EndStunPause
    7,R
   40
 
-#lvl_08b
+#lvl_08b (0)
 #0x
 #so much free timesaver if you adjust this s&q timing.
    1,S
@@ -743,7 +743,7 @@ Read, ../SaveandQuitD.tas, Start
    7,R
   40
 
-#lvl_07 
+#lvl_08b (1)
    3,R
    2,R,J
    5,R

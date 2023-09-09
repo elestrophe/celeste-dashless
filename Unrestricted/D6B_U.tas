@@ -1167,7 +1167,7 @@ Set Engine.Scene.TimeActive 524278.875
   40
 
 #lvl_c-02
-#8x
+#7x
    9,R
    1,R,J
   15,R,D
@@ -1285,7 +1285,7 @@ Set Engine.Scene.TimeActive 524278.875
   40
 
 #lvl_c-04
-#1x
+#0x
    9,R
    1,R,J
   16,R
@@ -1545,7 +1545,7 @@ Set Engine.Scene.TimeActive 524278.875
   40
 
 #lvl_d-03
-#3x
+#2x
    1,R
    1,R,J
    2,L

@@ -500,7 +500,7 @@ Set Session.Time 4247785240000
   40
 
 #lvl_a-07
-#1x
+#0x
   10,R
    1,R,J
   14,R
@@ -560,7 +560,7 @@ Set Session.Time 4247785240000
   43
 
 #lvl_a-08 (0)
-#0x
+#1x
   11,R,D,X
    1,R,J
    7,R

@@ -376,7 +376,7 @@ EndStunPause
   40
 
 #lvl_04
-#0x
+#3x
    3
    1,R
    1,L,J,G
@@ -899,7 +899,6 @@ EndStunPause
    7,R,J
    1,R
  100
-
 Set Engine.Scene.TimeActive 524287.875
 #Set Session.Time 4247785240000
 Set Session.Time 4247855280000
@@ -1206,9 +1205,6 @@ Set Session.Time 4247855280000
    1,R,J
   13,R
   43
-
-
-
 
 #lvl_18b
 #0x

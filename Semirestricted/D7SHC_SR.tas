@@ -4648,7 +4648,7 @@ EndStunPause
 
 #lvl_f-00
 #0x
-  36
+  65
    1,S
    1,U
    1,F,0
@@ -7371,4 +7371,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 37:47.171(133363)
+ChapterTime: 37:47.664(133392)

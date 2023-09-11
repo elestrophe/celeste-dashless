@@ -1,4 +1,4 @@
-#7B 101x (SR)
+#7B 99x (SR)
 #Uses S&Q, edit SaveandQuitD.tas
 #to work with your game
 
@@ -242,7 +242,7 @@ EndStunPause
   40
 
 #lvl_a-03
-#5x
+#4x
    6,R
    1,R,J
   14,R
@@ -268,28 +268,49 @@ EndStunPause
    2,L
    4,D,X
   11,L,X
-  57,L
-#it looks like this can be saved but theres no good cycle
-#(that I know of)
-  15,L,X
-  25,L
-   1
-   2,L,J,G
-  11,J
-  12,K,G
-  12,J,G
-  12,K,G
-   1,R,J
-  13,R,K
-   2,L
+  19,L
+  41
+   8,R
+  16
 StunPause
+   2,R
+  44,D
+   8,L,D
+   1,L,J,G
   15,L
 EndStunPause
+  12,L
+  10,R,J
+  21,L,J
+   1,K
+   1,L,J,G
 StunPause
-   1,L
+  16,L,J,G
+   2,L
+  17,L,J
+   7,K,G
+   1,R,K
+  14,L,J,G
+   1,K
+   3,L,K
+  12,L,J,G
+  12,K,G
+   6,J,G
+   7,L
 EndStunPause
+  12,L,J
+  11,K,G
+   1,R,K
+  14,L,J,G
+  12,K,G
+  12,J,G
+   6,K,G
+   1,R,K
+   1,R,J
+  13,R,K
 StunPause
-  49,L
+  41
+  26,L
    1,J,G
    1,L,J
 EndStunPause
@@ -304,36 +325,33 @@ EndStunPause
    1,L,J
    8,J
   12,K,G
-  10,J,G
+   8,G
+Repeat 1061
+   1,G
+   1
+EndRepeat
+   1,G
+   7,J,G
    2,R,J
    1,K
    6,R,K
-   2,K
-  77,R,K
-StunPause
-   2,R
-   1,R,D
+   2,R,K
+  83,R,K
+   4,L
    1,R
-   3,R,D
-   2,D
-  26,R,D
-   1,D
-  16,R,D
-   3,D
-   1
-   3,D
-   4,K,G
-   9,R,K
-   1,J,G
+StunPause
+  51,R
+  14,R,J,G
+   1,K
+   1,R,J,G
    1,L,J
-   1,R,J
-   1,R,K,G
-   1,L,K
-  15,R,K
-   1,L,J
+   3,J,G
+  15,R,J
+   1,K
 EndStunPause
-  14,L,J
-  52,R
+  14,L,K
+  41
+  11,R
    3,J,G
    5,L,J
    1,L
@@ -1164,7 +1182,7 @@ EndRepeat
 #lvl_d-00
 #1x
   41
-  36
+  37
    4,L
   11,L,J
    1,J
@@ -1227,10 +1245,11 @@ EndStunPause
   15,R,U,Z
   14,L
    3,G
-Repeat,1715
+Repeat,148
    1
    1,G
 EndRepeat
+   1,G
    1,L,K,G
    3,L,K
    1,K
@@ -1555,6 +1574,7 @@ SkipInput,3,1
    1,K
    1,L,K
    1,J,G
+SkipInput 1
    4,L,J
    2,J
 EndStunPause
@@ -1564,9 +1584,9 @@ EndStunPause
    8,L,K,G
    7,K
    3,L,K
-   3,R,J
+   7,R,J
 StunPause
-  32,R,J
+  28,R,J
 SkipInput,3,1
   15,R,U,X
   23,R
@@ -2459,209 +2479,257 @@ EndStunPause
 #CP-20
 #0x
   73
-#spinner cycle
-   1
+#3000M
+  21
+   5,L
+   2,L,J
+   5,L
+   3,L,J
+   2,L
+   1,L,J
+   1,L
+  17,L,J
+   1,L,K,G
+   3,L,J,G
    5,L
    1,L,J
-  14,L
-  16,L,J
-   1,L,K,G
-   2,L,J,G
-   1,J
-   7,L
-   4,L,D,K
+   2,L
+  11,D,J
+   2
+   9,K,G
+   1,L,K
+   1,K
    1,R,K
    1,L,K
-   6,K
-   9,J,G
-   2,R,J
-   1,L,K,G
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   3,L,K
-   1,R,K
-   1,L,K
-   1,L,J,G
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   2,R,J
-   1,L,J
-   1,K,G
-   1,R,K
-   1,L,J,G
-   1,R,J
-   1,L,J
-   9,J
-   7
    1,J,G
-   6,L,J
-   4,J
    1,R,J
-   5,K
-   1,J
-   7
-  15,L,J
+   7,L,J
    1,L,K,G
-  10,L,K
-   3,L
-   7
-
-#CP-19
-#0x
-   8,R
-  10,R,J
-  17,R
-  23,R,J
-  11,K,G
+Repeat, 5
+   1,R,K
    1,L,K
-   1,R,K,G
-  11,R,J,G
-  35,R,J
-  11,K,G
+EndRepeat
+   2,R,K
    1,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+  11,K
+   1,L,K
+   1,L
+   4,R
+   1,L
+  11,J,G
+   1,R,J
+   3,K
+   1,L,K
+   1,K
+   1,L,K
+   2,K
+   1,J
+   4,L,J
+   3,J
+   1
+   1,K
+   5,J,G
+   1,R,J
+   1,R
    1,R,K,G
-  11,R,J,G
-  10,R,J
-  12,R,K
-  24,R,J,G
-  15,K,G
-   8,J,G
+   1,R,J,G
    8,R
+  18,R,J
+   1,R,K,G
+   3,L,K
+   2,K
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,J
+  10,R
+   7,R,J
+   5,R
+   2,R,J
+   9,R
+   1,R,J,G
+  15,R,K,G
+   1,J,G
+   1,L,J
+  14,R,K,G
+   2,R,J,G
+   7,R
 
 #CP-18
 #0x
-  12,R
-   1,R,D,J
-   3,R,J
-   2,R
-   1,R,K,G
-   6,R,K
-   4
-   1,R
-   1,J,G
+  13,R,J
+  12,K
+  12,J,G
+  12,K,G
+   9,J,G
+   1,R,J
+   2,L,J
+   1,K
+  13,L,K
+   2,K
+   1,J
    6,L,J
-  10,R,J
-  11,K,G
-   1,L,K
-  14,R,J,G
-  11,K,G
-   1,J,G
-  20,L,J
-  10,L,K
-   7,R,J
-   7,L,K
-   7,R,J
-   7,L,K
-   7,R,J
-   7,L,K
-  11,R,J
-  11,L,K
-  20,L
-   1,L,J
-  10,L
-   1,L,J
-  10,L
-   1,L,J
-  10,L
-  12,L,J
-  10,L
-  14,L,D,K
-   1,R
+   1,K
+   6,R,K
+   1,J
+   8,L,J
+   3,J
+   1,K
+   8,R,K
+   1,J
+   7,L,J
    1,L
-   8,J,G
-   1,R,J
-   1,R
-   1,L,K,G
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   3,L,K
-   1,R,K
-   1,L,K
-   1,L,J,G
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
+   6,J
    2,R,J
-   1,L,J
-   1,K,G
-   1,R,K
    2,J
-  11,R,J
-  12,L,K
-  12,R,J
-   6,K,G
-   9,L,J
-  23,R,K
-  11,R
-   4,R,D
-   1,R,J
-  10,R
-   1,R,J
-  10,R
-  30,R,J
-   6,R
-   1,R,D,K
-  14,R,K
-  11,J,G
-   1,L,J
-  14,R,K,G
-  10,J,G
-   1,L,J
-  14,R,K,G
-   1,J,G
-  21,L,J
-   7,L,K
-   7,R,J
-   7,L,K
-   7,R,J
-   7,L,K
-   8,R,J
-  10,R
-
-#CP-17
-#1x
-  17,R,J
    1,K
-  20,R,K
    7,J,G
-   1,K
-  10,R,K
-  15,L,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   5,L
+   1,L,J
+   2,L
+   1,L,J
+  17,L
+   1,L,J
+  10,L
+   9,L,J
+   2,L,K,G
    7,L
-   4,D,X
-   8,L,U,X
-   1,J
-  25,R,J
+  12,L,D,J
+  11,K,G
+   1,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   7,L,J
+   1,L,K,G
+Repeat, 5
+   1,R,K
+   1,L,K
+EndRepeat
+   2,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+  11,K
+   7
+   4,J
+   5,R,J
    1,K,G
-   5,K
-  13,L,J
-   2,R,G
-  15,R,K,G
-   1,J
+   1,L,K
+   2,J
+   5,L,J
+   2,J
+   1,K
+   7,J,G
+   1,R,J
+   1,R,K,G
+   2,R,J,G
+   7,R
+   1,R,J
+   6,R
+   2,R,J
+  10,R
+   1,R,J
+   9,R
+   1,K
    9,R,J
-StunPause
+   1,R,K,G
+   1,R,J,G
+   7,R
+  12,R,J
+   9,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+  12,K,G
+  10,J,G
+   1,L
+   1,L,K
+  16,L,J
+  12,L,K
+   7,J,G
+   1,R,J
+   1,K
+   1,J
+   4,R,J
+   1,J
+   1,R,J
+   1,K
+   7,J,G
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L
+   1
+   5,L
+   1,L,J
+   6,L
+   2,L,J
+   7,L
+   1,L,K
+  10,L
+   7,L,J
+   5,L
+   1,L,K,G
+   1,L,J,G
+   1
+   6,L
+   1,L,J
+   6,L
+   2,L,J
+   7,L
+  17,L,D,K
+   1,J,G
+   2,L,J
+   3,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   2,J,G
+   1,R,J
+   1,L
+   3,L,K,G
+   1,R,K
+  13,L,K
+   1,J,G
+   2,L,J
+   1,R,J
+   1,R,K
   16,R,J
+   1,R,K,G
+   1,R,J,G
+   1
+   4,R
+   2,R,J
+   1,R
+   5,R,D
+  10,R,J
+   5,R
+   4,R,J
+   3,J
+   1,L,K,G
+Repeat,4
+   1,R,K
+   1,L,K
+EndRepeat
+  27,R,J
+   6,K,G
+   2,L,K
+   1,J
+   8,R,J
+StunPause
+  17,R,J
   10,K,G
    9,R
 
@@ -2682,9 +2750,9 @@ EndStunPause
   26,R,J
   15,L,J
   27,L,U,X
-  10,R,J
+   8,R,J
 StunPause
-  19,R,J
+  21,R,J
 SkipInput,3,1
   15,R,U,X
   25,R
@@ -3713,4 +3781,4 @@ EndStunPause
   14,U,X
    4,J
  136,L
-ChapterTime: 27:02.480(95440)
+ChapterTime: 27:01.800(95400)

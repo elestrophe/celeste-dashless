@@ -3174,7 +3174,7 @@ EndRepeat
    4,L
 
 # ---------
-#Spinner cycle
+#Spinner cycle (f-05)
 #0-1
 
    1
@@ -3237,7 +3237,7 @@ EndRepeat
   97,R
 
 # ---------
-#Spinner cycle
+#Spinner cycle (f-06)
 #0-2
 
    0,R
@@ -3953,7 +3953,7 @@ AnalogMode,Precise
   51
 
 # ---------
-#Spinner cycle
+#Spinner cycle (g-06)
 #0-2
 
    0

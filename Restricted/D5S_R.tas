@@ -3390,7 +3390,7 @@ EndRepeat
   76,L,X
   58
 
-#lvl_d-02
+#lvl_d-05
 #0x
   22,L
   15,R
@@ -3399,6 +3399,9 @@ EndRepeat
   46,D
   19,L,D
   40
+
+#lvl_d-02
+#0x
    9,L,D
    1,L,J
   45,L,D

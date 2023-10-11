@@ -630,7 +630,7 @@ endrepeat
 Read,D5A,lvl_a-00b,lvl_a-01
 #0x
 
-#lvl_a-00 (1)
+#lvl_a-00 (2)
 #1x
    4,R
   31,R,J

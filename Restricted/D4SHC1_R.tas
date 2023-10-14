@@ -1,0 +1,47 @@
+#4SHC1 +1x (R)
+
+console load 4 c-00
+   1
+
+#Start
+  36
+
+#lvl_c-00
+#1x
+   4,L
+  11,L,J
+  12,R,K,G
+  15,U,X
+  19,L,J
+  13,L,K,G
+  13,L,J,G
+   1,L,K,G
+  11,L
+   1,L,J
+  12,L
+  40
+
+#lvl_c-01
+#0x
+   2,L
+  19,J
+   1,R,J
+  11,K,G
+   1,L,K,G
+  20,R,J,G
+  11,K,G
+   1,L,K,G
+  24,R,J,G
+  28,L,K
+  76,R,K
+  11,J,G
+   1,L,J,G
+  24,R,K,G
+   1,R,J,G
+   8,R
+   9,D
+   1,S,N
+   1,U,J,N
+   1,N,O
+  31,N
+FileTime: 0:07.939(467)

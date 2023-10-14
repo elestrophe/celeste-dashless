@@ -6354,6 +6354,7 @@ EndRepeat
   20,L,J
   15,L,X
    7,L
+AnalogMode,Ignore
   27,R,U
   46,F,63
   10,F,

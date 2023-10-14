@@ -1,6 +1,4 @@
 #7B 99x (SR)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -1622,7 +1620,7 @@ EndStunPause
    1,N,F,0
    1,U,J,N
   31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    2
   13,R
@@ -2100,7 +2098,7 @@ EndStunPause
    1,N,F,0
    1,U,J,N
   31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
 3708
    5,R
@@ -2283,7 +2281,7 @@ EndStunPause
    1,N,F,0
    1,U,J,N
   31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter
   36
   20,L
    1
@@ -2775,7 +2773,7 @@ EndStunPause
    1,N,F,0
    1,U,J,N
   31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter 
   36
    4,R,J
 StunPause
@@ -2866,7 +2864,7 @@ EndStunPause
    1,N,F,0
    1,U,J,N
   31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter 
   36
    4,L
    2,L,J
@@ -2935,7 +2933,7 @@ EndStunPause
    1,N,F,0
    1,U,J,N
   31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter
   36
  921
    1,R,J

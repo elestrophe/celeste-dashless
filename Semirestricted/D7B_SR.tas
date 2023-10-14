@@ -1619,7 +1619,6 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
 SaveAndQuitReenter
   36
    2
@@ -2097,7 +2096,6 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
 SaveAndQuitReenter
   36
 3708
@@ -2280,7 +2278,6 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
 SaveAndQuitReenter
   36
   20,L
@@ -2772,7 +2769,6 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
 SaveAndQuitReenter 
   36
    4,R,J
@@ -2863,7 +2859,6 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
 SaveAndQuitReenter 
   36
    4,L
@@ -2932,7 +2927,6 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
 SaveAndQuitReenter
   36
  921

@@ -1,6 +1,4 @@
 #7A 95x (U)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -1825,8 +1823,7 @@ Set, Engine.Scene.TimeActive, 524287.34375
    1,U
    1,F,0
    1,U,J
-  31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
   10
    1,R

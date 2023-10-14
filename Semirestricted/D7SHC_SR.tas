@@ -1,6 +1,4 @@
 #7SHC 160x (SR)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -424,8 +422,7 @@ EndStunPause
    1,U
    1,F,0
    1,U,J
-  31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    5,R
    9,R,J
@@ -4687,8 +4684,7 @@ Set, Player.Position.X, 20153
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
 
 #2500M
@@ -6190,8 +6186,7 @@ EndStunPause
    1,U
    1,F,0
    1,U,J
-  31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    3,L,J
    1,L

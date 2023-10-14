@@ -1,6 +1,4 @@
 #3HC 8x (U)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -2393,8 +2391,7 @@ Set Session.Time 4247799350000
    1,U
    1,F,0
    1,U,J
-  31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    1,L
    3,L,J
@@ -2776,8 +2773,7 @@ Set Session.Time 8495645110000
    1,U
    1,F,0
    1,U,J
-  31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   32
    1,S
    1,D,J

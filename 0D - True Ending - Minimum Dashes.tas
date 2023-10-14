@@ -14,9 +14,9 @@ Read,Restricted/D1B,Start
 
 Read,CelesteTAS/LoadAFromB
 
-Read,Restricted/D2A,Start
+Read,Restricted/D2H,Start
 
-Read,CelesteTAS/LoadANoCollects
+Read,CelesteTAS/LoadA
 
 Read,Restricted/D3H,Start
 
@@ -26,7 +26,7 @@ Read,Restricted/D4H,Start
 
 Read,CelesteTAS/LoadA
 
-Read,Restricted/D5H,Start
+Read,Restricted/D5A,Start
 
 Read,CelesteTAS/LoadA
 

@@ -1,6 +1,4 @@
 #FAREWELL 72x (SR)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -536,8 +534,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    1,R,J
    3,R
@@ -780,8 +777,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    3,L
    3
@@ -1572,8 +1568,7 @@ EndRepeat
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    5,R
    1,R,J
@@ -2173,8 +2168,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
  100
   13,R,J
@@ -4660,8 +4654,7 @@ EndRepeat
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
 3321
    5,R

@@ -1,6 +1,4 @@
 #3B 18x (U)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -439,8 +437,7 @@ EndRepeat
    1,U
    1,F,0
    1,U,J
-  31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36,O
   38
    8,L,K

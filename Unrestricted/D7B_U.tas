@@ -1,6 +1,4 @@
 #7B 87x (U)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -321,8 +319,7 @@ Set Engine.Scene.TimeActive 524287.31250
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    5,L
    1,L,J
@@ -1641,8 +1638,7 @@ Set Engine.Scene.TimeActive 524288
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    2
   13,R
@@ -2028,8 +2024,7 @@ Set Session.Time 12743829510000
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    5,L
    1,L,J
@@ -2143,8 +2138,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
 3708
    5,R
@@ -2326,8 +2320,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter
   36
   20,L
    1
@@ -2831,8 +2824,7 @@ Set Session.Time 16994851040000
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter
   36
    4,R,J
 StunPause
@@ -2922,8 +2914,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter 
   36
    4,L
    2,L,J
@@ -2991,8 +2982,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start  
+SaveAndQuitReenter
   36
  921
    1,R,J
@@ -3614,8 +3604,7 @@ Set Session.Time 21244600120000
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    5,R
   12,R,J

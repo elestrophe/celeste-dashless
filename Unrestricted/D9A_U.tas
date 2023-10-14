@@ -1,6 +1,4 @@
 #FAREWELL 70x (U)
-#Uses S&Q, edit SaveandQuitD.tas
-#to work with your game
 
 #StunPauseMode,Simulate
 
@@ -516,8 +514,7 @@ Set Session.Time 4247723190000
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    1,R,J
    3,R
@@ -760,8 +757,7 @@ EndStunPause
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    3,L
    3
@@ -4024,8 +4020,7 @@ EndRepeat
    1,U,N
    1,N,F,0
    1,U,J,N
-  31,N
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
 3321
    5,R

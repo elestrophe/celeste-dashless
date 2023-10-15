@@ -1,0 +1,54 @@
+#Start from Begin
+
+Read,../CelesteTAS/StartFullGameFile
+
+Read,../CelesteTAS/LoadEnableCheatMode,Start
+
+Read,../CelesteTAS/LoadBCheatMode,SelectB
+
+Read,D1B,Start
+
+Read,../CelesteTAS/LoadBCheatMode
+
+Read,D2B,Start
+
+Read,../CelesteTAS/LoadBCheatMode
+
+Read,D3B,Start
+
+Read,../CelesteTAS/LoadBCheatMode
+
+Read,D4B,Start
+
+Read,../CelesteTAS/LoadBCheatMode
+
+Read,D5B,Start
+
+Read,../CelesteTAS/LoadBCheatMode
+
+Read,D6B,Start
+
+Read,../CelesteTAS/LoadBCheatMode
+
+Read,D7B,Start
+
+Read,../CelesteTAS/LoadBCheatMode,0,Core
+   1,R
+   9
+Read,../CelesteTAS/LoadBCheatMode,Core
+
+Read,D8B,Start
+
+  59
+   1,J
+ 196
+Read,../CelesteTAS/LoadANoCollects,0,Prologue
+  48
+Add 7
+
+#Epilogue
+   1,S
+   1,X
+  42
+   1,L
+Read,../LoadJournalD

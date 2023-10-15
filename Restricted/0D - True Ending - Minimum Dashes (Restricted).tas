@@ -1,0 +1,64 @@
+#Start from Begin
+
+Read,../CelesteTAS/StartFullGameFile
+
+Read,../CelesteTAS/0 - Prologue,Start
+
+Read,../CelesteTAS/LoadANoCollects,Prologue
+
+Read,D1AC,Start
+
+Read,../CelesteTAS/LoadBFromA
+
+Read,D1B,Start
+
+Read,../CelesteTAS/LoadAFromB
+
+Read,D2H,Start
+
+Read,../CelesteTAS/LoadA
+
+Read,D3H,Start
+
+Read,../CelesteTAS/LoadA
+
+Read,D4H,Start
+
+Read,../CelesteTAS/LoadA
+
+Read,D5A,Start
+
+Read,../CelesteTAS/LoadA
+
+Read,D6A,Start
+
+Read,../CelesteTAS/LoadANoCollects,0,Summit
+#Summit
+  45
+Add 29
+   1,J
+  32
+Add 1
+
+Read,D7A,Start
+
+Read,../LoadCoreFromSummitD
+
+Read,D8A,Start
+
+Read,../CelesteTAS/LoadAFromB,0,Summit
+  46
+Add 1
+
+Read,D9T,Start
+
+#Epilogue
+Add 58
+  51
+   1,S
+   1,X
+  42
+   1,L
+   9
+   1,L
+Read,../LoadJournalD

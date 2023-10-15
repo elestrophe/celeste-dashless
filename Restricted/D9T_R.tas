@@ -200,7 +200,7 @@ Read,D9A,9T1,Spinner cycle (f-06)
 #Spinner cycle (f-06)
 #0-2
 
-   0,R
+   2,R
 # ---------
 
 Read,D9A,9T2,End_IGT

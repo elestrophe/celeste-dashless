@@ -1,4 +1,4 @@
-#4SHC0 36x (R)
+#4SHC0 35x (R)
 
 console load 4
    1
@@ -1494,7 +1494,7 @@ endrepeat
   40
 
 #lvl_b-secb
-#1x
+#0x
    2,R
    1,R,J
   14,R
@@ -1502,43 +1502,67 @@ endrepeat
   14,R
    2,R,J
    8,R
-  50
+  59
    4,R
    1,R,J
   14,R
    1,R,J
-  20,R
+  17,R
+   1,R
+   1
    1,G
-   7,L,J
-  60
-   1,R,J
-  14,R
-  36,R,J
-  15,U,X
+   1,J,G
+   1,K
+   2,L
+   3,L
+   2,L
+   1,K
+   2,J,G
+   2,R,K,G
+   1,R
+   1
+   4,R
+   1,R,K
+   1,R
+   9,R,D,K
+   1,K
+   1,R,K
+   1,R,K
+   3
+   2
+   1
+   5
+  20,L,K,G
+   2,L
    1,L
-  10,G
-  12,L,J,G
-   6,L,K,G
+   2,L
+   1,R
+   1,L
+   1,G
    1,L,J,G
-  14,L
-  35
-  20,L,J
-   5,L
-  40
-   2,R
-   1,L,J
-  14,L
-  10,L,J
-  21,L
-   1,L,J
-  15,L
-   1,L,J
-  15,L
-   1,L,J
-  14,L
-   4
+   2,J
+   7
+   1,L
+   3
+   1,R
+   1,L
+   2,L,D
+   6,L,G
+   1,U,G
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   2,J
+   3,L,J
+   5,L,J
+   7,L
+   7,L,D,K
+  29,L,D
    1,J
-  29,D
+   4,R
+  25,D
   12,L,D
    3,L
    2,L,D,J
@@ -4032,7 +4056,7 @@ endrepeat
   14,R
    1,R,J
    8,R
-   1,S
+   1,S,N
    1,D,J
   18
-ChapterTime: 7:41.006(27118)
+ChapterTime: 7:37.453(26909)

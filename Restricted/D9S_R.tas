@@ -244,23 +244,24 @@ Read,D9A,Start,lvl_j-14
    1,R,G
   24,R,U,G
   26
- 106,R,D,G
-   2,R,G
-  36,R,U,J,G
-   3,U,J,G
-   2,D
-   5,D,X
+ 130,R,U,G
+   2,R,D
+  15,R,D,X
+   3,R
    6
    1,J
-   7
-   1,J
-   1
-   1,L
+   4
+   3,L
+   1,L,J
+   2,L
    4,X
    1,R,D,X
   12
-   1,L,J
-  77,L,U,J,G
+  13,L,J
+  62,L,U,J,G
+   4,L,D,G
+   1,L,G
+   1,L,D,G
    7,L,K,G
   14,L,G
    4,L,J,G
@@ -268,9 +269,9 @@ Read,D9A,Start,lvl_j-14
    6,L,J,G
   14,L,U,G
    1,L,U,J,G
-   4,L,U,G
+   2,L,U,G
    1,U,G
- 232,L,U,G
+ 234,L,U,G
   55,L,U,J,G
   16,L,D,G
   34,L,U,K,G
@@ -823,7 +824,7 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 18:36.543(65679)
+ChapterTime: 18:36.526(65678)
 
 #Let moon berry sfx play
  100

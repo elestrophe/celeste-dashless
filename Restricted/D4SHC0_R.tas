@@ -1507,15 +1507,12 @@ endrepeat
    1,R,J
   14,R
    1,R,J
-  17,R
-   1,R
+  18,R
    1
    1,G
    1,J,G
    1,K
-   2,L
-   3,L
-   2,L
+   7,L
    1,K
    2,J,G
    2,R,K,G
@@ -1526,16 +1523,10 @@ endrepeat
    1,R
    9,R,D,K
    1,K
-   1,R,K
-   1,R,K
-   3
-   2
-   1
-   5
+   2,R,K
+  11
   20,L,K,G
-   2,L
-   1,L
-   2,L
+   5,L
    1,R
    1,L
    1,G
@@ -1555,8 +1546,7 @@ endrepeat
    1,L,K,G
    1,L,J,G
    2,J
-   3,L,J
-   5,L,J
+   8,L,J
    7,L
    7,L,D,K
   29,L,D

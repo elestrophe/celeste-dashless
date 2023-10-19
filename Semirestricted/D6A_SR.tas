@@ -723,7 +723,7 @@ EndStunPause
    1,F,0
    1,U,J
   31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
 6662
    5,L
    1,L,J
@@ -2657,7 +2657,7 @@ EndStunPause
    1,F,0
    1,U,J
   31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
    4,R
    1

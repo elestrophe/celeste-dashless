@@ -304,7 +304,7 @@ Set Engine.Scene.TimeActive 524286.84375
    1,F,0
    1,U,J
   31
-Read, ../SaveandQuitD.tas, Start
+SaveAndQuitReenter
   36
   63
   12,L,J

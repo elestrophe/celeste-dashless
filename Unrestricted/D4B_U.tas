@@ -5,6 +5,7 @@
 console hard 4
    1
 
+#Start
 Read, ../Restricted/D4B, Start, lvl_a-04
 #5x
 

@@ -8,50 +8,73 @@ console rmx2 5
 
 #lvl_00
 #2x
-   5,R
+   1,L
+   1,R,D,J
+   6,L,D,X
    1,R,J
-  22,R
-  34,R,K
-  14,R,U,Z
-  24,R,J
-   3,L
+   4,R
+   1,R,J
    1,R
-   1,L
-   3,R
-   1,L
-   3,R,J,G
+   1,R,J
+   5,R,D
+   1,R,J
+  20,J
+   8,L,K,G
+  26,R,J
+   1,J
+   3,K,G
+   3
+   5,L,Z
+   6,R,J
+   1,R
+   6,R,J
+   1,R
+   2,R,J
   14,R
-   9,R,J
-   5,R
-   3,R,J
-  16,R,D
-  20,R,J
-  13,R
-   8,R,U,X
-   1,L,J,G
-   4,R,J
-  25,R,D
-  44,R,J
-   2,R,K,G
-   3,L,K
-   1,R,J,G
    1,R,K,G
-  19,R
-   5,R,J
+   1
+   1,J,G
+   3,R,J
+   8,R
+   1
+  10,R
+  11,R,J
+   7,R
+   2,R,J
+   1,R
+   1,R,J
+  14,R,D
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   7,R
+   7,R,J
   40
 
 #lvl_01
 #1x
-   8,R,J
-  10,R,K
-   9,U,X
-  11,R,J
-  18,R
-   1,R,G
-   7,R,D
-   1,L,D
-  15,D
-  16,R,D
+   3,R,J
+   2,R
+   1,L
+   1,K
+   2,J,G
+   4,R,J
+   2,R
+   8,R,U,Z
+   1,L
+   1,J,G
+   1,R
+   1,L
+   1,L,K,G
+   1,L,J,G
+   7,K,G
+   4
+   1,R
+  12
+   1,L
+   3,L,D
+  21,R,D
    1,R,J
   25,R
    1,R,J
@@ -81,43 +104,75 @@ console rmx2 5
   53,R
   11,J,G
    8,K,G
+   1,R,K
+   1,L,K
    2,R,K
-   2,L,K
-  15,R,Z
-  10,R,J
-   1,R
-   4
-   1,L,J,G
-  18,L
-  31,G
+  10,R,Z
    1,R,J
-  22,R,K
-  31,R,D
-  24,R,X
-  12,U,C
-  19,R,J
-   6,R,D
-   4,R,J
-  11,R,D
-  15,L,D
-   9,R,J
-  14,R
+   1,L,K,G
+   9,R
+   2
+   1,K
+   9,L,J,G
+   7,L
+Repeat, 4
+   1,G
+   1
+EndRepeat
+   1,G
+   4
+   2,G
+   1,J,G
+   1,K
+   2,J,G
+  10,R,J
+   5,R
+   7,R,J
+  28,R,D
+  26,R,X
+  13,U,C
+  13,R,J
+   1,J
+   1,R,J
+   8,R
+   8,R,J
+  32,R
   68,R,X
   18,R,U,C
   32,R,D
    1,R
    1,D
-  10,R,J,G
-   8,U,X
+
+   9,R,J,G
+   1,J
+   7,U,Z
   10,R,J
-  12,R
-  13,R,U,Z
-  19,D
-  18,R,D
-  15,R,X
-  33,R,J
-  30,R,K
-  11,R,J,G
-   9,L,K
- 149,U,X
-ChapterTime: 0:24.633(1449)
+   5,R
+   4
+   1,R
+  14,R,U,Z
+   1,J
+   3,R,D
+   1,R,J
+   7,R,D
+  13,R
+   1,R,D
+   1,R
+   4,R,D
+  15,R,U,X
+   3
+  12,L,J,G
+   6,K,G
+   1,J
+   3,K,G
+  10,R,K
+   3,R,J
+  21,R
+   4,X
+  15,D,X
+  28,R,D
+  16,D
+   3
+   1,D
+  72
+ChapterTime: 0:21.148(1244)

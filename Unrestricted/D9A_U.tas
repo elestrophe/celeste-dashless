@@ -196,11 +196,12 @@ console load 10
    1,R,K,G
   18,R
    8
-### Replace 157 with 24984866 = 2498*9999 + 7364 wait
- 157
-Set Level.TimeActive 524280.15625
-Set Session.Time 4247723190000
- 240
+### 
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24984706 * 170000l)
+Set Level.TimeActive 524281.40625
+Set Session.Time 4247729990000
+ 200
 ###
    3,R
   40
@@ -1183,14 +1184,15 @@ EndRepeat
    1,D,J
   34
    1,D
-###replace the 224 with 224 + 2497*9999 + 6468 = 24,974,195 frame wait
- 224
-Set Level.TimeActive 524274.59375
-Set Session.Time 8497284930000
-Set FloatySpaceBlock[d-00:593].sineWave 523889.28125
-Set FloatySpaceBlock[d-00:620].sineWave 523889.28125
-Set FloatySpaceBlock[d-00:626].sineWave 523889.28125
- 240
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24974355 * 170000l)
+Set Level.TimeActive 524275.84375
+Set Session.Time 8497346130000
+Set FloatySpaceBlock[d-00:593].sineWave 523890.53125
+Set FloatySpaceBlock[d-00:620].sineWave 523890.53125
+Set FloatySpaceBlock[d-00:626].sineWave 523890.53125
+ 200
 ###
   10,L,J
    8,L
@@ -5676,7 +5678,7 @@ EndStunPause
  215,U
   38
 #End_IGT
-ChapterTime: 236:29:24.692(50080276)
+ChapterTime: 236:29:30.132(50080596)
 
 # optional waiting for
 # visuals to play out

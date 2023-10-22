@@ -235,10 +235,13 @@ SkipInput,3,1
    1,R
 EndStunPause
   12,R
+###
  200
-Set Session.Time 4247820430000
-Set Engine.Scene.TimeActive 524287.31250
-#actually a 2498*9999 + 571 + 200 frame wait
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24977873 * 170000l)
+Set, Level.TimeActive, 524281.0625
+Set, Session.Time, 4247786430000
+ 200
+###
   11,R
    5,R,J
   40
@@ -1591,15 +1594,19 @@ EndStunPause
    9,L,K
   20,K
   25,R,K,G
-#repeat 12483977 instead of 149
-Repeat 149
+###
+Repeat 100
    1,G
    1
 EndRepeat
-#24967954 frames which is 82 mod 108, thus 149 should be accurate
-Set Session.Time 8495914900000
-Set Engine.Scene.TimeActive 524288
-#don't feel like frame greeting this wait time
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24967542 * 170000l)
+Set, Level.TimeActive, 524281.375
+Set, Session.Time, 8495878860000
+Repeat 100
+   1,G
+   1
+EndRepeat
+###
    1,G
    5,J,G
   36,L,J
@@ -1953,14 +1960,20 @@ EndRepeat
 
 #lvl_e-03
 #3x
-#128.01 49984428
-#24982638 instead of 200
+###
  200
-Set Engine.Scene.TimeActive 524288
-Set Session.Time 12743829510000
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24981835 * 170000l)
+Set, Level.TimeActive, 524269.15625
+Set, Session.Time, 12743724960000
+ 200
+###
+   1,S
+   1,D,J
+  69,O
+
    4,D,X
   10,R
-  23,R,J
+  21,R,J
   25
   30,D
   20,R,D
@@ -2769,10 +2782,15 @@ EndRepeat
 
 #CP-16
 #2x
- 200,D
-#24,977,219 instead of 200
-Set Level.TimeActive 524286.5625
-Set Session.Time 16994851040000
+  11,D
+
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24976808 * 170000l)
+Set, Level.TimeActive, 524280.3125
+Set, Session.Time, 16994758220000
+ 200
+###
    5,L
    1,L,J
    5,L
@@ -3238,10 +3256,13 @@ EndStunPause
 #CP-08
 #0x
   69
+###
  200
-#24977618 instead of 200
-Set Engine.Scene.TimeActive 524288
-Set Session.Time 21244600120000
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24977182 * 170000l)
+Set, Level.TimeActive, 524280.625
+Set, Session.Time, 21244501180000
+ 200
+###
    1,S
    1,D,J
   69,O
@@ -3828,4 +3849,4 @@ EndStunPause
   14,U,X
    4,J
  136,L
-ChapterTime: 590:09:13.291(124973723)
+ChapterTime: 590:09:06.797(124973341)

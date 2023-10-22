@@ -1,4 +1,4 @@
-#5SHC 36x (SR)
+#5SHC 35x (SR)
 
 #StunPauseMode,Simulate
 
@@ -498,44 +498,18 @@ EndStunPause
   41,R,X
    5,L,J
   35,L,D
-   1,L,J
-   9,L
-   3,L,J
-  18,L
-   6,L,J
-   1,L
-   1,L,K,G
-   1,L,J,G
-  10,L
-   3,L,J
-   7,L
-   1,L,J
-  18,L
-  12,L,J
-   9,L,K,G
-   2,K
-   4,L,K
-   1,J,G
-   1,R,J
-   1,R,K
-  12,R,J
-   2,K,G
-   1,L,K
-   1,L,J
-  14,L,K
-   2,L
-   1,L,J,G
-   1,L,K,G
-  10,L
-   1,L,J
-  13,L
+  26,D
+   1,S
+   1,D,J
+  69,O
+   6,L
   40
 
 #lvl_a-05 (1)
 #2x
    1,L
    1,L,J
-  15,L
+  17,L
    1,L,J
   15,L,U,Z
   17,L,D
@@ -559,12 +533,15 @@ EndStunPause
    5,R,J
    1,K
    4,L,K
-StunPause
    1
+StunPause
    1,L,J,G
    1,L,K,G
    1
-  13,L
+   6,L
+EndStunPause
+StunPause
+   7,L
   36,L,J
    2
    1,L
@@ -627,11 +604,10 @@ EndStunPause
   28,L
    4,L,J
   13,L
-repeat 16
+repeat 11
    1,D
    1
 endrepeat
-
 #Restart
    1,Q,N
    1,J,N
@@ -836,38 +812,32 @@ endrepeat
   40
 
 #lvl_a-08 (0)
-#1x
+#0x
   34
    1,L,J
-   5,L,Z
-   1,L,J
-   1,L
+   2,L,K,G
+   3,L
   40
 
 #lvl_a-10 (0)
 #0x
    3,L
-   3,R
-   6,L,J
-   5,L
-   1,L,J
-   6,L
-   4
-   1,J,G
-   5,L,J
-   5,L
-  17,L,J
-  16,L
-   4,R
-   3,R,J
-   1,R
+StunPause
+   7,L
+  60,L,J
+EndStunPause
+  19,L,D,K
+   1,J
+  22,L
+   9,R
+   1,R,J,G
    1,K,G
-   6,R
-   1,L
-   1,S,N
-  10,J
-   6,L,J
-  39,L,K
+   7
+   3
+   6,L
+  35,L,J
+   2,D
+   1,L,D
    1,J,G
    1,R,J
    1,L
@@ -1266,7 +1236,10 @@ endrepeat
    1,R
 StunPause
    6,R
-   8
+   7
+EndStunPause
+StunPause
+   1
    1,R
    8,J
    1,L,J
@@ -1274,19 +1247,18 @@ StunPause
   11,K
    2,R,K
   10,L,K
-   5,J,G
+   2,J,G
    1,R,J
    1,L,J
+   1,L,K,G
+   1,R,K
+  16,L,K
 EndStunPause
-   5,K
-  12,R,K
-   3,R,G
-   2,R,K,G
-   1,K
-   1,R,K,G
-   1,K
-   6,L,K
-   1,K
+   1,J
+  14,R,J
+   2,J
+   1,K,G
+   1,J
   40
 
 #lvl_a-14
@@ -1338,7 +1310,8 @@ EndStunPause
 
 #Overworld
 Add 58
- 195
+  51
+   1,S
    1,J
   30
    1,R
@@ -1386,6 +1359,7 @@ SkipInput 3 1
 EndStunPause
    3,D
   69,O
+
    1,R,J
   26,R,D
   16,D
@@ -5816,4 +5790,4 @@ EndRepeat
    1,S
    1,D,J
   18
-FileTime: 16:39.651(58803)
+FileTime: 16:46.893(59229)

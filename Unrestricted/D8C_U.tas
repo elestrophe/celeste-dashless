@@ -33,10 +33,13 @@ console rmx2 9
    2,R
    1,R,K,G
    1,R,J,G
+###
  200
-#2498 * 9999 + 200 + 8763 = 24,986,465
-Set Engine.Scene.TimeActive 524287.5
-Set Session.Time 4247769260000
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24986065 * 170000l)
+Set Engine.Scene.TimeActive 524281.25
+Set Session.Time 4247735260000
+ 200
+###
    5,R
    3,R,J
    3,R

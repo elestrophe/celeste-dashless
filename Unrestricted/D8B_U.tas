@@ -282,10 +282,13 @@ EndRepeat
   20,R
   20,R,J
   31,R,D
- 100
-#Actually wait 100 + (2498*9999 = 24977502) + 6636 = 24,984,238
-Set Session.Time 4247769940000
-Set Engine.Scene.TimeActive 524287.40625
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24983838 * 170000l)
+Set Session.Time 4247735940000
+Set Engine.Scene.TimeActive 524281.15625
+ 200
+###
   12,R
   40
 

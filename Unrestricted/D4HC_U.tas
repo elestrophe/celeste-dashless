@@ -485,18 +485,15 @@ console load 4
    5,R
    4,R,J
   12,R
-  18,R,D
-repeat 50
-   1,G
-   1
-endrepeat
-Set Engine.Scene.TimeActive 524287.875
-Set Session.Time 4247785240000
-  16,R,D
-   1,R,J
-  14,R
-   1,R,J
-   4,R
+  27,R,D
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24983564 * 170000l)
+Set, Level.TimeActive, 524281.53125
+Set, Session.Time, 4247735600000
+ 200
+###
+   2,R
   40
 
 #lvl_a-07
@@ -3103,4 +3100,4 @@ endrepeat
    1,S
    1,D,J
   18
-ChapterTime: 118:03:39.278(25001134)
+ChapterTime: 118:03:37.136(25001008)

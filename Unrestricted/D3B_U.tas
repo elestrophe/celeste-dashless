@@ -341,7 +341,14 @@ EndStunPause
    8,R,J
   22,R
    1,R,J
-  22,R
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24982353 * 170000l)
+Set, Level.TimeActive, 524267.09375
+Set, Session.Time, 4247672870000
+ 200
+###
+  17,R
    1,R,J
   40
 
@@ -371,12 +378,7 @@ EndStunPause
   12,L,J,G
    5,K,G
    5,L
- 134
-#24982668 more frames waiting to get same cycle and accurate
-
-Set, Engine.Scene.TimeActive, 524286.3125
-Set, Session.Time, 4247777420000
-
+  53
    2,R
   18,D
   10,L,D
@@ -1204,4 +1206,4 @@ EndStunPause
    6,R
   10,R,J,G
  145,U,X
-ChapterTime: 118:04:19.568(25003504)
+ChapterTime: 118:04:19.551(25003503)

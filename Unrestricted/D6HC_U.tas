@@ -898,10 +898,13 @@ EndStunPause
    8,R,J
    7,R,J
    1,R
- 100
-Set Engine.Scene.TimeActive 524287.875
-#Set Session.Time 4247785240000
-Set Session.Time 4247855280000
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24971859 * 170000l)
+Set Engine.Scene.TimeActive 524279.21875
+Set Session.Time 4247808190000
+ 200
+###
    6,R
    2
    2,R
@@ -3019,4 +3022,4 @@ EndRepeat
    1,S
    1,D,J
   18
-ChapterTime: 118:06:01.228(25009484)
+ChapterTime: 118:05:59.919(25009407)

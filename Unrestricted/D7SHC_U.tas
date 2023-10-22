@@ -4592,7 +4592,7 @@ EndStunPause
   19,R,J
   53
   25,R
-StunPause Simulate
+StunPause
    4,R
 SkipInput 3 1
   15,R,Z

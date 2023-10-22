@@ -4050,9 +4050,13 @@ EndRepeat
 
 #lvl_e-07
 #0x
+###
  200
-Set Level.TimeActive 524287.15625
-Set Session.Time 4250289850000
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24938186 * 170000l)
+Set Level.TimeActive 524280.90625
+Set Session.Time 4250255850000
+ 200
+###
    4,R
 Repeat,3
    1,R,J
@@ -4822,9 +4826,13 @@ EndStunPause
   10,R,D
    4,R
   25,R,D
+###
  200,D
-Set, Level.TimeActive, 524286.46875
-Set, Session.Time, 8498396900000
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24971884 * 170000l)
+Set, Level.TimeActive, 524280.21875
+Set, Session.Time, 8498362900000
+ 200,D
+###
    8,R
    6,R,J
   72,O
@@ -6120,9 +6128,13 @@ EndStunPause
   12,R,K
   12,L,J
    3,K,G
+###
  200
-Set Level.TimeActive 524280.78125
-Set Session.Time 12746325620000
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24970267 * 170000l)
+Set, Level.TimeActive, 524274.53125
+Set, Session.Time, 12746291620000
+ 200
+###
    1,J
    1,K,G
    1,R,K

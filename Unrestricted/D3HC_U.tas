@@ -2327,11 +2327,13 @@ StunPause
   13,L,D
 EndStunPause
   10,L,D
- 200,D
-#24,970,738 more waiting frames
-#Repeat 2497 9999 times + 3235
-Set Engine.Scene.TimeActive 524287.875
-Set Session.Time 4247799350000
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24970538 * 170000l)
+Set, Level.TimeActive, 524281.625
+Set, Session.Time, 4247765350000
+ 200
+###
    1,L,J
   14,L
    1,L,J
@@ -2732,11 +2734,13 @@ EndRepeat
    8,R,J
    1,R
   22,R,J
- 228,D
-#24982776 more waiting frames 
-#2498 of 9999, 5274 more
-Set Engine.Scene.TimeActive 524287.1250
-Set Session.Time 8495645110000
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24982534 * 170000l)
+Set, Level.TimeActive, 524279.5625
+Set, Session.Time, 8495599210000
+ 200
+###
   14,J
   12,K,G
   12,J,G
@@ -2748,10 +2752,10 @@ Set Session.Time 8495645110000
   34,L,D,J
    1,L,D
    1,L,K
-  26,L
+  27,L
    6,L,J
    1,L
-  39,L,D,J
+  38,L,D,J
   13,L,Z
    1,L,J
    9,L,D
@@ -3436,4 +3440,4 @@ EndStunPause
    1,S,N
    1,D,J
   18
-ChapterTime: 236:01:38.471(49982263)
+ChapterTime: 236:01:37.281(49982193)

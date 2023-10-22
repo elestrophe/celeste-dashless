@@ -1512,9 +1512,13 @@ AnalogMode,Ignore
   34
    1,L,J
   14,L
- 100
-Set Engine.Scene.TimeActive 524287.875
-Set Session.Time 4247785240000
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24974603 * 170000l)
+Set, Level.TimeActive, 524281.40625
+Set, Session.Time, 4247755320000
+ 200
+###
    5,L
   20,L,D,J
   12,K,G
@@ -2702,4 +2706,4 @@ Set Session.Time 4247785240000
    1,S
    1,D,J
   18
-ChapterTime: 118:02:16.437(24996261)
+ChapterTime: 118:02:16.845(24996285)

@@ -2,6 +2,7 @@
 
 #StunPauseMode,Simulate
 
+console hearts 15
 console load 10
    1
 

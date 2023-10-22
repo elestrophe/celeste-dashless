@@ -651,9 +651,13 @@ EndRepeat
    7,R,J
   14,R,D
   17,D
+###
  200
-Set Session.Time 4247810740000
-Set Engine.Scene.TimeActive 524285.25
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24973778 * 170000l)
+Set, Level.TimeActive, 524279.0
+Set, Session.Time, 4247776740000
+ 200
+###
   12,J
    2,L,K,G
    1,K

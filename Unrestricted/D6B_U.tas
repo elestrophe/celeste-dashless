@@ -9,11 +9,13 @@ console hard 6
 #lvl_a-00
 #2x
   40,R
-  49
-#49 + 200 + 24986689
+###
  200
-Set Session.Time 4247779460000
-Set Engine.Scene.TimeActive 524287.5
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24986499 * 170000l)
+Set, Level.TimeActive, 524281.25
+Set, Session.Time, 4247745630000
+ 200
+###
    1,L
   20,L,J
   16,L
@@ -1155,9 +1157,13 @@ EndStunPause
   10,U
   19
   20,R
+###
  200
-Set Session.Time 8495833130000
-Set Engine.Scene.TimeActive 524278.875
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24957054 * 170000l)
+Set, Level.TimeActive, 524272.625
+Set, Session.Time, 8495749660000
+ 200
+###
    5,R
    1,R,J
    5,R
@@ -1741,4 +1747,4 @@ Set Engine.Scene.TimeActive 524278.875
   32,R,J
   18,R,U,X
  135,D
-ChapterTime: 236:01:51.272(49983016)
+ChapterTime: 236:01:46.325(49982725)

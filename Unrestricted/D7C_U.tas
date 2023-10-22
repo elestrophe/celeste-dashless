@@ -154,10 +154,13 @@ EndStunPause
 
 #lvl_03
 #21x
+###
  200
-#200 + 2498*9999 + 6896 = 24,984,597
-Set Session.Time 4247790000000
-Set Engine.Scene.TimeActive 524285.09375
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24983291 * 170000l)
+Set, Level.TimeActive, 524278.84375
+Set, Session.Time, 4247756000000
+ 200
+###
    4,R
    1,L
    3,R

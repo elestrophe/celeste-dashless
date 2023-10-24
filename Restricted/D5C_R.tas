@@ -8,29 +8,32 @@ console rmx2 5
 
 #lvl_00
 #2x
-   1,L
-   1,R,D,J
-   6,L,D,X
+   1,L,J
+   5,L,Z
    1,R,J
-   4,R
+   1
+   3,R
    1,R,J
    1,R
    1,R,J
    5,R,D
    1,R,J
-  20,J
+   2,J
+   1,R,J
+  17,J
    8,L,K,G
   26,R,J
    1,J
    3,K,G
-   3
+   1,R
    5,L,Z
-   6,R,J
+   9,R,J
    1,R
-   6,R,J
+   2,R
+   1,R,J
    1,R
-   2,R,J
-  14,R
+   1,R,J
+  15,R
    1,R,K,G
    1
    1,J,G
@@ -175,4 +178,4 @@ EndRepeat
    3
    1,D
   72
-ChapterTime: 0:21.148(1244)
+ChapterTime: 0:21.080(1240)

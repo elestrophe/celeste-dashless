@@ -18,7 +18,7 @@ console load 10
 #Start
 
 Read,D9A,Start,Post-Heart
-#56x
+#55x
 
 #Post-Heart
    2
@@ -190,7 +190,7 @@ Read,D9A,lvl_f-01,Spinner cycle (f-05)
 #Spinner cycle (f-05)
 #0-1
 
-   0
+   1
 # ---------
 
 Read,D9A,9T1,Spinner cycle (f-06)
@@ -200,13 +200,13 @@ Read,D9A,9T1,Spinner cycle (f-06)
 #Spinner cycle (f-06)
 #0-2
 
-   2,R
+   0,R
 # ---------
 
 Read,D9A,9T2,End_IGT
 #115x
 
-ChapterTime: 17:22.491(61323)
+ChapterTime: 17:23.868(61404)
 
 # optional waiting for
 # visuals to play out

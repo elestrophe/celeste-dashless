@@ -4592,7 +4592,7 @@ EndStunPause
   19,R,J
   53
   25,R
-StunPause
+StunPause Simulate
    4,R
 SkipInput 3 1
   15,R,Z
@@ -4828,9 +4828,9 @@ EndStunPause
   25,R,D
 ###
  200,D
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24971884 * 170000l)
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24971885 * 170000l)
 Set, Level.TimeActive, 524280.21875
-Set, Session.Time, 8498362900000
+Set, Session.Time, 8498364600000
  200,D
 ###
    8,R
@@ -6127,10 +6127,10 @@ EndStunPause
   12,L,J
   12,R,K
   12,L,J
-   3,K,G
+   5,K,G
 ###
  200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24970267 * 170000l)
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24970265 * 170000l)
 Set, Level.TimeActive, 524274.53125
 Set, Session.Time, 12746291620000
  200
@@ -6141,7 +6141,7 @@ Set, Session.Time, 12746291620000
    1,J
   11,R,K
    1,J,G
-   1,L,J
+   1,L
    1,K
    7,L,J
    4,L

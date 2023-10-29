@@ -2777,29 +2777,33 @@ EndRepeat
    2,L,K
    1,J
   25,R,J
-  10,K,G
+  11,K,G
    8,R
 
 #CP-16
 #2x
-  11,D
+   9,D
+   2,R
 ###
  200
 console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24976808 * 170000l)
 Set, Level.TimeActive, 524280.3125
-Set, Session.Time, 16994758220000
+Set, Session.Time, 16994758390000
  200
 ###
    5,L
    1,L,J
    5,L
   19,R
+
    7,K,G
    2,L,K
    1,J
   25,R,J
   10,K,G
-   9,R
+  10,R
+
+
   13,R,J
    6,K,G
    3,L,K
@@ -3254,9 +3258,9 @@ EndStunPause
   69
 ###
  200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24977182 * 170000l)
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24977183 * 170000l)
 Set, Level.TimeActive, 524280.625
-Set, Session.Time, 21244501180000
+Set, Session.Time, 21244501350000
  200
 ###
    1,S

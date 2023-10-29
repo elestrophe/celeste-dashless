@@ -1797,44 +1797,37 @@ EndRepeat
 #lvl_e-05
 #1x
    6,R
-   1,R,J
-  14,R
-   1,R,J
-  60,R,D
-  22,R,J
-  29,L,K
-  15,L,X
-   3,L
-  46,L,J
-  29,R,J
-  20,R,D
-   9,L,D
-  14,R,D
-   1,R
-   9
-  38,R,J
-   5,K,G
-   2,L,K
-   1,J
-  20,R,J
-   1,K,G
-   2,L,K
-   1,J
-  20,R,J
-   1,K
-  19,R,K
-  12,J,G
-   1,K
-   1,J,G
-  23,R,J,G
-   5,R,K,G
-   8,R
-  10,R,J
-   5,R,D
    3,R,J
    6,R
-   3,R,J
+   2,R,J
+  12,R
+  15,R,D
+  11,D
+   8
+  15,U,X
   10,R
+   1,G
+   4,R,J,G
+   7,R
+   6,G
+  16,U,G
+   1,G
+   5,R,J,G
+  17,R,K,G
+   1,R,J,G
+   4,L,J
+   5,R,J
+   7,R
+   1,R,J
+   6,R
+   2,R,J
+  12,R
+   1,R,J
+   1,R
+   1,R,J
+   4,R
+  10,R,J
+   8,R
    2,R,J
    1,R,K,G
    1,R,J,G
@@ -5727,7 +5720,7 @@ EndStunPause
  215,U
   38
 #End_IGT
-ChapterTime: 236:28:45.966(50077998)
+ChapterTime: 236:28:41.512(50077736)
 
 # optional waiting for
 # visuals to play out

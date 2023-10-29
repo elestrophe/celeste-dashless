@@ -2,7 +2,6 @@
 
 #StunPauseMode,Simulate
 
-console hearts 15
 console load 10
    1
 
@@ -1184,114 +1183,129 @@ EndRepeat
    1,S,N
    1,D,J
   34
-   1,D
-###
- 200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24974355 * 170000l)
-Set Level.TimeActive 524275.84375
-Set Session.Time 8497346130000
-Set FloatySpaceBlock[d-00:593].sineWave 523890.53125
-Set FloatySpaceBlock[d-00:620].sineWave 523890.53125
-Set FloatySpaceBlock[d-00:626].sineWave 523890.53125
- 200
-###
-  10,L,J
-   8,L
-  11,R,J
-   5,L,U,X
-  33,L,U
-   1,J
-   8,L,J
-   2,L
-   2,L
    1,L
-   1
-   2,L
-   1,L,K,G
-   1,L,J,G
-   9,L
-  34,L,J
-   2
-   1,L
-  12,L,K,G
-  11,J,G
-   2,R,J
-   1,K
-  25,L,K
-   1,L,J,G
-   1,L,K,G
-  10,L
-   5,L,J
-   5,L,J
-  12,K,G
-   9,L
-  14,L,J
-   1,K
-   5,L,K
-   1,J
-  25,L,J
-   1,L,K,G
-   1,L,J,G
-   1
-  14,L
-  10,L,D
-   8,R,D
-   2,D
-  17,R,D,G
-  10,R,G
-  19,R,J
-  10,R,J,G
-   4,L,J,G
-  18,D
-   4,L
-   8
-  10,J
-   5,L,J
-  22,L,G
-   1,D
-  17,J,G
-  25,L,G
-  11,D
-  13,J
-  23,J,G
-   8,L,K
-   3,R,K
-   6,R,G
-  21,L,G
-   1,J,G
-  24,D,G
-   1
    1,R
-  15,R,J
-  54,R,U,J,G
-   1,R,D
-  10,R,J,G
+   8,R,J
+   6,R
+   1,R,J,G
+   4,R
+  15,L
+   1,L,J
+   7,L
+StunPause
+  16,L,D
+   9,L,J
+  42,L,J,G
+   1,D
+   1,K,G
    5
-   2,K
-  24,G
-   1,K
-  10,R,K
+   6,J,G
+  20,L,J,G
+   6,R,K,G
+   6,L,J,G
+   6,R,K,G
+  12,L,J,G
+   1,L,D
+  14,L
+   1,L,J
+  14,L
+  19,L,J,G
+   4,R,U,J,G
+EndStunPause
+   1,R,U,J,G
+  40,R,U,G
+   1,D
+  23,R
+  40,L,G
+1533,G
+   7,J,G
+   1,D
+Repeat 14
+  21,J,G
+   1,D
+EndRepeat
+StunPause
+  18,L,J,G
+   3,J,G
+   1,D
+Repeat 5
+  18,L,J,G
+   2,J,G
+   1,L,J,G
+   1,D
+EndRepeat
+Repeat 2
+  18,L,J,G
+   3,J,G
+   1,D
+EndRepeat
+  18,L,J,G
+   2,J,G
+   1,L,J,G
+   1,D
+  16,L,J,G
+   5,J,G
+   1,D
+  18,L,J,G
+   3,J,G
+   1,L
+  21,R,G
+   1,L
+   9,R,D
+  18,R,G
    1,J
-  10,L,J
-  13,G
-  11,J,G
-  11,R,K,G
+   1,G
+  32,R,G
+   1,J,G
+   5,R,J,G
+   1,D
+  14,G
+   7,G
+   1,D
+  18,R,G
+   3,J,G
+   1,D
+Repeat 2
+  18,R,G
+   2,J,G
+   2,R,J,G
+   1,D
+EndRepeat
+  10,R,U,G
+  16,L,U,G
+   1,R
+   1,L
+  12,L,J,G
+   6,K,G
+EndStunPause
+  60,K,G
+  75,G
+  16,L,K,G
   40
 
 #lvl_d-05
 #0x
-  40,R,D,G
+  20,R,D,G
+StunPause
+  20,R,D,G
    9,D,G
   10,R,J,G
   33,R,G
    2,G
-  20,L,J,G
-  20,R,K,G
-  20,L,J,G
-  19,K
-  16,G
-   7,K,G
-  40,K
+  15,R,J,G
+   8,L,K,G
+   1,R
+   8,L
+   1,K
+  16,L,K
+   3,R,K
+  30,R,U,J,G
+  11,L,K,G
+   3,R,J,G
+EndStunPause
+   5,R,J,G
+   7,L,K,G
+  40
 
 #lvl_e-00y (0)
 #0x
@@ -1299,14 +1313,28 @@ Set FloatySpaceBlock[d-00:626].sineWave 523890.53125
    1,J
    1,L,K,G
   15,R,K
-  67,R,J,G
-   5,L,K,G
-  10,K,G
-  23,D
-  15,J
-  17,R,U,G
-   6,L,U,G
-  17,R,J,G
+  20,R,G
+  10,G
+  15,R,G
+  20,R
+   4,R
+   1,R,D,J
+   4,R
+   1,R,J
+   4,R
+   1,R,J
+   1,L,J
+   1,K
+   5,L,J,G
+   5,L,J
+   5,L
+   8
+   1,G
+   1,J,G
+  12,J
+   1,L,J
+  22,L,J,G
+  17,R,K,G
   40
 
 #lvl_e-00yb
@@ -1449,6 +1477,21 @@ EndRepeat
    1,L,K,G
    1,L,J,G
   14,L
+###
+ 200
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24965073 * 170000l)
+Set, Level.TimeActive, 524276.8125
+Set, Session.Time, 8497366870000
+ 200
+###
+   5,L
+   7
+  72,O
+   5,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
    3,L,J
   30,L
   21,L,J
@@ -1458,25 +1501,25 @@ EndRepeat
    7,L,J,G
    1,K
    3,R,J
-   2,R
+   1,R
    6
-  27,L,D
+  30,L,D
   12,L,D,J
   14,L,K,G
    6,J,G
-  11,R,J
+  13,R,J
    6
   16,L,G
-Repeat,22
+Repeat,21
    4,G
    2
 EndRepeat
-  34,R,J
+  38,R,J
    6
-  47,R,J
-   2,R,K
-   8,K
-   3,R,K
+  43,R,J
+   1,R,K
+   3,K
+   9,R,K
    9,J,G
    2,L,J
    4,K
@@ -1486,7 +1529,7 @@ Repeat,3
    2,R,K
    2,L,J
 EndRepeat
-   3,R,K
+   4,R,K
   40
 
 #lvl_e-00b
@@ -5679,7 +5722,7 @@ EndStunPause
  215,U
   38
 #End_IGT
-ChapterTime: 236:29:30.132(50080596)
+ChapterTime: 236:28:45.966(50077998)
 
 # optional waiting for
 # visuals to play out

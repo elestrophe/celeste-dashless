@@ -8,11 +8,11 @@ console load 10
 
 #Start
 Read, D9A, Start, lvl_j-16
-#69x
+#68x
 
 #FAREWELL 3x
 #lvl_j-16
-#2x
+#1x
    5,R,J,G
    2,R,G
    1,S

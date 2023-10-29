@@ -900,9 +900,9 @@ EndStunPause
    1,R
 ###
  200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24971859 * 170000l)
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24971860 * 170000l)
 Set Engine.Scene.TimeActive 524279.21875
-Set Session.Time 4247808190000
+Set Session.Time 4247808360000
  200
 ###
    6,R

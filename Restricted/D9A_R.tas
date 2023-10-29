@@ -1,4 +1,4 @@
-#FAREWELL 188x (R)
+#FAREWELL 187x (R)
 
 console hearts 15
 Set,DashMode,Two
@@ -221,7 +221,7 @@ EndRepeat
    8,R,J
   40
 
-#SINGULAR 37x
+#SINGULAR 36x
 #lvl_a-00
 #2x
   11,R,J
@@ -272,42 +272,37 @@ EndRepeat
   15,U,X
   12,R
   14,R,Z
-   2,R,J
-   1,R
    1,R,J
-   4,R
+   6,R
+   1,R,J
   40
 
 #lvl_a-03
-#3x
+#2x
+  28,R,D
+  38,R,U,Z
+   2,R,J,G
+  10,J
+   6,K,G
+   2,R,K
+  14,U,X
+   8,L,J
+   9,L
+   5,L,J
+   2,L
+  75,L,G
+   1,J,G
+   1,R
+   7,L
+   1,K,G
+   9
    2,R
    1,R,J
-   8,R
-   2,R,J
-  20,R
-  30,R,U,X
-   1,J,G
-   2,R,J
-   6,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   4,J,G
-   8,R,J
-   1,R,K,G
-   5,K
-   2,R,K
-   1,R,J,G
-   6,J
-   2,R,J
-   1,J
-   8,R,J
-  22,R,X
-  19,R,C
-   1
-  31,R,D
-   9,R
+   1,L,K,G
+  50,R,K
+   8,R,D
+   1,D
+   9,R,D
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -3244,7 +3239,7 @@ EndRepeat
 #Spinner cycle (f-06)
 #0-2
 
-   0,R
+   2,R
 # ---------
 
 #9T2
@@ -7406,7 +7401,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:29.529(61737)
+ChapterTime: 17:30.957(61821)
 
 # optional waiting for
 # visuals to play out

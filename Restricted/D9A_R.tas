@@ -416,7 +416,7 @@ EndRepeat
   40
 
 #lvl_b-00
-#1x
+#2x
    6,R,J
    6,R
    1,R,J
@@ -442,7 +442,7 @@ EndRepeat
   40
 
 #lvl_b-01
-#2x
+#1x
    8,R,Z
    2,R,J
    6,R

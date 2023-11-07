@@ -3,6 +3,7 @@ The following people contributed inputs to this repository:
 Alexa  
 Algorythm  
 amber  
+arti  
 atpx8  
 Ayalyn  
 cake  
@@ -29,11 +30,13 @@ nebs
 NitroDash  
 Pandora  
 pansear  
+psyGamer  
 RareBeeph  
 RichConnerGMN  
 RisingStar111  
 sashabell  
 Shin  
+The Senate  
 TheChickenleg  
 tong815  
 Toster  

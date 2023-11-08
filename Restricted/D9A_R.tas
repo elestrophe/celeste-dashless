@@ -4462,37 +4462,44 @@ EndRepeat
    2,J,G
    1,R,J
    2,R
+AnalogMode,Precise
   27,R,U
-AnalogMode,Ignore
-  16,F,89.135
-   1,F,86.308
-  32,F,76.99
+  16,F,89.18
+   1,F,86.8
+  32,F,70.63
    1,G
-   2,R,J,G
-   1,J
-   1,R,J
-   3
+   4,J,G
+   2,R,J
    1,K
-   1,R,J,G
+   2,R,J,G
    1,L,J
-   8,R,J
-  25,R,D
+   4,R,J
+   5,R
+   3,R,J
+   1,R
+   1,R,J
+  18,R,D
    4,R
+AnalogMode,Ignore
   27,R,U
-  19,F,80.8
-  12,F,145
-   9,F,181
-  12,F,116
-  12,F,52
-  17,F,0.001
+  18,F,78.758
+   1,F,82.62
+  12,F,147
+   8,F,175.6
+   1,F,180.43
+  11,F,121
+  11,F,63
+  19,F,0.001
    1
-   1,L,G
-   7,J,G
+   1,U,G
+   1,L,J,G
+   4,J
+   2
    2,L,K,G
    4,R,K
-   1,L
+   1,L,K
    1,J,G
-   1,R
+   1,R,J
   20,L,K,G
    1,J
 Repeat,7
@@ -7389,7 +7396,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:30.328(61784)
+ChapterTime: 17:30.311(61783)
 
 # optional waiting for
 # visuals to play out

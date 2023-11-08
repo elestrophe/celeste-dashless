@@ -10,7 +10,9 @@ Set,DashMode,Two
 #play,Remembered,37
 
 #console load 10 18557 -6217
-#play,Event Horizon,38
+#  37
+#Set,Level.TimeActive,371.8200
+#play,Event Horizon
 
 #console load 10 28110.3 -8086
 #  37

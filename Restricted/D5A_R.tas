@@ -582,21 +582,18 @@ endRepeat
 
 #lvl_b-02
 #0x
+#lvl_b-02
+#0x
   14,R
-   4,R,J
-   5,R
    1,R,J
-  15,R
-   5,R,J
-   5,R
-   5,R,J
-   2,R
-   1,R,J
-   3,R
-   1
-   1,R
-   1,R,K,G
+   9,R
+  10,R,J
+   6,R,K
+   6,R
+   7,R,J
+   6,R
    1,R,J,G
+   1,R,K,G
    9,R
    1,R,J
   14,R
@@ -604,8 +601,7 @@ endRepeat
   18,R
    1,R,J
   14,R
-   1,R,J
-   8,R
+   9,R,J
   40
 
 #lvl_b-06
@@ -2686,4 +2682,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 5:49.894(20582)
+ChapterTime: 5:49.843(20579)

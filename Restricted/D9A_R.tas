@@ -355,30 +355,35 @@ EndRepeat
    1,R,K,G
    1,R,J,G
    3,R,K,G
-   6,R
-   1,R
+   4,R
    1
+   3,R
    1,R,K
    1,R
    1,R,K
    1,R
   11,L,D
-  23,R
+  18,R
+   1
+   4,R
    1,R,J,G
-   5,R
-  12,L
+  12,R,K,G
+   7,R
+   3,R,K
+  38,R,D
    1,R
-  48,R,D
-   1,L,D
-   1,L
-  12,L,D
-   1,D
-   2,L,D
+   1,R,D
+   1,R
+   1,R,J,G
+   1,R,K,G
+   3
+   3,R
+   1,R,K
+   1
+   4,R
   38,R
   31,R,X
-  32,R,C
-   1
-   1,R
+  34,R,C
    1,J,G
    1,R,J
    2,J
@@ -388,9 +393,9 @@ EndRepeat
    1,R,K,G
    1,R,J,G
    1
-   6,R
+   7,R
    1,R,J
-   2,R
+   1,R
    1
    2,R
    1,R,J
@@ -7425,7 +7430,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:29.393(61729)
+ChapterTime: 17:29.291(61723)
 
 # optional waiting for
 # visuals to play out

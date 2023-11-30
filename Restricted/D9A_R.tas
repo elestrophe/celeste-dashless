@@ -11,12 +11,12 @@ Set,DashMode,Two
 
 #console load 10 18557 -6217
 #  37
-#Set,Level.TimeActive,371.8200
+#Set,Level.TimeActive,369.753845
 #play,Event Horizon
 
 #console load 10 28110.3 -8086
 #  37
-#Set,Level.TimeActive,482.2430
+#Set,Level.TimeActive,480.893371
 #play,Determination
 
 Set,DashMode,Normal

@@ -1112,7 +1112,6 @@ EndRepeat
    1,L,J,G
   11,L,K,G
    9,L,G
-
   11,J,G
    1,L,J,G
    1,J,G
@@ -1452,8 +1451,7 @@ EndRepeat
   28,L,J,G
   20,L,D,G
    4,L,J,G
-  14,L,D,G
-   1,L,D,G
+  15,L,D,G
   43
 
 #lvl_d-01
@@ -4066,8 +4064,7 @@ AnalogMode,Precise
    1,R,J
    6,R
    1,R,J
-  16,R,D
-   1,R,D
+  17,R,D
    6,R,J
    5,R
    1,R,J

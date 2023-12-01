@@ -1447,49 +1447,46 @@ EndRepeat
    4,L,G
   12,L,J,G
   33,L,D,G
-   1,L,J,G
-  28,L,J,G
-  20,L,D,G
-   4,L,J,G
-  15,L,D,G
+  25,L,J,G
+   1,L,G
+   7,L,D,J,G
+  16,L,D,G
+   5,L,J,G
+  14,L,D,G
   43
 
 #lvl_d-01
 #0x
-   3,L,D,G
+   1,L,D,G
    1,L,D,J,G
-  16,L,D,G
-   1,L,J,G
-   7,J,G
-   1,D,J
-  21,J,G
+   1,L,D,G
+   1,L,D,J,G
+   9,L,D,G
+   1,R
+   7,L,D
+   3,L,J
+  25,J,G
    1,D
-  15,G
-   4,L,G
-   2,G
+  21,G
+   1,D
+  14,G
+   1,L,G
+   6,G
+   1,D
+  21,G
+   1,D
+  16,G
+   5,L,G
    1,L,D
   21,L,G
-   1,D
-  14,L,G
-   7,G
-   1,D
-  18,L,G
-   3,G
-   1,D
-  21,L,G
    4,L,J
-  25,L,U,J,G
+  26,L,U,J,G
    1,L,U,G
-   3,L,U,J,G
+   2,L,U,J,G
   55,L,U,G
-   8,L,D,G
-   1,D,G
-   1,L,D,G
-   1,D,G
-   1,L,D,G
-   4,D,G
-   1,G
-   7,D
+  12,L,D,G
+   5,D,G
+   6,D
 Repeat,3
    1,G
    1
@@ -1508,17 +1505,17 @@ EndRepeat
    8,L,G
    4,G
    1
-   7,R
-   1
-   4,R
+  12,R
    3
   14,R,G
    2,G
-   1,R,J,G
-   2,L,J,G
-   9,L,G
+   3,J,G
+   1,G
    1,R,G
-   3,G
+   7,L,G
+   1,R,G
+   2,G
+   1,R,G
   34,L,U,K,G
   46,L,U,G
    6,U,G
@@ -3267,7 +3264,7 @@ EndRepeat
 #Spinner cycle (f-06)
 #0-2
 
-   0,R
+   2,R
 # ---------
 
 #9T2

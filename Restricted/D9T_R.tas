@@ -18,7 +18,7 @@ console load 10
 #Start
 
 Read,D9A,Start,Post-Heart
-#55x
+#53x
 
 #Post-Heart
    2
@@ -190,7 +190,7 @@ Read,D9A,lvl_f-01,Spinner cycle (f-05)
 #Spinner cycle (f-05)
 #0-1
 
-   0
+   1
 # ---------
 
 Read,D9A,9T1,Spinner cycle (f-06)
@@ -200,13 +200,36 @@ Read,D9A,9T1,Spinner cycle (f-06)
 #Spinner cycle (f-06)
 #0-2
 
-   2,R
+   0,R
 # ---------
 
-Read,D9A,9T2,End_IGT
-#115x
+Read,D9A,9T2,lvl_h-00b
+#30x
 
-ChapterTime: 17:21.114(61242)
+#Spinner drift optimization
+#lvl_h-00b
+#0x
+   1,R,D
+   1
+   2,D
+   4,R,D
+   1,R,J
+   6,R
+   1,R,J
+  17,R,D
+   6,R,J
+   5,R
+   1,R,J
+   5,R
+  13,L,D
+   1,L
+   6,L,D
+  40
+
+Read,D9A,lvl_h-00,End_IGT
+#85x
+
+ChapterTime: 17:25.602(61506)
 
 # optional waiting for
 # visuals to play out

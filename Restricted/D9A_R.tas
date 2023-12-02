@@ -12,7 +12,7 @@ Set,DashMode,Two
 #console load 10 18557 -6217
 #  37
 #Set,Level.TimeActive,369.753845
-#play,Event Horizon
+#play,Event Horizon,2
 
 #console load 10 28110.3 -8086
 #  37
@@ -2362,22 +2362,29 @@ EndRepeat
 #lvl_e-05
 #1x
    1,R
-   9,R,J
-   5,R
-   2,R,J
-  31,R,D
-  12,G
+   1,R,J
+  14,R
+   1,R,J
+  12,R,D
+   1,D
+  10,R,D
+   6,L,D
+   2,L
+   1,R
+   1
+   1,R
+   7,G
    1,R
    1,R,J,G
    1,R,K,G
    2,R,J,G
    1,R,K,G
    7,R
-  11,R,D,J
-   2,R,K,G
-  10,K
+  11,R,J
+  12,K,G
   12,J,G
-   7,K,G
+   5,K,G
+   2
    1,J,G
    3
    1,R
@@ -2389,10 +2396,9 @@ EndRepeat
    8,L,J
   15,L,D,X
    8,L
-  15,R
-   1,R,J
-   1,L,J
-  26,L,D
+  16,R
+   2,L,J
+  25,L,D
   11,L,J
    5,L
    1,L,J
@@ -3251,7 +3257,7 @@ EndRepeat
 #Spinner cycle (f-05)
 #0-1
 
-   0
+   1
 # ---------
 
 #9T1
@@ -3315,7 +3321,7 @@ EndRepeat
 #Spinner cycle (f-06)
 #0-2
 
-   2,R
+   0,R
 # ---------
 
 #9T2
@@ -7484,7 +7490,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:32.708(61924)
+ChapterTime: 17:32.657(61921)
 
 # optional waiting for
 # visuals to play out

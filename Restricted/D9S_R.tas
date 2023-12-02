@@ -20,7 +20,7 @@ console load 10
 #Start
 
 Read,D9A,Start,lvl_j-14
-#174x
+#173x
 
 #lvl_j-14
 #3x
@@ -824,7 +824,7 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 18:35.149(65597)
+ChapterTime: 18:39.705(65865)
 
 #Let moon berry sfx play
  100

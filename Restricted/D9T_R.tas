@@ -190,7 +190,7 @@ Read,D9A,lvl_f-01,Spinner cycle (f-05)
 #Spinner cycle (f-05)
 #0-1
 
-   1
+   0
 # ---------
 
 Read,D9A,9T1,Spinner cycle (f-06)
@@ -229,7 +229,7 @@ Read,D9A,9T2,lvl_h-00b
 Read,D9A,lvl_h-00,End_IGT
 #85x
 
-ChapterTime: 17:25.602(61506)
+ChapterTime: 17:25.551(61503)
 
 # optional waiting for
 # visuals to play out

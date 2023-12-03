@@ -24,23 +24,21 @@ Set,DashMode,Normal
 #console load 10 43612.4 -8744
 #play,Stubbornness,37
 
-#console load 10 49448 -10296
-#play,Reconciliation 1,41
-
-# -------------
-# The checkpoints below require
-# the Subpixel Jelly mod.
-# gamebanana.com/tools/10178
-# -------------
+#console load 10 49013 -10358
+#play,Reconciliation 1,47
 
 #console load 10 61291 -10523.4
 #  37
-#console subspawnjelly .55 .25
+#EvalLua level:Add(Celeste.Glider(Vector2(61291, -10523), false, false))
+#  13,G
+#Set,Glider.Position,61290.5489,-10534.7507
 #play,Reconciliation 2
 
 #console load 10 74243 -10525 40
 #  37
-#console subspawnjelly .10 .04
+#EvalLua level:Add(Celeste.Glider(Vector2(74243, -10525), false, false))
+#  13,G
+#Set,Glider.Position,74244.1000,-10538.0474
 #play,Farewell
 
 console load 10
@@ -1263,59 +1261,47 @@ EndRepeat
    1,R,D,G
    1,R,G
    5,R,J,G
-   3,G
-  51,R,D,G
-  46,R,D,G
-   4,R,J,G
+   2,G
+   1,R,G
+  38,R,U,G
+   8,L,U,G
+  18,L,D,G
+   8,L,U,G
+   1,L,D,G
+   1,L,U,G
+   6,L,D
+   7,L,J,G
+  14,R,K
+  31,R,K,G
   43
 
 #lvl_d-04
 #0x
-   2,R,J,G
-   1,J,G
-   6,R,J,G
-   1,R,K,G
-  36,R,U,J,G
-  38,R,U,G
-   6,R
-  28,R,D,G
-   9,R,U,G
-   1,R,D,G
-  64,R,U,G
-   1,L
-   1,R
-   1,G
-   1,L,J
-  11,L,K
-   3,K
-   3,L,K
-  20,L,G
-   2,G
-   1,D,J
-  22,G
-   1,D,J
-  18,L,G
-   4,R,G
+  15,R,U,K,G
+  28,R,J,G
+   1,R,J
+  24,R,J,G
+   5,J,G
    1,R,D,J
-  22,R,G
-   1,R,D,J
-  22,R,G
-   1,R,D,J
-  22,G
-   1,D,J
-  17,R,G
-   1,G
-   1,R,G
-   3,G
-   1,D,J
-  15,G
-   5,R,G
-   1,G
+  19,G
+   2,R,G
+   1,D
+  14,G
+   7,R,G
    1,R,D
+  19,G
+   2,R,G
+   1,R,D
+  17,G
+   4,R,G
+   1,R,D
+  20,G
+   1,R,G
+   1,D
   21,R,G
    1,L
- 108,R,U,J,G
-  30,R,D,G
+ 117,R,U,J,G
+  31,R,D,G
    1,L
   15,R,D
    1,S,N
@@ -7490,7 +7476,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:32.657(61921)
+ChapterTime: 17:29.750(61750)
 
 # optional waiting for
 # visuals to play out

@@ -1,14 +1,10 @@
 #FAREWELL MOON BERRY +9x (R)
 
-# -------------
-# The Farewell checkpoint requires
-# the Subpixel Jelly mod.
-# gamebanana.com/tools/10178
-# -------------
-
 #console load 10 74243 -10525 40
 #  37
-#console subspawnjelly .10 .48
+#EvalLua level:Add(Celeste.Glider(Vector2(74243, -10525), false, false))
+#  13,G
+#Set,Glider.Position,74244.1000,-10538.0474
 #play,Farewell
 
 #console load 10 81744 -13272
@@ -104,9 +100,9 @@ Read,D9A,Start,lvl_j-14
    1,R,J,G
   24,R,D,G
    1,R,J,G
-   1,R,D,G
+  14,R,D,G
 #Farewell
-  26,R,D,G
+  13,R,D,G
   40
 
 #lvl_j-14b
@@ -824,7 +820,7 @@ EndRepeat
    1,S,N
    1,D,J
   18
-ChapterTime: 18:39.654(65862)
+ChapterTime: 18:36.747(65691)
 
 #Let moon berry sfx play
  100

@@ -2453,34 +2453,28 @@ EndRepeat
    1,R
    1,R,K,G
    1,R
-   1,R,J,G
-   8,R,D
-   2,R
-   2,R,D
-   1,R,J
-   2,R
-   1,R,K,G
-   2,R
-   1,R,J,G
-   2,R
-   1,R,K,G
-  11,R,D
-   5,D
-   1,R,J
-   2,J
+   2,R,J,G
+   3,R,D
+   1,R
+   7,R,D
+   3,R,J
+   3,R,K,G
+   2,R,J,G
+  16,R,D
+   3,R,J
    5,K,G
   40
 
 #lvl_e-05b
 #1x
-   1,K
-   1,R
-   1
-   4,R
+   1,R,K
+   6,R
   10,R,Z
    1,L,J,G
-   3,R,J
-   2,J
+   2,R,J
+   1,J
+   1,R,J
+   1,J
    1,R,J
   19,R,D
   40
@@ -2493,11 +2487,10 @@ EndRepeat
    3,R,J
    1,R
    1,R,J
-   4,R
-   2
+   5,R
+   1
    1,R
-   2
-   1,R
+   3
   15,D,X
    1,R,D
    1,J
@@ -3243,7 +3236,7 @@ EndRepeat
 #Spinner cycle (f-05)
 #0-1
 
-   1
+   0
 # ---------
 
 #9T1
@@ -7456,7 +7449,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:29.104(61712)
+ChapterTime: 17:29.053(61709)
 
 # optional waiting for
 # visuals to play out

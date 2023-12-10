@@ -203,31 +203,8 @@ Read,D9A,9T1,Spinner cycle (f-06)
    2,R
 # ---------
 
-Read,D9A,9T2,lvl_h-00b
-#30x
-
-#Spinner drift optimization
-#lvl_h-00b
-#0x
-   1,R,D
-   1
-   2,D
-   4,R,D
-   1,R,J
-   6,R
-   1,R,J
-  17,R,D
-   6,R,J
-   5,R
-   1,R,J
-   5,R
-  13,L,D
-   1,L
-   6,L,D
-  40
-
-Read,D9A,lvl_h-00,End_IGT
-#85x
+Read,D9A,9T2,End_IGT
+#115x
 
 ChapterTime: 17:21.692(61276)
 

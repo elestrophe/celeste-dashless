@@ -1,7 +1,5 @@
 #FAREWELL MOON BERRY +9x (R)
 
-console hearts 15
-
 #console load 10 74243 -10525 40
 #  37
 #EvalLua level:Add(Celeste.Glider(Vector2(74243, -10525), false, false))
@@ -12,6 +10,7 @@ console hearts 15
 #console load 10 81744 -13272
 #play,Moonberry Room,37
 
+console hearts 15
 console load 10
    1
 

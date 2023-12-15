@@ -1,8 +1,7 @@
-#FAREWELL 71x (SR)
+#FAREWELL 70x (SR)
 
 #StunPauseMode,Simulate
 
-console hearts 15
 console load 10
    1
 
@@ -1243,9 +1242,7 @@ EndStunPause
    1,D
   23,R
   40,L,G
-  10,G
-1501,G
-  22,G
+1533,G
    7,J,G
    1,D
 Repeat 14
@@ -1930,97 +1927,168 @@ EndRepeat
   13,R
   40
 
+
 #lvl_e-05
 #1x
-   5,R
-   1,R,J
-  14,R
-  12,R,J
-   6,R,J
-  15,D
-StunPause
-   2,L,D
-  10,D
-   1
-  16,D
-   1
-   6,R
-SkipInput 3 1
-   7,U,X
-EndStunPause
-   8
-   8,R,J
-  35,R,U,G
-   7,R,J,G
-  14,R,K,G
-  14,R,J,G
-   7,R
-   1,R,J
-  21,R
-   3,R,J
-   6,R
-   3,R,J
-   8,R
-   1
    1,R
    1,R,J
-   2,R
+  14,R
+   1,R,J
+  12,R,D
+   1,D
+  10,R,D
+   6,L,D
+   2,L
+   1,R
+   1
+   1,R
+   7,G
+   1,R
    1,R,J,G
    1,R,K,G
-   9,R
+   2,R,J,G
+   1,R,K,G
+   7,R
+  11,R,J
+  12,K,G
+  12,J,G
+   5,K,G
+   2
+   1,J,G
+   3
+   1,R
+   1
+   1,R
+   6,L
+  10,L,J
+   5,L
+   8,L,J
+  15,L,D,X
+   8,L
+  16,R
+   2,L,J
+  25,L,D
+  11,L,J
+   5,L
+   1,L,J
+  11,L
+Repeat,10
+   1,G
+   1
+EndRepeat
+   1,G
+   1,R,J
+   1,R,K
+  21,R,D
+  12,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   2,R,J,G
+   2,K,G
+  26,R,K
+   1,L,J
+  23,L
+   4,J
+   5
+   1,J
+  11
+   2,J
+  32,L,J
+   7,L,J
+  25,L,D
+   6,L,J
+   8,L
+   1,L,J
+  14,L,D
+   1,R,D
+   6,R,J
+   6,R
+   1
+   3,R
+   3,R,J
+  14,R
+   1
+   2,R
+   3,R,D
+   6,L,D
+   1,L
+   4,L,D
+   7
+  35,R
+   5,J,G
+   3,L,J
+   1,J
+   1,L,J
+   3,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,K
+   4
+   7,R
+   4,G
+   2,R
+   1,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1,R,K,G
+   1,R
+   2,R,J,G
+   3,R,D
+   1,R
+   7,R,D
+   3,R,J
+   3,R,K,G
+   2,R,J,G
+  16,R,D
+   3,R,J
+   1,R
+   4,R
   40
 
 #lvl_e-05b
 #1x
-   4,R
-   1,R,J
+  10,R
 StunPause
-  16,R
-   5,R,J
-SkipInput 3 1
-  14,R,X
-  11,R,J
-  34,R,D
-   7,R
+   1,R
+   1
+   9,R,D,J
 EndStunPause
-  15,R
-   2
-   3,R
-   8,J,G
-  11,R
+  10,R
+   3
    1,R,J
-  22,R
   40
 
-#lvl_e-05c(0)
+#lvl_e-05c
 #1x
+   3,R,J
+   7,R
+   2,R,J
+   6,R
+   2
+   2,R
+  15,D,X
+   1,R,D
+   1,J
+   1,L,K,G
+   2,R,K
+   3,R
+   1,L
+   5,J,G
+  11,K,G
+   1,R,K
+   1,R,J,G
+   3,L,J
+   4,R,J
+   1,R,K,G
+   2,R
+   1
+   4,R
    1,R,J
   14,R
-   1,R,J
-   3,R
-StunPause
-  11,R
-  41,R,J
-  18,R
-  10,R
-  20,D
-   2,R
-EndStunPause
-  20,R
-StunPause
-  35,R
-   3,R,J
-   2,R,K,G
-EndStunPause
-  12,R,K,G
-  15,U,X
-  19,R,J
-   1,R,K,G
-   7,K,G
-   1,L,K
-   3,R,K
-   3,R,J,G
-  22,R
    1,R,J
   40
 
@@ -2095,18 +2163,16 @@ EndStunPause
   20,R,D,G
    9,R,J,G
    5,R,D,J
-   1,K,G
-   1,R,K
+   3,R,K,G
    5,K
+   1,L,K
+   2,L
    1
-   1,R
-   1,L
-   1,R,K,G
    1,R,J,G
-   1,R,K,G
-  17,R,J,G
-   2,J,G
-   4,R,J,G
+  14,J,G
+   1,R,J,G
+   3,J,G
+   5,R,J,G
   12,R,G
    7,R,J,G
   40
@@ -3269,9 +3335,9 @@ StunPause
    3,R,G
    2,R,U,G
 EndStunPause
-   1,S,N
-  10,O
+StunPause
    1,R,U,G
+EndStunPause
 StunPause
   71,R,U,G
 EndStunPause
@@ -4747,22 +4813,16 @@ EndStunPause
    2,R
    8,R,J
   25,R
-   1,S,N
-  10,O
-   2,R
-   1,S,N
-  10,O
+StunPause
+   3,R
+EndStunPause
+StunPause
    1,R
-   1,S,N
-  10,O
-   1,R
-   1,R,U,J,G
-   1,S,N
-  10,O
-   1,R,U,J,G
+   2,R,U,J,G
+EndStunPause
 StunPause
   57,R,U,J,G
-EndStunpause
+EndStunPause
   26,R,U,J,G
 StunPause
   61,R,U,J,G
@@ -5251,9 +5311,9 @@ StunPause
    3,R,D,G
   12,R,U,J,G
 EndStunPause
-   1,S,N
-  10,O
+StunPause
    1,R,U,J,G
+EndStunPause
 StunPause
    5,R,U,J,G
    3,R,D
@@ -5348,9 +5408,9 @@ StunPause
   28,R,U,J,G
    4,U,G
 EndStunPause
-   1,S,N
-  10,O
+StunPause
    1,R,U,G
+EndStunPause
 StunPause
   50,R,U,G
    5,R,D,G
@@ -6081,9 +6141,9 @@ StunPause
   35,D
    6,L,D
 EndStunPause
-   1,S,N
-  10,O
+StunPause
    1,L,D
+EndStunPause
 StunPause
   32,L,D
   49,R,G
@@ -6205,9 +6265,9 @@ StunPause
    1,L
   12,R,G
 EndStunPause
-   1,S,N
-  10,O
+StunPause
    1,R,G
+EndStunPause
 StunPause
    3,R,G
    5,R,G
@@ -6225,9 +6285,9 @@ EndStunPause
 StunPause
   21,R,U,J,G
 EndStunPause
-   1,S,N
-  10,O
+StunPause
    1,R,U,J,G
+EndStunPause
 StunPause
 SkipInput 3 81
  101,R,U,J,G
@@ -6317,7 +6377,7 @@ EndStunPause
  215,U
   38
 #End_IGT
-ChapterTime: 45:28.959(160527)
+ChapterTime: 45:07.216(159248)
 
 # optional waiting for
 # visuals to play out

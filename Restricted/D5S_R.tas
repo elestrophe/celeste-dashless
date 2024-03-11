@@ -1859,57 +1859,57 @@ Add 58
    1,R,K,G
   10,R
    1,R,J
-  14,R
-   1,R,J
-   1,R
+   1,L
+  13,R
+   1,R,D,J
+   2,J
   58
-
 #lvl_b-17 (1)
 #0x
-  13,R
-   1,R,J
-  18,R
-   1,R,J
-  20,R
-   1,R,J
-  14,R
-   4,R,J
-  15,R
-  14,L
-  12,J,G
-   1,K
-  12,L,J,G
-  25,L
-  46,L,J
-  31,R,K
-   7,R
-  12,R,D
-   1,G
-  21,R,K,G
-   3
-  10,L
-   1,K
-  59,R,J
-   7,R,K,G
-  24,R,J,G
+   8,R,J
+   1,L,J
+   7,J
+   1,L,J
    1,K,G
-   4,R,K
-   4,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-  11,K,G
-   1,L,K
-   4,J
+   5,R
+   9,R,J
+  10,L,K,G
+   1,J
+   2,K,G
+  46,R,K
+   9,J,G
+   1,L,J
+   1,R,J
+  14,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+   8,R
+   5,R,K
+   5,R
+   7,R,J
+  40,R
+   1,R,D
+   4,R,J,G
+  21,R,K,G
    1,K
-  12,J
-   3
+  10,J,G
+   1,L,J
+   1,R,J
+  14,R,K,G
+  11,J,G
+   3,K
+   1,J
+  12,K
+   3,R
    1,S,N
    1,D,J
   34
 #cassette
-  29,D
+  20,D
+   1,L,D
+   8,D
   16,L,D
    1,L,J
   19,L
@@ -4436,4 +4436,4 @@ EndRepeat
    1,S
    1,D,J
   18
-FileTime: 13:02.119(46007)
+FileTime: 12:59.144(45832)

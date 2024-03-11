@@ -521,17 +521,19 @@ Read,D3A,lvl_s0,lvl_s2
    9,R,K
   11,L,J
   11,R,K
-  11,L,J
-   2,R,K
-   4,R
-   3,R,J
-   3,R
+   2,R,J,G
+   2,L,J
+   2,R,J
+repeat,3
+   1,J
+   1,R,J
+endrepeat
    1,K
    5,J,G
-   5,L
+   5,L,J
    1,L
-   1,L,J,G
-   9,L,K,G
+   1,L,K,G
+  10,L,J,G
    5,L
   20,L,J
   14,D
@@ -707,53 +709,38 @@ Read,D3A,lvl_s0,lvl_s2
 
 #lvl_02-b
 #0x
-   9,R
-   6
-   5,R
-   1,R,J
-  14,R
-   1,J
-  10,J
+  18,R
+  16,R,D,J
+   3,L,J
+  12,L,K,G
+   7,J,G
    1,R,J
    1,L,J
-   6,K,G
-   2
-   4,L,J,G
-   1,K,G
-   9,L,K
-   1,R,K
-   1,L,K
-  10,J,G
-   6,R,J
+   9,K,G
+   5,R,K
+   1
+   1,R,J,G
+   2,R,K,G
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  21,R,D
+   3,R,J
+  17,R
+   3,R,D
+   1,R,D,J
+   4,L,J
    1,R,K,G
    1,R,J,G
   10,R
-   2,R,J
-   5,R
-   2,R,J
-   9,R
-   1,R,J
-  21,R,D
-   5,J
-   4,R,J
-  16,R
-   2,J,G
-   1,L,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
+   3,R,J
   12,R
-   1,R,J
-   5,R
-   1,R,J
-   5,R
-  13,L
-   1,L,D
-   4,L
+  34,L
    2
-  16,L
-   4,L,D
+   2,L,D
+   1
+   1,L,D
   10,J,G
    2,L,J
    1,R,J
@@ -789,7 +776,7 @@ Read,D3A,lvl_s0,lvl_s2
    7,L,J
    3
    4,R
-   6
+  10
   31,L,J
    1,R,J
    1,L,J
@@ -1204,31 +1191,38 @@ Read,D3A,lvl_s0,lvl_s2
   11,R
    3,R,J
   16,R,D
-   1,R,J
+   2,R
    2
-   5,R
-   1,R,J,G
-  14,R
-   5,R,J
-   5,R,K,G
    4,R
-   2,R,J
-  10,R
-   7,R,D
+   1
+   1,R
    1,R,J
-  10,R
+   1,R,K,G
+   7,R,J,G
+   1,J
+   2
+   4,R
+   1
+   1,R
+   1
+   1,R
    1,R,J,G
    3,R,K,G
    7,R
-   1,R,J
+   3,R,J
+  17,R,D
+   3,R,J
    7,R
+   1,R,J
+  11,R
   40
 
 #lvl_06-c
 #1x
-   7,R
+***S
+   3,R
    1,R,J
-  14,R
+  20,R
    4,R,D,J
    5,R
   16,R,J
@@ -1255,37 +1249,36 @@ Read,D3A,lvl_s0,lvl_s2
    5,L,J,G
    5,L
   14,L,J
+
    8,D
    1,L,D
-  15,R,D
-   6,L,D
-  12,L,J
-   1,K
-   2,L,J,G
+  17,R
+  13,R,D
    9,R,J
    5,R
-   8,R,J
-   6,R
-  14,R,J,G
-   1,K
-   2,L,J,G
-   1,R
-  11,R
-   4,R,J,G
-  29,R,D
+  10,R,J
+  12,L,K,G
+   4,J,G
    1,R,J
-   6,R
-   4,R,K,G
-   1
-   8,R
-   1,R,J,G
-   1,R,K,G
-  12,R
-   4,R,J
+   1,L,J
+   1,K,G
+  16,R,K
+   5,R,J,G
+  28,R,D
    5,R
-   4,R,J
+   1
+   1,R
+   1
+   1,R
+   1,R,J
+   1,R,K,G
+   6,R,J,G
+   5,R
+   1,R,K,G
+  11,R
+   1,R,J
   23,R,D
-  16,D,X
+  21,D,X
    1,J
   20,R,D
   40
@@ -3096,4 +3089,4 @@ Read,D3A,lvl_roof04,lvl_roof06
    1,S
    1,D,J
   18
-ChapterTime: 8:38.449(30497)
+ChapterTime: 8:37.701(30453)

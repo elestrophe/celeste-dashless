@@ -6594,22 +6594,17 @@ AnalogMode,Precise
   54,R,D,G
   17,R,U,G
    1,R,G
-  28,R,U,G
-   3,U,G
-  12,L,D
-   9,R
-   1
-   4,R
-  21,R,D,G
-   8,D,G
-   1,R,D,G
-   9,D,G
-   1,L,D,G
-   1,R,D,G
+  30,R,U,G
+   1,R,U,G
+   3,L,G
+  11,L,D
+  12,R
+  22,R,D,G
   13,D,G
-   2,G
-   1,D,G
-  23,G
+   1,R,D,G
+  16,D,G
+   1,G
+  17,G
   12,R,G
    1,D
   21,R,G
@@ -6624,53 +6619,57 @@ AnalogMode,Precise
    1,D
   21,R,G
    1,L
- 196,R,U,J,G
-   2,R,D,G
-   1,D,G
-   1,R,D,G
+ 198,R,U,J,G
+   1,U,G
+   1,R,U,G
    8,R,D
    1,D
-  13,U,X
-  20,G
- 100,R,U,G
-   8,R,D,G
-   1,R,G
-   4,R,D,G
-   5,R,J,G
-   1,R,J
+  12,U,X
+  16,G
+  96,R,U,G
+  17,R,D,G
+   2,R,J,G
+   3,R,J
+   1,R
    8,R,D,X
    6
    1,R,J
-   7,R
+   6,R
+   2,R,J
+   1,R
    1,R,J
-   2,R
+   1,R
    4,X
    1,L,D,X
   12
    5,R,J
-   8,R
+   7,R
   29,R,D,G
    3,R,G
-  10,R,D,G
-   3,R,J,G
-  39,R,D,G
+   9,R,D,G
+   4,R,J,G
+   9,R,G
    1,R,J,G
-  19,R,D,G
+  30,R,D,G
+   1,R,J,G
+  18,R,D,G
   40
 
 #lvl_j-10
 #4x
-   9,R,D,G
-   8,R,J,G
-   1,R,G
-   1,G
-  12,R,G
-   9,D,G
+   4,D,G
+   2,R,D,G
+   1,D,G
+   2,R,D,G
+   1,D,G
+   7,R,J,G
    1,R,D,G
-  10,D,G
-   1,R,D,G
-   2,D,G
-  48,R,D,G
+   1,D,G
+   7,R,D,G
+   1,R,J,G
+   8,R,D,G
+  17,D,G
+  50,R,D,G
   11,R,U,G
    1,R,D,G
   24,R,U,G
@@ -6773,9 +6772,7 @@ AnalogMode,Precise
   54,L,U,G
    1,L,D,G
    9,R,D,G
-  27,R,U,G
-   1,R,G
-   1,R,U,G
+  29,R,U,G
    1,R,G
    1,R,U,G
    1,R
@@ -6793,9 +6790,8 @@ AnalogMode,Precise
    3,L
    2,R
    1,R,J
-  16,R,D
+  17,R,D
    1,R
-   1,R,D
    2,G
 Repeat,47
    1
@@ -6811,9 +6807,9 @@ EndRepeat
    2
   14,D,J,G
    1,R,D,G
-   3,D,G
+   1,D,G
    1,D,J,G
-   8,D,G
+  10,D,G
    1,R,D,G
    1,D,G
    7,R,D,G
@@ -7457,7 +7453,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:27.659(61627)
+ChapterTime: 17:27.404(61612)
 
 # optional waiting for
 # visuals to play out

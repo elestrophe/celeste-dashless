@@ -2,6 +2,7 @@
 
 #StunPauseMode,Simulate
 
+console hearts 15
 console load 10
    1
 
@@ -1926,7 +1927,6 @@ EndRepeat
    1,R,J
   13,R
   40
-
 
 #lvl_e-05
 #1x

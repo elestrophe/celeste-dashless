@@ -1,4 +1,4 @@
-#FAREWELL 68x (U)
+#FAREWELL 67x (U)
 
 #StunPauseMode,Simulate
 
@@ -2220,6 +2220,7 @@ EndRepeat
    1,R,J
    1,R
    1,R,J
+
    5,R,D,X
   13,R,G
    4,R,J,G
@@ -3587,93 +3588,59 @@ EndRepeat
   40
 
 #lvl_i-01
-#1x
+#0x
   12,R
-  10
-   1,R,J
-   9,R
-  13,L,D
-   2,L
-   5,R
-  12,R,J
-   7,R
-   1,R,D,J
-   2,L,J
-   9,L
-   1,L,J
-   2,L
-  12,R,D
-  33,R,D
-  14,L,D
+  42
+  19,R
+   6,R,J
+  49,R
+  54
+   4,R
+   5
+  19,R
+  22,L
+  36,R
+  16
+   1,R
+   4
+  20,L,D
    1,D
    1,L,D
-   3,R,D
-   1,R
-Repeat,14
+   1,D
    1,L,D
-   1,R,D
-EndRepeat
-   1,R
-   1
-   1,R
-   1
-   2,R,J
    1,J
-   2,R,J
-   5,R
-   1,R,J
-  28,R
-  28,R,Z
-   2,R,K,G
-   1,K
-   1,R,K
-   7,K
-   1,R
-   8
-   1,K
+   4,L,J
+   1,J
+   4,L,J
+  28,R,J
+   9,K,G
+  11
+   9,G
+   1,J,G
    2
-   3,L
-   8,R
-   1
-  25,R
-   1
-   1,J
-   8,R,K,G
-   8,R
-   1
-   1,R
+   2,R
+   4
+   6,L
+  35,L,J
+  19,R
+  23,L
+  60,R,D
+  35,L
+  83
+  86,R,D
    1,R,J
-  11,R
-   1
-   1,R,D
-   3,D
-   1
-   1,D
-   2,J
-  51,R,J
-   1,J
-   1,K,G
-   1,L
-   1,J
-   5,R,K,G
-   5,R
-   3,R,K
-   3,R
-   1,R,J,G
-   1,R,K,G
-   1,R
-   1
    7,R
-   1,R,J
-   8,R
-  13,R,J
-  24,R,K
+  21,R,J
+  26,R,K
+   6,G
    1,J,G
    1,R,J
    4,J
    1,L,J
    1,K
-  16,R,J,G
+   8,R,J,G
+   1,L,J
+   9,R,J
    1,R,K,G
    1,R,J,G
    1,R
@@ -5845,7 +5812,7 @@ EndStunPause
  215,U
   38
 #End_IGT
-ChapterTime: 236:26:28.181(50069893)
+ChapterTime: 236:26:33.672(50070216)
 
 # optional waiting for
 # visuals to play out

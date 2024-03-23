@@ -4467,21 +4467,25 @@ EndRepeat
    1,R,J
    6,R
   32,R,Z
-   3,R,D
+   1,D
+   2,R,D
    1,R
   15,R,V
    9
   15,R,Z
   17,L
    4,R
-   4,L
-  11,U,G
-  28,G
+   2,L
+   1,R
+   1,L
+   1
+  15,U,G
+  22,G
    1,J,G
-   1,K,G
-   1,L,J,G
+   2,K,G
+   1,J,G
    1,L,K,G
-   9,R,K
+   8,R,K
    5,R
    1,R,K
   10,R
@@ -4489,19 +4493,17 @@ EndRepeat
 
 #lvl_h-06
 #0x
-   5,R
-   7,R,D
-   2,R
-   2,R,D
-   1,R
+  12,R,D
+   4,R
    2,R,D
    8,R,J
    1,J,G
    2,L,J
    1,R,G
+   1
    1,R
-   2
-   1,R
+   1
+   1,R,D
    2
    1,R
    1,G
@@ -7453,7 +7455,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:27.404(61612)
+ChapterTime: 17:27.370(61610)
 
 # optional waiting for
 # visuals to play out

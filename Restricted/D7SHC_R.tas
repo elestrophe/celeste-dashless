@@ -889,11 +889,11 @@ EndRepeat
    4,R
   23,R,J
    6,R
-  
   15,L,D,X
    4,L,D
   19,R,D
   40
+
 #lvl_b-02 (2)
   14,R
    1,R,J
@@ -908,6 +908,7 @@ EndRepeat
    6,R
    2,R
   40
+
 #lvl_b-03
 #1x
    1,R
@@ -930,6 +931,7 @@ EndRepeat
    8,R,J
    2,R
   40
+
 #lvl_b-04
 #0x
    8,R
@@ -966,6 +968,7 @@ EndRepeat
    1,L,J
    2,L
   40
+
 #lvl_b-03
 #1x
   12,L
@@ -981,7 +984,6 @@ EndRepeat
    5,L,D
    7,L,D,J
   17,L,D
-=
   15,U,Z
    1,L
   19,R,J
@@ -989,6 +991,7 @@ EndRepeat
    2,R,K
    1,R,J
   40
+
 #lvl_b-05
 #1x
    6,R,J
@@ -1288,7 +1291,6 @@ EndRepeat
   10,R
    1,R,J
   17,R
-   
    8,R,J
    2,J
   29,R,J
@@ -1312,17 +1314,14 @@ EndRepeat
    1,K
    5,K
    9,L,K
-   
    1,R,J,G
    2,L,J
    1,L,J
    1,R,J
    2,R
    1,R
-
    1,K,G
    4,R,K
-
    2,R
    2
    1,R
@@ -1335,14 +1334,9 @@ EndRepeat
    3,L,J
    1,L,J
    1,R
-   
-   
    1,R,K,G
    1,R,K
-   
-   
    1,R,J,G
-   
    1,R,K,G
    1,R,J,G
   10,R
@@ -1547,6 +1541,7 @@ EndRepeat
    1,R,J
   39,R,D
   40
+
 #lvl_c-03
 #4x
    1,R,D
@@ -1631,7 +1626,6 @@ EndRepeat
    1,R,J
    1,R
   40
-
 
 #lvl_c-05
 #4x
@@ -1738,7 +1732,6 @@ EndRepeat
 
 #lvl_c-06b
 #2x
-   
   21,R,D
   12,R,J
   10,L,K
@@ -1863,7 +1856,6 @@ EndRepeat
   12,R,J,G
   11,L,K
   40,J
-
 
 #lvl_c-07
 #0x

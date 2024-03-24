@@ -1,4 +1,4 @@
-#7B 96x (SR)
+#7B 95x (SR)
 
 #StunPauseMode,Simulate
 
@@ -2040,7 +2040,7 @@ EndRepeat
   40
 
 #lvl_e-03
-#5x
+#4x
    2,R,D
    1,R
    2,R,D
@@ -2066,27 +2066,38 @@ EndRepeat
   21,R
    4,D,X
   10,R,X
-  50,R
-  30,R,J
-  15,R
-  14,R,X
-   3,R
+  60,R
+   5,R,K
+stunpause
+  40,R,K
+SkipInput,3,1
+  15,R,D,X
+   4,R
+  52,L
+  10,J,G
+   2,K,G
+   8
+   4,R
+  37,R,K
+   4,R,J,G
+  20,L,K
+  12,J,G
+   9,K,G
+   1
+   1,J
+   2,K,G
+  46,R,K
+   3,J,G
+   1,L,J
+  24,R,K,G
+   1,J
+endstunpause
+  14,J
   25
-  27,L
-   3,L,J,G
-   9,J
-   1,K,G
-   1,R,K
-   8,L,K
-  15,U,X
-  24,J
-  25
-   8,L,J
+   7,L,J
 StunPause
-   7,L
-EndStunPause
-StunPause
-  15,L
+   1,L,J
+  22,L
 SkipInput,3,1
   15,L,U,Z
    6,L
@@ -2100,7 +2111,7 @@ EndStunPause
    5,L
    1,L,J
   11,L
- 978
+   8
    5,R
    3,R,J
 StunPause
@@ -2111,8 +2122,6 @@ StunPause
    1,J
    1,R,J
    2,R
-EndStunPause
-StunPause
    3,R
    3,R,J
    4,R
@@ -2142,7 +2151,7 @@ EndStunPause
    1
    1,J
    1
-Repeat,253
+Repeat,93
    1,G
    2
    1,J
@@ -3913,4 +3922,4 @@ EndStunPause
   14,U,X
    4,J
  136,L
-ChapterTime: 29:43.555(104915)
+ChapterTime: 29:46.088(105064)

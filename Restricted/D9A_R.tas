@@ -291,23 +291,41 @@ EndRepeat
    6,K,G
    2,R,K
   14,U,X
-   8,L,J
-   9,L
-   5,L,J
-   2,L
-  75,G
+   4,L,J
+  12,L
+   1,L,J
+   6,L
+Repeat,4
+   1,G
+   1
+EndRepeat
+   1,R
+   2,L,J,G
+   2,R
+   1
+   1,R
+   3,L
+   9,U,G
+   3,D,G
+Repeat,14
+   1,U,G
+   1,D,G
+EndRepeat
+   2,D,G
+  16,G
+   1,D,G
    1,J,G
    1,R
-   7,L
+   6,L
    1,K,G
-   9
-   2,R
+  10
+   1,R
    1,R,J
    1,L,K,G
-  50,R,K
-   8,R,D
+  25,R,K
+  29,R,D
    1,D
-   9,R,D
+   8,R,D
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -3312,7 +3330,7 @@ EndRepeat
 #Spinner cycle (f-06)
 #0-2
 
-   0,R
+   2,R
 # ---------
 
 #9T2
@@ -7455,7 +7473,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:27.370(61610)
+ChapterTime: 17:27.319(61607)
 
 # optional waiting for
 # visuals to play out

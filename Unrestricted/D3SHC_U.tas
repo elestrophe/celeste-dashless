@@ -619,12 +619,17 @@ console load 3
 
 #lvl_0x-b
 #0x
+
 ###
- 200
+  90
+Set, TASRecorder.BlackFade, 1.0
+ 110
 console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24982758 * 170000l)
 Set, Level.TimeActive, 524281.5625
 Set, Session.Time, 4247737130000
- 200
+  50
+Set, TASRecorder.BlackFade, -1.0
+ 150
 ###
    5,L
    3,L,J
@@ -648,6 +653,7 @@ Set, Session.Time, 4247737130000
    6,L
    1,L,J
   11,L
+
   17,L,J
    1,J
    1,L,K,G
@@ -661,6 +667,7 @@ Set, Session.Time, 4247737130000
 
 #lvl_s3
 #0x
+
    1,S
    1,U
    1,F,0
@@ -3319,160 +3326,160 @@ EndStunPause
   40
 
 #lvl_06-d
-#2x
+#1x
   13,L
   19,R,D
-   1,L,D
-   8,D
-   7,L,D
-   2,L,D,J
+   1,D
+  14,L,D
+   5,L
+   1,L,D,J
   18,L
    1,L,J
   14,L
    3,L,J
-  17,L
-   4,L,J
-StunPause
-  18,L,J
-   2,J
-   1,L,K,G
+  19,L
+  21,L,J
+   1,J
+   1,K,G
    1,R,K
-   5,R,K
-  10,L,K
    1,L,J,G
-EndStunPause
-   1,S,N
-  10,O
-   1,L,K,G
-   1,L
-StunPause
-  13,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,D,J
-  13,L,D
-EndStunPause
-  17,L,D
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
+  12,J
   13,L,J
-  10,U,Z
-  11,R,J
-  13,R
-   1,R,J,G
-   3,R,K,G
-  13,R
-  63,R,J
-   3,R,D
-   8,D
-###
- 200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24963007 * 170000l)
-Set, Level.TimeActive, 524281.40625
-Set, Session.Time, 8495633550000
- 200
-###
+   1,R,K
+   5,R
+  26,R,D,J
+   6,R
+   2
+   2,L,K
+stunpause
+   4,L,K
    5,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  15,L
-   1,L,J
-  20,L
-   1,L,J
-  14,L
-   1,L,J
-   1
-  12,L
-   1
-   6,L,J
-   5,L
-   1,L,J
-   4,L
-   1,L,J
-   6,L
-   1,L,K,G
-   1,L,J,G
-  13,L
-   1,L,J
-  15,L
-   1,L,J
-  15,L
-  12,L,J
+   8,L,J
+   3,L
    1,L,K,G
    1,K
+   2,R,K
+   1,K
    1,R,K
-   2,K
-   1,L,K
-  10,J,G
-   2,R,J
-  19,R,K
-   3,K
-   1,J,G
-   4,R,J
-   2,L,J
-   9,L,K
-   2,L
-   1,R,J
+   1,K
+   1,R,K
+   1,K
+   1,J
+  25,L,J
+   1,L,K,G
+   1,L,J,G
+   5,L
    1,L,J
-   1,R,J
+   6,L
    1,L,J
+  14,L
+   1,L,J
+  15,L
+   1,L,J
+  30,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  10,L,J
+skipinput,3,1
+  10,U,Z
+  23,R,J
+   1,J
    1,R,J
+   1,R,K,G
+   2,R,J,G
+   5,R
+  18,R,J
+   1,R,K
+endstunpause
+  21,L,K
+stunpause
+  17,L,K
+   1,L,J
+  10,L
+  10,R,G
+   3,J,G
+   1,K,G
+   3,R
+   6
    1,L
+endstunpause
+   1,S
+  10,J
+   2,L,J
+stunpause
+   2,L,J
+  40,L,K
+   2,L,D
+endstunpause
+   1,L,D
+  15,D
+  10,L,D
+   1,L,J,G
+   1,L,K,G
+  13,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  12,L,J
+  12,K,G
+   5,J,G
+   1,R,J
+   1,R,K
+  20,R,J
+   2,J
+   2,K,G
+   1
+   1,J
+   2,K,G
+  14,L,K
    1,L,J,G
    1,L,K,G
   10,L
-   9,L
+   6,L,K
   40
 
 #lvl_04-d
 #0x
-   1,S
-   1,U
-   1,F,0
-   1,U,J
-SaveAndQuitReenter
-  36
-   1,L
    3,L,J
-   2,L
-   1,L,J
-  16,L,D
+  22,L,D
 StunPause
-  34,L,D
+  16,L,D
+   1,L,D
+  16,L,D
 EndStunPause
   18,L,J
   15,L,K,G
-  15,L,J,G
+  21,L,J,G
+  10,G
   16,L,K,G
-  28,L,J,G
+   8,J,G
+   1,R,J
+  25,L,K,G
+  12,L,D
 StunPause
-  28,L,D
-   2,D
-  10,L,D
+  27,L,D
+   1,D
+   3
+   3,L
+   1,L,J
 EndStunPause
-  20,L,J
+  19,L,J
   16,L,K,G
   16,L,J,G
   18,R,K
   11,L,J
    1,L
   10,L,J
-   4,L,D
+   3,L,D
 StunPause
-  15,L,D
+  26,L,D
    5,D
-  17,L,D
+   7,L,D
 EndStunPause
   18,L,K
    1,J,G
@@ -3899,12 +3906,17 @@ EndRepeat
    8,R,J
    1,R
   22,R,J
+
 ###
- 200
-console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24981672 * 170000l)
+  90
+Set, TASRecorder.BlackFade, 1.0
+ 110
+console evalcs SaveData.Instance.AddTime((Monocle.Engine.Scene as Level).Session.Area, 24956566 * 170000l)
 Set, Level.TimeActive, 524279.5625
-Set, Session.Time, 12743468770000
- 200
+Set, Session.Time, 8495653780000
+  50
+Set, TASRecorder.BlackFade, -1.0
+ 150
 ###
   14,J
   12,K,G
@@ -4366,30 +4378,19 @@ EndStunPause
 StunPause
   21,R,J
 EndStunPause
-   1,S,N
-  10,O
+StunPause
    2,R,J
-   1,S,N
-  10,O
-   4,R,J
-   1,S,N
-  10,O
+EndStunPause
+StunPause
    2,R,J
-   1,S,N
-  10,O
-   2,R,J
-   1,S,N
-  10,O
-   2,R,J
-   1,S,N
-  10,O
-   1,R,J
-  12
-   1,S,N
-  10,O
+EndStunPause
    2,R,J
 StunPause
-  49,R,J
+   7,R,J
+EndStunPause
+  12
+StunPause
+  51,R,J
    4,R
    7,R,K
   16,R
@@ -4617,4 +4618,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 354:01:37.191(74970423)
+ChapterTime: 236:01:55.692(49983276)

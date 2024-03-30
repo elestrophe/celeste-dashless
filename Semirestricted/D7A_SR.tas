@@ -1,4 +1,4 @@
-#7A 104x (SR)
+#7A 103x (SR)
 
 #StunPauseMode,Simulate
 
@@ -4920,45 +4920,94 @@ SkipInput 3 1
    2
    4,R
    1
-   7,R,J
+   2,R,J
+endstunpause
+   5,R,J
   22,R
 
 #CP-04
-#3x
-  12,R,J
-  10,R,K,G
-  12,R,J,G
-   1,K
-  13,L,J
-SkipInput 3 1
-  15,U,X
-  40,R,J
-  27,R,K
-   2,R
-EndStunPause
-  21,R,J
-StunPause
-   8,R,J
-SkipInput 3 1
-  15,U,X
-   3,R
-   2,R
+#2x
+   1,R
+   1,S
+   1,U
+   1,F,0
+   1,U,O
+SaveAndQuitReenter
+# really doubt you can do this with higher timeactive
+  36
+   6,R
+   1,R,J
+  14,R
+   1,R,J
+  21,R,D
+   1,R,J
+  23,R,D
+   5,R
+   1,N
+ 115,U
+4296
    1,J
-   5,L,J
-  46,R,J
-SkipInput 3 1
-  15,R,U,Z
-  10,R,J
-EndStunPause
-  12,R,J
-  27,R,D
-  15,F,145
-  22,F,120
-  11,F,110
-  10,F,90
-  30,F,60
-  32,F,90
-  36,R,J
+  21,L
+stunpause
+   1,L,J
+  10,L
+   1,L,J,G
+   5,L,K,G
+   5,L
+   1,L,J,G
+   7,L,K,G
+   7,L
+   1,L,D,J
+   4,D,J
+   6,R,J
+  12,R,K,G
+  12,J,G
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+  10,L,J
+  10,J
+skipinput,3,1
+  15,R,U,X
+  25,R
+skipinput,3,1
+   2,R
+  11,D
+  17,R,D,J
+   2,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+  32,R,J
+   1,R,D,K
+  18,R
+  24,R,J
+ 178
+   4,R,J
+  17,R
+   4,D
+  44,R
+   1,R,J
+  20,R
+  18,L,G
+   1,J
+   3,L
+   5
+   5,R
+  43,R,J
+  34,R,K
+   9,J,G
+skipinput,3,1
+  15,R,U,X
+  10,R,G
+   1,J,G
+   3,K,G
+  57,R,K
+endstunpause
+  34,R,J
+   1,K,G
+  11,R
   20,R,K
   14,R,J,G
    1
@@ -5012,11 +5061,11 @@ EndRepeat
   11,F,269.9
   26,L,U
    2
-Repeat,1812
+Repeat,1152
    1,G
    1
 EndRepeat
-   2,G
+   3,G
    1
    1,K
    9,L,J,G
@@ -5114,7 +5163,7 @@ EndStunPause
   17,L,K
    1,L
   19,L,U,Z
-Repeat 761
+Repeat 758
    1,G
    1
 EndRepeat
@@ -5265,4 +5314,4 @@ EndStunPause
    1,S
    1,D,J
   18
-ChapterTime: 24:08.162(85186)
+ChapterTime: 25:50.587(91211)

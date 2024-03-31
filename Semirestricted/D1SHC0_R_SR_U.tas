@@ -513,7 +513,7 @@ console load 1
   40
 
 #lvl_6c
-#0x
+#1x
    4,R
   11,R,D,J
    1,R,K,G
@@ -1211,7 +1211,7 @@ console load 1
   40
 
 #lvl_9b (1)
-#0x
+#1x
   11,R,D
    3,R
    1,J

@@ -615,7 +615,7 @@ Set, Session.Time, 4247735600000
   40
 
 #lvl_a-08 (0)
-#0x
+#1x
    8,R,D,X
    1,R,J
    7,R
@@ -1849,7 +1849,7 @@ endrepeat
   40
 
 #lvl_c-00
-#3x
+#2x
    1,R
    1,R,K,G
    3
@@ -2007,7 +2007,7 @@ EndRepeat
   40
 
 #lvl_c-02
-#2x
+#3x
    4,R
    1,R,J
    7,R,D
@@ -3958,7 +3958,7 @@ EndRepeat
   40
 
 #lvl_d-09
-#2x
+#3x
    4,R
    1,R,J
    1,R

@@ -21,7 +21,6 @@ Read,D9A,Start,Post-Heart
 #54x
 
 #Post-Heart
-#1x
    2
   12,R,Z
    1,R,J
@@ -207,7 +206,7 @@ Read,D9A,9T1,Spinner cycle (f-06)
 Read,D9A,9T2,End_IGT
 #115x
 
-ChapterTime: 17:20.740(61220)
+ChapterTime: 17:20.723(61219)
 
 # optional waiting for
 # visuals to play out

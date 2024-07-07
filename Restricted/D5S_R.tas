@@ -1,4 +1,4 @@
-#5S 52x (R)
+#5S 51x (R)
 
 #console load 5 3992 224
 #play,Depths Warp,37
@@ -1139,20 +1139,33 @@ Add 58
   46
 
 #lvl_b-00 (1)
-#1x
+#0x
   36
-   5,R
-   1,R,J
-  14,R
-   1,R,J
-  10,R
+  10,J
+   1,L,J
+   2,J
+   1,K
+   2,J,G
+  25,R,J
    1,S,N
    1,D,J
   34
-  23,L,K
-  14,U,X
-  17,L,J
+   1,G
+   1,J,G
+   1,L
+   1,L,J
+   5,L,D
+   5,L,J
+   6,R,J
+   1,R,K,G
+   6,R,J,G
+   1,L,J
+   1,R,J
+   1,K
+   2,J,G
+  19,L,J
   12,K,G
+   7,J,G
   40
 
 #lvl_b-18
@@ -4436,4 +4449,4 @@ EndRepeat
    1,S
    1,D,J
   18
-FileTime: 12:59.144(45832)
+FileTime: 12:59.433(45849)

@@ -972,66 +972,121 @@ console load 4
    2,L,J
   10,R,J
   10,R,K,G
-   9,R,J,G
-   1,R,K,G
-  21,R
+   8,R,J,G
+  10,R,K,G
+  11,R
+   1,R,G
+  47,L,G
+   1,L,U,G
+   2,R,U,G
+   3,R,J,G
+  10,R
+   1,R,J
+   9,R
+   2,R,J
+   3
+   1,J
+   1
+   1,L,J
+   4
+   3,K,G
+   1,L
+   1
+   1,L
+   1
+   1,L
+   2
+   2,R
+  11,L,G
+   1,L,D,G
+   2,R,D,G
+   2,R,D
+   2,L
+   1,L,D
+   1
    1,G
    1,J
-   8,R,G
-  45,G
-  12,R,J,G
-  12,R,K,G
-   3,R
-   5,L,K,G
+   1,R
+   1,R,K,G
    1,J
-   1,R,J
    1,R,K,G
-  10,R
-   6,R,J
+   1,J
    1,R,K,G
+   1,J
+   9,R,K,G
+   1,R
    1,R,J,G
-  12,R
+   7,R
+   1
   40
 
 #b-02
-   8,R,J
-  16,R
-   2,R,J,G
-  10,R
-   6
-   3,R,J
-  19,R
+   2,R
+   6,R,J
+   1,R,K,G
+   1,R
+   1
+   3,R
+   1,R,J
+   2,J
+   2
+   1,R
+   1,R,J
+   6,R
    6,R,J,G
-  17,R
-   8,R,J
-  16,R
-   1,R,J
-  59,R,G
-   4,R,D
-  15,R
-   1,R,J
-  15,R
+  14,R,D
+   1,D
+   6,R,D
    1,R,J,G
-   5,R,K,G
    5,R
-   6,R,J,G
-  31,L,D,J,G
-   6,L
-   6,L,J
-  23,L
-   7,L,J,G
-  19,L
-   7,L,J
-   6,L
+   8,R,J
+   4,R
+   1,R,J
+   9,R
+   1,R,J
+   5,R
+   8,R,J,G
+   7,R
+   3,R,K
+   2,R,J
+  10,L,J
+   5,L
+  10,L,J
+  13,L
+   3,L,D
+   1,D
+   1,L,D
+   1,D
+   1,R,D
+   1,K,G
+  10
+   5,L
    1,L,J,G
-  14,L
-   8,L,J
-  23,L
+   1,L,K,G
+   5,L
+   1,L,J,G
+   5,L
+   5,L,J
+   5,L
+   1,R
+   2,J,G
+  10,L,J
+   5,L
+   2,L,J
+   1,L
+   2,L,J
+   8,L
    7,L,J
+   5,L
+   1,L,J
+  15,L,D
+   1,R,D
+   1,J
+   2,K,G
+   4,L,K
   15,L
-   1,L,J,G
-   2,L,K,G
-  21,L,D
+   5,L,J,G
+  23,L
    1,L,J
   14,L
    1,L,J
@@ -1543,7 +1598,9 @@ console load 4
   94,D
   16
    6,R
-  43,L,G
+   7
+  35,L,G
+   5,U,G
    3,L,J,G
    9,L
   12
@@ -1552,14 +1609,16 @@ console load 4
    6,R
   27
   10,J
-  60,L,G
-   6
+  55,L,G
+   4
+   2,L
    2,R,J
    9,R,K
   32,R,J,G
   11,L
   56,G
-  16
+  13
+   2,L
   15,R,J
    1,R,K
   12,R,J
@@ -3672,3 +3731,5 @@ console load 4
    1,S
    1,D,J
   18
+
+ChapterTime: 8:02.222(28366)

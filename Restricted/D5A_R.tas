@@ -166,7 +166,7 @@ console load 5
   17,R,D
   40
 
-#lvl_a-01
+#lvl_a-01 (0)
 #0x
    4,R,D
    1,R,J
@@ -190,7 +190,7 @@ console load 5
   81
   40
 
-#lvl_a-08
+#lvl_a-08 (0)
 #1x
   37
    1,R,J
@@ -242,7 +242,7 @@ console load 5
    1,L,J
   40
 
-#lvl_a-08
+#lvl_a-08 (1)
 #1x
   17,L
    1,L,J
@@ -267,7 +267,7 @@ console load 5
    6,L,D
   40
 
-#lvl_a-01
+#lvl_a-01 (1)
 #0x
    3,L,D
   26,D
@@ -297,94 +297,12 @@ console load 5
    1,R
    1
    1
+Repeat,23
    1,L,D
    1
    1,R,D
    1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   1
-   1,L,D
-   1
-   1,R,D
-   5
+EndRepeat
    9,R
    1,R,J
    1,R,K,G
@@ -467,7 +385,6 @@ console load 5
 
 #lvl_b-01
 #0x
-#beginning of the end
    1,R
    7,R
   12,R,D,J
@@ -664,15 +581,13 @@ EndRepeat
    2,R
    1,R,K,G
    5,R,J,G
-  27,R
-  10,R,J,G
-   5,U,X
-   6,R,J
-   8,R
-   2,R,J
-   1,R
-   1,R,J
-  11,R,D
+  26,R,D
+   1,D
+   6,R,D
+  15,R,Z
+   3,R
+   3
+  11,J
   15,R,X
   50
    1,R,J,G
@@ -715,10 +630,9 @@ EndRepeat
    4,L,J
    6,R,J
    1,R,K,G
-  10,R
-   4,L
-   9,J,G
-  24,R
+  13,R
+   1,R,J
+  21,R
   15,R,X
  137
   40
@@ -774,34 +688,12 @@ EndRepeat
    1,L,K,G
    1,L,J,G
   14,L
+Repeat,7
    1,R
    1,D
    1,U
    1,L
-   1,R
-   1,D
-   1,U
-   1,L
-   1,R
-   1,D
-   1,U
-   1,L
-   1,R
-   1,D
-   1,U
-   1,L
-   1,R
-   1,D
-   1,U
-   1,L
-   1,R
-   1,D
-   1,U
-   1,L
-   1,R
-   1,D
-   1,U
-   1,L
+EndRepeat
    1,S
    1,D,J
   18
@@ -836,7 +728,12 @@ AnalogMode,Ignore
 
 #lvl_c-00
 #0x
- 191
+ 111
+   1,S
+   1,D
+   1,J,F,180
+SaveAndQuitReenter
+  36
    5,R
    3,R,J
   16,R,D
@@ -1836,7 +1733,7 @@ AnalogMode,Ignore
    8
   40
 
-#lvl_d-19b
+#lvl_d-19b (0)
 #0x
   19,D
   11,R,D
@@ -1899,7 +1796,7 @@ AnalogMode,Ignore
    8,J
   40
 
-#lvl_d-19b
+#lvl_d-19b (1)
 #0x
   12,L
    1,J,G
@@ -2679,4 +2576,4 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-ChapterTime: 5:47.310(20430)
+ChapterTime: 5:46.222(20366)

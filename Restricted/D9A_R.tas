@@ -1,4 +1,4 @@
-#FAREWELL 186x (R)
+#FAREWELL 185x (R)
 
 console hearts 15
 Set,DashMode,Two
@@ -5871,7 +5871,7 @@ EndRepeat
    2,R
   40
 
-#RECONCILIATION 42x
+#RECONCILIATION 41x
 #lvl_j-00
 #2x
    3,R
@@ -6836,78 +6836,98 @@ EndRepeat
    1,R,U,G
    1,R
   35,R
-  44,R,D,G
-  18,R,U,G
+  45,R,D,G
+  17,R,U,G
    1,R,G
-   3,R,U,G
-   1,R,G
-  94,R,U,G
-   5,R,D,G
+ 105,R,U,G
+  15,R,D
+  13,L,U,X
+   6
    1,L
-  12,R
-  14,L,U,X
-   7
-   9,L,U,C
+  21,L,G
+   1,L,D
+  10,L,D,X
   12
-  40,R
-   8,R,D
+  17,L
+  32,L,G
+   4,G
+   1
+   1,R,G
+   1,J,G
+   1,L,J
+   1,K
+   5,L,K
+   1,K
+   1,L,J
+   6,L,K
+ 123,L,U,K,G
+   2,L,D,G
    1,R
-   4,R,D
-   3,R
-   1,R,J
+   1,L
+   1,J,G
+   8,L
+  10,R,D
+   1,G
+   1,R,J,G
    1,R,K,G
    1,R,J,G
-   1,R,J
-   1
-  28,R,D,G
+   1,K,G
+   3
+   4,R
+   2
+   1,L
+   1,L,J
+   3,L
+   7,R,D
+   8,R,D,J
+   8,U,J,G
+   3,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,K,G
+   7,R
+  29,R,D,G
+   3,R,U,G
+   1,U,G
+  23,R,U,G
   40
 
 #lvl_j-12
-#1x
-   8,R,D,G
-  28,R,J,G
+#0x
+  19,R,U,G
+  16,R,D,G
+   1,R,G
+  13,R,D,J,G
+  35,R,D,K,G
+  15,R,D,G
+  16,R,U,G
+   1,R,D,G
+   6,R,U,G
+   1,R,G
+  21,R,U,G
+   1,U,G
+  15,R,U,G
+   2,R,D
    1,J,G
-   2,R,J,G
-   1,R,U,G
-   1,R,U,J,G
-  69,R,U,G
-   3,R,D,G
-   5,R
-   1,R,K,G
-   1,R,J,G
-   1,R
-   1
-   7,R
+   1,L,J
    1,R,J
-   1,R
-  41,R,D,G
-  18,R,U,G
-   1,R,G
- 145,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R
-  20,R,U,X
-  30,R,G
-   5,G
-   3,D
-   1,L,J,G
-   4,R,J
-   1,R
-   9,L
-   6,G
- 167,R,U,G
-  13,R,D,G
-  50,R,U,J,G
+  13,R,K,G
+  22,R,G
+   1,R,K,G
   17,R,D,G
-   5,R,D,J,G
-   5,R,J,G
+ 106,R,U,J,G
+  24,R,D,G
+  48,R,U,K,G
+  21,R,D,G
+  10,R,D,J,G
   33,R,U,K,G
    1,R,U,G
    2,R,U,K,G
   50,R,U,G
-   2,R,D,G
-   2,R,D
+   3,R,D,G
+   1,R,D
    1,G
    1,R,K,G
    4,L,K
@@ -7020,7 +7040,7 @@ AnalogMode,Precise
    9,D
    1,L
    8,R
- 111,R,U,G
+ 114,R,U,G
   18,R,D,G
    2,R,G
    2,R,J,G
@@ -7471,7 +7491,7 @@ AnalogMode,Precise
  182,F,0.6
   38
 #End_IGT
-ChapterTime: 17:22.202(61306)
+ChapterTime: 17:22.627(61331)
 
 # optional waiting for
 # visuals to play out
